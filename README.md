@@ -10,7 +10,7 @@
 
 - 삼성 소프트웨어 개발자 컨퍼런스(Samsung Software Developer Conference) [SSDC](https://www.soscon.net)
   - [SSDC 2021](https://www.youtube.com/playlist?list=PL3M6gp2cSCmDR6xhznxv8Cgh2JmrZIrcj) - 2022.11.17~18
-  - [SOSCON Russia 2021-Korean](https://www.youtube.com/playlist?list=PL3M6gp2cSCmCS6KRzG4SgREg-Vls9J4h0)
+  - [SOSCON 2020](https://youtu.be/jXNWEFoHRtk)
 
 - 삼성SDS 기술/개발자 컨퍼런스 [Techtonic](https://www.samsungsds.com/kr/event/techtonic2021.html)
   - [Techtonic 2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cVhLzgXCyWRDTXsA0Zd0EF) - 2021.11.23~24
@@ -136,7 +136,7 @@
 - 현대자동차그룹 개발자 컨퍼런스 [HMG Developer Conference](https://www.hmgdevcon.com)
   - [2021 HMG Developer Conference](https://www.youtube.com/playlist?list=PLN_IMWAFOA485KOJmZ172vAHUMVr_BrNj) - 2021.11.10~11
 
-- 카카오모빌리티 MEMO(https://nemo.kakaomobility.com)
+- 카카오모빌리티 [MEMO](https://nemo.kakaomobility.com)
   - NEXT MOBILITY: NEMO 2022 - [Stage 1](https://youtu.be/iUxZIjc2ijY) | [Stage 2](https://youtu.be/Txb5hJJ-BJY) | [Stage 3](https://youtu.be/alXucgk43ro) - 2022.02.10
 
 
