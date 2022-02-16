@@ -1,4 +1,10 @@
-# 국내 IT 및 개발자 컨퍼런스 (다시보기)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhibuz/dev-conf-replay%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+# 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
+
+⚡ 바로가기
+> [IT기업](#it기업) | [빅데이터](#빅데이터) | [인공지능](#인공지능) | [클라우드](#클라우드) | [Infra & DevOps](#infra--devops) | [모빌리티](#모빌리티) | [블록체인](#블록체인) | [게임](#게임) | [보안](#보안) | [프론트엔드](#프론트엔드) | [프로그래밍 언어](#프로그래밍-언어) | [오픈소스](#오픈소스) | [교육](#교육) | [기타](#기타)
+
 
 ## IT기업
 
