@@ -19,7 +19,7 @@
   - [REAL 2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW)
 
 - 네이버 개발자 컨퍼런스 [DEVIEW](https://deview.kr)
-  - [DEVIEW 2021](https://deview.kr/2021/sessions) - 201.11.24~26
+  - [DEVIEW 2021](https://deview.kr/2021/sessions) - 2021.11.24~26
   - [DEVIEW 2020](https://deview.kr/2020/sessions)
 
 - 카카오 [if Kakao](https://if.kakao.com/)
