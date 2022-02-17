@@ -184,6 +184,9 @@
   - [드로이드나이츠 2021](https://www.youtube.com/playlist?list=PLu8dnNjU2FmsROfv5pNAvhRiOFVN_EmnV)
   - [드로이드나이츠 2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy)
 
+- adiOS Korea
+  - [adiOS December](https://www.youtube.com/watch?v=hOEsIUa7-1M)
+  - [adiOS October](https://www.youtube.com/watch?v=VPoxaE7w7wk&list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9)
 
 ## 프론트엔드
 
