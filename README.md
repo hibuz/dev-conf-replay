@@ -9,7 +9,7 @@
 ## IT기업
 
 - 삼성 소프트웨어 개발자 컨퍼런스(Samsung Software Developer Conference) [SSDC](https://www.soscon.net)
-  - [SSDC 2021](https://www.youtube.com/playlist?list=PL3M6gp2cSCmDR6xhznxv8Cgh2JmrZIrcj) - 2022.11.17~18
+  - [SSDC 2021](https://www.youtube.com/playlist?list=PL3M6gp2cSCmDR6xhznxv8Cgh2JmrZIrcj) - 2021.11.17~18
   - [SOSCON 2020](https://youtu.be/jXNWEFoHRtk)
 
 - 삼성SDS 기술/개발자 컨퍼런스 [Techtonic](https://www.samsungsds.com/kr/event/techtonic2021.html)
