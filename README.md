@@ -241,6 +241,9 @@
 - 네이버 커넥트재단 [소프트웨어 교육 컨퍼런스](https://sef.connect.or.kr)
   - [SEF2021](https://www.edwith.org/sef2021/joinLectures/345759) - 2021.12.15~17
   - [SEF2020](https://www.edwith.org/sef2020/joinLectures/46274)
+  - [SEF2019](https://www.edwith.org/sef-2019/joinLectures/24506)
+  - [SEF2018](https://www.edwith.org/sef2018/joinLectures/19062)
+  - [SEF2017](https://www.edwith.org/sef2017/joinLectures/9957)
 
 - 이노베이션 아카데미 컨퍼런스 [INNO-CON](https://innocon.co.kr)
   - [INNO-CON ㅣ CHANGE THE WORLD WITH SOFTWARE](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4)
