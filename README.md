@@ -112,6 +112,10 @@
   - [AWS Community Day 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro)
   - [AWS Community Day Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
 
+- Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
+  - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C)
+
+
 - [한국 Azure 사용자 그룹](https://www.facebook.com/groups/krazure)
   - [GA2021KR Track B_Azure for Operation](https://www.youtube.com/playlist?list=PLFbmOoKZ852W46mj_eu4iTx_T9hxK_kzv)
   - [Global Azure 2021 Korea](https://www.youtube.com/playlist?list=PLFbmOoKZ852XZ41ODzJqlzB-8sq7VQt0j)
