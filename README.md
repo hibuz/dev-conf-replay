@@ -96,7 +96,7 @@
 - 전자신문 웨비나 전문방송 [allshowTV](https://www.allshowtv.com)
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
   - [제5회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8)
-
+  - [제4회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY)
 
 ## 클라우드
 
