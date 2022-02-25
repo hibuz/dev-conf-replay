@@ -119,7 +119,6 @@
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C)
 
-
 - [한국 Azure 사용자 그룹](https://www.facebook.com/groups/krazure)
   - [GA2021KR Track B_Azure for Operation](https://www.youtube.com/playlist?list=PLFbmOoKZ852W46mj_eu4iTx_T9hxK_kzv)
   - [Global Azure 2021 Korea](https://www.youtube.com/playlist?list=PLFbmOoKZ852XZ41ODzJqlzB-8sq7VQt0j)
@@ -145,7 +144,7 @@
   - [2021 HMG Developer Conference](https://www.youtube.com/playlist?list=PLN_IMWAFOA485KOJmZ172vAHUMVr_BrNj) - 2021.11.10~11
 
 - 카카오모빌리티 [MEMO](https://nemo.kakaomobility.com)
-  - NEXT MOBILITY: NEMO 2022 - [Stage 1](https://youtu.be/iUxZIjc2ijY) | [Stage 2](https://youtu.be/Txb5hJJ-BJY) | [Stage 3](https://youtu.be/alXucgk43ro) - 2022.02.10
+  - NEXT MOBILITY: NEMO 2022 - [키노트](https://youtu.be/95eU0G-8mBw) | [세션 1](https://youtu.be/rcisBZMZL5E) | [세션 2](https://youtu.be/SrZDrOm-Obg) | [세션 3](https://youtu.be/JcHECDC3z0s) - 2022.02.10
 
 
 ## 블록체인
