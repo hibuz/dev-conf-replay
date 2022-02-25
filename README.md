@@ -133,6 +133,7 @@
 
 - 오픈 인프라 커뮤니티 [OpenInfra Community Days Korea](https://openinfradays.kr)
   - [2021](https://openinfradays.kr/schedule/session) - 2021.12.07~09
+  - [2020](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rLLET-H1fS12OF0bBtOE-p)
 
 - 당근마켓
   - [SRE, SERVER 밋업](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg/playlists)
