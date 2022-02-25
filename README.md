@@ -48,7 +48,8 @@
   - [Simplicity 21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) 토스 디자인 컨퍼런스
 
 - SK ICT 테크 서밋 [SK ICT Tech Summit](https://www.skicttechsummit.com)
-  - [Tech Summit 2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQoVaaB-fpcHb153r2UCd31p&index=18)
+  - [Tech Summit 2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) - 2021.11.03~04
+  - [Tech Summit 2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58)
 
 - 티맥스 TmaxDay
   - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ)
