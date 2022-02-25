@@ -275,5 +275,5 @@
 
 ## 참고링크
 - https://github.com/brave-people/Dev-Event
-- https://zetawiki.com/wiki/2021_%EA%B5%AD%EB%82%B4_IT_%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4_%EC%9D%BC%EC%A0%95
+- https://zetawiki.com/wiki/2022_국내_IT_컨퍼런스_일정
 - https://fightingsean.tistory.com/15
