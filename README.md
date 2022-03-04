@@ -98,6 +98,9 @@
 - 모두의 연구소 [MODUCON](https://moducon.kr)
   - [MODUCON 2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbK2_b16p51BboDelpDaYlZ8)
 
+- Upstage
+  - [Upstage Talks🎙](https://www.youtube.com/playlist?list=PLkeKJYdfv8RLyrQ5WriBcKxMwjmc0c01T)
+
 - 솔트룩스 AI 컨퍼런스 [SAC](https://www.saltlux.com/company/readMore.do?ID=26093)
   - [SAC 2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l)
   - [SAC 2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l)
