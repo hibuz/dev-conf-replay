@@ -3,7 +3,7 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- [인공지능](#인공지능) > 전자신문 [AI·DATA Summit Korea 2022](https://youtu.be/O3wVpf-VkAg) - 2022-02-25
+- [인공지능](#인공지능) > 전자신문 [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022-02-25
 - [클라우드](#클라우드) > AWS Innovate 2022 - [AI/ML 특집](https://kr-resources.awscloud.com/aws-ai-and-machinelearning-innovate) - 2022.02.24
 - [인공지능](#인공지능) > 테크잼연구소 [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2022.02.10
 
@@ -106,7 +106,7 @@
   - [AI PLUS 2020](https://conf.est.ai/2020/movie.html)
 
 - 전자신문 웨비나 전문방송 [allshowTV](https://www.allshowtv.com)
-  - ✨ [AI·DATA Summit Korea 2022](https://youtu.be/O3wVpf-VkAg) - 2022-02-25
+  - ✨ [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022-02-25
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
   - [제5회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8)
   - [제4회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY)
