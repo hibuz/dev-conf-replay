@@ -211,8 +211,8 @@
 
 ## 모바일
 
-- GDG DevFest
-  - [I/O 2021 Extended](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX)
+- GDG [DevFest Korea](https://www.facebook.com/devfest.seoul.2019)
+  - [I/O 2021 Extended Korea](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX) | [Android](https://youtu.be/NIGV-NUf1pQ)
   - [Devfest Korea 2020](https://www.youtube.com/playlist?list=PLF_OUznA3RTSoRHlcIRg4KZYSFJ6rfGfm)
 
 - Droid Knights
