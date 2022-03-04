@@ -155,6 +155,11 @@
   - Kubernetes Community Day [KCD Korea 2021](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Mgj7OKf1SHjgAp2UQtey_I)
   - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN)
 
+- 전자신문
+  - [2022 클라우드 네이티브& 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX)
+
+- 조선비즈
+  - 스마트클라우드쇼2021 - [1일차](https://youtu.be/Y335QzGRz1U) | [2일차](https://youtu.be/Itk2Wy3oiKE)
 
 ## Infra & DevOps
 
@@ -287,7 +292,6 @@
 ## 기타
 
 - 전자신문
-  - [2022 클라우드 네이티브& 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX)
   - [SMART WORK KOREA SUMMIT 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KotSnS635wsz-U1dat3SkDa)
   - [코리아 RPA 그랜드 서밋 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX)
 
