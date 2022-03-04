@@ -301,7 +301,8 @@
 - [Agile Korea Conference](http://agilekorea.kr)
   - [AKC2021](https://www.youtube.com/playlist?list=PLqLyqFSqvAE4nquOU5p5-eeoxfkdZK5Th)
   - [AKC2020](https://www.youtube.com/playlist?list=PLqLyqFSqvAE5ZmYBRsAaHIwfCKRBRaYqy)
-
+- 한빛미디어
+  - [데브그라운드 2019](https://www.youtube.com/playlist?list=PLVsNizTWUw7HxXDshrgEr5eeHf2cqjtqA) | [데브그라운드 주니어 2019](https://www.youtube.com/playlist?list=PLVsNizTWUw7EOvb0_pJ94NZRnScD0jpzI)
 - 오키코리아 [OKKY](https://okky.kr)
   - [OKKYCON: 2021](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne) - 2021.03.06
   - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut)
