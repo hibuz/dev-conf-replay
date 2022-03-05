@@ -170,7 +170,7 @@
   - [2021](https://openinfradays.kr/schedule/session) - 2021.12.07~09
   - [2020](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rLLET-H1fS12OF0bBtOE-p)
 
-- KAFKA 한국 사용자 모임 KRU(https://www.facebook.com/groups/kafka.kru)
+- KAFKA 한국 사용자 모임 [KRU](https://www.facebook.com/groups/kafka.kru)
   - [Virtual Meetup 2021](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3E3_q6nY2_xM9jjHx0t7bw)
   - [Virtual Meetup 2020](https://www.youtube.com/playlist?list=PLUc8G1CJwNG2nJgOqRESbI64C0cWU9-nx)
   - [Kafka Conference Seoul 2019](https://www.youtube.com/playlist?list=PLUc8G1CJwNG2FWlGGkxvElrGc-DRiqIGy)
