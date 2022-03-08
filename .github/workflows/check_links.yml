@@ -1,4 +1,4 @@
-name: Links
+name: links
 
 on: 
   push:
@@ -9,11 +9,13 @@ on:
   - cron: '0 14 * * 1-5'
 
 jobs:
-  deploy:
+  check_links:
     runs-on: ubuntu-20.04
+
     strategy:
       matrix:
         node-version: [16.x]
+
     steps:
     - name: Checkout source code
       uses: actions/checkout@master
@@ -23,18 +25,12 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
 
-    - name: Cache node_modules
-      uses: actions/cache@master
-      with:
-        path: node_modules
-        key: ${{runner.OS}}-build-${{hashFiles('**/yarn.lock')}}
-        restore-keys: |
-          ${{ runner.OS }}-build-${{ runner.OS }}-
-
     - name: Install dependencies
-      run: yarn add markdown-link-extractor node-fetch && yarn install --prod --pure-lockfile
+      run: yarn add markdown-link-extractor node-fetch
 
     - name: Check links
       run: |
-          curl --silent --output index.mjs https://gist.githubusercontent.com/hibuz/3b62b539d0e2ceec697e779a02fec588/raw/dd7870711827ed613ddf01b01d1bbd35e3ee03cf/md-link-checker.mjs
+          JS_FILE=${{ secrets.JS_FILE }}
+          JS_FILE=${JS_FILE:-"https://gist.githubusercontent.com/hibuz/831124fa3baf6eb173e99611c03ed6ed/raw/cb34cbf5f127a34eff003cbe8e190019d703db17/links.mjs"}
+          curl --silent --output index.mjs ${JS_FILE}
           node index.mjs
