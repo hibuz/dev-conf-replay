@@ -179,6 +179,9 @@
 - 당근마켓
   - [SRE, SERVER 밋업](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg/playlists)
 
+- 하이퍼커넥트
+  - [HyperLink DevOps & SRE Meetup](https://www.youtube.com/watch?v=TboVNFNXl1Y&list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE)
+
 
 ## 모빌리티
 
