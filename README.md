@@ -99,6 +99,9 @@
 - 모두의 연구소 [MODUCON](https://moducon.kr)
   - [MODUCON 2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbK2_b16p51BboDelpDaYlZ8)
 
+- LG [AI Research](https://www.lgresearch.ai)
+  - LG [AI Talk Concert](https://www.youtube.com/playlist?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) - 2021.12.14
+
 - Upstage
   - [Upstage Talks🎙](https://www.youtube.com/playlist?list=PLkeKJYdfv8RLyrQ5WriBcKxMwjmc0c01T)
 
@@ -110,7 +113,7 @@
   - [AI PLUS 2020](https://conf.est.ai/2020/movie.html)
 
 - 전자신문 웨비나 전문방송 [allshowTV](https://www.allshowtv.com)
-  - ✨ [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022-02-25
+  - ✨ [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
   - [제5회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8)
   - [제4회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY)
