@@ -4,6 +4,7 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- [프로그래밍 언어](#프로그래밍-언어) > Flutter Korea [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
 - [Infra & DevOps](#infra--devops) > 하이퍼커넥트 [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
 - [인공지능](#인공지능) > 전자신문 [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
 - [클라우드](#클라우드) > AWS Innovate 2022 - [AI/ML 특집](https://kr-resources.awscloud.com/aws-ai-and-machinelearning-innovate) - 2022.02.24
@@ -271,6 +272,7 @@
   - [GDG Golang Korea 2020.05 온라인 밋업](https://www.youtube.com/playlist?list=PLxEDm5GRSh4OJPiKKv5PVKiDi6f80kyTS)
 
 - Flutter Korea
+  - ✨ [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
   - [Flutter Engage Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTRUeQzsqVg-DgH38ME96w4F)
   - [FlutterDay 2020 Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSmCR632XO0_cGVN7JjeMHg)
 
