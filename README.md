@@ -4,9 +4,9 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- [인공지능](#인공지능) > 전자신문 [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022-02-25
+- [Infra & DevOps](#infra--devops) > 하이퍼커넥트 [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
+- [인공지능](#인공지능) > 전자신문 [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
 - [클라우드](#클라우드) > AWS Innovate 2022 - [AI/ML 특집](https://kr-resources.awscloud.com/aws-ai-and-machinelearning-innovate) - 2022.02.24
-- [인공지능](#인공지능) > 테크잼연구소 [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2022.02.10
 
 ⚡ 바로가기
 > [IT기업](#it기업) | [빅데이터](#빅데이터) | [인공지능](#인공지능) | [클라우드](#클라우드) | [Infra & DevOps](#infra--devops) | [모빌리티](#모빌리티) | [블록체인](#블록체인) | [게임](#게임) | [보안](#보안) | [모바일](#모바일) | [프론트엔드](#프론트엔드) | [프로그래밍 언어](#프로그래밍-언어) | [오픈소스](#오픈소스) | [교육](#교육) | [기타](#기타)
@@ -116,7 +116,7 @@
   - [제4회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY)
 
 - IT조선 유튜브 채널 [테크잼연구소](https://www.youtube.com/c/TechCafe2013)
-  - ✨ [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2022.02.10
+  - [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2022.02.10
 
 ## 클라우드
 
@@ -180,7 +180,7 @@
   - [SRE, SERVER 밋업](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg/playlists)
 
 - 하이퍼커넥트
-  - [HyperLink DevOps & SRE Meetup](https://www.youtube.com/watch?v=3iohMQFUrBk&list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE)
+  - ✨ [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE)
 
 
 ## 모빌리티
