@@ -25,9 +25,10 @@
   - [Techtonic 2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fOXzt9mQfiH_wuRqh6JQFX)
   - [REAL 2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW)
 
-- 네이버 개발자 컨퍼런스 [DEVIEW](https://deview.kr)
+- 네이버 개발자 컨퍼런스 [DEVIEW](https://deview.kr) | [TECH CONCERT](https://techcon.naver.com)
   - [DEVIEW 2021](https://deview.kr/2021/sessions) - 2021.11.24~26
   - [DEVIEW 2020](https://deview.kr/2020/sessions)
+  - [NAVER TECH CONCERT 2020](https://tv.naver.com/v/15353556/list/629240) - 2020.08.19~20
 
 - 카카오 [if Kakao](https://if.kakao.com/)
   - [if(kakao) 2021](https://if.kakao.com) - 2021.11.16~18
