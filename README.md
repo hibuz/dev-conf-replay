@@ -306,6 +306,8 @@
 - 이노베이션 아카데미 컨퍼런스 [INNO-CON](https://innocon.co.kr)
   - [INNO-CON ㅣ CHANGE THE WORLD WITH SOFTWARE](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4)
 
+- [피로그래밍](https://pirogramming.com)
+  - [2022 겨울 피로컨퍼런스](https://www.youtube.com/playlist?list=PLslwDteUjPslzKLhryKb5IIaRg4fCz6Fw) - 2022.02.17~18
 
 ## 기타
 
