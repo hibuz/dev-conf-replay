@@ -98,11 +98,15 @@
   - ai.x2021 - [Infra](https://youtu.be/mlAlyWypKaM) | [Data](https://youtu.be/L0Dtb-MKIXU) | [Industrial](https://youtu.be/Hhq3mKm353Q) | [Biomedical](https://youtu.be/0LoGs0ZKNMc) | [Security](https://youtu.be/wlj9ak5MMjs) | [Fireside Chat](https://youtu.be/FzOPuBQ2pV0) | 적용사례 [#1](https://youtu.be/fOSUYBl14r4) [#2](https://youtu.be/Cp4fVzy420s) [#3](https://youtu.be/yegbapNrvS4)
   - [ai.x2020](https://www.youtube.com/playlist?list=PLSA9fbZw40Pbm-OEWbNBbEkGbrli151ch)
 
-- 모두의 연구소 [MODUCON](https://moducon.kr)
-  - [MODUCON 2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbK2_b16p51BboDelpDaYlZ8)
-
 - LG [AI Research](https://www.lgresearch.ai)
   - LG [AI Talk Concert](https://www.youtube.com/playlist?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) - 2021.12.14
+
+- 모두의 연구소 [MODUCON](https://moducon.kr)
+  - [MODUCON 2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbK2_b16p51BboDelpDaYlZ8) - 2021.12.04
+
+- 가짜연구소 [Pseudo Lab](https://www.facebook.com/groups/pseudolab)
+  - [제 2회 PseudoCon](https://www.youtube.com/playlist?list=PLyP9gclj-bv5ctl36Z-ysQO2U3TRzODDG) - 2021.05.21
+  - [PseudoCon 2020](https://www.youtube.com/playlist?list=PLyP9gclj-bv6Mn0XFJa1fiNppjGVaILp4)
 
 - Upstage
   - [Upstage Talks🎙](https://www.youtube.com/playlist?list=PLkeKJYdfv8RLyrQ5WriBcKxMwjmc0c01T)
