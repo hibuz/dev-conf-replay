@@ -176,8 +176,7 @@
 
 ## Infra & DevOps
 
-- 오픈 인프라 커뮤니티 [OpenInfra Community Days Korea](https://openinfradays.kr)
-  - [2021](https://openinfradays.kr/schedule/session) - 2021.12.07~09
+- 오픈 인프라 커뮤니티 [OpenInfra Community Days Korea]
   - [2020](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rLLET-H1fS12OF0bBtOE-p)
 
 - KAFKA 한국 사용자 모임 [KRU](https://www.facebook.com/groups/kafka.kru)
