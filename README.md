@@ -4,10 +4,9 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- [클라우드](#클라우드) > [AWS Builders 온라인 2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) - 2022.03.24
 - [프로그래밍 언어](#프로그래밍-언어) > Flutter Korea [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
 - [Infra & DevOps](#infra--devops) > 하이퍼커넥트 [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
-- [인공지능](#인공지능) > 전자신문 [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
-- [클라우드](#클라우드) > AWS Innovate 2022 - [AI/ML 특집](https://kr-resources.awscloud.com/aws-ai-and-machinelearning-innovate) - 2022.02.24
 
 ⚡ 바로가기
 > [IT기업](#it기업) | [빅데이터](#빅데이터) | [인공지능](#인공지능) | [클라우드](#클라우드) | [Infra & DevOps](#infra--devops) | [모빌리티](#모빌리티) | [블록체인](#블록체인) | [게임](#게임) | [보안](#보안) | [모바일](#모바일) | [프론트엔드](#프론트엔드) | [프로그래밍 언어](#프로그래밍-언어) | [오픈소스](#오픈소스) | [교육](#교육) | [기타](#기타)
@@ -119,7 +118,7 @@
   - [AI PLUS 2020](https://conf.est.ai/2020/movie.html)
 
 - 전자신문 웨비나 전문방송 [allshowTV](https://www.allshowtv.com)
-  - ✨ [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
+  - [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
   - [제5회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8)
   - [제4회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY)
@@ -145,8 +144,9 @@
 
   - [AWS Summit Online Korea 2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
   - [AWS Summit Online Korea 2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82)
-  - ✨ AWS Innovate 2022 - [AI/ML 특집](https://kr-resources.awscloud.com/aws-ai-and-machinelearning-innovate) - 2022.02.24
+  - AWS Innovate 2022 - [AI/ML 특집](https://kr-resources.awscloud.com/aws-ai-and-machinelearning-innovate) - 2022.02.24
   - AWS Innovate 2021 - [앱현대화 특집](https://www.youtube.com/playlist?list=PLORxAVAC5fUUFPs8yy-fvYwI6zYSD-by2) | [Data 특집](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB) | [AI/ML 특집](https://www.youtube.com/playlist?list=PLORxAVAC5fUWUC-lXkou_8oobUArafWE_)
+  - ✨ [AWS Builders 온라인 2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) - 2022.03.24
   - [AWS Builders 온라인 2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5)
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io/)
