@@ -5,6 +5,7 @@
 
 ✨ 신규영상
 - [클라우드](#클라우드) > [AWS Builders 온라인 2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) - 2022.03.24
+- [모바일](#모바일) > [adiOS 2022 Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7) - 2022.03.19
 - [프로그래밍 언어](#프로그래밍-언어) > Flutter Korea [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
 - [Infra & DevOps](#infra--devops) > 하이퍼커넥트 [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
 
@@ -245,8 +246,9 @@
   - [드로이드나이츠 2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy)
 
 - adiOS Korea
-  - [adiOS December](https://www.youtube.com/watch?v=hOEsIUa7-1M)
-  - [adiOS October](https://www.youtube.com/watch?v=VPoxaE7w7wk&list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9)
+  - ✨ [adiOS 2022 Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7) - 2022.03.19
+  - [adiOS 2021 Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M)
+  - [adiOS 2021 Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9)
 
 ## 프론트엔드
 
