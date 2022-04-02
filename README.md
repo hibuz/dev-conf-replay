@@ -9,6 +9,7 @@
 - [인공지능](#인공지능) > allshow TV > [제6회 AI 차세대 컨택센터 컨퍼런스 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) - 2022.03.25
 - [클라우드](#클라우드) > [AWS Builders 온라인 2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) - 2022.03.24
 - [모바일](#모바일) > [adiOS 2022 Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7) - 2022.03.19
+- [기타](#기타) > allshow TV > [스마트 제조혁신 & 디지털 트윈 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Komt4Au9L6Hy3fA4K4Enlze) - 2022.03.18
 - [프로그래밍 언어](#프로그래밍-언어) > Flutter Korea > [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
 - [Infra & DevOps](#infra--devops) > 하이퍼커넥트 > [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
 
@@ -121,7 +122,7 @@
 - ESTsoft [AI PLUS](https://conf.est.ai)
   - [AI PLUS 2020](https://conf.est.ai/2020/movie.html)
 
-- 전자신문 웨비나 전문방송 [allshowTV](https://www.allshowtv.com)
+- 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
   - ✨ [제6회 AI 차세대 컨택센터 컨퍼런스 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) - 2022.03.25
   - [제5회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8)
@@ -171,9 +172,6 @@
   - Kubernetes Community Day [KCD Korea 2021](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Mgj7OKf1SHjgAp2UQtey_I)
   - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN)
 
-- 전자신문
-  - [2022 클라우드 네이티브& 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX)
-
 - 조선비즈
   - 스마트클라우드쇼2021 - [1일차](https://youtu.be/Y335QzGRz1U) | [2일차](https://youtu.be/Itk2Wy3oiKE)
 
@@ -212,6 +210,7 @@
 
 - 테크M [TECH M](https://www.techm.kr/news/articleView.html?idxno=91681)
   - [테크B 콘퍼런스 2022](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2021.12.07
+
 
 ## 게임
 
@@ -253,6 +252,7 @@
   - [adiOS 2021 Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M)
   - [adiOS 2021 Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9)
 
+
 ## 프론트엔드
 
 - 프론트엔드 개발자 컨퍼런스 [FECONF](https://feconf.kr)
@@ -292,6 +292,7 @@
   - [한국 R 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLhTWL0svc2zy4FB-Dy1yrAaYLmrUjXrPg)
   - [Seoul R Meetup 2021](https://www.youtube.com/playlist?list=PLhTWL0svc2zyVdv-sgLQFs9SHtk31JMEJ)
 
+
 ## 오픈소스
 
 - [오픈소스 소프트웨어 통합지원센터](https://festival.oss.kr)
@@ -317,9 +318,12 @@
 - [피로그래밍](https://pirogramming.com)
   - [2022 겨울 피로컨퍼런스](https://www.youtube.com/playlist?list=PLslwDteUjPslzKLhryKb5IIaRg4fCz6Fw) - 2022.02.17~18
 
+
 ## 기타
 
-- 전자신문
+- 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
+  - ✨ [스마트 제조혁신 & 디지털 트윈 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Komt4Au9L6Hy3fA4K4Enlze) - 2022.03.18
+  - [2022 클라우드 네이티브& 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX) - 2022.01.21
   - [SMART WORK KOREA SUMMIT 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KotSnS635wsz-U1dat3SkDa)
   - [코리아 RPA 그랜드 서밋 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX)
 
