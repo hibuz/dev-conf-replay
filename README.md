@@ -6,6 +6,7 @@
 ✨ 신규영상
 - [IT기업](#it기업) > 3월 우아한테크세미나 - [실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍](https://www.youtube.com/watch?v=PvAlbOm9WN8&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.03.31
 - [기타](#기타) > 테크잼연구소 > [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://youtu.be/13JodWMYaaA) - 2022.03.30
+- [인공지능](#인공지능) > Deeplearning Playground 커뮤니티 > [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
 - [인공지능](#인공지능) > allshow TV > [제6회 AI 차세대 컨택센터 컨퍼런스 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) - 2022.03.25
 - [기타](#기타) > allshow TV > [디지털 트랜스포메이션(DX) & 엔터프라이즈 테크 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpbQr_bUOe9jdHSERpA240H) - 2022.03.25
 - [클라우드](#클라우드) > [AWS Builders 온라인 2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) - 2022.03.24
@@ -129,6 +130,9 @@
   - [제5회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8)
   - [제4회 AI 차세대 컨택센터 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY)
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
+
+- Deeplearning Playground 커뮤니티 
+  - ✨ [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
 
 
 ## 클라우드
