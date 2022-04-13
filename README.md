@@ -213,6 +213,9 @@
   - [UDC 2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) - 2021.09.01~02
   - [UDC 2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ)
 
+- 람다256 [Luniverse](https://luniverse.io/blog/?lang=ko)
+  - [2021 Luniverse Enterprise Partner’s Day](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn)
+
 - 테크M [TECH M](https://www.techm.kr/news/articleView.html?idxno=91681)
   - [테크B 콘퍼런스 2022](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2021.12.07
 
