@@ -4,6 +4,7 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- [블록체인](#블록체인) > 람다256 - [2022 Luniverse Web 3.0 for Green Universe](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
 - [IT기업](#it기업) > 3월 우아한테크세미나 - [실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍](https://www.youtube.com/watch?v=PvAlbOm9WN8&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.03.31
 - [기타](#기타) > 테크잼연구소 > [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos) - 2022.03.30
 - [인공지능](#인공지능) > Deeplearning Playground 커뮤니티 > [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
@@ -12,11 +13,9 @@
 - [클라우드](#클라우드) > [AWS Builders 온라인 2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) - 2022.03.24
 - [모바일](#모바일) > [adiOS 2022 Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7) - 2022.03.19
 - [기타](#기타) > allshow TV > [스마트 제조혁신 & 디지털 트윈 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Komt4Au9L6Hy3fA4K4Enlze) - 2022.03.18
-- [프로그래밍 언어](#프로그래밍-언어) > Flutter Korea > [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
-- [Infra & DevOps](#infra--devops) > 하이퍼커넥트 > [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
 
 ⚡ 바로가기
-> [IT기업](#it기업) | [빅데이터](#빅데이터) | [인공지능](#인공지능) | [클라우드](#클라우드) | [Infra & DevOps](#infra--devops) | [모빌리티](#모빌리티) | [블록체인](#블록체인) | [게임](#게임) | [보안](#보안) | [모바일](#모바일) | [프론트엔드](#프론트엔드) | [프로그래밍 언어](#프로그래밍-언어) | [오픈소스](#오픈소스) | [교육](#교육) | [기타](#기타)
+> [IT기업](#it기업) | [빅데이터](#빅데이터) | [인공지능](#인공지능) | [블록체인](#블록체인) | [클라우드](#클라우드) | [Infra & DevOps](#infra--devops) | [모빌리티](#모빌리티) | [게임](#게임) | [보안](#보안) | [모바일](#모바일) | [프론트엔드](#프론트엔드) | [프로그래밍 언어](#프로그래밍-언어) | [오픈소스](#오픈소스) | [교육](#교육) | [기타](#기타)
 
 
 ## IT기업
@@ -135,6 +134,20 @@
   - ✨ [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
 
 
+## 블록체인
+
+- 업비트 개발자 컨퍼런스(Upbit Developer Conference) [UDC](https://udc.upbit.com/)
+  - [UDC 2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) - 2021.09.01~02
+  - [UDC 2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ)
+
+- 람다256 [Luniverse](https://luniverse.io/blog/?lang=ko)
+  - ✨ [2022 Luniverse Web 3.0 for Green Universe](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
+  - [2021 Luniverse Enterprise Partner’s Day](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn)
+
+- 테크M [TECH M](https://www.techm.kr/news/articleView.html?idxno=91681)
+  - [테크B 콘퍼런스 2022](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2021.12.07
+
+
 ## 클라우드
 
 - 네이버 클라우드 플랫폼(NAVER Cloud Platform) [NCP](https://www.ncloud.com)
@@ -195,7 +208,7 @@
   - [SRE, SERVER 밋업](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg/playlists)
 
 - 하이퍼커넥트
-  - ✨ [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE)
+  - [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE)
 
 
 ## 모빌리티
@@ -205,19 +218,6 @@
 
 - 카카오모빌리티 [MEMO](https://nemo.kakaomobility.com)
   - NEXT MOBILITY: NEMO 2022 - [키노트](https://youtu.be/95eU0G-8mBw) | [세션 1](https://youtu.be/rcisBZMZL5E) | [세션 2](https://youtu.be/SrZDrOm-Obg) | [세션 3](https://youtu.be/JcHECDC3z0s) - 2022.02.10
-
-
-## 블록체인
-
-- 업비트 개발자 컨퍼런스(Upbit Developer Conference) [UDC](https://udc.upbit.com/)
-  - [UDC 2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) - 2021.09.01~02
-  - [UDC 2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ)
-
-- 람다256 [Luniverse](https://luniverse.io/blog/?lang=ko)
-  - [2021 Luniverse Enterprise Partner’s Day](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn)
-
-- 테크M [TECH M](https://www.techm.kr/news/articleView.html?idxno=91681)
-  - [테크B 콘퍼런스 2022](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2021.12.07
 
 
 ## 게임
@@ -289,7 +289,7 @@
   - [GDG Golang Korea 2020.05 온라인 밋업](https://www.youtube.com/playlist?list=PLxEDm5GRSh4OJPiKKv5PVKiDi6f80kyTS)
 
 - Flutter Korea
-  - ✨ [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
+  - [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
   - [Flutter Engage Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTRUeQzsqVg-DgH38ME96w4F)
   - [FlutterDay 2020 Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSmCR632XO0_cGVN7JjeMHg)
 
