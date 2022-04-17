@@ -4,15 +4,14 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- [블록체인](#블록체인) > 람다256 - [2022 Luniverse Web 3.0 for Green Universe](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
-- [IT기업](#it기업) > 3월 우아한테크세미나 - [실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍](https://www.youtube.com/watch?v=PvAlbOm9WN8&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.03.31
+- [블록체인](#블록체인) > 람다256 > [2022 Luniverse Web 3.0 for Green Universe](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
+- [IT기업](#it기업) > 우아한형제들 > [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
+- [IT기업](#it기업) > 3월 우아한테크세미나 > [실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍](https://www.youtube.com/watch?v=PvAlbOm9WN8&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.03.31
 - [기타](#기타) > 테크잼연구소 > [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos) - 2022.03.30
 - [인공지능](#인공지능) > Deeplearning Playground 커뮤니티 > [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
 - [인공지능](#인공지능) > allshow TV > [제6회 AI 차세대 컨택센터 컨퍼런스 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) - 2022.03.25
 - [기타](#기타) > allshow TV > [디지털 트랜스포메이션(DX) & 엔터프라이즈 테크 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpbQr_bUOe9jdHSERpA240H) - 2022.03.25
 - [클라우드](#클라우드) > [AWS Builders 온라인 2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) - 2022.03.24
-- [모바일](#모바일) > [adiOS 2022 Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7) - 2022.03.19
-- [기타](#기타) > allshow TV > [스마트 제조혁신 & 디지털 트윈 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Komt4Au9L6Hy3fA4K4Enlze) - 2022.03.18
 
 ⚡ 바로가기
 > [IT기업](#it기업) | [빅데이터](#빅데이터) | [인공지능](#인공지능) | [블록체인](#블록체인) | [클라우드](#클라우드) | [Infra & DevOps](#infra--devops) | [모빌리티](#모빌리티) | [게임](#게임) | [보안](#보안) | [모바일](#모바일) | [프론트엔드](#프론트엔드) | [프로그래밍 언어](#프로그래밍-언어) | [오픈소스](#오픈소스) | [교육](#교육) | [기타](#기타)
@@ -52,8 +51,8 @@
   - [Reveal2020](https://www.youtube.com/playlist?list=PLPEWOJIs9P6gZJU6aXPilU-kXHVXOPiNz)
 
 - 우아한형제들의 기술 컨퍼런스 [우아콘](https://woowacon.com)
-  - [우아콘2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) - 2021.11.17~19
-  - [우아콘2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U)
+  - ✨ [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
+  - 우아콘 [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) - 2021.11.17~19
   - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.03.31
 
 - 토스 개발자 컨퍼런스 [SLASH](https://toss.im/slash-21)
@@ -256,7 +255,7 @@
   - [드로이드나이츠 2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy)
 
 - adiOS Korea
-  - ✨ [adiOS 2022 Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7) - 2022.03.19
+  - [adiOS 2022 Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7) - 2022.03.19
   - [adiOS 2021 Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M)
   - [adiOS 2021 Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9)
 
@@ -331,7 +330,7 @@
 
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - ✨ [디지털 트랜스포메이션(DX) & 엔터프라이즈 테크 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpbQr_bUOe9jdHSERpA240H) - 2022.03.25
-  - ✨ [스마트 제조혁신 & 디지털 트윈 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Komt4Au9L6Hy3fA4K4Enlze) - 2022.03.18
+  - [스마트 제조혁신 & 디지털 트윈 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Komt4Au9L6Hy3fA4K4Enlze) - 2022.03.18
   - [2022 클라우드 네이티브& 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX) - 2022.01.21
   - [SMART WORK KOREA SUMMIT 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KotSnS635wsz-U1dat3SkDa)
   - [코리아 RPA 그랜드 서밋 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX)
