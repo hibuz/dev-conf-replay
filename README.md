@@ -5,6 +5,7 @@
 
 ✨ 신규영상
 -  [Infra & DevOps](#infra--devops) > KAFKA 한국 사용자 모임> [Virtual Meetup 2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g) - 2022.04.14
+- [IT기업](#it기업) > 라인 개발자 밋업 > [Armeria 아르메리아를 소개합니다](https://www.youtube.com/watch?v=jlKb61lHOOw&list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC&index=8) - 2022.04.15
 - [블록체인](#블록체인) > 람다256 > [2022 Luniverse Web 3.0 for Green Universe](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
 - [모바일](#모바일) > adiOS > [2022 Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH) - 2022.04.09
 - [클라우드](#클라우드) > AWS 한국 사용자 모임 > [AWSKRUG Deepracer Meetup](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) - 2022.04.05
@@ -38,9 +39,9 @@
   - [if(kakao) 2021](https://if.kakao.com) - 2021.11.16~18
   - [if(kakao) 2020](https://if.kakao.com/2020)
 
-- LINE [DEVELOPER DAY](https://linedevday.linecorp.com)
-  - [LINE DEVELOPER DAY 2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) - 2021.11.10~11
-  - [LINE DEVELOPER DAY 2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5)
+- 라인
+  - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) - 2021.11.10~11
+  - ✨ [개발자 밋업](https://www.youtube.com/playlist?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC) - 2022.04.15
 
 - NHN [FORWARD](https://forward.nhn.com)
   - [NHN FORWARD 2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) - 2021.12.14
