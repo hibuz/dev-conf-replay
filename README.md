@@ -15,7 +15,7 @@
 - 2022.04.01 - [IT기업](#it기업) > 우아한형제들 > [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg)
 - 2022.03.31 - [IT기업](#it기업) > 3월 우아한테크세미나 > [실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍](https://www.youtube.com/watch?v=PvAlbOm9WN8&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - 2022.03.30 - [기타](#기타) > 테크잼연구소 > [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos)
-
+- 2022.03.24 - [기타](#기타) > OKKY 3월 세미나 > [서비스 개발자로 커리어 전환하기](https://www.youtube.com/watch?v=OL0eRT32hFI&list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut&index=19)
 ⚡ 바로가기
 > [IT기업](#it기업) | [빅데이터](#빅데이터) | [인공지능](#인공지능) | [블록체인](#블록체인) | [클라우드](#클라우드) | [Infra & DevOps](#infra--devops) | [모빌리티](#모빌리티) | [게임](#게임) | [보안](#보안) | [모바일](#모바일) | [프론트엔드](#프론트엔드) | [프로그래밍 언어](#프로그래밍-언어) | [오픈소스](#오픈소스) | [교육](#교육) | [기타](#기타)
 
@@ -284,7 +284,7 @@
   - [SEF](https://sef.connect.or.kr) - [2019](https://www.edwith.org/sef-2019/joinLectures/24506) | [2020](https://www.edwith.org/sef2020/joinLectures/46274) | [2021](https://www.edwith.org/sef2021/joinLectures/345759) - 2021.12.15~17
 
 - 이노베이션 아카데미
-  - [INNO-CON](https://innocon.co.kr) [CHANGE THE WORLD WITH SOFTWARE](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4) - 2021.12.03
+  - [INNO-CON](https://innocon.co.kr) - [CHANGE THE WORLD WITH SOFTWARE](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4) - 2021.12.03
 
 - [피로그래밍](https://pirogramming.com)
   - [2022 겨울 피로컨퍼런스](https://www.youtube.com/playlist?list=PLslwDteUjPslzKLhryKb5IIaRg4fCz6Fw) - 2022.02.17~18
@@ -311,7 +311,7 @@
 
 - 오키코리아 [OKKY](https://okky.kr)
   - [OKKYCON: 2021](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne) - 2021.03.06
-  - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2022.03.24
+  - ✨ [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2022.03.24
 
 
 ## 참고링크
