@@ -4,7 +4,8 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- `2022.04.21` [IT기업](#it기업) > DEVOCEAN SK > [4월 Tech 세미나 - Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://www.youtube.com/watch?v=rL_sHQSJGa8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
+- `2022.04.26` [IT기업](#it기업) > NHN Cloud On > [On.3 Cloud, AI and Fashion](https://www.youtube.com/watch?v=-n_msgMPQ9A&list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa&index=1)
+- `2022.04.21` [IT기업](#it기업) > DEVOCEAN SK > [Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://www.youtube.com/watch?v=rL_sHQSJGa8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
 - `2022.04.20` [클라우드](#클라우드) > NCP 테크밋업 > [클라우드 엔지니어에게 클라우드를 묻다](https://www.youtube.com/watch?v=jE3Vgv_PpMk&list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK&index=1)
 - `2022.04.15` [IT기업](#it기업) > 라인 개발자 밋업 > [Armeria 아르메리아를 소개합니다](https://www.youtube.com/watch?v=jlKb61lHOOw&list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC&index=8)
 - `2022.04.14` [Infra & DevOps](#infra--devops) > KAFKA 한국 사용자 모임> [Virtual Meetup 2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g)
@@ -42,7 +43,8 @@
   - ✨ [개발자 밋업](https://www.youtube.com/playlist?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC) - 2022.04.15
 
 - NHN 
-  - [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) - 2021.12.14
+  - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) - 2021.12.14
+  - ✨ NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.04.26
 
 - 쿠팡
   - [Reveal](https://event.coupangcorp.com) - [2020](https://www.youtube.com/playlist?list=PLPEWOJIs9P6gZJU6aXPilU-kXHVXOPiNz) | [2021](https://www.youtube.com/playlist?list=PLPEWOJIs9P6jjpZqjLMt4GrwxjZ4xRaNp) - 2021.12.09
