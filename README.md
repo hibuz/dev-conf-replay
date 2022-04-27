@@ -4,18 +4,18 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- 2022.04.21 - [IT기업](#it기업) > DEVOCEAN SK > [4월 Tech 세미나 - Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://www.youtube.com/watch?v=rL_sHQSJGa8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
-- 2022.04.20 - [클라우드](#클라우드) > NCP 테크밋업 > [클라우드 엔지니어에게 클라우드를 묻다](https://www.youtube.com/watch?v=jE3Vgv_PpMk&list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK&index=1)
-- 2022.04.15 - [IT기업](#it기업) > 라인 개발자 밋업 > [Armeria 아르메리아를 소개합니다](https://www.youtube.com/watch?v=jlKb61lHOOw&list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC&index=8)
-- 2022.04.14 - [Infra & DevOps](#infra--devops) > KAFKA 한국 사용자 모임> [Virtual Meetup 2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g)
-- 2022.04.12 - [블록체인](#블록체인) > 람다256 > [2022 Luniverse Web 3.0 for Green Universe](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV)
-- 2022.04.09 - [모바일](#모바일) > adiOS > [2022 Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH)
-- 2022.04.07 - [클라우드](#클라우드) > NCP 웨비나[Talk&Talk] > 누구나 쉽게 이해할 수 있는 마이크로서비스 아키텍처(MSA) [#1편](https://www.youtube.com/watch?v=8d4h7K_Fq-0&list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr&index=7) | [#2편](https://youtu.be/cSTXHLSn8t4)
-- 2022.04.05 - [클라우드](#클라우드) > AWS 한국 사용자 모임 > [AWSKRUG Deepracer Meetup](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE)
-- 2022.04.01 - [IT기업](#it기업) > 우아한형제들 > [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg)
-- 2022.03.31 - [IT기업](#it기업) > 3월 우아한테크세미나 > [실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍](https://www.youtube.com/watch?v=PvAlbOm9WN8&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
-- 2022.03.30 - [기타](#기타) > 테크잼연구소 > [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos)
-- 2022.03.24 - [기타](#기타) > OKKY 3월 세미나 > [서비스 개발자로 커리어 전환하기](https://www.youtube.com/watch?v=OL0eRT32hFI&list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut&index=19)
+- `2022.04.21` [IT기업](#it기업) > DEVOCEAN SK > [4월 Tech 세미나 - Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://www.youtube.com/watch?v=rL_sHQSJGa8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
+- `2022.04.20` [클라우드](#클라우드) > NCP 테크밋업 > [클라우드 엔지니어에게 클라우드를 묻다](https://www.youtube.com/watch?v=jE3Vgv_PpMk&list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK&index=1)
+- `2022.04.15` [IT기업](#it기업) > 라인 개발자 밋업 > [Armeria 아르메리아를 소개합니다](https://www.youtube.com/watch?v=jlKb61lHOOw&list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC&index=8)
+- `2022.04.14` [Infra & DevOps](#infra--devops) > KAFKA 한국 사용자 모임> [Virtual Meetup 2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g)
+- `2022.04.12` [블록체인](#블록체인) > 람다256 > [2022 Luniverse Web 3.0 for Green Universe](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV)
+- `2022.04.09` [모바일](#모바일) > adiOS > [2022 Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH)
+- `2022.04.07` [클라우드](#클라우드) > NCP 웨비나[Talk&Talk] > 누구나 쉽게 이해할 수 있는 MSA [#1편](https://www.youtube.com/watch?v=8d4h7K_Fq-0&list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr&index=7) | [#2편](https://youtu.be/cSTXHLSn8t4)
+- `2022.04.05` [클라우드](#클라우드) > AWS 한국 사용자 모임 > [AWSKRUG Deepracer Meetup](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE)
+- `2022.04.01` [IT기업](#it기업) > 우아한형제들 > [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg)
+- `2022.03.31` [IT기업](#it기업) > 3월 우아한테크세미나 > [실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍](https://www.youtube.com/watch?v=PvAlbOm9WN8&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
+- `2022.03.30` [기타](#기타) > 테크잼연구소 > [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos)
+- `2022.03.24` [기타](#기타) > OKKY 3월 세미나 > [서비스 개발자로 커리어 전환하기](https://www.youtube.com/watch?v=OL0eRT32hFI&list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut&index=19)
 
 ⚡ 바로가기
 > [IT기업](#it기업) | [빅데이터](#빅데이터) | [인공지능](#인공지능) | [블록체인](#블록체인) | [클라우드](#클라우드) | [Infra & DevOps](#infra--devops) | [모빌리티](#모빌리티) | [게임](#게임) | [보안](#보안) | [모바일](#모바일) | [프론트엔드](#프론트엔드) | [프로그래밍 언어](#프로그래밍-언어) | [오픈소스](#오픈소스) | [교육](#교육) | [기타](#기타)
@@ -126,7 +126,7 @@
 - 람다256 
   - [Luniverse](https://luniverse.io/blog/?lang=ko) - [2021](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn) | ✨ [2022](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
 
-- 테크M [TECH M](https://www.techm.kr/news/articleView.html?idxno=91681)
+- [테크M](https://www.techm.kr/news/articleView.html?idxno=91681)
   - [테크B 콘퍼런스 2022](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2021.12.07
 
 
@@ -142,17 +142,15 @@
 - 메가존
   -  [디지털 다카포](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208) - [2022](https://www.youtube.com/playlist?list=PLxTkO33QtxTICeek2PbVPW_zbwZXV0hCe) - 2022.02.08
 
-- AWS [리소스 허브](https://kr-resources.awscloud.com/)
-  - AWS re:Invent [2021 - 한국어 트랙](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) - 2021.11.29
-  - AWS re:Invent re:Cap [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUXzLlNAXGA1HUG2HFgR5T_Q) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUX9IHNx3Zhzfq-cSF-F2H8I) - 2022.01.26
+- AWS [리소스 허브](https://kr-resources.awscloud.com)
+  - AWS re:Invent [2021 한국어 트랙](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | re:Cap [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUXzLlNAXGA1HUG2HFgR5T_Q) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUX9IHNx3Zhzfq-cSF-F2H8I) - 2022.01.26
 
   - AWS Summit Online Korea [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-) - 2021.05.11~12
   - AWS Innovate 2021 - [앱현대화 특집](https://www.youtube.com/playlist?list=PLORxAVAC5fUUFPs8yy-fvYwI6zYSD-by2) | [Data 특집](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB) | [AI/ML 특집](https://www.youtube.com/playlist?list=PLORxAVAC5fUWUC-lXkou_8oobUArafWE_) | 2022 - [AI/ML 특집](https://www.youtube.com/playlist?list=PLORxAVAC5fUVqyzPFUXdNnD8k1KYRDbwI) - 2022.02.24
   - AWS Builders 온라인 [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5) | [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) - 2022.03.24
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
-  - AWS Community Day [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) - 2021.10.23
-  - [AWS Community Day Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
+  - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) - 2021.10.23
   - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | ✨ [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) - 2022.04.05
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
@@ -164,7 +162,7 @@
 - [한국 Azure 사용자 그룹](https://www.facebook.com/groups/krazure)
   - [GAV2020KR](https://www.youtube.com/playlist?list=PLFbmOoKZ852WRZkFql8Gv1U-CNX_WRHen) | [Global Azure 2021 Korea](https://www.youtube.com/playlist?list=PLFbmOoKZ852XZ41ODzJqlzB-8sq7VQt0j) - 2021.04.24
 
-- [Kubernetes Korea Group](https://www.facebook.com/groups/k8skr/)
+- [Kubernetes Korea Group](https://www.facebook.com/groups/k8skr)
   - Kubernetes Community Day [KCD Korea 2021](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Mgj7OKf1SHjgAp2UQtey_I) - 2021.09.09
   - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN)
 
@@ -189,8 +187,8 @@
 
 ## 모빌리티
 
-- 현대자동차그룹 개발자 컨퍼런스 [HMG Developer Conference](https://www.hmgdevcon.com)
-  - [2021 HMG Developer Conference](https://www.youtube.com/playlist?list=PLN_IMWAFOA485KOJmZ172vAHUMVr_BrNj) - 2021.11.10~11
+- 현대자동차
+  - [HMG Developer Conference](https://www.hmgdevcon.com) - [2021](https://www.youtube.com/playlist?list=PLN_IMWAFOA485KOJmZ172vAHUMVr_BrNj) - 2021.11.10~11
 
 - 카카오모빌리티
   - [MEMO](https://nemo.kakaomobility.com) 2022 - [키노트](https://youtu.be/95eU0G-8mBw) | [세션 1](https://youtu.be/rcisBZMZL5E) | [세션 2](https://youtu.be/SrZDrOm-Obg) | [세션 3](https://youtu.be/JcHECDC3z0s) - 2022.02.10
@@ -216,7 +214,7 @@
 - 데일리시큐
   - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) - 2021.11.11
 
-- 코드엔진 [CodeEngn](https://codeengn.com/conference)
+- [코드엔진](https://codeengn.com/conference)
   - [2021 CodeEngn Conference 17](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) - 2021.07.05~06
 
 
