@@ -98,7 +98,7 @@
   - LG [AI Talk Concert](https://www.youtube.com/playlist?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) - 2021.12.14
 
 - 모두의 연구소
-  - [MODUCON](https://moducon.kr) - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbK2_b16p51BboDelpDaYlZ8) - 2021.12.04
+  - [MODUCON](https://moducon.kr) - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2021.12.04
 
 - 가짜연구소
   -  [Pseudo Lab](https://www.facebook.com/groups/pseudolab) - [PseudoCon 2020](https://www.youtube.com/playlist?list=PLyP9gclj-bv6Mn0XFJa1fiNppjGVaILp4) | [제 2회](https://www.youtube.com/playlist?list=PLyP9gclj-bv5ctl36Z-ysQO2U3TRzODDG) - 2021.05.21
