@@ -4,6 +4,7 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.04.28` [Infra & DevOps](#infra--devops) > HashiCorp > [HashiTalks 대한민국](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB)
 - `2022.04.27` [IT기업](#it기업) > 4월 우아한테크세미나 > [지속가능한 SW 개발을 위한 코드리뷰](https://www.youtube.com/watch?v=ssDMIcPBqUE&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2022.04.26` [IT기업](#it기업) > NHN Cloud On > [On.3 Cloud, AI and Fashion](https://www.youtube.com/watch?v=-n_msgMPQ9A&list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa&index=1)
 - `2022.04.21` [IT기업](#it기업) > DEVOCEAN SK > [Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://www.youtube.com/watch?v=rL_sHQSJGa8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
@@ -15,9 +16,6 @@
 - `2022.04.07` [클라우드](#클라우드) > NCP 웨비나[Talk&Talk] > 누구나 쉽게 이해할 수 있는 MSA [#1편](https://www.youtube.com/watch?v=8d4h7K_Fq-0&list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr&index=7) | [#2편](https://youtu.be/cSTXHLSn8t4)
 - `2022.04.05` [클라우드](#클라우드) > AWS 한국 사용자 모임 > [AWSKRUG Deepracer Meetup](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE)
 - `2022.04.01` [IT기업](#it기업) > 우아한형제들 > [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg)
-- `2022.03.31` [IT기업](#it기업) > 3월 우아한테크세미나 > [실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍](https://www.youtube.com/watch?v=PvAlbOm9WN8&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
-- `2022.03.30` [기타](#기타) > 테크잼연구소 > [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos)
-- `2022.03.24` [기타](#기타) > OKKY 3월 세미나 > [서비스 개발자로 커리어 전환하기](https://www.youtube.com/watch?v=OL0eRT32hFI&list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut&index=19)
 
 ⚡ 바로가기
 > [IT기업](#it기업) | [빅데이터](#빅데이터) | [인공지능](#인공지능) | [블록체인](#블록체인) | [클라우드](#클라우드) | [Infra & DevOps](#infra--devops) | [모빌리티](#모빌리티) | [게임](#게임) | [보안](#보안) | [모바일](#모바일) | [프론트엔드](#프론트엔드) | [프로그래밍 언어](#프로그래밍-언어) | [오픈소스](#오픈소스) | [교육](#교육) | [기타](#기타)
@@ -187,6 +185,9 @@
 - 하이퍼커넥트
   - [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
 
+- HashCorp
+  - ✨ HashiTalks [Korea 2022](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB) - 2022.04.28
+
 
 ## 모빌리티
 
@@ -302,7 +303,7 @@
   - [코리아 RPA 그랜드 서밋 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX)
 
 - IT조선 유튜브 채널 [테크잼연구소](https://www.youtube.com/c/TechCafe2013)
-  - ✨ [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos) - 2022.03.30
+  - [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos) - 2022.03.30
   - [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2022.02.10
 
 - Agile Korea
@@ -313,7 +314,7 @@
 
 - 오키코리아 [OKKY](https://okky.kr)
   - [OKKYCON: 2021](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne) - 2021.03.06
-  - ✨ [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2022.03.24
+  - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2022.03.24
 
 
 ## 참고링크
