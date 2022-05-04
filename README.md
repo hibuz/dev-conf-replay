@@ -1,24 +1,25 @@
+[![RSS](https://img.shields.io/badge/rss-F88900?logo=rss&logoColor=white)](https://github.com/hibuz/dev-conf-replay/commits/main.atom)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhibuz/dev-conf-replay%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Links](https://github.com/hibuz/dev-conf-replay/actions/workflows/check_links.yml/badge.svg)](https://github.com/hibuz/dev-conf-replay/actions/workflows/check_links.yml)
 
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
-✨ 신규영상
-- `2022.04.28` [Infra & DevOps](#infra--devops) > HashiCorp > [HashiTalks 대한민국](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB)
-- `2022.04.27` [IT기업](#it기업) > 4월 우아한테크세미나 > [지속가능한 SW 개발을 위한 코드리뷰](https://www.youtube.com/watch?v=ssDMIcPBqUE&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
-- `2022.04.26` [IT기업](#it기업) > NHN Cloud On > [On.3 Cloud, AI and Fashion](https://www.youtube.com/watch?v=-n_msgMPQ9A&list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa&index=1)
-- `2022.04.21` [IT기업](#it기업) > DEVOCEAN SK > [Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://www.youtube.com/watch?v=rL_sHQSJGa8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
-- `2022.04.20` [클라우드](#클라우드) > NCP 테크밋업 > [클라우드 엔지니어에게 클라우드를 묻다](https://www.youtube.com/watch?v=jE3Vgv_PpMk&list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK&index=1)
-- `2022.04.15` [IT기업](#it기업) > 라인 개발자 밋업 > [Armeria 아르메리아를 소개합니다](https://www.youtube.com/watch?v=jlKb61lHOOw&list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC&index=8)
-- `2022.04.14` [Infra & DevOps](#infra--devops) > KAFKA 한국 사용자 모임> [Virtual Meetup 2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g)
-- `2022.04.12` [블록체인](#블록체인) > 람다256 > [2022 Luniverse Web 3.0 for Green Universe](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV)
-- `2022.04.09` [모바일](#모바일) > adiOS > [2022 Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH)
-- `2022.04.07` [클라우드](#클라우드) > NCP 웨비나[Talk&Talk] > 누구나 쉽게 이해할 수 있는 MSA [#1편](https://www.youtube.com/watch?v=8d4h7K_Fq-0&list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr&index=7) | [#2편](https://youtu.be/cSTXHLSn8t4)
-- `2022.04.05` [클라우드](#클라우드) > AWS 한국 사용자 모임 > [AWSKRUG Deepracer Meetup](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE)
-- `2022.04.01` [IT기업](#it기업) > 우아한형제들 > [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg)
+✨ 신규영상 
+- `2022.04.28` [`인프라 & 데브옵스`](#인프라--데브옵스) > HashiCorp > [HashiTalks 대한민국](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB)
+- `2022.04.27` [`IT기업`](#it기업) > 4월 우아한테크세미나 > [지속가능한 SW 개발을 위한 코드리뷰](https://www.youtube.com/watch?v=ssDMIcPBqUE&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
+- `2022.04.26` [`IT기업`](#it기업) > NHN Cloud On > [On.3 Cloud, AI and Fashion](https://www.youtube.com/watch?v=-n_msgMPQ9A&list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa&index=1)
+- `2022.04.21` [`IT기업`](#it기업) > DEVOCEAN SK > [Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://www.youtube.com/watch?v=rL_sHQSJGa8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
+- `2022.04.20` [`클라우드`](#클라우드) > NCP 테크밋업 > [클라우드 엔지니어에게 클라우드를 묻다](https://www.youtube.com/watch?v=jE3Vgv_PpMk&list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK&index=1)
+- `2022.04.15` [`IT기업`](#it기업) > 라인 개발자 밋업 > [Armeria 아르메리아를 소개합니다](https://www.youtube.com/watch?v=jlKb61lHOOw&list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC&index=8)
+- `2022.04.14` [`인프라 & 데브옵스`](#인프라--데브옵스) > KAFKA 한국 사용자 모임 > [Virtual Meetup 2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g)
+- `2022.04.12` [`블록체인`](#블록체인) > 람다256 > [2022 Luniverse Web 3.0 for Green Universe](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV)
+- `2022.04.09` [`모바일`](#모바일) > adiOS > [2022 Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH)
+- `2022.04.07` [`클라우드`](#클라우드) > NCP 웨비나[Talk&Talk] > 누구나 쉽게 이해할 수 있는 MSA [#1편](https://www.youtube.com/watch?v=8d4h7K_Fq-0&list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr&index=7) | [#2편](https://youtu.be/cSTXHLSn8t4)
+- `2022.04.05` [`클라우드`](#클라우드) > AWS 한국 사용자 모임 > [AWSKRUG Deepracer Meetup](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE)
+- `2022.04.01` [`IT기업`](#it기업) > 우아한형제들 > [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg)
 
 ⚡ 바로가기
-> [IT기업](#it기업) | [빅데이터](#빅데이터) | [인공지능](#인공지능) | [블록체인](#블록체인) | [클라우드](#클라우드) | [Infra & DevOps](#infra--devops) | [모빌리티](#모빌리티) | [게임](#게임) | [보안](#보안) | [모바일](#모바일) | [프론트엔드](#프론트엔드) | [프로그래밍 언어](#프로그래밍-언어) | [오픈소스](#오픈소스) | [교육](#교육) | [기타](#기타)
+> [`IT기업`](#it기업) [`빅데이터`](#빅데이터) [`인공지능`](#인공지능) [`블록체인`](#블록체인) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드`](#프론트엔드) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
 
 
 ## IT기업
@@ -171,7 +172,7 @@
   - 스마트클라우드쇼2021 - [1일차](https://youtu.be/Y335QzGRz1U) | [2일차](https://youtu.be/Itk2Wy3oiKE) - 2021.09.28~29
 
 
-## Infra & DevOps
+## 인프라 & 데브옵스
 
 - 오픈 인프라 커뮤니티
   - OpenInfra Community Days Korea [2020](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rLLET-H1fS12OF0bBtOE-p) - 2020.11.19
