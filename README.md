@@ -4,7 +4,8 @@
 
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
-✨ 신규영상 
+✨ 신규영상
+- `2022.05.06` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷 개발자 커뮤니티 > [.NET Conf Mini 22.05](https://youtu.be/W95lo-337Q8)
 - `2022.04.28` [`인프라 & 데브옵스`](#인프라--데브옵스) > HashiCorp > [HashiTalks 대한민국](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB)
 - `2022.04.27` [`IT기업`](#it기업) > 4월 우아한테크세미나 > [지속가능한 SW 개발을 위한 코드리뷰](https://www.youtube.com/watch?v=ssDMIcPBqUE&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2022.04.26` [`IT기업`](#it기업) > NHN Cloud On > [On.3 Cloud, AI and Fashion](https://www.youtube.com/watch?v=-n_msgMPQ9A&list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa&index=1)
@@ -13,10 +14,6 @@
 - `2022.04.15` [`IT기업`](#it기업) > 라인 개발자 밋업 > [Armeria 아르메리아를 소개합니다](https://www.youtube.com/watch?v=jlKb61lHOOw&list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC&index=8)
 - `2022.04.14` [`인프라 & 데브옵스`](#인프라--데브옵스) > KAFKA 한국 사용자 모임 > [Virtual Meetup 2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g)
 - `2022.04.12` [`블록체인`](#블록체인) > 람다256 > [2022 Luniverse Web 3.0 for Green Universe](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV)
-- `2022.04.09` [`모바일`](#모바일) > adiOS > [2022 Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH)
-- `2022.04.07` [`클라우드`](#클라우드) > NCP 웨비나[Talk&Talk] > 누구나 쉽게 이해할 수 있는 MSA [#1편](https://www.youtube.com/watch?v=8d4h7K_Fq-0&list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr&index=7) | [#2편](https://youtu.be/cSTXHLSn8t4)
-- `2022.04.05` [`클라우드`](#클라우드) > AWS 한국 사용자 모임 > [AWSKRUG Deepracer Meetup](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE)
-- `2022.04.01` [`IT기업`](#it기업) > 우아한형제들 > [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`빅데이터`](#빅데이터) [`인공지능`](#인공지능) [`블록체인`](#블록체인) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드`](#프론트엔드) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
@@ -51,7 +48,7 @@
 
 - 배달의 민족
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) - 2021.11.17~19
-  - ✨ [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
+  - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.04.27
 
 - 토스
@@ -139,7 +136,7 @@
   - [2021 GAME X CONFERENCE](https://www.youtube.com/playlist?list=PLpywxIpxgxhHK1dGhSMCeebkNshm_Pvkz) - 2021.10.15
   - [Manufacturing on NAVER Cloud Platform (제조세미나)](https://www.youtube.com/playlist?list=PLpywxIpxgxhHkyuYUHEU2gTVbw1_hjxgd) - 2021.09.16
   - ✨ [테크밋업](https://www.youtube.com/playlist?list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK) - 2022.04.20
-  - ✨ [온라인 교육](https://www.youtube.com/playlist?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr) - 2022.04.07
+  - [온라인 교육](https://www.youtube.com/playlist?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr) - 2022.04.07
 
 - 메가존
   -  [디지털 다카포](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208) - [2022](https://www.youtube.com/playlist?list=PLxTkO33QtxTICeek2PbVPW_zbwZXV0hCe) - 2022.02.08
@@ -153,7 +150,7 @@
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) - 2021.10.23
-  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | ✨ [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) - 2022.04.05
+  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) - 2022.04.05
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
@@ -233,7 +230,7 @@
   - [2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy) | [2021](https://www.youtube.com/playlist?list=PLu8dnNjU2FmsROfv5pNAvhRiOFVN_EmnV) - 2021.09.25
 
 - adiOS Korea
-  - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9) | [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7) | ✨ [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH) - 2022.04.09
+  - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9) | [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7) | [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH) - 2022.04.09
 
 
 ## 프론트엔드
@@ -255,7 +252,8 @@
   - [SpringCamp 2019](https://www.youtube.com/playlist?list=PLdHtZnJh1KdaM0AfxPA7qGK1UuvhpvffL)
 
 - 닷넷 개발자 커뮤니티 [닷넷데브](https://www.dotnetconf.kr)
-  - [.NET Conf 2021 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOtgZYZ4d77HcyjhcQ9iW4z) | [2022](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPwyL4bR0vL4pwVDf321443) - 2022.02.17
+  - .NET Conf [2021](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOtgZYZ4d77HcyjhcQ9iW4z) | [2022 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPwyL4bR0vL4pwVDf321443) - 2022.02.17
+  - .NET Conf Mini [21.04](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMfdN1Q7rqFKa7ZWeW9O6k6) | [21.08](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOZVfHgT3IPQvk5uW2nzK3e) | ✨ [22.05](https://youtu.be/W95lo-337Q8) - 2022.05.06
 
 - Golang Korea
   - [GDG Golang Korea 2020.05 온라인 밋업](https://www.youtube.com/playlist?list=PLxEDm5GRSh4OJPiKKv5PVKiDi6f80kyTS)
