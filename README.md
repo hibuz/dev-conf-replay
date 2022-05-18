@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2022.05.06` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷 개발자 커뮤니티 > [.NET Conf Mini 22.05](https://youtu.be/W95lo-337Q8)
 - `2022.04.29` [`IT기업`](#it기업) > SK 데보션 테크 데이 > [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C)
+- `2022.04.28` [`기타`](#기타) > allshow TV > [2022 스마트 디지털 워크플레이스 이노베이션 컨퍼런스](https://www.youtube.com/playlist?list=PLumdCu9Q56Koxg5-QgDjFiTJXl0YCWS-G)
 - `2022.04.28` [`인프라 & 데브옵스`](#인프라--데브옵스) > HashiCorp > [HashiTalks 대한민국](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB)
 - `2022.04.27` [`IT기업`](#it기업) > 4월 우아한테크세미나 > [지속가능한 SW 개발을 위한 코드리뷰](https://www.youtube.com/watch?v=ssDMIcPBqUE&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2022.04.26` [`IT기업`](#it기업) > NHN Cloud On > [On.3 Cloud, AI and Fashion](https://www.youtube.com/watch?v=-n_msgMPQ9A&list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa&index=1)
@@ -298,7 +299,8 @@
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - [디지털 트랜스포메이션(DX) & 엔터프라이즈 테크 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpbQr_bUOe9jdHSERpA240H) - 2022.03.25
   - [스마트 제조혁신 & 디지털 트윈 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Komt4Au9L6Hy3fA4K4Enlze) - 2022.03.18
-  - [2022 클라우드 네이티브& 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX) - 2022.01.21
+  - [2022 클라우드 네이티브 & 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX) - 2022.01.21
+  - ✨ [2022 스마트 디지털 워크플레이스 이노베이션 컨퍼런스](https://www.youtube.com/playlist?list=PLumdCu9Q56Koxg5-QgDjFiTJXl0YCWS-G) - 2022.04.28
   - [SMART WORK KOREA SUMMIT 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KotSnS635wsz-U1dat3SkDa)
   - [코리아 RPA 그랜드 서밋 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX)
 
