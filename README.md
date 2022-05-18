@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2022.05.06` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷 개발자 커뮤니티 > [.NET Conf Mini 22.05](https://youtu.be/W95lo-337Q8)
 - `2022.04.29` [`IT기업`](#it기업) > SK 데보션 테크 데이 > [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C)
+- `2022.04.29` [`기타`](#기타) > allshow TV > [코리아 RPA 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqSqutlFHBGFfn4VlMqwAyC)
 - `2022.04.28` [`기타`](#기타) > allshow TV > [2022 스마트 디지털 워크플레이스 이노베이션 컨퍼런스](https://www.youtube.com/playlist?list=PLumdCu9Q56Koxg5-QgDjFiTJXl0YCWS-G)
 - `2022.04.28` [`인프라 & 데브옵스`](#인프라--데브옵스) > HashiCorp > [HashiTalks 대한민국](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB)
 - `2022.04.27` [`IT기업`](#it기업) > 4월 우아한테크세미나 > [지속가능한 SW 개발을 위한 코드리뷰](https://www.youtube.com/watch?v=ssDMIcPBqUE&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
@@ -302,7 +303,7 @@
   - [2022 클라우드 네이티브 & 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX) - 2022.01.21
   - ✨ [2022 스마트 디지털 워크플레이스 이노베이션 컨퍼런스](https://www.youtube.com/playlist?list=PLumdCu9Q56Koxg5-QgDjFiTJXl0YCWS-G) - 2022.04.28
   - [SMART WORK KOREA SUMMIT 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KotSnS635wsz-U1dat3SkDa)
-  - [코리아 RPA 그랜드 서밋 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX)
+  - 코리아 RPA 그랜드 서밋 - [2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX) | ✨ [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqSqutlFHBGFfn4VlMqwAyC) - 2022.04.29
 
 - IT조선 유튜브 채널 [테크잼연구소](https://www.youtube.com/c/TechCafe2013)
   - [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos) - 2022.03.30
