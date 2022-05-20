@@ -5,6 +5,7 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+-  `2022.05.18` [`프론트엔드 & JS`](#프론트엔드--js) > Nest.js Korea > [1st Meetup - Shall we Nest.js?](https://us02web.zoom.us/rec/share/QDb_SYnmCzHCYuhZiJAR7sZCd_fvO_3OYU_tlog56696v2QtLLnEhix4AaLg2TDs.8yb2mG6BE-Oyc1xs)
 - `2022.05.10` [`인공지능`](#인공지능) > 모두팝 > [AI+ 스마트팜](https://youtu.be/ud1Z46vyecY)
 - `2022.05.06` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷 개발자 커뮤니티 > [.NET Conf Mini 22.05](https://youtu.be/W95lo-337Q8)
 - `2022.05.03` [`기타`](#기타) > 카카오엔터프라이즈 > [AI 기반 물류 생태계 플랫폼 LaaS ON 2022](https://www.youtube.com/playlist?list=PLnmMQOipbsPG-Lz2JriQIsFJ60fOoG6ZB)
@@ -19,7 +20,7 @@
 - `2022.04.20` [`클라우드`](#클라우드) > NCP 테크밋업 > [클라우드 엔지니어에게 클라우드를 묻다](https://www.youtube.com/watch?v=jE3Vgv_PpMk&list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK&index=1)
 
 ⚡ 바로가기
-> [`IT기업`](#it기업) [`빅데이터`](#빅데이터) [`인공지능`](#인공지능) [`블록체인`](#블록체인) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드`](#프론트엔드) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
+> [`IT기업`](#it기업) [`빅데이터`](#빅데이터) [`인공지능`](#인공지능) [`블록체인`](#블록체인) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
 
 
 ## IT기업
@@ -239,13 +240,16 @@
   - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9) | [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7) | [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH) - 2022.04.09
 
 
-## 프론트엔드
+## 프론트엔드 & JS
 
 - 프론트엔드 개발자 컨퍼런스 
   - [FECONF](https://feconf.kr) 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6) | [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo) | [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) - 2021.10.30
 
 - 자바스크립트 컨퍼런스 
   - [JSConf Korea](https://jsconf.kr) - [2020 Home Edition](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm) - 2020.9.20
+
+- Nest.js Korea
+  - ✨ [1st Meetup - Shall we Nest.js?](https://us02web.zoom.us/rec/share/QDb_SYnmCzHCYuhZiJAR7sZCd_fvO_3OYU_tlog56696v2QtLLnEhix4AaLg2TDs.8yb2mG6BE-Oyc1xs) - 2022.05.18
 
 
 ## 프로그래밍 언어
