@@ -12,6 +12,7 @@
 - `2022.05.18` [`프론트엔드 & JS`](#프론트엔드--js) > Nest.js Korea > [1st Meetup - Shall we Nest.js?](https://us02web.zoom.us/rec/share/QDb_SYnmCzHCYuhZiJAR7sZCd_fvO_3OYU_tlog56696v2QtLLnEhix4AaLg2TDs.8yb2mG6BE-Oyc1xs)
 - `2022.05.10` [`인공지능`](#인공지능) > 모두팝 > [AI+ 스마트팜](https://youtu.be/ud1Z46vyecY)
 - `2022.05.06` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷 개발자 커뮤니티 > [.NET Conf Mini 22.05](https://youtu.be/W95lo-337Q8)
+- `2022.05.03` [`IT기업`](#it기업) > 네이버 > [NAVER Search Colloquium '22](https://tv.naver.com/v/26581332/list/785512)
 - `2022.05.03` [`기타`](#기타) > 카카오엔터프라이즈 > [AI 기반 물류 생태계 플랫폼 LaaS ON 2022](https://www.youtube.com/playlist?list=PLnmMQOipbsPG-Lz2JriQIsFJ60fOoG6ZB)
 
 ⚡ 바로가기
@@ -28,8 +29,9 @@
   - REAL - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) - 2021.09.08~09
 
 - 네이버
-  - [DEVIEW](https://deview.kr) - [2020](https://deview.kr/2020/sessions) | [2021](https://deview.kr/2021/sessions) - 2021.11.24~26
+  - [DEVIEW](https://deview.kr) - [2020](https://tv.naver.com/v/16968202/list/657024) | [2021](https://tv.naver.com/v/23700321/list/753227) - 2021.11.24~26
   - [TECH CONCERT](https://techcon.naver.com) - [2020](https://tv.naver.com/v/15353556/list/629240) - 2020.08.19~20
+  - [NAVER Search Colloquium](https://searchcolloquium.naver.com) - [2021](https://tv.naver.com/v/20307278/list/709884) | ✨ [2022](https://tv.naver.com/v/26581332/list/785512) - 2022.05.03
 
 - 카카오
   - [if(kakao)](https://if.kakao.com) - [2020](https://if.kakao.com/2020) | [2021](https://if.kakao.com) - 2021.11.16~18
