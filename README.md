@@ -5,6 +5,8 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+
+- `2022.05.26` [`기타`](#기타) > 디지털투데이 TV LIVE > [쿠버네티스에서 내 마이크로서비스로 트래픽을 라우팅 하는 방법](https://www.youtube.com/watch?v=VBiMvlSNoew&list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA&index=1)
 - `2022.05.18` [`클라우드`](#클라우드) > 오라클 > [20th Developer Meetup](https://www.youtube.com/watch?v=qstDGervMzg&list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29&index=32)
 - `2022.05.18` [`프론트엔드 & JS`](#프론트엔드--js) > Nest.js Korea > [1st Meetup - Shall we Nest.js?](https://us02web.zoom.us/rec/share/QDb_SYnmCzHCYuhZiJAR7sZCd_fvO_3OYU_tlog56696v2QtLLnEhix4AaLg2TDs.8yb2mG6BE-Oyc1xs)
 - `2022.05.10` [`인공지능`](#인공지능) > 모두팝 > [AI+ 스마트팜](https://youtu.be/ud1Z46vyecY)
@@ -308,6 +310,9 @@
   - [2022 스마트 디지털 워크플레이스 이노베이션 컨퍼런스](https://www.youtube.com/playlist?list=PLumdCu9Q56Koxg5-QgDjFiTJXl0YCWS-G) - 2022.04.28
   - [SMART WORK KOREA SUMMIT 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KotSnS635wsz-U1dat3SkDa)
   - 코리아 RPA 그랜드 서밋 - [2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX) | ✨ [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqSqutlFHBGFfn4VlMqwAyC) - 2022.04.29
+
+- 디지털투데이 [웨비나](http://www.digitaltoday.co.kr/bbs/list.html?table=bbs_27)
+  - ✨ [Digital Today TV Live](https://www.youtube.com/playlist?list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA) - 2022.05.26
 
 - IT조선 유튜브 채널 [테크잼연구소](https://www.youtube.com/c/TechCafe2013)
   - [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos) - 2022.03.30
