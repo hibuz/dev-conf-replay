@@ -5,19 +5,11 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
--  `2022.05.18` [`프론트엔드 & JS`](#프론트엔드--js) > Nest.js Korea > [1st Meetup - Shall we Nest.js?](https://us02web.zoom.us/rec/share/QDb_SYnmCzHCYuhZiJAR7sZCd_fvO_3OYU_tlog56696v2QtLLnEhix4AaLg2TDs.8yb2mG6BE-Oyc1xs)
+- `2022.05.18` [`클라우드`](#클라우드) > 오라클 > [20th Developer Meetup](https://www.youtube.com/watch?v=qstDGervMzg&list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29&index=32)
+- `2022.05.18` [`프론트엔드 & JS`](#프론트엔드--js) > Nest.js Korea > [1st Meetup - Shall we Nest.js?](https://us02web.zoom.us/rec/share/QDb_SYnmCzHCYuhZiJAR7sZCd_fvO_3OYU_tlog56696v2QtLLnEhix4AaLg2TDs.8yb2mG6BE-Oyc1xs)
 - `2022.05.10` [`인공지능`](#인공지능) > 모두팝 > [AI+ 스마트팜](https://youtu.be/ud1Z46vyecY)
 - `2022.05.06` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷 개발자 커뮤니티 > [.NET Conf Mini 22.05](https://youtu.be/W95lo-337Q8)
 - `2022.05.03` [`기타`](#기타) > 카카오엔터프라이즈 > [AI 기반 물류 생태계 플랫폼 LaaS ON 2022](https://www.youtube.com/playlist?list=PLnmMQOipbsPG-Lz2JriQIsFJ60fOoG6ZB)
-- `2022.04.29` [`IT기업`](#it기업) > SK 데보션 테크 데이 > [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C)
-- `2022.04.29` [`기타`](#기타) > allshow TV > [코리아 RPA 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqSqutlFHBGFfn4VlMqwAyC)
-- `2022.04.28` [`기타`](#기타) > allshow TV > [2022 스마트 디지털 워크플레이스 이노베이션 컨퍼런스](https://www.youtube.com/playlist?list=PLumdCu9Q56Koxg5-QgDjFiTJXl0YCWS-G)
-- `2022.04.28` [`인프라 & 데브옵스`](#인프라--데브옵스) > HashiCorp > [HashiTalks 대한민국](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB)
-- `2022.04.27` [`IT기업`](#it기업) > 4월 우아한테크세미나 > [지속가능한 SW 개발을 위한 코드리뷰](https://www.youtube.com/watch?v=ssDMIcPBqUE&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
-- `2022.04.26` [`IT기업`](#it기업) > NHN Cloud On > [On.3 Cloud, AI and Fashion](https://www.youtube.com/watch?v=-n_msgMPQ9A&list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa&index=1)
-- `2022.04.22` [`인공지능`](#인공지능) > allshow TV > [AI·DX Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Kpjjo1SW29u0XnT7JiMNMU0)
-- `2022.04.21` [`IT기업`](#it기업) > SK 데보션 테크 세미나 > [Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://www.youtube.com/watch?v=rL_sHQSJGa8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
-- `2022.04.20` [`클라우드`](#클라우드) > NCP 테크밋업 > [클라우드 엔지니어에게 클라우드를 묻다](https://www.youtube.com/watch?v=jE3Vgv_PpMk&list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK&index=1)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`빅데이터`](#빅데이터) [`인공지능`](#인공지능) [`블록체인`](#블록체인) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
@@ -45,7 +37,7 @@
 
 - NHN 
   - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) - 2021.12.14
-  - ✨ NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.04.26
+  - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.04.26
 
 - 쿠팡
   - [Reveal](https://event.coupangcorp.com) - [2020](https://www.youtube.com/playlist?list=PLPEWOJIs9P6gZJU6aXPilU-kXHVXOPiNz) | [2021](https://www.youtube.com/playlist?list=PLPEWOJIs9P6jjpZqjLMt4GrwxjZ4xRaNp) - 2021.12.09
@@ -53,7 +45,7 @@
 - 배달의 민족
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) - 2021.11.17~19
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
-  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.04.27
+  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.04.27
 
 - 토스
   - [SLASH](https://toss.im/slash-21) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2021.04.28~30
@@ -65,8 +57,8 @@
 
 - SK
   - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) - 2021.11.03~04
-  - ✨ 데보션(DEVOCEAN) 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) - 2022.04.29
-  - ✨ [데보션 테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2022.04.21
+  - 데보션(DEVOCEAN) 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) - 2022.04.29
+  - [데보션 테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2022.04.21
 
 - 티맥스
   - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) - 2020.12.09~10
@@ -116,7 +108,7 @@
 
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
-  - ✨ [AI·DX Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Kpjjo1SW29u0XnT7JiMNMU0) - 2022.04.22
+  - [AI·DX Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Kpjjo1SW29u0XnT7JiMNMU0) - 2022.04.22
   - AI 차세대 컨택센터 컨퍼런스 2021 [제4회](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY) | [제5회](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8) | 2022 [제6회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) - 2022.03.25
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
 
@@ -142,7 +134,7 @@
   - [NAVER Cloud Summit 2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhFb9wCdCuiiU6WcWzGFR6c5) - 2021.12.16~17
   - [2021 GAME X CONFERENCE](https://www.youtube.com/playlist?list=PLpywxIpxgxhHK1dGhSMCeebkNshm_Pvkz) - 2021.10.15
   - [Manufacturing on NAVER Cloud Platform (제조세미나)](https://www.youtube.com/playlist?list=PLpywxIpxgxhHkyuYUHEU2gTVbw1_hjxgd) - 2021.09.16
-  - ✨ [테크밋업](https://www.youtube.com/playlist?list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK) - 2022.04.20
+  - [테크밋업](https://www.youtube.com/playlist?list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK) - 2022.04.20
   - [온라인 교육](https://www.youtube.com/playlist?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr) - 2022.04.07
 
 - 메가존
@@ -158,6 +150,9 @@
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) - 2021.10.23
   - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) - 2022.04.05
+
+- 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
+  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.05.18
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
@@ -191,7 +186,7 @@
   - [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
 
 - HashCorp
-  - ✨ HashiTalks [Korea 2022](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB) - 2022.04.28
+  - HashiTalks [Korea 2022](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB) - 2022.04.28
 
 
 ## 모빌리티
@@ -310,7 +305,7 @@
   - [디지털 트랜스포메이션(DX) & 엔터프라이즈 테크 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpbQr_bUOe9jdHSERpA240H) - 2022.03.25
   - [스마트 제조혁신 & 디지털 트윈 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Komt4Au9L6Hy3fA4K4Enlze) - 2022.03.18
   - [2022 클라우드 네이티브 & 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX) - 2022.01.21
-  - ✨ [2022 스마트 디지털 워크플레이스 이노베이션 컨퍼런스](https://www.youtube.com/playlist?list=PLumdCu9Q56Koxg5-QgDjFiTJXl0YCWS-G) - 2022.04.28
+  - [2022 스마트 디지털 워크플레이스 이노베이션 컨퍼런스](https://www.youtube.com/playlist?list=PLumdCu9Q56Koxg5-QgDjFiTJXl0YCWS-G) - 2022.04.28
   - [SMART WORK KOREA SUMMIT 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KotSnS635wsz-U1dat3SkDa)
   - 코리아 RPA 그랜드 서밋 - [2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX) | ✨ [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqSqutlFHBGFfn4VlMqwAyC) - 2022.04.29
 
