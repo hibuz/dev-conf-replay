@@ -15,7 +15,7 @@
 - `2022.05.03` [`기타`](#기타) > 카카오엔터프라이즈 > [AI 기반 물류 생태계 플랫폼 LaaS ON 2022](https://www.youtube.com/playlist?list=PLnmMQOipbsPG-Lz2JriQIsFJ60fOoG6ZB)
 
 ⚡ 바로가기
-> [`IT기업`](#it기업) [`빅데이터`](#빅데이터) [`인공지능`](#인공지능) [`블록체인`](#블록체인) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
+> [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
 
 
 ## IT기업
@@ -67,21 +67,6 @@
   - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) - 2020.12.09~10
 
 
-## 빅데이터
-
-- 한국데이터산업진흥원 
-  - [데이터 그랜드 컨퍼런스](https://www.dqc.or.kr/grand_conference/event_overview) - [2020](https://www.youtube.com/playlist?list=PLimZR7g-UQN_UZCckMVWe52Ei8SKimY2o) | [2021](https://www.youtube.com/playlist?list=PLimZR7g-UQN8W9IUPqPl-e0yx-Z6nLzWH) - 2021.12.15
-
-- 데이터야놀자
-  - [데이터야놀자](https://datayanolja.kr) - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) - 2021.10.16
-
-- 빅데이터 연합동아리
-  - [보아즈 BOAZ](https://www.facebook.com/BOAZbigdata) 빅데이터 컨퍼런스 - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) - 2022.01.22
-
-- MLOps Korea
-  - [2021 MLOps KR 1st community](https://www.youtube.com/playlist?list=PLIuC6QlQQF0Pf-aM0tioYTjrnLzaJaGez) - 2021.06.05
-
-
 ## 인공지능
 
 - 네이버 
@@ -119,16 +104,19 @@
   - [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
 
 
-## 블록체인
+## 빅데이터
 
-- 업비트 
-  - [UDC](https://udc.upbit.com/) - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) - 2021.09.01~02
+- 한국데이터산업진흥원 
+  - [데이터 그랜드 컨퍼런스](https://www.dqc.or.kr/grand_conference/event_overview) - [2020](https://www.youtube.com/playlist?list=PLimZR7g-UQN_UZCckMVWe52Ei8SKimY2o) | [2021](https://www.youtube.com/playlist?list=PLimZR7g-UQN8W9IUPqPl-e0yx-Z6nLzWH) - 2021.12.15
 
-- 람다256 
-  - [Luniverse](https://luniverse.io/blog/?lang=ko) - [2021](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn) | [2022](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
+- 데이터야놀자
+  - [데이터야놀자](https://datayanolja.kr) - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) - 2021.10.16
 
-- [테크M](https://www.techm.kr/news/articleView.html?idxno=91681)
-  - [테크B 콘퍼런스 2022](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2021.12.07
+- 빅데이터 연합동아리
+  - [보아즈 BOAZ](https://www.facebook.com/BOAZbigdata) 빅데이터 컨퍼런스 - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) - 2022.01.22
+
+- MLOps Korea
+  - [2021 MLOps KR 1st community](https://www.youtube.com/playlist?list=PLIuC6QlQQF0Pf-aM0tioYTjrnLzaJaGez) - 2021.06.05
 
 
 ## 클라우드
@@ -190,6 +178,18 @@
 
 - HashCorp
   - HashiTalks [Korea 2022](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB) - 2022.04.28
+
+
+## 블록체인
+
+- 업비트 
+  - [UDC](https://udc.upbit.com/) - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) - 2021.09.01~02
+
+- 람다256 
+  - [Luniverse](https://luniverse.io/blog/?lang=ko) - [2021](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn) | [2022](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
+
+- [테크M](https://www.techm.kr/news/articleView.html?idxno=91681)
+  - [테크B 콘퍼런스 2022](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2021.12.07
 
 
 ## 모빌리티
