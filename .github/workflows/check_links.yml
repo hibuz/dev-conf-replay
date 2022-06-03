@@ -26,11 +26,11 @@ jobs:
         node-version: ${{ matrix.node-version }}
 
     - name: Install dependencies
-      run: yarn add markdown-link-extractor node-fetch
+      run: yarn add markdown-link-extractor axios
 
     - name: Check links
       run: |
           JS_FILE=${{ secrets.JS_FILE }}
-          JS_FILE=${JS_FILE:-"https://gist.githubusercontent.com/hibuz/831124fa3baf6eb173e99611c03ed6ed/raw/cb34cbf5f127a34eff003cbe8e190019d703db17/links.mjs"}
+          JS_FILE=${JS_FILE:-"https://gist.githubusercontent.com/hibuz/831124fa3baf6eb173e99611c03ed6ed/raw/476d7e1f65e19f35f318a536420568c05a400e66/links.mjs"}
           curl --silent --output index.mjs ${JS_FILE}
           node index.mjs
