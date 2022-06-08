@@ -5,7 +5,8 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- `2022.06.08` [`IT기업`](#it기업) > 토스 개발자 컨퍼런스 > [SLASH 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
+- `2022.06.08~10` [`게임`](#게임) > 넥슨 개발자 컨퍼런스 > [NDC22](https://ndc.nexon.com/session/sessionDay1)
+- `2022.06.08~10` [`IT기업`](#it기업) > 토스 개발자 컨퍼런스 > [SLASH 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
 - `2022.05.31` [`IT기업`](#it기업) > DEVOCEAN SK > [5월 Tech 세미나 Special - 좋은 개발자로 성장하려면 + Tech Talk & Talk](https://www.youtube.com/watch?v=oM3Wd3WWIe8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
 - `2022.05.26` [`기타`](#기타) > 디지털투데이 TV LIVE > [쿠버네티스에서 내 마이크로서비스로 트래픽을 라우팅 하는 방법](https://www.youtube.com/watch?v=VBiMvlSNoew&list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA&index=1)
 - `2022.05.18` [`클라우드`](#클라우드) > 오라클 > [20th Developer Meetup](https://www.youtube.com/watch?v=qstDGervMzg&list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29&index=32)
@@ -203,7 +204,7 @@
 ## 게임
 
 - 넥슨
-  -  [NDC21](https://ndc.nexon.com) - [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwN5eLnujfsgX56oGNZYz070) | [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwOp_S0nGOF1FfFchvqAx7aN) | [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPd5kws2Vy2Jtf3a8B8KpPv) - 2021.06.07~10
+  -  [NDC](https://ndc.nexon.com) - [2021](http://ndcreplay.nexon.com/#c=NDC2021) | ✨ [22](https://ndc.nexon.com/session/sessionDay1) - 2022.06.08~10
 
 - [유니티테크놀로지스코리아](http://www.unitysquare.co.kr/event/uniteseoul2020)
   - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) -  2020.12.01~03
