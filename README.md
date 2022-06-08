@@ -9,6 +9,7 @@
 - `2022.06.08~10` [`IT기업`](#it기업) > 토스 개발자 컨퍼런스 > [SLASH 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
 - `2022.05.31` [`IT기업`](#it기업) > DEVOCEAN SK > [5월 Tech 세미나 Special - 좋은 개발자로 성장하려면 + Tech Talk & Talk](https://www.youtube.com/watch?v=oM3Wd3WWIe8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
 - `2022.05.26` [`기타`](#기타) > 디지털투데이 TV LIVE > [쿠버네티스에서 내 마이크로서비스로 트래픽을 라우팅 하는 방법](https://www.youtube.com/watch?v=VBiMvlSNoew&list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA&index=1)
+- `2022.05.24` [`클라우드`](#클라우드) > AWS 한국 사용자 모임 > [보안 소모임 온라인 밋업](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx)
 - `2022.05.18` [`클라우드`](#클라우드) > 오라클 > [20th Developer Meetup](https://www.youtube.com/watch?v=qstDGervMzg&list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29&index=32)
 - `2022.05.18` [`프론트엔드 & JS`](#프론트엔드--js) > Nest.js Korea > [1st Meetup - Shall we Nest.js?](https://us02web.zoom.us/rec/share/QDb_SYnmCzHCYuhZiJAR7sZCd_fvO_3OYU_tlog56696v2QtLLnEhix4AaLg2TDs.8yb2mG6BE-Oyc1xs)
 - `2022.05.10` [`인공지능`](#인공지능) > 모두팝 > [AI+ 스마트팜](https://youtu.be/ud1Z46vyecY)
@@ -140,7 +141,7 @@
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) - 2021.10.23
-  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) - 2022.04.05
+  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | ✨ [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) - 2022.05.24
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.05.18
