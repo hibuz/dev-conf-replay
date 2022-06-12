@@ -5,6 +5,7 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+-  `2022.06.10` [`프로그래밍 언어`](#프로그래밍-언어) > 그린랩스 > [Clojure 2022 meetup+](https://youtu.be/BdSoNmWksuk)
 - `2022.06.08~10` [`게임`](#게임) > 넥슨 개발자 컨퍼런스 > [NDC22](https://ndc.nexon.com/session/sessionDay1)
 - `2022.06.08~10` [`IT기업`](#it기업) > 토스 개발자 컨퍼런스 > [SLASH 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
 - `2022.05.31` [`IT기업`](#it기업) > DEVOCEAN SK > [5월 Tech 세미나 Special - 좋은 개발자로 성장하려면 + Tech Talk & Talk](https://www.youtube.com/watch?v=oM3Wd3WWIe8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
@@ -270,6 +271,9 @@
 - Flutter Korea
   - [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
   - [Flutter Engage Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTRUeQzsqVg-DgH38ME96w4F) | [FlutterDay 2020 Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSmCR632XO0_cGVN7JjeMHg)
+
+- 그린랩스 송파 클로저
+  - ✨ Clojure [2022 meetup+](https://youtu.be/BdSoNmWksuk) - 2022.06.10
 
 - 코드스쿼드
   - [레츠스위프트](https://letswift.kr) - [2020 테크토크 Day](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER) - 2020.11.30~12.04
