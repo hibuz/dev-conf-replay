@@ -9,6 +9,7 @@
 - `2022.06.08~10` [`게임`](#게임) > 넥슨 개발자 컨퍼런스 > [NDC22](https://ndc.nexon.com/session/sessionDay1)
 - `2022.06.08~10` [`IT기업`](#it기업) > 토스 개발자 컨퍼런스 > [SLASH 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
 - `2022.05.31` [`IT기업`](#it기업) > DEVOCEAN SK > [5월 Tech 세미나 Special - 좋은 개발자로 성장하려면 + Tech Talk & Talk](https://www.youtube.com/watch?v=oM3Wd3WWIe8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
+- `2022.05.26` [`인공지능`](#인공지능) > 업스테이지 톡 > [미국 실리콘밸리 AI 스타트업의 일하는 방식 공유](https://youtu.be/Bsu8b5_Ozu8?list=PLkeKJYdfv8RKPlYhfvsZe2_ugniN2JogS)
 - `2022.05.26` [`기타`](#기타) > OKKY 5월 세미나 > [실전 MSA 경험 공유](https://www.youtube.com/watch?v=itF0zhFJSFM&list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut&index=19)
 - `2022.05.26` [`기타`](#기타) > 디지털투데이 TV LIVE > [쿠버네티스에서 내 마이크로서비스로 트래픽을 라우팅 하는 방법](https://www.youtube.com/watch?v=VBiMvlSNoew&list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA&index=1)
 - `2022.05.24` [`클라우드`](#클라우드) > AWS 한국 사용자 모임 > [보안 소모임 온라인 밋업](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx)
@@ -88,7 +89,8 @@
   -  [Pseudo Lab](https://www.facebook.com/groups/pseudolab) - [PseudoCon 2020](https://www.youtube.com/playlist?list=PLyP9gclj-bv6Mn0XFJa1fiNppjGVaILp4) | [제 2회](https://www.youtube.com/playlist?list=PLyP9gclj-bv5ctl36Z-ysQO2U3TRzODDG) - 2021.05.21
 
 - 업스테이지
-  - [Upstage Talks🎙](https://www.youtube.com/playlist?list=PLkeKJYdfv8RLyrQ5WriBcKxMwjmc0c01T) - 2021.12.16
+  - [🖥 Tech Talks](https://www.youtube.com/playlist?list=PLkeKJYdfv8RLyrQ5WriBcKxMwjmc0c01T) - 2022.03.04
+  - ✨ [💡Insight Talks](https://www.youtube.com/playlist?list=PLkeKJYdfv8RKPlYhfvsZe2_ugniN2JogS) - 2022.05.26
 
 - 솔트룩스
   - [SAC](https://www.saltlux.com/company/readMore.do?ID=26093) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) - 2021.10.29
