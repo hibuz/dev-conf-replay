@@ -208,8 +208,8 @@
 - 넥슨
   -  [NDC](https://ndc.nexon.com) - [2021](http://ndcreplay.nexon.com/#c=NDC2021) | ✨ [22](https://ndc.nexon.com/session/sessionDay1) - 2022.06.08~10
 
-- [유니티테크놀로지스코리아](http://www.unitysquare.co.kr/event/uniteseoul2020)
-  - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) -  2020.12.01~03
+- 유니티 코리아
+  - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [Unity Wave 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uskscz6NE7X7KjihUic7YtU) - 2022.05.09~13
 
 
 ## 보안
