@@ -13,8 +13,6 @@
 - `2022.05.26` [`기타`](#기타) > OKKY 5월 세미나 > [실전 MSA 경험 공유](https://www.youtube.com/watch?v=itF0zhFJSFM&list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut&index=19)
 - `2022.05.26` [`기타`](#기타) > 디지털투데이 TV LIVE > [쿠버네티스에서 내 마이크로서비스로 트래픽을 라우팅 하는 방법](https://www.youtube.com/watch?v=VBiMvlSNoew&list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA&index=1)
 - `2022.05.24` [`클라우드`](#클라우드) > AWS 한국 사용자 모임 > [보안 소모임 온라인 밋업](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx)
-- `2022.05.18` [`클라우드`](#클라우드) > 오라클 > [20th Developer Meetup](https://www.youtube.com/watch?v=qstDGervMzg&list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29&index=32)
-- `2022.05.18` [`프론트엔드 & JS`](#프론트엔드--js) > Nest.js Korea > [1st Meetup - Shall we Nest.js?](https://us02web.zoom.us/rec/share/QDb_SYnmCzHCYuhZiJAR7sZCd_fvO_3OYU_tlog56696v2QtLLnEhix4AaLg2TDs.8yb2mG6BE-Oyc1xs)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
@@ -147,7 +145,7 @@
   - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | ✨ [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) - 2022.05.24
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
-  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.05.18
+  - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.05.18
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
@@ -245,13 +243,13 @@
 ## 프론트엔드 & JS
 
 - 프론트엔드 개발자 컨퍼런스 
-  - [FECONF](https://feconf.kr) 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6) | [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo) | [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) - 2021.10.30
+  - FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6) | [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo) | [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) - 2021.10.30
 
 - 자바스크립트 컨퍼런스 
   - [JSConf Korea](https://jsconf.kr) - [2020 Home Edition](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm) - 2020.9.20
 
 - Nest.js Korea
-  - ✨ [1st Meetup - Shall we Nest.js?](https://us02web.zoom.us/rec/share/QDb_SYnmCzHCYuhZiJAR7sZCd_fvO_3OYU_tlog56696v2QtLLnEhix4AaLg2TDs.8yb2mG6BE-Oyc1xs) - 2022.05.18
+  - [1st Meetup - Shall we Nest.js?](https://us02web.zoom.us/rec/share/QDb_SYnmCzHCYuhZiJAR7sZCd_fvO_3OYU_tlog56696v2QtLLnEhix4AaLg2TDs.8yb2mG6BE-Oyc1xs) - 2022.05.18
 
 
 ## 프로그래밍 언어
@@ -267,8 +265,8 @@
   - .NET Conf [2021](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOtgZYZ4d77HcyjhcQ9iW4z) | [2022 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPwyL4bR0vL4pwVDf321443) - 2022.02.17
   - .NET Conf Mini [21.04](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMfdN1Q7rqFKa7ZWeW9O6k6) | [21.08](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOZVfHgT3IPQvk5uW2nzK3e) | [22.05](https://youtu.be/W95lo-337Q8) - 2022.05.06
 
-- Golang Korea
-  - [GDG Golang Korea 2020.05 온라인 밋업](https://www.youtube.com/playlist?list=PLxEDm5GRSh4OJPiKKv5PVKiDi6f80kyTS)
+- GDG Golang Korea
+  - [2020.05 온라인 밋업](https://www.youtube.com/playlist?list=PLxEDm5GRSh4OJPiKKv5PVKiDi6f80kyTS) | [2022.03 Go 1.18 릴리즈파티](https://www.youtube.com/playlist?list=PLxEDm5GRSh4P6aihX1DrNsV57r7bi0rZT) - 2022.03.31
 
 - Flutter Korea
   - [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
