@@ -5,6 +5,7 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.06.21` [`IT기업`](#it기업) > NHN Cloud On > [On.5 온라인 게임 개발도 쉽고 빠르게 - GameAnvil](https://youtu.be/Uv2a6fAU1xM?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
 -  `2022.06.10` [`프로그래밍 언어`](#프로그래밍-언어) > 그린랩스 > [Clojure 2022 meetup+](https://youtu.be/BdSoNmWksuk)
 - `2022.06.08~10` [`게임`](#게임) > 넥슨 개발자 컨퍼런스 > [NDC22](https://ndc.nexon.com/session/sessionDay1)
 - `2022.06.08~10` [`IT기업`](#it기업) > 토스 개발자 컨퍼런스 > [SLASH 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
@@ -12,7 +13,6 @@
 - `2022.05.26` [`인공지능`](#인공지능) > 업스테이지 톡 > [미국 실리콘밸리 AI 스타트업의 일하는 방식 공유](https://youtu.be/Bsu8b5_Ozu8?list=PLkeKJYdfv8RKPlYhfvsZe2_ugniN2JogS)
 - `2022.05.26` [`기타`](#기타) > OKKY 5월 세미나 > [실전 MSA 경험 공유](https://www.youtube.com/watch?v=itF0zhFJSFM&list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut&index=19)
 - `2022.05.26` [`기타`](#기타) > 디지털투데이 TV LIVE > [쿠버네티스에서 내 마이크로서비스로 트래픽을 라우팅 하는 방법](https://www.youtube.com/watch?v=VBiMvlSNoew&list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA&index=1)
-- `2022.05.24` [`클라우드`](#클라우드) > AWS 한국 사용자 모임 > [보안 소모임 온라인 밋업](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
@@ -41,7 +41,7 @@
 
 - NHN 
   - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) - 2021.12.14
-  - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.04.26
+  - ✨ NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.06.21
 
 - 쿠팡
   - [Reveal](https://event.coupangcorp.com) - [2020](https://www.youtube.com/playlist?list=PLPEWOJIs9P6gZJU6aXPilU-kXHVXOPiNz) | [2021](https://www.youtube.com/playlist?list=PLPEWOJIs9P6jjpZqjLMt4GrwxjZ4xRaNp) - 2021.12.09
@@ -142,7 +142,7 @@
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) - 2021.10.23
-  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | ✨ [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) - 2022.05.24
+  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) - 2022.05.24
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.05.18
