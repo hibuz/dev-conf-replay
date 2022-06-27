@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2022.06.21` [`IT기업`](#it기업) > NHN Cloud On > [On.5 온라인 게임 개발도 쉽고 빠르게 - GameAnvil](https://youtu.be/Uv2a6fAU1xM?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
+- `2022.06.20` [`모바일`](#모바일) > GDG Seoul > I/O Extended 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696) | [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395)
 - `2022.06.11` [`모바일`](#모바일) > GDG Android > [I/O Extended Korea Android 2022](https://youtu.be/1TsQ0buZUas)
 - `2022.06.10` [`프로그래밍 언어`](#프로그래밍-언어) > 그린랩스 > [Clojure 2022 meetup+](https://youtu.be/BdSoNmWksuk)
 - `2022.06.08~10` [`게임`](#게임) > 넥슨 개발자 컨퍼런스 > [NDC22](https://ndc.nexon.com/session/sessionDay1)
@@ -227,9 +228,10 @@
 
 ## 모바일
 
-- GDG [DevFest Korea](https://www.facebook.com/devfest.seoul.2019)
-  - [I/O 2021 Extended Korea](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX), Android [2021](https://youtu.be/NIGV-NUf1pQ) | ✨  [2022](https://youtu.be/1TsQ0buZUas) - 2022.06.11
-  - [Devfest Korea 2020](https://www.youtube.com/playlist?list=PLF_OUznA3RTSoRHlcIRg4KZYSFJ6rfGfm)
+- 구글 개발자 그룹(GDG)
+  - I/O Extended [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX), ✨ 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696) | [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
+  - I/O Extended Korea Android [2021](https://youtu.be/NIGV-NUf1pQ) | ✨ [2022](https://youtu.be/1TsQ0buZUas) - 2022.06.11
+  - [Devfest Korea](https://www.facebook.com/devfest.seoul.2019) - [2020](https://www.youtube.com/playlist?list=PLF_OUznA3RTSoRHlcIRg4KZYSFJ6rfGfm)
 
 - 드로이드나이츠
   - [2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy) | [2021](https://www.youtube.com/playlist?list=PLu8dnNjU2FmsROfv5pNAvhRiOFVN_EmnV) - 2021.09.25
