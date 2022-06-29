@@ -201,7 +201,7 @@
   - [HMG Developer Conference](https://www.hmgdevcon.com) - [2021](https://www.youtube.com/playlist?list=PLN_IMWAFOA485KOJmZ172vAHUMVr_BrNj) - 2021.11.10~11
 
 - 카카오모빌리티
-  - [MEMO](https://nemo.kakaomobility.com) 2022 - [키노트](https://youtu.be/95eU0G-8mBw) | [세션 1](https://youtu.be/rcisBZMZL5E) | [세션 2](https://youtu.be/SrZDrOm-Obg) | [세션 3](https://youtu.be/JcHECDC3z0s) - 2022.02.10
+  - [MEMO](https://nemo.kakaomobility.com) - [2022](https://www.youtube.com/playlist?list=PLAi6ak51pSz2O8W4VPsKsUQ_X4oVcvfz6) - 2022.02.10
 
 
 ## 게임
