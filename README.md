@@ -5,6 +5,7 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.06.29` [`IT기업`](#it기업) > 6월 우아한테크세미나 > [토크쇼] [프로덕트를 만드는 사람들-안 된다고 하지 말아요 개발자/디자이너/기획자 삼파전!](https://youtu.be/cdW77ljBggs?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2022.06.21` [`IT기업`](#it기업) > NHN Cloud On > [On.5 온라인 게임 개발도 쉽고 빠르게 - GameAnvil](https://youtu.be/Uv2a6fAU1xM?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
 - `2022.06.20` [`모바일`](#모바일) > GDG Seoul > I/O Extended 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696) | [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395)
 - `2022.06.11` [`모바일`](#모바일) > GDG Android > [I/O Extended Korea Android 2022](https://youtu.be/1TsQ0buZUas)
@@ -49,7 +50,7 @@
 - 배달의 민족
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) - 2021.11.17~19
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
-  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.04.27
+  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.06.29
 
 - 토스
   - ✨ [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
