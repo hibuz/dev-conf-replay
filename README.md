@@ -75,7 +75,7 @@
   - CLOVA [AI NOW](https://naver-ai-now.kr) - [2021](https://tv.naver.com/v/20386632/list/710578) - 2021.05.25
 
 - SK텔레콤 
-  - [ai.x 컨퍼런스](https://www.skt.ai/kr/ai_x/index.do) - [2020](https://www.youtube.com/playlist?list=PLSA9fbZw40Pbm-OEWbNBbEkGbrli151ch) | 2021 - [Infra](https://youtu.be/mlAlyWypKaM) | [Data](https://youtu.be/L0Dtb-MKIXU) | [Industrial](https://youtu.be/Hhq3mKm353Q) | [Biomedical](https://youtu.be/0LoGs0ZKNMc) | [Security](https://youtu.be/wlj9ak5MMjs) | [Fireside Chat](https://youtu.be/FzOPuBQ2pV0) | 적용사례 [#1](https://youtu.be/fOSUYBl14r4) [#2](https://youtu.be/Cp4fVzy420s) [#3](https://youtu.be/yegbapNrvS4) - 2021.09.15~16
+  - ai.x 컨퍼런스 - [2020](https://www.youtube.com/playlist?list=PLSA9fbZw40Pbm-OEWbNBbEkGbrli151ch) | 2021 - [Infra](https://youtu.be/mlAlyWypKaM) | [Data](https://youtu.be/L0Dtb-MKIXU) | [Industrial](https://youtu.be/Hhq3mKm353Q) | [Biomedical](https://youtu.be/0LoGs0ZKNMc) | [Security](https://youtu.be/wlj9ak5MMjs) | [Fireside Chat](https://youtu.be/FzOPuBQ2pV0) | 적용사례 [#1](https://youtu.be/fOSUYBl14r4) [#2](https://youtu.be/Cp4fVzy420s) [#3](https://youtu.be/yegbapNrvS4) - 2021.09.15~16
 
 - LG [AI Research](https://www.lgresearch.ai)
   - LG [AI Talk Concert](https://www.youtube.com/playlist?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) - 2021.12.14
