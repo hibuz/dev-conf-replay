@@ -6,14 +6,13 @@
 
 ✨ 신규영상
 - `2022.06.29` [`IT기업`](#it기업) > 6월 우아한테크세미나 > [토크쇼] [프로덕트를 만드는 사람들-안 된다고 하지 말아요 개발자/디자이너/기획자 삼파전!](https://youtu.be/cdW77ljBggs?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
+- `2022.06.22` [`인공지능`](#인공지능) > 솔트룩스 > [SAC 2022 - 경험, 동료 +진심ㅣ인공지능이 바꿀 비즈니스 메타버스 세계](https://youtu.be/D5fOutPofgk)
 - `2022.06.21` [`IT기업`](#it기업) > NHN Cloud On > [On.5 온라인 게임 개발도 쉽고 빠르게 - GameAnvil](https://youtu.be/Uv2a6fAU1xM?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
 - `2022.06.20` [`모바일`](#모바일) > GDG Seoul > I/O Extended 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696) | [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395)
 - `2022.06.11` [`모바일`](#모바일) > GDG Android > [I/O Extended Korea Android 2022](https://youtu.be/1TsQ0buZUas)
 - `2022.06.10` [`프로그래밍 언어`](#프로그래밍-언어) > 그린랩스 > [Clojure 2022 meetup+](https://youtu.be/BdSoNmWksuk)
 - `2022.06.08~10` [`게임`](#게임) > 넥슨 개발자 컨퍼런스 > [NDC22](https://ndc.nexon.com/session/sessionDay1)
 - `2022.06.08~10` [`IT기업`](#it기업) > 토스 개발자 컨퍼런스 > [SLASH 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
-- `2022.05.31` [`IT기업`](#it기업) > DEVOCEAN SK > [5월 Tech 세미나 Special - 좋은 개발자로 성장하려면 + Tech Talk & Talk](https://www.youtube.com/watch?v=oM3Wd3WWIe8&list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&index=1)
-- `2022.05.30` [`IT기업`](#it기업) > 5월 우아한테크세미나 > [토크쇼] [우아한형제들 개발자가 푸는, 공부하고 성장하는 노하우?!](https://www.youtube.com/watch?v=QutIXPbKWpw&list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&index=2)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
@@ -58,7 +57,7 @@
 
 - SK
   - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) - 2021.11.03~04
-  - ✨ [데보션 테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2022.05.31
+  - [데보션 테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2022.05.31
   - 데보션(DEVOCEAN) 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) - 2022.04.29
 
 - LG CNS
@@ -92,7 +91,7 @@
   - [💡Insight Talks](https://www.youtube.com/playlist?list=PLkeKJYdfv8RKPlYhfvsZe2_ugniN2JogS) - 2022.05.26
 
 - 솔트룩스
-  - [SAC](https://www.saltlux.com/company/readMore.do?ID=26093) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) - 2021.10.29
+  - [SAC](https://www.saltlux.com/company/readMore.do?ID=26093) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | ✨ [2022](https://youtu.be/D5fOutPofgk) - 2022.06.22
 
 - 이스트소프트
   - [AI PLUS](https://conf.est.ai) - [2020](https://conf.est.ai/2020/movie.html) - 2020.10.07
