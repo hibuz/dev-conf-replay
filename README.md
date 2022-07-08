@@ -5,6 +5,7 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.07.04` [`보안`](#보안) > 코드엔진 > [2022 CodeEngn Conference 18](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2)
 - `2022.06.29` [`기타`](#기타) > allshow TV > [AI Cyber Security Summit 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KoTyvg-1UEVQo-XXHfEnHr3)
 - `2022.06.29` [`IT기업`](#it기업) > 6월 우아한테크세미나 > [토크쇼] [프로덕트를 만드는 사람들-안 된다고 하지 말아요 개발자/디자이너/기획자 삼파전!](https://youtu.be/cdW77ljBggs?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2022.06.22` [`인공지능`](#인공지능) > 솔트룩스 > [SAC 2022 - 경험, 동료 +진심ㅣ인공지능이 바꿀 비즈니스 메타버스 세계](https://youtu.be/D5fOutPofgk)
@@ -222,7 +223,7 @@
   - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) - 2021.11.11
 
 - [코드엔진](https://codeengn.com/conference)
-  - [2021 CodeEngn Conference 17](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) - 2021.07.05~06
+  - CodeEngn Conference - [2021](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) | ✨ [2022](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2) - 2022.07.04
 
 
 ## 모바일
