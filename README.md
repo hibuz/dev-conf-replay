@@ -20,13 +20,6 @@
 
 ## IT기업
 
-- 삼성
-  - [SSDC](https://www.soscon.net) - [2020](https://youtu.be/jXNWEFoHRtk) | [2021](https://www.youtube.com/playlist?list=PL3M6gp2cSCmDR6xhznxv8Cgh2JmrZIrcj) - 2021.11.17~18
-
-- 삼성SDS
-  - [Techtonic](https://www.samsungsds.com/kr/event/techtonic2021.html) - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fOXzt9mQfiH_wuRqh6JQFX) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cVhLzgXCyWRDTXsA0Zd0EF) - 2021.11.23~24
-  - REAL - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) - 2021.09.08~09
-
 - 네이버
   - [DEVIEW](https://deview.kr) - [2020](https://tv.naver.com/v/16968202/list/657024) | [2021](https://tv.naver.com/v/23700321/list/753227) - 2021.11.24~26
   - [TECH CONCERT](https://techcon.naver.com) - [2020](https://tv.naver.com/v/15353556/list/629240) - 2020.08.19~20
@@ -38,10 +31,6 @@
 - 라인
   - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) - 2021.11.10~11
   - [개발자 밋업](https://www.youtube.com/playlist?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC) - 2022.04.15
-
-- NHN 
-  - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) - 2021.12.14
-  - ✨ NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.06.21
 
 - 쿠팡
   - [Reveal](https://event.coupangcorp.com) - [2020](https://www.youtube.com/playlist?list=PLPEWOJIs9P6gZJU6aXPilU-kXHVXOPiNz) | [2021](https://www.youtube.com/playlist?list=PLPEWOJIs9P6jjpZqjLMt4GrwxjZ4xRaNp) - 2021.12.09
@@ -55,6 +44,17 @@
   - ✨ [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
   - Simplicity(토스 디자인 컨퍼런스) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR)
 
+- NHN 
+  - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) - 2021.12.14
+  - ✨ NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.06.21
+
+- 삼성
+  - [SSDC](https://www.soscon.net) - [2020](https://youtu.be/jXNWEFoHRtk) | [2021](https://www.youtube.com/playlist?list=PL3M6gp2cSCmDR6xhznxv8Cgh2JmrZIrcj) - 2021.11.17~18
+
+- 삼성SDS
+  - [Techtonic](https://www.samsungsds.com/kr/event/techtonic2021.html) - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fOXzt9mQfiH_wuRqh6JQFX) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cVhLzgXCyWRDTXsA0Zd0EF) - 2021.11.23~24
+  - REAL - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) - 2021.09.08~09
+
 - SK
   - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) - 2021.11.03~04
   - [데보션 테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2022.05.31
@@ -63,9 +63,6 @@
 - LG CNS
   - [뉴 노멀시대에 필요한 Application Modernization](https://www.youtube.com/playlist?list=PLxcN3kbNdAoAYrRZjyfqp9Mv5Au2mJduT) | [CloudXper ProOps Launching Webinar](https://www.youtube.com/playlist?list=PLxcN3kbNdAoA8N1kDA9ur88spcxOAf-dg) | [Security Summit 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoBZhTTb_X_-xZfNGsss2hle) | [Entrue SMART DX 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoDeRx9vqmpJRPJsASECi8qw)
   - [AI Day 2020](https://www.youtube.com/playlist?list=PLxcN3kbNdAoBte9-xyUhS43tWPbiBubah)
-
-- 티맥스
-  - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) - 2020.12.09~10
 
 
 ## 인공지능
@@ -206,7 +203,7 @@
 ## 게임
 
 - 넥슨
-  -  [NDC](https://ndc.nexon.com) - [2021](http://ndcreplay.nexon.com/#c=NDC2021) | ✨ [22](https://ndc.nexon.com/session/sessionDay1) - 2022.06.08~10
+  - [NDC](https://ndc.nexon.com) - [2021](http://ndcreplay.nexon.com/#c=NDC2021) | ✨ [22](https://ndc.nexon.com/session/sessionDay1) - 2022.06.08~10
 
 - 유니티 코리아
   - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [Unity Wave 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uskscz6NE7X7KjihUic7YtU) - 2022.05.09~13
@@ -256,7 +253,7 @@
 ## 프로그래밍 언어
 
 - 파이콘 한국
-  -  [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) - 2021.10.02~03
+  - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) - 2021.10.02~03
 
 - 한국 스프링 사용자 모임
   - [KSUG](https://www.ksug.org) - [2021 Webinar](https://www.youtube.com/playlist?list=PLn0dGEB80JNQLm7-af9X6Yqx1oBK8YXSm) - 2021.04.30
@@ -307,8 +304,16 @@
 
 
 ## 기타
+
+- 오키코리아 [OKKY](https://okky.kr)
+  - [OKKYCON: 2021](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne) - 2021.03.06
+  - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2022.05.26
+
 - 카카오엔터프라이즈
   - [AI 기반 물류 생태계 플랫폼 LaaS ON 2022](https://www.youtube.com/playlist?list=PLnmMQOipbsPG-Lz2JriQIsFJ60fOoG6ZB) - 2022.05.03
+
+- 티맥스
+  - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) - 2020.12.09~10
 
 - 한국전자통신연구원
   - [ETRI CONFERENCE 2022](https://youtu.be/4z1zU2CyX6M?list=PLGvb-9I0h7UiT5plM2JTLTWDNlcby6OQg) - 2022.05.24~25
@@ -333,10 +338,6 @@
 
 - 한빛미디어
   - [데브그라운드 2019](https://www.youtube.com/playlist?list=PLVsNizTWUw7HxXDshrgEr5eeHf2cqjtqA) | [데브그라운드 주니어 2019](https://www.youtube.com/playlist?list=PLVsNizTWUw7EOvb0_pJ94NZRnScD0jpzI) - 2019.12.13
-
-- 오키코리아 [OKKY](https://okky.kr)
-  - [OKKYCON: 2021](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne) - 2021.03.06
-  - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2022.05.26
 
 
 ## 참고링크
