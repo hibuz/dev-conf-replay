@@ -5,16 +5,12 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.07.13` [`클라우드`](#클라우드) > Oracle 21th Developer Meetup > [오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://youtu.be/ePVMKMyxUks?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2022.07.04` [`보안`](#보안) > 코드엔진 > [2022 CodeEngn Conference 18](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2)
 - `2022.06.29` [`기타`](#기타) > allshow TV > [AI Cyber Security Summit 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KoTyvg-1UEVQo-XXHfEnHr3)
 - `2022.06.29` [`IT기업`](#it기업) > 6월 우아한테크세미나 > [토크쇼] [프로덕트를 만드는 사람들-안 된다고 하지 말아요 개발자/디자이너/기획자 삼파전!](https://youtu.be/cdW77ljBggs?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2022.06.22` [`인공지능`](#인공지능) > 솔트룩스 > [SAC 2022 - 경험, 동료 +진심ㅣ인공지능이 바꿀 비즈니스 메타버스 세계](https://youtu.be/D5fOutPofgk)
 - `2022.06.21` [`IT기업`](#it기업) > NHN Cloud On > [On.5 온라인 게임 개발도 쉽고 빠르게 - GameAnvil](https://youtu.be/Uv2a6fAU1xM?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
-- `2022.06.20` [`모바일`](#모바일) > GDG Seoul > I/O Extended 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696) | [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395)
-- `2022.06.11` [`모바일`](#모바일) > GDG Android > [I/O Extended Korea Android 2022](https://youtu.be/1TsQ0buZUas)
-- `2022.06.10` [`프로그래밍 언어`](#프로그래밍-언어) > 그린랩스 > [Clojure 2022 meetup+](https://youtu.be/BdSoNmWksuk)
-- `2022.06.08~10` [`게임`](#게임) > 넥슨 개발자 컨퍼런스 > [NDC22](https://ndc.nexon.com/session/sessionDay1)
-- `2022.06.08~10` [`IT기업`](#it기업) > 토스 개발자 컨퍼런스 > [SLASH 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
@@ -43,7 +39,7 @@
   - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.06.29
 
 - 토스
-  - ✨ [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
+  - [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
   - Simplicity(토스 디자인 컨퍼런스) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR)
 
 - NHN 
@@ -144,7 +140,7 @@
   - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) - 2022.05.24
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
-  - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.05.18
+  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.07.13
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
@@ -205,7 +201,7 @@
 ## 게임
 
 - 넥슨
-  - [NDC](https://ndc.nexon.com) - [2021](http://ndcreplay.nexon.com/#c=NDC2021) | ✨ [22](https://ndc.nexon.com/session/sessionDay1) - 2022.06.08~10
+  - [NDC](https://ndc.nexon.com) - [2021](http://ndcreplay.nexon.com/#c=NDC2021) | [22](https://ndc.nexon.com/session/sessionDay1) - 2022.06.08~10
 
 - 유니티 코리아
   - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [Unity Wave 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uskscz6NE7X7KjihUic7YtU) - 2022.05.09~13
@@ -229,8 +225,8 @@
 ## 모바일
 
 - 구글 개발자 그룹(GDG)
-  - I/O Extended [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX), ✨ 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696) | [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
-  - I/O Extended Korea Android [2021](https://youtu.be/NIGV-NUf1pQ) | ✨ [2022](https://youtu.be/1TsQ0buZUas) - 2022.06.11
+  - I/O Extended [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX), 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696) | [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
+  - I/O Extended Korea Android [2021](https://youtu.be/NIGV-NUf1pQ) | [2022](https://youtu.be/1TsQ0buZUas) - 2022.06.11
   - [Devfest Korea](https://www.facebook.com/devfest.seoul.2019) - [2020](https://www.youtube.com/playlist?list=PLF_OUznA3RTSoRHlcIRg4KZYSFJ6rfGfm)
 
 - 드로이드나이츠
@@ -273,7 +269,7 @@
   - [Flutter Engage Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTRUeQzsqVg-DgH38ME96w4F) | [FlutterDay 2020 Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSmCR632XO0_cGVN7JjeMHg)
 
 - 그린랩스 송파 클로저
-  - ✨ Clojure [2022 meetup+](https://youtu.be/BdSoNmWksuk) - 2022.06.10
+  - Clojure [2022 meetup+](https://youtu.be/BdSoNmWksuk) - 2022.06.10
 
 - 코드스쿼드
   - [레츠스위프트](https://letswift.kr) - [2020 테크토크 Day](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER) - 2020.11.30~12.04
