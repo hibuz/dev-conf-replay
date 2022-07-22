@@ -348,5 +348,4 @@
 
 ## 참고링크
 - https://github.com/brave-people/Dev-Event
-- https://zetawiki.com/wiki/2022_국내_IT_컨퍼런스_일정
-- https://fightingsean.tistory.com/15
+- https://gent.tistory.com/category/IT%EC%A0%95%EB%B3%B4/IT%EC%84%B8%EB%AF%B8%EB%82%98
