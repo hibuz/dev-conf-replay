@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2022.07.20` [`클라우드`](#클라우드) > 과학기술정보통신부 > [Open Cloud Platform Summit 2022](https://youtu.be/hATj64Stzq0?t=2804)
+- `2022.07.19` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [라벨링 없이 해보는 의미론적 분할](https://youtu.be/lnxI3PFdvFc)
 - `2022.07.19` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2022 블록체인 밋업 컨퍼런스](https://youtu.be/IwEjUQbFb2Y?t=1383)
 - `2022.07.13` [`클라우드`](#클라우드) > Oracle 21th Developer Meetup > [오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://youtu.be/ePVMKMyxUks?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2022.07.04` [`보안`](#보안) > 코드엔진 > [2022 CodeEngn Conference 18](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2)
@@ -98,7 +99,10 @@
   - AI 차세대 컨택센터 컨퍼런스 2021 [제4회](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY) | [제5회](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8) | 2022 [제6회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) - 2022.03.25
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
 
-- Deeplearning Playground 커뮤니티 
+- 대덕특구 SPACE-S
+  - ✨ INNOPOLIS AI SPACE-S 인공지능 세미나 - [라벨링 없이 해보는 의미론적 분할](https://youtu.be/lnxI3PFdvFc) - 2022.07.19
+
+- Deeplearning Playground 커뮤니티
   - [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
 
 
