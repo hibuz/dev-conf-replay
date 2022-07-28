@@ -5,14 +5,13 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.07.27` [`IT기업`](#it기업) > 7월 우아한테크세미나 > [토크쇼] [개발자도 글을 잘 써야 한다고요?!: 개발자를 위한 글쓰기 코칭의 시간!](https://youtu.be/xu3XGEomRWI?t=594)
 - `2022.07.20` [`클라우드`](#클라우드) > 과학기술정보통신부 > [Open Cloud Platform Summit 2022](https://youtu.be/hATj64Stzq0?t=2804)
 - `2022.07.19` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [라벨링 없이 해보는 의미론적 분할](https://youtu.be/lnxI3PFdvFc)
 - `2022.07.19` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2022 블록체인 밋업 컨퍼런스](https://youtu.be/IwEjUQbFb2Y?t=1383)
 - `2022.07.13` [`클라우드`](#클라우드) > Oracle 21th Developer Meetup > [오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://youtu.be/ePVMKMyxUks?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2022.07.04` [`보안`](#보안) > 코드엔진 > [2022 CodeEngn Conference 18](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2)
 - `2022.06.29` [`기타`](#기타) > allshow TV > [AI Cyber Security Summit 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KoTyvg-1UEVQo-XXHfEnHr3)
-- `2022.06.29` [`IT기업`](#it기업) > 6월 우아한테크세미나 > [토크쇼] [프로덕트를 만드는 사람들-안 된다고 하지 말아요 개발자/디자이너/기획자 삼파전!](https://youtu.be/cdW77ljBggs?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
-- `2022.06.22` [`인공지능`](#인공지능) > 솔트룩스 > [SAC 2022 - 경험, 동료 +진심ㅣ인공지능이 바꿀 비즈니스 메타버스 세계](https://youtu.be/D5fOutPofgk)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
@@ -38,7 +37,7 @@
 - 배달의 민족
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) - 2021.11.17~19
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
-  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.06.29
+  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.07.27
 
 - 토스
   - [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
@@ -88,7 +87,7 @@
   - [💡Insight Talks](https://www.youtube.com/playlist?list=PLkeKJYdfv8RKPlYhfvsZe2_ugniN2JogS) - 2022.05.26
 
 - 솔트룩스
-  - [SAC](https://www.saltlux.com/company/readMore.do?ID=26093) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | ✨ [2022](https://youtu.be/D5fOutPofgk) - 2022.06.22
+  - [SAC](https://www.saltlux.com/company/readMore.do?ID=26093) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2022](https://youtu.be/D5fOutPofgk) - 2022.06.22
 
 - 이스트소프트
   - [AI PLUS](https://conf.est.ai) - [2020](https://conf.est.ai/2020/movie.html) - 2020.10.07
