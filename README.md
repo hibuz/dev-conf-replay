@@ -5,6 +5,7 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.08.09` [`인공지능`](#인공지능) > 모두의연구소 코칭스터디 세미나 > [파이썬으로 커리어 스킬 UP! LIVE](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750)
 - `2022.07.28` [`IT기업`](#it기업) > DEVOCEAN SK > [7월 Tech 세미나 - 데이터플랫폼 구현 사례](https://youtu.be/q7iYkGk2hFk?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2022.07.27` [`IT기업`](#it기업) > 7월 우아한테크세미나 > [토크쇼] [개발자도 글을 잘 써야 한다고요?!: 개발자를 위한 글쓰기 코칭의 시간!](https://youtu.be/xu3XGEomRWI?t=594)
 - `2022.07.26` [`클라우드`](#클라우드) > 쉐어드IT > [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO)
@@ -14,7 +15,6 @@
 - `2022.07.19` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [라벨링 없이 해보는 의미론적 분할](https://youtu.be/lnxI3PFdvFc)
 - `2022.07.19` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2022 블록체인 밋업 컨퍼런스](https://youtu.be/IwEjUQbFb2Y?t=1383)
 - `2022.07.13` [`클라우드`](#클라우드) > Oracle 21th Developer Meetup > [오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://youtu.be/ePVMKMyxUks?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
-- `2022.07.04` [`보안`](#보안) > 코드엔진 > [2022 CodeEngn Conference 18](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
@@ -79,8 +79,9 @@
   - LG [AI Talk Concert](https://www.youtube.com/playlist?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) - 2021.12.14
 
 - 모두의 연구소
-  - [MODUCON](https://moducon.kr) - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2021.12.04
-  - [모두연 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2022.05.24
+  - [모두콘](https://moducon.kr) - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2021.12.04
+  - [모두팝](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2022.05.24
+  - ✨ 코칭스터디 세미나 - [파이썬으로 커리어 스킬 UP! LIVE](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750) - 2022.08.09
 
 - 가짜연구소
   -  [Pseudo Lab](https://www.facebook.com/groups/pseudolab) - [PseudoCon 2020](https://www.youtube.com/playlist?list=PLyP9gclj-bv6Mn0XFJa1fiNppjGVaILp4) | [제 2회](https://www.youtube.com/playlist?list=PLyP9gclj-bv5ctl36Z-ysQO2U3TRzODDG) - 2021.05.21
@@ -230,7 +231,7 @@
   - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) - 2021.11.11
 
 - 코드엔진
-  - CodeEngn Conference - [2021](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) | ✨ [2022](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2) - 2022.07.04
+  - CodeEngn Conference - [2021](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) | [2022](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2) - 2022.07.04
 
 
 ## 모바일
