@@ -12,9 +12,6 @@
 - `2022.07.23` [`빅데이터`](#빅데이터) > 빅데이터 연합동아리 > [제 16회 보아즈(BOAZ) 빅데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor)
 - `2022.07.21` [`클라우드`](#클라우드) > 오라클 > [Oracle Database World Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) 
 - `2022.07.20` [`클라우드`](#클라우드) > 과학기술정보통신부 > [Open Cloud Platform Summit 2022](https://youtu.be/hATj64Stzq0?t=2804)
-- `2022.07.19` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [라벨링 없이 해보는 의미론적 분할](https://youtu.be/lnxI3PFdvFc)
-- `2022.07.19` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2022 블록체인 밋업 컨퍼런스](https://youtu.be/IwEjUQbFb2Y?t=1383)
-- `2022.07.13` [`클라우드`](#클라우드) > Oracle 21th Developer Meetup > [오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://youtu.be/ePVMKMyxUks?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
@@ -48,6 +45,7 @@
 
 - NHN 
   - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) - 2021.12.14
+  - NHN [Cloud make IT 2022](https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0) - 2022.06.28
   - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.06.21
 
 - 삼성
@@ -103,7 +101,7 @@
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
 
 - 대덕특구 SPACE-S
-  - ✨ INNOPOLIS AI SPACE-S 인공지능 세미나 - [라벨링 없이 해보는 의미론적 분할](https://youtu.be/lnxI3PFdvFc) - 2022.07.19
+  - INNOPOLIS AI SPACE-S 인공지능 세미나 - [라벨링 없이 해보는 의미론적 분할](https://youtu.be/lnxI3PFdvFc) - 2022.07.19
 
 - Deeplearning Playground 커뮤니티
   - [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
@@ -149,7 +147,7 @@
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - ✨ [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
-  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.07.13
+  - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.07.13
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
@@ -197,7 +195,7 @@
   - [Luniverse](https://luniverse.io/blog/?lang=ko) - [2021](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn) | [2022](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
 
 - 기타
-  - ✨ 한국인터넷진흥원 - [2022 블록체인 밋업 컨퍼런스](https://youtu.be/IwEjUQbFb2Y?t=1383) - 2022.07.19
+  - 한국인터넷진흥원 - [2022 블록체인 밋업 컨퍼런스](https://youtu.be/IwEjUQbFb2Y?t=1383) - 2022.07.19
   - [테크B 콘퍼런스 2022](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2021.12.07
 
 
