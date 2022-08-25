@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2022.08.23` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [TESLA 자율주행 기술에 발가락  담그기](https://youtu.be/6qCEQxSNMh4)
+- `2022.08.18` [`블록체인`](#블록체인) > 테크M - 테크B 콘퍼런스 > [NFT, The Show Must Go On](https://youtu.be/3mBrHIMnvFg?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc&t=35)
 - `2022.08.09` [`인공지능`](#인공지능) > 모두의연구소 코칭스터디 세미나 > [파이썬으로 커리어 스킬 UP! LIVE](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750)
 - `2022.07.28` [`IT기업`](#it기업) > DEVOCEAN SK > [7월 Tech 세미나 - 데이터플랫폼 구현 사례](https://youtu.be/q7iYkGk2hFk?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2022.07.27` [`IT기업`](#it기업) > 7월 우아한테크세미나 > [토크쇼] [개발자도 글을 잘 써야 한다고요?!: 개발자를 위한 글쓰기 코칭의 시간!](https://youtu.be/xu3XGEomRWI?t=594)
@@ -195,7 +196,7 @@
 
 - 기타
   - 한국인터넷진흥원 - [2022 블록체인 밋업 컨퍼런스](https://youtu.be/IwEjUQbFb2Y?t=1383) - 2022.07.19
-  - [테크B 콘퍼런스 2022](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2021.12.07
+  - ✨ 테크M - [테크B 콘퍼런스](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2022.08.18
 
 
 ## 모빌리티
