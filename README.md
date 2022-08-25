@@ -5,13 +5,11 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.08.23` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [TESLA 자율주행 기술에 발가락  담그기](https://youtu.be/6qCEQxSNMh4)
 - `2022.08.09` [`인공지능`](#인공지능) > 모두의연구소 코칭스터디 세미나 > [파이썬으로 커리어 스킬 UP! LIVE](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750)
 - `2022.07.28` [`IT기업`](#it기업) > DEVOCEAN SK > [7월 Tech 세미나 - 데이터플랫폼 구현 사례](https://youtu.be/q7iYkGk2hFk?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2022.07.27` [`IT기업`](#it기업) > 7월 우아한테크세미나 > [토크쇼] [개발자도 글을 잘 써야 한다고요?!: 개발자를 위한 글쓰기 코칭의 시간!](https://youtu.be/xu3XGEomRWI?t=594)
 - `2022.07.26` [`클라우드`](#클라우드) > 쉐어드IT > [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO)
-- `2022.07.23` [`빅데이터`](#빅데이터) > 빅데이터 연합동아리 > [제 16회 보아즈(BOAZ) 빅데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor)
-- `2022.07.21` [`클라우드`](#클라우드) > 오라클 > [Oracle Database World Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) 
-- `2022.07.20` [`클라우드`](#클라우드) > 과학기술정보통신부 > [Open Cloud Platform Summit 2022](https://youtu.be/hATj64Stzq0?t=2804)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
@@ -102,7 +100,7 @@
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
 
 - 대덕특구 SPACE-S
-  - INNOPOLIS AI SPACE-S 인공지능 세미나 - [라벨링 없이 해보는 의미론적 분할](https://youtu.be/lnxI3PFdvFc) - 2022.07.19
+  - [INNOPOLIS AI SPACE-S 인공지능 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2022.08.23
 
 - Deeplearning Playground 커뮤니티
   - [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
@@ -117,7 +115,7 @@
   - [데이터야놀자](https://datayanolja.kr) - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) - 2021.10.16
 
 - 빅데이터 연합동아리
-  - [보아즈(BOAZ)](https://www.facebook.com/BOAZbigdata) 빅데이터 컨퍼런스 - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | ✨ [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) - 2022.07.23
+  - [보아즈(BOAZ)](https://www.facebook.com/BOAZbigdata) 빅데이터 컨퍼런스 - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) - 2022.07.23
 
 - MLOps Korea
   - [2021 MLOps KR 1st community](https://www.youtube.com/playlist?list=PLIuC6QlQQF0Pf-aM0tioYTjrnLzaJaGez) - 2021.06.05
@@ -147,7 +145,7 @@
   - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) - 2022.05.24
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
-  - ✨ [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
+  - [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
   - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.07.13
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
@@ -165,7 +163,7 @@
 
 - 기타
   - ✨ 쉐어드IT - [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
-  - ✨ 과학기술정보통신부 - [Open Cloud Platform Summit 2022](https://youtu.be/hATj64Stzq0?t=2804) - 2022.07.20
+  - 과학기술정보통신부 - [Open Cloud Platform Summit 2022](https://youtu.be/hATj64Stzq0?t=2804) - 2022.07.20
   - 스마트클라우드쇼2021 - [1일차](https://youtu.be/Y335QzGRz1U) | [2일차](https://youtu.be/Itk2Wy3oiKE) - 2021.09.28~29
 
 
