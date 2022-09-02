@@ -5,12 +5,10 @@
 # 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.08.25` [`IT기업`](#it기업) > DEVOCEAN SK > [8월 Tech 세미나 - Goodbye Passwords! Hello Passkey!](https://youtu.be/Rovj-q2Atzs?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&t=17)
 - `2022.08.23` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [TESLA 자율주행 기술에 발가락  담그기](https://youtu.be/6qCEQxSNMh4)
 - `2022.08.18` [`블록체인`](#블록체인) > 테크M - 테크B 콘퍼런스 > [NFT, The Show Must Go On](https://youtu.be/3mBrHIMnvFg?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc&t=35)
 - `2022.08.09` [`인공지능`](#인공지능) > 모두의연구소 코칭스터디 세미나 > [파이썬으로 커리어 스킬 UP! LIVE](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750)
-- `2022.07.28` [`IT기업`](#it기업) > DEVOCEAN SK > [7월 Tech 세미나 - 데이터플랫폼 구현 사례](https://youtu.be/q7iYkGk2hFk?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
-- `2022.07.27` [`IT기업`](#it기업) > 7월 우아한테크세미나 > [토크쇼] [개발자도 글을 잘 써야 한다고요?!: 개발자를 위한 글쓰기 코칭의 시간!](https://youtu.be/xu3XGEomRWI?t=594)
-- `2022.07.26` [`클라우드`](#클라우드) > 쉐어드IT > [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`기타`](#기타)
@@ -37,7 +35,7 @@
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) - 2021.11.17~19
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
-  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.07.27
+  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.07.27
 
 - 토스
   - [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
@@ -57,7 +55,7 @@
 
 - SK
   - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) - 2021.11.03~04
-  - [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2022.07.28
+  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2022.08.25
   - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) - 2022.04.29
 
 - LG CNS
@@ -163,7 +161,7 @@
   - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN)
 
 - 기타
-  - ✨ 쉐어드IT - [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
+  - 쉐어드IT - [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
   - 과학기술정보통신부 - [Open Cloud Platform Summit 2022](https://youtu.be/hATj64Stzq0?t=2804) - 2022.07.20
   - 스마트클라우드쇼2021 - [1일차](https://youtu.be/Y335QzGRz1U) | [2일차](https://youtu.be/Itk2Wy3oiKE) - 2021.09.28~29
 
