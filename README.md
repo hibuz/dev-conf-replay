@@ -2,11 +2,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhibuz/dev-conf-replay%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Links](https://github.com/hibuz/dev-conf-replay/actions/workflows/check_links.yml/badge.svg)](https://github.com/hibuz/dev-conf-replay/actions/workflows/check_links.yml)
 
-# 국내 IT 및 개발자 컨퍼런스 (다시보기) 😎
+# 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
 
 - `2022.09.02` [`IT기업`](#it기업) > DEVOCEAN SK > [제2회 테크 데이 - 기술 커뮤니티의 가치](https://youtu.be/tPBTOSvoq30?t=1238)
+- `2022.08.31` [`IT기업`](#it기업) > 8월 우아한테크세미나 > [개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!](https://youtu.be/RQv86D0M5YY?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=1679)
 - `2022.08.25` [`IT기업`](#it기업) > DEVOCEAN SK > [8월 Tech 세미나 - Goodbye Passwords! Hello Passkey!](https://youtu.be/Rovj-q2Atzs?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&t=17)
 - `2022.08.23` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [TESLA 자율주행 기술에 발가락  담그기](https://youtu.be/6qCEQxSNMh4)
 - `2022.08.18` [`블록체인`](#블록체인) > 테크M - 테크B 콘퍼런스 > [NFT, The Show Must Go On](https://youtu.be/3mBrHIMnvFg?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc&t=35)
@@ -37,7 +38,7 @@
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) - 2021.11.17~19
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
-  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.07.27
+  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.08.31
 
 - 토스
   - [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
