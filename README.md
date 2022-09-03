@@ -8,6 +8,7 @@
 
 - `2022.09.02` [`IT기업`](#it기업) > DEVOCEAN SK > [제2회 테크 데이 - 기술 커뮤니티의 가치](https://youtu.be/tPBTOSvoq30?t=1238)
 - `2022.08.31` [`IT기업`](#it기업) > 8월 우아한테크세미나 > [개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!](https://youtu.be/RQv86D0M5YY?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=1679)
+- `2022.08.31` [`인공지능`](#인공지능) > 업스테이지 Biz Talks > [AI OCR 도입 성공 방정식](https://youtu.be/aRCh5neBpSs)
 - `2022.08.27` [`커뮤니티`](#커뮤니티) > GDG Daegu > [Code Action 1st 토크쇼 - 커리어 여정기](https://youtu.be/GngEX-zVo6Y?t=292)
 - `2022.08.25` [`IT기업`](#it기업) > DEVOCEAN SK > [8월 Tech 세미나 - Goodbye Passwords! Hello Passkey!](https://youtu.be/Rovj-q2Atzs?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&t=17)
 - `2022.08.25` [`기타`](#기타) > 디지털투데이 TV LIVE > [쿠버네티스의 API요청을 처리하고, API게이트웨이를 구축하기 위한 모범사례](https://youtu.be/wRKl_lNiyLc)
