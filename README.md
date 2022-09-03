@@ -12,6 +12,7 @@
 - `2022.08.25` [`기타`](#기타) > 디지털투데이 TV LIVE > [쿠버네티스의 API요청을 처리하고, API게이트웨이를 구축하기 위한 모범사례](https://youtu.be/wRKl_lNiyLc)
 - `2022.08.23` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [TESLA 자율주행 기술에 발가락  담그기](https://youtu.be/6qCEQxSNMh4)
 - `2022.08.18` [`블록체인`](#블록체인) > 테크M - 테크B 콘퍼런스 > [NFT, The Show Must Go On](https://youtu.be/3mBrHIMnvFg?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc&t=35)
+- `2022.08.17` [`클라우드`](#클라우드) > 오라클 22nd Developer Meetup > [세계적인 오픈소스 DB, MySQL에 대한 모든 것](https://youtu.be/NfYPLt5r4qA?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2022.08.09` [`인공지능`](#인공지능) > 모두의연구소 코칭스터디 세미나 > [파이썬으로 커리어 스킬 UP! LIVE](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750)
 
 ⚡ 바로가기
@@ -149,7 +150,7 @@
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
-  - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.07.13
+  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.08.17
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
