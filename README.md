@@ -9,6 +9,7 @@
 - `2022.09.02` [`IT기업`](#it기업) > DEVOCEAN SK > [제2회 테크 데이 - 기술 커뮤니티의 가치](https://youtu.be/tPBTOSvoq30?t=1238)
 - `2022.08.31` [`IT기업`](#it기업) > 8월 우아한테크세미나 > [개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!](https://youtu.be/RQv86D0M5YY?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=1679)
 - `2022.08.31` [`인공지능`](#인공지능) > 업스테이지 Biz Talks > [AI OCR 도입 성공 방정식](https://youtu.be/aRCh5neBpSs)
+- `2022.08.30` [`IT기업`](#it기업) > NHN Cloud On.7 > [NHN Cloud로 알아보는 클라우드 보안](https://youtu.be/0A79Qa2flIc?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
 - `2022.08.27` [`커뮤니티`](#커뮤니티) > GDG Daegu > [Code Action 1st 토크쇼 - 커리어 여정기](https://youtu.be/GngEX-zVo6Y?t=292)
 - `2022.08.25` [`IT기업`](#it기업) > DEVOCEAN SK > [8월 Tech 세미나 - Goodbye Passwords! Hello Passkey!](https://youtu.be/Rovj-q2Atzs?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS&t=17)
 - `2022.08.25` [`기타`](#기타) > 디지털투데이 TV LIVE > [쿠버네티스의 API요청을 처리하고, API게이트웨이를 구축하기 위한 모범사례](https://youtu.be/wRKl_lNiyLc)
@@ -51,7 +52,7 @@
 - NHN 
   - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) - 2021.12.14
   - NHN [Cloud make IT 2022](https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0) - 2022.06.28
-  - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.06.21
+  - ✨ NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.08.30
 
 - 삼성
   - [SSDC](https://www.soscon.net) - [2020](https://youtu.be/jXNWEFoHRtk) | [2021](https://www.youtube.com/playlist?list=PL3M6gp2cSCmDR6xhznxv8Cgh2JmrZIrcj) - 2021.11.17~18
