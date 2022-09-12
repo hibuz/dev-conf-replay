@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 
+- `2022.09.06` [`기타`](#기타) > 티맥스 > SuperWeek 2022 - [1일차](https://youtu.be/U-kXdZpmwLQ?t=5853), [2일차](https://youtu.be/dtqRQ7Z6R-A?t=4741)
 - `2022.09.02` [`IT기업`](#it기업) > DEVOCEAN SK > [제2회 테크 데이 - 기술 커뮤니티의 가치](https://youtu.be/tPBTOSvoq30?t=1238)
 - `2022.08.31` [`IT기업`](#it기업) > 8월 우아한테크세미나 > [개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!](https://youtu.be/RQv86D0M5YY?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=1679)
 - `2022.08.31` [`인공지능`](#인공지능) > 업스테이지 Biz Talks > [AI OCR 도입 성공 방정식](https://youtu.be/aRCh5neBpSs)
@@ -16,7 +17,6 @@
 - `2022.08.23` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [TESLA 자율주행 기술에 발가락  담그기](https://youtu.be/6qCEQxSNMh4)
 - `2022.08.18` [`블록체인`](#블록체인) > 테크M - 테크B 콘퍼런스 > [NFT, The Show Must Go On](https://youtu.be/3mBrHIMnvFg?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc&t=35)
 - `2022.08.17` [`클라우드`](#클라우드) > 오라클 22nd Developer Meetup > [세계적인 오픈소스 DB, MySQL에 대한 모든 것](https://youtu.be/NfYPLt5r4qA?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
-- `2022.08.09` [`인공지능`](#인공지능) > 모두의연구소 코칭스터디 세미나 > [파이썬으로 커리어 스킬 UP! LIVE](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -85,7 +85,7 @@
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2021.12.04
   - [모두팝](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2022.05.24
-  - ✨ 코칭스터디 세미나 - [파이썬으로 커리어 스킬 UP! LIVE](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750) - 2022.08.09
+  - 코칭스터디 세미나 - [파이썬으로 커리어 스킬 UP! LIVE](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750) - 2022.08.09
 
 - 가짜연구소
   -  [Pseudo Lab](https://www.facebook.com/groups/pseudolab) - [PseudoCon 2020](https://www.youtube.com/playlist?list=PLyP9gclj-bv6Mn0XFJa1fiNppjGVaILp4) | [제 2회](https://www.youtube.com/playlist?list=PLyP9gclj-bv5ctl36Z-ysQO2U3TRzODDG) - 2021.05.21
@@ -333,7 +333,7 @@
   - [AI 기반 물류 생태계 플랫폼 LaaS ON 2022](https://www.youtube.com/playlist?list=PLnmMQOipbsPG-Lz2JriQIsFJ60fOoG6ZB) - 2022.05.03
 
 - 티맥스
-  - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) - 2020.12.09~10
+  - ✨ [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | SuperWeek 2022 - [1일차](https://youtu.be/U-kXdZpmwLQ?t=5853), [2일차](https://youtu.be/dtqRQ7Z6R-A?t=4741) - 2020.09.06~07
 
 - 한국전자통신연구원
   - [ETRI CONFERENCE 2022](https://youtu.be/4z1zU2CyX6M?list=PLGvb-9I0h7UiT5plM2JTLTWDNlcby6OQg) - 2022.05.24~25
