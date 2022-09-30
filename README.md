@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 
+- `2022.09.20` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [정형 데이터를 다루는 머신러닝 문제해결 패턴](https://youtu.be/b98H87BIrbo)
 - `2022.09.08` [`클라우드`](#클라우드) > NCP > [Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop](https://youtu.be/xupp0FLYGz4?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr)
 - `2022.09.06` [`기타`](#기타) > 티맥스 > [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ)
 - `2022.09.03` [`모바일`](#모바일) > adiOS Korea > 2022 [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei)
@@ -102,7 +103,7 @@
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
 
 - 대덕특구 SPACE-S
-  - [INNOPOLIS AI SPACE-S 인공지능 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2022.08.23
+  - ✨ [INNOPOLIS AI SPACE-S 인공지능 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2022.09.20
 
 - Deeplearning Playground 커뮤니티
   - [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
