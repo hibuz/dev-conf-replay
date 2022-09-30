@@ -93,9 +93,6 @@
 - 솔트룩스
   - [SAC](https://www.saltlux.com/company/readMore.do?ID=26093) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2022](https://youtu.be/D5fOutPofgk) - 2022.06.22
 
-- 이스트소프트
-  - [AI PLUS](https://conf.est.ai) - [2020](https://conf.est.ai/2020/movie.html) - 2020.10.07
-
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
   - [AI·DX Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Kpjjo1SW29u0XnT7JiMNMU0) - 2022.04.22
