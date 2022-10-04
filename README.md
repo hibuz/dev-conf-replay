@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.10.01` [`프로그래밍 언어`](#프로그래밍-언어) > 파이콘 한국 > [PyCon.KR 2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn5DjhDAZFTKjJCJSMqeirO)
 - `2022.09.30` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [Learning container from scratch](https://youtu.be/fnZXXL4uGqQ)
 - `2022.09.30` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷 개발자 커뮤니티 > [.NET Conf Mini 22.09](https://youtu.be/Z6Z3qgHYaOg)
 - `2022.09.29` [`IT기업`](#it기업) > 9월 우아한테크세미나 > [기술 커뮤니티의 가치와 Developer Relations](https://youtu.be/jY-HAJlfxSY?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=305)
@@ -12,7 +13,6 @@
 - `2022.09.08` [`클라우드`](#클라우드) > NCP > [Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop](https://youtu.be/xupp0FLYGz4?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr)
 - `2022.09.06` [`기타`](#기타) > 티맥스 > [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ)
 - `2022.09.03` [`모바일`](#모바일) > adiOS Korea > 2022 [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei)
-- `2022.09.02` [`IT기업`](#it기업) > DEVOCEAN SK > [제2회 테크 데이 - 기술 커뮤니티의 가치](https://youtu.be/tPBTOSvoq30?t=1238)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -60,7 +60,7 @@
 - SK
   - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) - 2021.11.03~04
   - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2022.09.30
-  - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | ✨ [제2회](https://youtu.be/tPBTOSvoq30?t=1238) - 2022.09.02
+  - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://youtu.be/tPBTOSvoq30?t=1238) - 2022.09.02
 
 - LG CNS
   - [뉴 노멀시대에 필요한 Application Modernization](https://www.youtube.com/playlist?list=PLxcN3kbNdAoAYrRZjyfqp9Mv5Au2mJduT) | [CloudXper ProOps Launching Webinar](https://www.youtube.com/playlist?list=PLxcN3kbNdAoA8N1kDA9ur88spcxOAf-dg) | [Security Summit 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoBZhTTb_X_-xZfNGsss2hle) | [Entrue SMART DX 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoDeRx9vqmpJRPJsASECi8qw)
@@ -254,7 +254,7 @@
 ## 프로그래밍 언어
 
 - 파이콘 한국
-  - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) - 2021.10.02~03
+  - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) | ✨ [2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn5DjhDAZFTKjJCJSMqeirO) - 2022.10.01~02
 
 - 한국 스프링 사용자 모임
   - [KSUG](https://www.ksug.org) - [2021 Webinar](https://www.youtube.com/playlist?list=PLn0dGEB80JNQLm7-af9X6Yqx1oBK8YXSm) - 2021.04.30
