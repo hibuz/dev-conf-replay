@@ -13,6 +13,7 @@
 - `2022.09.28` [`보안`](#보안) > 데일리시큐 > [PASCON 2022 (정보보안&개인정보보호 컨퍼런스)](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX)
 - `2022.09.27` [`기타`](#기타) > Startup Alliance Korea > [실리콘밸리의 한국인 2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT)
 - `2022.09.27` [`인공지능`](#인공지능) > 모두팝 > [AI+Cloud INFRA](https://youtu.be/DnZbLpFQD-U?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2022.09.22` [`보안`](#보안) > 안랩 > [ISF 2022](https://youtu.be/F3lt03ZBADg?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt)
 - `2022.09.20` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [정형 데이터를 다루는 머신러닝 문제해결 패턴](https://youtu.be/b98H87BIrbo)
 
 ⚡ 바로가기
@@ -223,6 +224,9 @@
 
 - 데일리시큐
   - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | ✨ [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) - 2022.09.28
+
+- 안랩(AhnLab)
+  - ISF [2020](https://youtu.be/lbu_fD36ex4?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2021](https://youtu.be/rHyFZn5fMrQ?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | ✨ [2022](https://youtu.be/F3lt03ZBADg?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) - 2022.09.22
 
 - 코드엔진
   - CodeEngn Conference - [2021](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) | [2022](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2) - 2022.07.04
