@@ -11,6 +11,7 @@
 - `2022.09.30` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷 개발자 커뮤니티 > [.NET Conf Mini 22.09](https://youtu.be/Z6Z3qgHYaOg)
 - `2022.09.29` [`IT기업`](#it기업) > 9월 우아한테크세미나 > [기술 커뮤니티의 가치와 Developer Relations](https://youtu.be/jY-HAJlfxSY?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=305)
 - `2022.09.28` [`보안`](#보안) > 데일리시큐 > [PASCON 2022 (정보보안&개인정보보호 컨퍼런스)](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX)
+- `2022.09.27` [`기타`](#기타) > Startup Alliance Korea > [실리콘밸리의 한국인 2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT)
 - `2022.09.27` [`인공지능`](#인공지능) > 모두팝 > [AI+Cloud INFRA](https://youtu.be/DnZbLpFQD-U?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2022.09.20` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [정형 데이터를 다루는 머신러닝 문제해결 패턴](https://youtu.be/b98H87BIrbo)
 
@@ -349,6 +350,9 @@
 - IT조선 유튜브 채널 [테크잼연구소](https://www.youtube.com/c/TechCafe2013)
   - [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos) - 2022.03.30
   - [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2022.02.10
+
+- Startup Alliance Korea
+  - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | ✨ [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) - 2022.09.27
 
 - Agile Korea
   - [AKC](http://agilekorea.kr) - [2020](https://www.youtube.com/playlist?list=PLqLyqFSqvAE5ZmYBRsAaHIwfCKRBRaYqy) | [2021](https://www.youtube.com/playlist?list=PLqLyqFSqvAE4nquOU5p5-eeoxfkdZK5Th) - 2021.12.09
