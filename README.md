@@ -5,15 +5,13 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.10.08` [`프론트엔드 & JS`](#프론트엔드--js) > FEconf > 2022 - [TRACK A](https://youtu.be/jZNk-Ncez6E?t=2627), [TRACK B](https://youtu.be/ajtpcFkXqqg?t=959)
 - `2022.10.01` [`프로그래밍 언어`](#프로그래밍-언어) > 파이콘 한국 > [PyCon.KR 2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn5DjhDAZFTKjJCJSMqeirO)
 - `2022.09.30` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [Learning container from scratch](https://youtu.be/fnZXXL4uGqQ)
 - `2022.09.30` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷 개발자 커뮤니티 > [.NET Conf Mini 22.09](https://youtu.be/Z6Z3qgHYaOg)
 - `2022.09.29` [`IT기업`](#it기업) > 9월 우아한테크세미나 > [기술 커뮤니티의 가치와 Developer Relations](https://youtu.be/jY-HAJlfxSY?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=305)
 - `2022.09.27` [`인공지능`](#인공지능) > 모두팝 > [AI+Cloud INFRA](https://youtu.be/DnZbLpFQD-U?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2022.09.20` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [정형 데이터를 다루는 머신러닝 문제해결 패턴](https://youtu.be/b98H87BIrbo)
-- `2022.09.08` [`클라우드`](#클라우드) > NCP > [Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop](https://youtu.be/xupp0FLYGz4?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr)
-- `2022.09.06` [`기타`](#기타) > 티맥스 > [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ)
-- `2022.09.03` [`모바일`](#모바일) > adiOS Korea > 2022 [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -129,7 +127,7 @@
   - [2021 GAME X CONFERENCE](https://www.youtube.com/playlist?list=PLpywxIpxgxhHK1dGhSMCeebkNshm_Pvkz) - 2021.10.15
   - [Manufacturing on NAVER Cloud Platform (제조세미나)](https://www.youtube.com/playlist?list=PLpywxIpxgxhHkyuYUHEU2gTVbw1_hjxgd) - 2021.09.16
   - [테크밋업](https://www.youtube.com/playlist?list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK) - 2022.04.20
-  - ✨ [온라인 교육](https://www.youtube.com/playlist?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr) - 2022.09.08
+  - [온라인 교육](https://www.youtube.com/playlist?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr) - 2022.09.08
 
 - 메가존
   -  [디지털 다카포](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208) - [2022](https://www.youtube.com/playlist?list=PLxTkO33QtxTICeek2PbVPW_zbwZXV0hCe) - 2022.02.08
@@ -237,13 +235,13 @@
   - [2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy) | [2021](https://www.youtube.com/playlist?list=PLu8dnNjU2FmsROfv5pNAvhRiOFVN_EmnV) - 2021.09.25
 
 - adiOS Korea
-  - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9), [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7), [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH), ✨ [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei) - 2022.09.03
+  - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9), [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7), [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH), [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei) - 2022.09.03
 
 
 ## 프론트엔드 & JS
 
 - 프론트엔드 개발자 컨퍼런스 
-  - FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6) | [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo) | [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) - 2021.10.30
+  - FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) | ✨ 2022 - [A Track](https://youtu.be/jZNk-Ncez6E?t=2627), [B Track](https://youtu.be/ajtpcFkXqqg?t=959) - 2022.10.08
 
 - 자바스크립트 컨퍼런스 
   - [JSConf Korea](https://jsconf.kr) - [2020 Home Edition](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm) - 2020.9.20
@@ -327,7 +325,7 @@
   - [AI 기반 물류 생태계 플랫폼 LaaS ON 2022](https://www.youtube.com/playlist?list=PLnmMQOipbsPG-Lz2JriQIsFJ60fOoG6ZB) - 2022.05.03
 
 - 티맥스
-  - ✨ [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) - 2020.09.06~07
+  - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) - 2020.09.06~07
 
 - 한국전자통신연구원
   - [ETRI CONFERENCE 2022](https://youtu.be/4z1zU2CyX6M?list=PLGvb-9I0h7UiT5plM2JTLTWDNlcby6OQg) - 2022.05.24~25
