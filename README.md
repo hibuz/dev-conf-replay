@@ -218,7 +218,7 @@
 - Samsung Research
   - [SSTF(Samsung Security Tech Forum)](https://research.samsung.com/sstf) - [2021](https://www.youtube.com/playlist?list=PLhpbZcOKxtO1eA3dVfatqd5bpwbGd0oXP) | [2022](https://www.youtube.com/playlist?list=PLhpbZcOKxtO0MkZ88h_y0Xs8VH2rFigWc) - 2022.8.23
 
-- [소프트웨어 개발보안 컨퍼런스](http://www.swsecurecoding.kr)
+- 소프트웨어 개발보안 컨퍼런스
   - [2021년 제11회 소프트웨어 개발보안 컨퍼런스](https://www.youtube.com/playlist?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz) - 2021.11.05
 
 - 데일리시큐
