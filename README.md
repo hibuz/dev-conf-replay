@@ -10,6 +10,7 @@
 - `2022.09.30` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [Learning container from scratch](https://youtu.be/fnZXXL4uGqQ)
 - `2022.09.30` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷 개발자 커뮤니티 > [.NET Conf Mini 22.09](https://youtu.be/Z6Z3qgHYaOg)
 - `2022.09.29` [`IT기업`](#it기업) > 9월 우아한테크세미나 > [기술 커뮤니티의 가치와 Developer Relations](https://youtu.be/jY-HAJlfxSY?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=305)
+- `2022.09.28` [`보안`](#보안) > 데일리시큐 > [PASCON 2022 (정보보안&개인정보보호 컨퍼런스)](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX)
 - `2022.09.27` [`인공지능`](#인공지능) > 모두팝 > [AI+Cloud INFRA](https://youtu.be/DnZbLpFQD-U?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2022.09.20` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [정형 데이터를 다루는 머신러닝 문제해결 패턴](https://youtu.be/b98H87BIrbo)
 
@@ -220,7 +221,7 @@
   - [2021년 제11회 소프트웨어 개발보안 컨퍼런스](https://www.youtube.com/playlist?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz) - 2021.11.05
 
 - 데일리시큐
-  - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) - 2021.11.11
+  - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | ✨ [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) - 2022.09.28
 
 - 코드엔진
   - CodeEngn Conference - [2021](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) | [2022](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2) - 2022.07.04
