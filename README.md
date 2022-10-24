@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2022.10.19~21` [`IT기업`](#it기업) > 우아한형제들 > [우아콘 2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2)
+- `2022.10.18` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [이미지 분류를 위한 딥러닝 문제해결 패턴](https://youtu.be/0sp92A025So)
 - `2022.10.11` [`인공지능`](#인공지능) > 모두팝 > [AI+Finance](https://youtu.be/TV4aozQkzSY?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2022.10.08` [`프론트엔드 & JS`](#프론트엔드--js) > FEconf > 2022 - [TRACK A](https://youtu.be/jZNk-Ncez6E?t=2627), [TRACK B](https://youtu.be/ajtpcFkXqqg?t=959)
 - `2022.10.01` [`프로그래밍 언어`](#프로그래밍-언어) > 파이콘 한국 > [PyCon.KR 2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn5DjhDAZFTKjJCJSMqeirO)
@@ -102,7 +103,7 @@
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
 
 - 대덕특구 SPACE-S
-  - [INNOPOLIS AI SPACE-S 인공지능 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2022.09.20
+  - ✨ [INNOPOLIS AI SPACE-S 인공지능 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2022.10.18
 
 - Deeplearning Playground 커뮤니티
   - [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
