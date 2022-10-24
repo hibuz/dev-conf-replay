@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2022.10.19~21` [`IT기업`](#it기업) > 우아한형제들 > [우아콘 2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2)
+- `2022.10.11` [`인공지능`](#인공지능) > 모두팝 > [AI+Finance](https://youtu.be/TV4aozQkzSY?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2022.10.08` [`프론트엔드 & JS`](#프론트엔드--js) > FEconf > 2022 - [TRACK A](https://youtu.be/jZNk-Ncez6E?t=2627), [TRACK B](https://youtu.be/ajtpcFkXqqg?t=959)
 - `2022.10.01` [`프로그래밍 언어`](#프로그래밍-언어) > 파이콘 한국 > [PyCon.KR 2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn5DjhDAZFTKjJCJSMqeirO)
 - `2022.09.30` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [Learning container from scratch](https://youtu.be/fnZXXL4uGqQ)
@@ -81,7 +82,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2021.12.04
-  - ✨ [모두팝](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2022.09.27
+  - ✨ [모두팝](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2022.10.11
   - 코칭스터디 세미나 - [파이썬으로 커리어 스킬 UP! LIVE](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750) - 2022.08.09
 
 - 가짜연구소
