@@ -362,7 +362,7 @@
   - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) - 2022.09.27
 
 - Agile Korea
-  - [AKC](http://agilekorea.kr) - [2020](https://www.youtube.com/playlist?list=PLqLyqFSqvAE5ZmYBRsAaHIwfCKRBRaYqy) | [2021](https://www.youtube.com/playlist?list=PLqLyqFSqvAE4nquOU5p5-eeoxfkdZK5Th) - 2021.12.09
+  - [AKC](https://www.facebook.com/AgileKoreaConference) - [2020](https://www.youtube.com/playlist?list=PLqLyqFSqvAE5ZmYBRsAaHIwfCKRBRaYqy) | [2021](https://www.youtube.com/playlist?list=PLqLyqFSqvAE4nquOU5p5-eeoxfkdZK5Th) - 2021.12.09
 
 - 한빛미디어
   - [데브그라운드 2019](https://www.youtube.com/playlist?list=PLVsNizTWUw7HxXDshrgEr5eeHf2cqjtqA) | [데브그라운드 주니어 2019](https://www.youtube.com/playlist?list=PLVsNizTWUw7EOvb0_pJ94NZRnScD0jpzI) - 2019.12.13
