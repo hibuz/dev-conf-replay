@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.10.27` [`IT기업`](#it기업) > 데보션 10월 Tech 세미나 > [펫밋 개발 스토리 (Flutter 와 Fast API)](https://youtu.be/UmZlKdDbVQk?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2022.10.22` [`보안`](#보안) > 시큐레이어 > 개발자 컨퍼런스 [STICK 2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1)
 - `2022.10.19~21` [`IT기업`](#it기업) > 우아한형제들 > [우아콘 2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2)
 - `2022.10.18` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [이미지 분류를 위한 딥러닝 문제해결 패턴](https://youtu.be/0sp92A025So)
@@ -60,7 +61,7 @@
 
 - SK
   - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) - 2021.11.03~04
-  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2022.09.30
+  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2022.10.27
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://youtu.be/tPBTOSvoq30?t=1238) - 2022.09.02
 
 - LG CNS
