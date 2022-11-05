@@ -7,14 +7,11 @@
 ✨ 신규영상
 - `2022.10.27` [`IT기업`](#it기업) > 데보션 10월 Tech 세미나 > [펫밋 개발 스토리 (Flutter 와 Fast API)](https://youtu.be/UmZlKdDbVQk?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2022.10.22` [`보안`](#보안) > 시큐레이어 > 개발자 컨퍼런스 [STICK 2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1)
+- `2022.10.20` [`프론트엔드 & JS`](#프론트엔드--js) > Nest.js Korea > [NestJS Assemble!](https://youtu.be/VH1GTGIMHQw)  
 - `2022.10.19~21` [`IT기업`](#it기업) > 우아한형제들 > [우아콘 2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2)
 - `2022.10.18` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [이미지 분류를 위한 딥러닝 문제해결 패턴](https://youtu.be/0sp92A025So)
 - `2022.10.11` [`인공지능`](#인공지능) > 모두팝 > [AI+Finance](https://youtu.be/TV4aozQkzSY?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2022.10.08` [`프론트엔드 & JS`](#프론트엔드--js) > FEconf > 2022 - [TRACK A](https://youtu.be/jZNk-Ncez6E?t=2627), [TRACK B](https://youtu.be/ajtpcFkXqqg?t=959)
-- `2022.10.01` [`프로그래밍 언어`](#프로그래밍-언어) > 파이콘 한국 > [PyCon.KR 2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn5DjhDAZFTKjJCJSMqeirO)
-- `2022.09.30` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [Learning container from scratch](https://youtu.be/fnZXXL4uGqQ)
-- `2022.09.30` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷 개발자 커뮤니티 > [.NET Conf Mini 22.09](https://youtu.be/Z6Z3qgHYaOg)
-- `2022.09.29` [`IT기업`](#it기업) > 9월 우아한테크세미나 > [기술 커뮤니티의 가치와 Developer Relations](https://youtu.be/jY-HAJlfxSY?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=305)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -41,7 +38,7 @@
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | ✨ [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) - 2022.10.19~21
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
-  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.09.29
+  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.09.29
 
 - 토스
   - [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
@@ -256,13 +253,13 @@
   - [JSConf Korea](https://jsconf.kr) - [2020 Home Edition](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm) - 2020.9.20
 
 - Nest.js Korea
-  - [1st Meetup - Shall we Nest.js?](https://us02web.zoom.us/rec/share/QDb_SYnmCzHCYuhZiJAR7sZCd_fvO_3OYU_tlog56696v2QtLLnEhix4AaLg2TDs.8yb2mG6BE-Oyc1xs) - 2022.05.18
+  - [Shall we Nest.js?](https://youtu.be/AHSHjCVUsu8), ✨ [NestJS Assemble!](https://youtu.be/VH1GTGIMHQw) - 2022.10.20
 
 
 ## 프로그래밍 언어
 
 - 파이콘 한국
-  - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) | ✨ [2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn5DjhDAZFTKjJCJSMqeirO) - 2022.10.01~02
+  - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) | [2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn5DjhDAZFTKjJCJSMqeirO) - 2022.10.01~02
 
 - 한국 스프링 사용자 모임
   - [KSUG](https://www.ksug.org) - [2021 Webinar](https://www.youtube.com/playlist?list=PLn0dGEB80JNQLm7-af9X6Yqx1oBK8YXSm) - 2021.04.30
