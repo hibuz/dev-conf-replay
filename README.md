@@ -308,6 +308,9 @@
 - 네이버 커넥트재단
   - [SEF](https://sef.connect.or.kr) - [2019](https://www.edwith.org/sef-2019/joinLectures/24506) | [2020](https://www.edwith.org/sef2020/joinLectures/46274) | [2021](https://www.edwith.org/sef2021/joinLectures/345759) - 2021.12.15~17
 
+- 인프런
+  - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) - 2022.08.26
+
 - 이노베이션 아카데미
   - [INNO-CON](https://innocon.co.kr) - [CHANGE THE WORLD WITH SOFTWARE](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4) - 2021.12.03
 
