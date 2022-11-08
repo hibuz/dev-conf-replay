@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.11.08` [`오픈소스`](#오픈소스) > 한국전자통신연구원 > ETRI Open Source Tech Day 2022 [Track 01](https://youtu.be/jgfGWpX_Wxo?t=3596), [Track 02](https://youtu.be/phS_Q5PHGV4?t=3642)
 - `2022.10.27` [`IT기업`](#it기업) > 데보션 10월 Tech 세미나 > [펫밋 개발 스토리 (Flutter 와 Fast API)](https://youtu.be/UmZlKdDbVQk?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2022.10.22` [`보안`](#보안) > 시큐레이어 > 개발자 컨퍼런스 [STICK 2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1)
 - `2022.10.20` [`프론트엔드 & JS`](#프론트엔드--js) > Nest.js Korea > [NestJS Assemble!](https://youtu.be/VH1GTGIMHQw)  
@@ -298,7 +299,7 @@
   - [제9회 한국 커뮤니티 데이 - KCD 2020](https://www.youtube.com/watch?v=Scj3YCVPsAU&list=PL8MaVgZDhGk9CYn_IkRkgnN1R7kpE582A&index=7)
 
 - 한국전자통신연구원
-  - [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2021,2020](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) - 2021.11.15
+  - [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2021,2020](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) | ✨ 2022 - [Track 01](https://youtu.be/jgfGWpX_Wxo?t=3596), [Track 02](https://youtu.be/phS_Q5PHGV4?t=3642) - 2022.11.08
 
 
 ## 교육
