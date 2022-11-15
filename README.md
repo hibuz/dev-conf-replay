@@ -8,6 +8,7 @@
 - `2022.11.15` [`인공지능`](#인공지능) > 모두연 코칭스터디 세미나 > [데이터로 스킬 UP!](https://youtu.be/jwnUenNGF04)
 - `2022.11.08~09` [`IT기업`](#it기업) > SK > TECH SUMMIT 2022 [DAY 01](https://youtu.be/oZQf_bDkCAw?t=966)
 - `2022.11.08` [`오픈소스`](#오픈소스) > 한국전자통신연구원 > ETRI Open Source Tech Day 2022 [Track 01](https://youtu.be/jgfGWpX_Wxo?t=3596), [Track 02](https://youtu.be/phS_Q5PHGV4?t=3642)
+- `2022.10.29` [`커뮤니티`](#커뮤니티) > AWS 한국사용자모임 > [AWS Community Day 2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC)
 - `2022.10.27` [`IT기업`](#it기업) > 데보션 10월 Tech 세미나 > [펫밋 개발 스토리 (Flutter 와 Fast API)](https://youtu.be/UmZlKdDbVQk?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2022.10.22` [`보안`](#보안) > 시큐레이어 > 개발자 컨퍼런스 [STICK 2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1)
 - `2022.10.20` [`프론트엔드 & JS`](#프론트엔드--js) > Nest.js Korea > [NestJS Assemble!](https://youtu.be/VH1GTGIMHQw)  
@@ -324,7 +325,7 @@
   - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2022.05.26
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
-  - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) - 2021.10.23
+  - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | ✨ [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) - 2022.10.29
   - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) - 2022.05.24
   
 - 구글 개발자 그룹(GDG KOREA)
