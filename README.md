@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2022.11.15` [`인공지능`](#인공지능) > 모두연 코칭스터디 세미나 > [데이터로 스킬 UP!](https://youtu.be/jwnUenNGF04)
+- `2022.11.08~09` [`프로그래밍 언어`](#프로그래밍-언어) > 그린랩스 > [Dev Dive 2022 - 함수형 개발자로 성장하기](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV)
 - `2022.11.08~09` [`IT기업`](#it기업) > SK > TECH SUMMIT 2022 [DAY 01](https://youtu.be/oZQf_bDkCAw?t=966)
 - `2022.11.08` [`오픈소스`](#오픈소스) > 한국전자통신연구원 > ETRI Open Source Tech Day 2022 [Track 01](https://youtu.be/jgfGWpX_Wxo?t=3596), [Track 02](https://youtu.be/phS_Q5PHGV4?t=3642)
 - `2022.10.29` [`커뮤니티`](#커뮤니티) > AWS 한국사용자모임 > [AWS Community Day 2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC)
@@ -13,7 +14,6 @@
 - `2022.10.22` [`보안`](#보안) > 시큐레이어 > 개발자 컨퍼런스 [STICK 2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1)
 - `2022.10.20` [`프론트엔드 & JS`](#프론트엔드--js) > Nest.js Korea > [NestJS Assemble!](https://youtu.be/VH1GTGIMHQw)  
 - `2022.10.19~21` [`IT기업`](#it기업) > 우아한형제들 > [우아콘 2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2)
-- `2022.10.18` [`인공지능`](#인공지능) > INNOPOLIS AI SPACE-S 인공지능 세미나 > [이미지 분류를 위한 딥러닝 문제해결 패턴](https://youtu.be/0sp92A025So)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -101,7 +101,7 @@
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
 
 - 대덕특구 SPACE-S
-  - ✨ [INNOPOLIS AI SPACE-S 인공지능 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2022.10.18
+  - [INNOPOLIS AI SPACE-S 인공지능 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2022.10.18
 
 - Deeplearning Playground 커뮤니티
   - [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
@@ -285,6 +285,7 @@
   - [Flutter Engage Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTRUeQzsqVg-DgH38ME96w4F) | [FlutterDay 2020 Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSmCR632XO0_cGVN7JjeMHg)
 
 - 그린랩스 송파 클로저
+  - ✨ [Dev Dive 2022 - 함수형 개발자로 성장하기](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV) - 2022.11.08~09
   - Clojure [2022 meetup+](https://youtu.be/BdSoNmWksuk) - 2022.06.10
 
 - 코드스쿼드
