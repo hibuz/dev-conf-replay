@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2022.11.24` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [iOS Web 환경의 비디오 렌더링 최적화 사례](https://youtu.be/p_C7e3sTZkI)
+- `2022.11.22~25` [`교육`](#교육) > 네이버 커넥트재단 > [SOFTWARE EDU FEST(SEF) 2022](https://youtu.be/7ijFcFl9lII?list=PLzUx59pIXJDzmg3SaJCjsJee9eNuTucXd)
 - `2022.11.15~17` [`IT기업`](#it기업) > 삼성 > [SSDC 2022](https://www.youtube.com/playlist?list=PL3M6gp2cSCmDXXhcTLXOQbUiXCMjg8FpN)
 - `2022.11.15` [`인공지능`](#인공지능) > 2022 Connect to Code(C2C) > [산업 환경의 디지털 전환을 위한 AI & 머신러닝](https://youtu.be/As3D_NINZ44?t=1769)
 - `2022.11.15` [`인공지능`](#인공지능) > 모두연 코칭스터디 세미나 > [데이터로 스킬 UP!](https://youtu.be/jwnUenNGF04)
@@ -312,7 +313,7 @@
 ## 교육
 
 - 네이버 커넥트재단
-  - [SEF](https://sef.connect.or.kr) - [2019](https://www.edwith.org/sef-2019/joinLectures/24506) | [2020](https://www.edwith.org/sef2020/joinLectures/46274) | [2021](https://www.edwith.org/sef2021/joinLectures/345759) - 2021.12.15~17
+  - [SEF](https://sef.connect.or.kr) - [2019](https://www.edwith.org/sef-2019/joinLectures/24506) | [2020](https://www.edwith.org/sef2020/joinLectures/46274) | [2021](https://www.edwith.org/sef2021/joinLectures/345759) | ✨ [2022](https://youtu.be/7ijFcFl9lII?list=PLzUx59pIXJDzmg3SaJCjsJee9eNuTucXd) - 2022.11.22~25
 
 - 인프런
   - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) - 2022.08.26
