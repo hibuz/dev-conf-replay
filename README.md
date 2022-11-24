@@ -256,7 +256,7 @@
 ## 프론트엔드 & JS
 
 - 프론트엔드 개발자 컨퍼런스 
-  - FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) | 2022 - [A Track](https://youtu.be/jZNk-Ncez6E?t=2627), [B Track](https://youtu.be/ajtpcFkXqqg?t=959) - 2022.10.08
+  - FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) | 2022 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pajnfobtWKCU9XH3zNNT-v), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pl7L0FZW2XMg7fE3nZAJk3) - 2022.10.08
 
 - 자바스크립트 컨퍼런스 
   - [JSConf Korea](https://jsconf.kr) - [2020 Home Edition](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm) | [2022](https://www.youtube.com/playlist?list=PL37ZVnwpeshH7y4tbeYslJ5MN1JvyYEks) - 2022.09.16~17
