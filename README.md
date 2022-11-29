@@ -7,7 +7,7 @@
 ✨ 신규영상
 - `2022.11.24` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [iOS Web 환경의 비디오 렌더링 최적화 사례](https://youtu.be/p_C7e3sTZkI)
 - `2022.11.22~25` [`교육`](#교육) > 네이버 커넥트재단 > [SOFTWARE EDU FEST(SEF) 2022](https://youtu.be/7ijFcFl9lII?list=PLzUx59pIXJDzmg3SaJCjsJee9eNuTucXd)
-- `2022.11.15~17` [`IT기업`](#it기업) > 삼성 > [SSDC 2022](https://www.youtube.com/playlist?list=PL3M6gp2cSCmDXXhcTLXOQbUiXCMjg8FpN)
+- `2022.11.15~17` [`IT기업`](#it기업) > 삼성 > [SSDC 2022](https://www.ssdc.kr/stream)
 - `2022.11.15` [`인공지능`](#인공지능) > 2022 Connect to Code(C2C) > [산업 환경의 디지털 전환을 위한 AI & 머신러닝](https://youtu.be/As3D_NINZ44?t=1769)
 - `2022.11.15` [`인공지능`](#인공지능) > 모두연 코칭스터디 세미나 > [데이터로 스킬 UP!](https://youtu.be/jwnUenNGF04)
 - `2022.11.08~09` [`프로그래밍 언어`](#프로그래밍-언어) > 그린랩스 > [Dev Dive 2022 - 함수형 개발자로 성장하기](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV)
@@ -53,7 +53,7 @@
   - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.08.30
 
 - 삼성
-  - [SSDC](https://www.soscon.net) - [2020](https://youtu.be/jXNWEFoHRtk) | [2021](https://www.youtube.com/playlist?list=PL3M6gp2cSCmDR6xhznxv8Cgh2JmrZIrcj) | ✨ [2022](https://www.youtube.com/playlist?list=PL3M6gp2cSCmDXXhcTLXOQbUiXCMjg8FpN) - 2022.11.15~17
+  - [SSDC](https://www.ssdc.kr) - [2020](https://soscon2020.ssdc.kr/Session.html) | [2021](https://ssdc2021.ssdc.kr/session) | ✨ [2022](https://www.ssdc.kr/stream) - 2022.11.15~17
 
 - 삼성SDS
   - [Techtonic](https://www.samsungsds.com/kr/event/techtonic2021.html) - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fOXzt9mQfiH_wuRqh6JQFX) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cVhLzgXCyWRDTXsA0Zd0EF) - 2021.11.23~24
