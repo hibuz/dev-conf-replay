@@ -13,8 +13,6 @@
 - `2022.11.08~09` [`프로그래밍 언어`](#프로그래밍-언어) > 그린랩스 > [Dev Dive 2022 - 함수형 개발자로 성장하기](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV)
 - `2022.11.08~09` [`IT기업`](#it기업) > SK > TECH SUMMIT 2022 [DAY 01](https://youtu.be/oZQf_bDkCAw?t=966)
 - `2022.11.08` [`오픈소스`](#오픈소스) > 한국전자통신연구원 > ETRI Open Source Tech Day 2022 [Track 01](https://youtu.be/jgfGWpX_Wxo?t=3596), [Track 02](https://youtu.be/phS_Q5PHGV4?t=3642)
-- `2022.10.29` [`커뮤니티`](#커뮤니티) > AWS 한국사용자모임 > [AWS Community Day 2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC)
-- `2022.10.27` [`IT기업`](#it기업) > 데보션 10월 Tech 세미나 > [펫밋 개발 스토리 (Flutter 와 Fast API)](https://youtu.be/UmZlKdDbVQk?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -116,7 +114,7 @@
   - [데이터 그랜드 컨퍼런스](https://www.dqc.or.kr/grand_conference/event_overview) - [2020](https://www.youtube.com/playlist?list=PLimZR7g-UQN_UZCckMVWe52Ei8SKimY2o) | [2021](https://www.youtube.com/playlist?list=PLimZR7g-UQN8W9IUPqPl-e0yx-Z6nLzWH) - 2021.12.15
 
 - 데이터야놀자
-  - [데이터야놀자](https://datayanolja.kr) - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) - 2021.10.16
+  - [데이터야놀자](https://datayanolja.kr) - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) | [2022](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJrLWUDjhzoHsrZo_7qwYZT) - 2022.10.15
 
 - 빅데이터 연합동아리
   - [보아즈(BOAZ)](https://www.facebook.com/BOAZbigdata) 빅데이터 컨퍼런스 - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) - 2022.07.23
@@ -332,7 +330,7 @@
   - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2022.05.26
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
-  - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | ✨ [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) - 2022.10.29
+  - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) - 2022.10.29
   - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) - 2022.05.24
   
 - 구글 개발자 그룹(GDG KOREA)
