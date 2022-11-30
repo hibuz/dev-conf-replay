@@ -13,6 +13,7 @@
 - `2022.11.08~09` [`프로그래밍 언어`](#프로그래밍-언어) > 그린랩스 > [Dev Dive 2022 - 함수형 개발자로 성장하기](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV)
 - `2022.11.08~09` [`IT기업`](#it기업) > SK > TECH SUMMIT 2022 [DAY 01](https://youtu.be/oZQf_bDkCAw?t=966)
 - `2022.11.08` [`오픈소스`](#오픈소스) > 한국전자통신연구원 > ETRI Open Source Tech Day 2022 [Track 01](https://youtu.be/jgfGWpX_Wxo?t=3596), [Track 02](https://youtu.be/phS_Q5PHGV4?t=3642)
+- `2022.11.04` [`보안`](#보안) > 소프트웨어 개발보안 컨퍼런스 > [2022 다시보기 - 제12회](https://www.youtube.com/watch?v=fO3fQg8qtFY&list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz&index=1)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -220,7 +221,7 @@
   - [SSTF(Samsung Security Tech Forum)](https://research.samsung.com/sstf) - [2021](https://www.youtube.com/playlist?list=PLhpbZcOKxtO1eA3dVfatqd5bpwbGd0oXP) | [2022](https://www.youtube.com/playlist?list=PLhpbZcOKxtO0MkZ88h_y0Xs8VH2rFigWc) - 2022.8.23
 
 - 소프트웨어 개발보안 컨퍼런스
-  - [2021년 제11회 소프트웨어 개발보안 컨퍼런스](https://www.youtube.com/playlist?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz) - 2021.11.05
+  - ✨ [제11회(2021), 제12회(2022) 소프트웨어 개발보안 컨퍼런스](https://www.youtube.com/playlist?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz) - 2022.11.04
 
 - 시큐레이어
   - [개발자 컨퍼런스 STICK 2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) - 2022.10.21
