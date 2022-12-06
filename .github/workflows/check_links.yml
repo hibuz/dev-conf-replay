@@ -26,7 +26,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
 
     - name: Install dependencies
-      run: yarn add markdown-link-extractor@4.0.1 axios
+      run: yarn add markdown-link-extractor@4.0.1 axios@1.2.0
 
     - name: Check links
       run: |
