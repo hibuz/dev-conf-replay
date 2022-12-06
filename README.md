@@ -9,6 +9,8 @@
 - `2022.12.06` [`인공지능`](#인공지능) > 모두팝 > [개발자의 강화학습](https://youtu.be/N83T8B7LB-Q?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2022.11.24` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [iOS Web 환경의 비디오 렌더링 최적화 사례](https://youtu.be/p_C7e3sTZkI)
 - `2022.11.22~25` [`교육`](#교육) > 네이버 커넥트재단 > [SOFTWARE EDU FEST(SEF) 2022](https://youtu.be/7ijFcFl9lII?list=PLzUx59pIXJDzmg3SaJCjsJee9eNuTucXd)
+- `2022.11.17~18` [`IT기업`](#it기업) > LINE 기술 콘퍼런스 > [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg)
+- `2022.11.16~17` [`모빌리티`](#모빌리티) > 현대자동차그룹 > [제2회 HMG 개발자 컨퍼런스](https://www.youtube.com/@hmgdr/videos)
 - `2022.11.15~17` [`IT기업`](#it기업) > 삼성 > [SSDC 2022](https://www.ssdc.kr/stream)
 - `2022.11.15` [`인공지능`](#인공지능) > 2022 Connect to Code(C2C) > [산업 환경의 디지털 전환을 위한 AI & 머신러닝](https://youtu.be/As3D_NINZ44?t=1769)
 - `2022.11.15` [`인공지능`](#인공지능) > 모두연 코칭스터디 세미나 > [데이터로 스킬 UP!](https://youtu.be/jwnUenNGF04)
@@ -31,7 +33,7 @@
   - [if(kakao)](https://if.kakao.com) - [2020](https://if.kakao.com/2020) | [2021](https://if.kakao.com) - 2021.11.16~18
 
 - 라인
-  - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) - 2021.11.10~11
+  - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | ✨ [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) - 2022.11.17~18
   - [개발자 밋업](https://www.youtube.com/playlist?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC) - 2022.04.15
 
 - 쿠팡
@@ -201,7 +203,7 @@
 ## 모빌리티
 
 - 현대자동차
-  - [HMG Developer Conference](https://www.hmgdevcon.com) - [2022, 2021](https://www.youtube.com/@hmgdr/videos) - 2022.11.17~18
+  - ✨ [HMG Developer Conference](https://www.hmgdevcon.com) - [2022, 2021](https://www.youtube.com/@hmgdr/videos) - 2022.11.16~17
 
 - 카카오모빌리티
   - [MEMO](https://nemo.kakaomobility.com) - [2022](https://www.youtube.com/playlist?list=PLAi6ak51pSz2O8W4VPsKsUQ_X4oVcvfz6) - 2022.02.10
