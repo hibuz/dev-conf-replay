@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2022.12.07~09` [`IT기업`](#it기업) > 카카오 > [if(kakao)dev2022](https://if.kakao.com/session?t.bab36uRci8=0)
+- `2022.12.07~08` [`기타`](#기타) > 11번가 > TECH TALK 2022 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9EzCttLVM0uTTC26oBBRrR) [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu8hZ3_F9CU2A7HlkGRyUMUQ)
 - `2022.12.06` [`오픈소스`](#오픈소스) > 오픈업 > [2022공개SW페스티벌](https://youtu.be/RfgJuWulpJA?list=PL8MaVgZDhGk_vU676STGndIbFREkItGuF&t=1769)
 - `2022.12.06` [`인공지능`](#인공지능) > 모두팝 > [개발자의 강화학습](https://youtu.be/N83T8B7LB-Q?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2022.11.24` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [iOS Web 환경의 비디오 렌더링 최적화 사례](https://youtu.be/p_C7e3sTZkI)
@@ -15,9 +16,6 @@
 - `2022.11.15~17` [`IT기업`](#it기업) > 삼성 > [SSDC 2022](https://www.ssdc.kr/stream)
 - `2022.11.15` [`인공지능`](#인공지능) > 2022 Connect to Code(C2C) > [산업 환경의 디지털 전환을 위한 AI & 머신러닝](https://youtu.be/As3D_NINZ44?t=1769)
 - `2022.11.15` [`인공지능`](#인공지능) > 모두연 코칭스터디 세미나 > [데이터로 스킬 UP!](https://youtu.be/jwnUenNGF04)
-- `2022.11.08~09` [`프로그래밍 언어`](#프로그래밍-언어) > 그린랩스 > [Dev Dive 2022 - 함수형 개발자로 성장하기](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV)
-- `2022.11.08~09` [`IT기업`](#it기업) > SK > [TECH SUMMIT 2022](https://www.youtube.com/@sktechsummit/playlists)
-- `2022.11.08` [`오픈소스`](#오픈소스) > 한국전자통신연구원 > ETRI Open Source Tech Day 2022 [Track 01](https://youtu.be/jgfGWpX_Wxo?t=3596), [Track 02](https://youtu.be/phS_Q5PHGV4?t=3642)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -63,7 +61,7 @@
   - REAL - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) - 2021.09.08~09
 
 - SK
-  - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) | ✨ [2022](https://www.youtube.com/@sktechsummit/playlists) - 2022.11.08~09
+  - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) | [2022](https://www.youtube.com/@sktechsummit/playlists) - 2022.11.08~09
   - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2022.10.27
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://youtu.be/tPBTOSvoq30?t=1238) - 2022.09.02
 
@@ -291,7 +289,7 @@
   - [Flutter Engage Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTRUeQzsqVg-DgH38ME96w4F) | [FlutterDay 2020 Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSmCR632XO0_cGVN7JjeMHg)
 
 - 그린랩스 송파 클로저
-  - ✨ [Dev Dive 2022 - 함수형 개발자로 성장하기](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV) - 2022.11.08~09
+  - [Dev Dive 2022 - 함수형 개발자로 성장하기](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV) - 2022.11.08~09
   - Clojure [2022 meetup+](https://youtu.be/BdSoNmWksuk) - 2022.06.10
 
 - 코드스쿼드
@@ -310,7 +308,7 @@
   - [제9회 한국 커뮤니티 데이 - KCD 2020](https://www.youtube.com/watch?v=Scj3YCVPsAU&list=PL8MaVgZDhGk9CYn_IkRkgnN1R7kpE582A&index=7)
 
 - 한국전자통신연구원
-  - [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2021,2020](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) | ✨ 2022 - [Track 01](https://youtu.be/jgfGWpX_Wxo?t=3596), [Track 02](https://youtu.be/phS_Q5PHGV4?t=3642) - 2022.11.08
+  - [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2021,2020](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) | 2022 - [Track 01](https://youtu.be/jgfGWpX_Wxo?t=3596), [Track 02](https://youtu.be/phS_Q5PHGV4?t=3642) - 2022.11.08
 
 
 ## 교육
@@ -348,6 +346,9 @@
 
 - 카카오엔터프라이즈
   - [AI 기반 물류 생태계 플랫폼 LaaS ON 2022](https://www.youtube.com/playlist?list=PLnmMQOipbsPG-Lz2JriQIsFJ60fOoG6ZB) - 2022.05.03
+
+- 11번가
+  - ✨ [TECH TALK](https://techtalk.11stcorp.com) - 2022 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9EzCttLVM0uTTC26oBBRrR) [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu8hZ3_F9CU2A7HlkGRyUMUQ) - 2022.12.07~08
 
 - 티맥스
   - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) - 2020.09.06~07
