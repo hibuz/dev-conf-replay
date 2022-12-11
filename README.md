@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.12.08` [`인공지능`](#인공지능) > LG AI Research > [Talk Concert 2022](https://youtu.be/pmvJK6ZNkHY?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ&t=586)
 - `2022.12.07~09` [`IT기업`](#it기업) > 카카오 > [if(kakao)dev2022](https://if.kakao.com/session?t.bab36uRci8=0)
 - `2022.12.07~08` [`기타`](#기타) > 11번가 > TECH TALK 2022 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9EzCttLVM0uTTC26oBBRrR) [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu8hZ3_F9CU2A7HlkGRyUMUQ)
 - `2022.12.06` [`오픈소스`](#오픈소스) > 오픈업 > [2022공개SW페스티벌](https://youtu.be/RfgJuWulpJA?list=PL8MaVgZDhGk_vU676STGndIbFREkItGuF&t=1769)
@@ -79,7 +80,7 @@
   - ai.x 컨퍼런스 - [2020](https://www.youtube.com/playlist?list=PLSA9fbZw40Pbm-OEWbNBbEkGbrli151ch) | 2021 - [Infra](https://youtu.be/mlAlyWypKaM) | [Data](https://youtu.be/L0Dtb-MKIXU) | [Industrial](https://youtu.be/Hhq3mKm353Q) | [Biomedical](https://youtu.be/0LoGs0ZKNMc) | [Security](https://youtu.be/wlj9ak5MMjs) | [Fireside Chat](https://youtu.be/FzOPuBQ2pV0) | 적용사례 [#1](https://youtu.be/fOSUYBl14r4) [#2](https://youtu.be/Cp4fVzy420s) [#3](https://youtu.be/yegbapNrvS4) - 2021.09.15~16
 
 - LG [AI Research](https://www.lgresearch.ai)
-  - LG [AI Talk Concert](https://www.youtube.com/playlist?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) - 2021.12.14
+  - LG AI Talk Concert - [2021](https://www.youtube.com/playlist?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) | ✨ [2022](https://youtu.be/pmvJK6ZNkHY?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ&t=586) - 2022.12.08
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2021.12.04
