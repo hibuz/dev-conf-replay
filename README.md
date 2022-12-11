@@ -10,6 +10,7 @@
 - `2022.12.07~08` [`기타`](#기타) > 11번가 > TECH TALK 2022 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9EzCttLVM0uTTC26oBBRrR) [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu8hZ3_F9CU2A7HlkGRyUMUQ)
 - `2022.12.06` [`오픈소스`](#오픈소스) > 오픈업 > [2022공개SW페스티벌](https://youtu.be/RfgJuWulpJA?list=PL8MaVgZDhGk_vU676STGndIbFREkItGuF&t=1769)
 - `2022.12.06` [`인공지능`](#인공지능) > 모두팝 > [개발자의 강화학습](https://youtu.be/N83T8B7LB-Q?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2022.11.29~12.02` [`클라우드`](#클라우드) > AWS Korea > [AWS re:Invent 2022 Korean Daily Recap Live](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO)
 - `2022.11.24` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [iOS Web 환경의 비디오 렌더링 최적화 사례](https://youtu.be/p_C7e3sTZkI)
 - `2022.11.22~25` [`교육`](#교육) > 네이버 커넥트재단 > [SOFTWARE EDU FEST(SEF) 2022](https://youtu.be/7ijFcFl9lII?list=PLzUx59pIXJDzmg3SaJCjsJee9eNuTucXd)
 - `2022.11.17~18` [`IT기업`](#it기업) > LINE 기술 콘퍼런스 > [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg)
@@ -140,7 +141,7 @@
   -  [디지털 다카포](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208) - [2022](https://www.youtube.com/playlist?list=PLxTkO33QtxTICeek2PbVPW_zbwZXV0hCe) - 2022.02.08
 
 - AWS [리소스 허브](https://kr-resources.awscloud.com)
-  - AWS re:Invent [2021 한국어 트랙](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | re:Cap [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUXzLlNAXGA1HUG2HFgR5T_Q) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUX9IHNx3Zhzfq-cSF-F2H8I) - 2022.01.26
+  - AWS re:Invent [2021 한국어 트랙](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | re:Cap [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUXzLlNAXGA1HUG2HFgR5T_Q) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUX9IHNx3Zhzfq-cSF-F2H8I) | ✨ [2022 Daily Recap](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO) - 2022.11.29~12.02
 
   - AWS Summit Online Korea [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-) | [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX7j65Uvp9xAi1hMS6M-2P1) - 2022.05.10~11
   - AWS Innovate 2021 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUWUC-lXkou_8oobUArafWE_), [Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB), [앱현대화](https://www.youtube.com/playlist?list=PLORxAVAC5fUUFPs8yy-fvYwI6zYSD-by2) | 2022 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUVqyzPFUXdNnD8k1KYRDbwI), [Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUVlqCYPgAzccuKUcmLinrnh), [For Every App](https://www.youtube.com/playlist?list=PLORxAVAC5fUXIsBWZ4F7Vhx7RnAwszKdb) - 2022.08.25
