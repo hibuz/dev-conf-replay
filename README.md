@@ -304,7 +304,7 @@
 
 ## 오픈소스
 
-- [오픈소스 소프트웨어 통합지원센터](https://festival.oss.kr), 오픈업(Open UP)
+- 오픈소스 소프트웨어 통합지원센터, 오픈업(Open UP)
   - 오픈 테크넷 서밋(Open Technet Summit) - [2020 | 2021 | 2022](https://www.youtube.com/playlist?list=PL8MaVgZDhGk_E0jjMCeTyW3qz5uh86YtJ) - 2022.09.20~22
   - ✨[2020,2021,2022 공개소프트웨어 페스티벌](https://www.youtube.com/playlist?list=PL8MaVgZDhGk_6lUMRnoGQO8Xy4d3RXTDa) - 2022.12.06
   - [제9회 한국 커뮤니티 데이 - KCD 2020](https://www.youtube.com/watch?v=Scj3YCVPsAU&list=PL8MaVgZDhGk9CYn_IkRkgnN1R7kpE582A&index=7)
