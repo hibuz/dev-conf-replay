@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.12.15` [`블록체인`](#블록체인) > 까페24 > NFT 활용 이커머스 성공전략 웨비나](https://youtu.be/KM1-kqSAw3c)
 - `2022.12.08` [`인공지능`](#인공지능) > LG AI Research > [Talk Concert 2022](https://youtu.be/pmvJK6ZNkHY?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ&t=586)
 - `2022.12.07~09` [`IT기업`](#it기업) > 카카오 > [if(kakao)dev2022](https://if.kakao.com/session?t.bab36uRci8=0)
 - `2022.12.07~08` [`기타`](#기타) > 11번가 > TECH TALK 2022 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9EzCttLVM0uTTC26oBBRrR) [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu8hZ3_F9CU2A7HlkGRyUMUQ)
@@ -16,8 +17,6 @@
 - `2022.11.17~18` [`IT기업`](#it기업) > LINE 기술 콘퍼런스 > [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg)
 - `2022.11.16~17` [`모빌리티`](#모빌리티) > 현대자동차그룹 > [제2회 HMG 개발자 컨퍼런스](https://www.youtube.com/@hmgdr/videos)
 - `2022.11.15~17` [`IT기업`](#it기업) > 삼성 > [SSDC 2022](https://www.ssdc.kr/stream)
-- `2022.11.15` [`인공지능`](#인공지능) > 2022 Connect to Code(C2C) > [산업 환경의 디지털 전환을 위한 AI & 머신러닝](https://youtu.be/As3D_NINZ44?t=1769)
-- `2022.11.15` [`인공지능`](#인공지능) > 모두연 코칭스터디 세미나 > [데이터로 스킬 UP!](https://youtu.be/jwnUenNGF04)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -86,7 +85,7 @@
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2021.12.04
   - ✨ [모두팝](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2022.12.06
-  - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), ✨ [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
+  - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
   -  [Pseudo Lab](https://www.facebook.com/groups/pseudolab) - [PseudoCon 2020](https://www.youtube.com/playlist?list=PLyP9gclj-bv6Mn0XFJa1fiNppjGVaILp4) | [제 2회](https://www.youtube.com/playlist?list=PLyP9gclj-bv5ctl36Z-ysQO2U3TRzODDG) - 2021.05.21
@@ -111,7 +110,7 @@
   - [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
 
 - 기타
-  - ✨ [2022 Connect to Code(C2C) - 산업 환경의 디지털 전환을 위한 AI & 머신러닝](https://youtu.be/As3D_NINZ44?t=1769) - 2022.11.15
+  - [2022 Connect to Code(C2C) - 산업 환경의 디지털 전환을 위한 AI & 머신러닝](https://youtu.be/As3D_NINZ44?t=1769) - 2022.11.15
 
 ## 빅데이터
 
@@ -199,6 +198,7 @@
 - 기타
   - 한국인터넷진흥원 - [2022 블록체인 밋업 컨퍼런스](https://youtu.be/IwEjUQbFb2Y?t=1383) - 2022.07.19
   - 테크M - [테크B 콘퍼런스](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2022.08.18
+  - ✨ 까페24 - [NFT 활용 이커머스 성공전략 웨비나](https://youtu.be/KM1-kqSAw3c) - 2022.12.15
 
 
 ## 모빌리티
