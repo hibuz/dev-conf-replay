@@ -10,6 +10,7 @@
 - `2022.12.08` [`인공지능`](#인공지능) > LG AI Research > [Talk Concert 2022](https://youtu.be/pmvJK6ZNkHY?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ&t=586)
 - `2022.12.07~09` [`IT기업`](#it기업) > 카카오 > [if(kakao)dev2022](https://if.kakao.com/session?t.bab36uRci8=0)
 - `2022.12.07~08` [`기타`](#기타) > 11번가 > TECH TALK 2022 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9EzCttLVM0uTTC26oBBRrR) [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu8hZ3_F9CU2A7HlkGRyUMUQ)
+- `2022.12.07` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [프론트엔드 아키텍쳐 변천사: 좋은 개발 경험을 찾아서](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2022.12.06` [`오픈소스`](#오픈소스) > 오픈업 > [2022공개SW페스티벌](https://youtu.be/RfgJuWulpJA?list=PL8MaVgZDhGk_vU676STGndIbFREkItGuF&t=1769)
 - `2022.12.06` [`인공지능`](#인공지능) > 모두팝 > [개발자의 강화학습](https://youtu.be/N83T8B7LB-Q?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2022.11.29~12.02` [`클라우드`](#클라우드) > AWS Korea > [AWS re:Invent 2022 Korean Daily Recap Live](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO)
@@ -341,7 +342,7 @@
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) - 2022.10.29
-  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) - 2022.05.24
+  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) | ✨ [Frontend](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw) - 2022.12.07
   
 - 구글 개발자 그룹(GDG KOREA)
   - I/O Extended - [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX) | 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696), [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
