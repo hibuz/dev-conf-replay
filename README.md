@@ -9,6 +9,7 @@
 - `2022.12.15` [`IT기업`](#it기업) > 데보션 12월 Tech 세미나 > [지식그래프 알아보기](https://youtu.be/Y8AJ3cTALh4?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2022.12.15` [`클라우드`](#클라우드) > 오라클 25th Developer Meetup > [한 단계 진화한 GraalVM, Spring Native 활용해 보기](https://youtu.be/54rxc2dEv10?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2022.12.15` [`블록체인`](#블록체인) > 까페24 > [NFT 활용 이커머스 성공전략 웨비나](https://youtu.be/KM1-kqSAw3c)
+- `2022.12.14` [`클라우드`](#클라우드) > 네이버 클라우드 플랫폼 > [NAVER Cloud SUMMIT 2022](https://www.youtube.com/playlist?list=PLpywxIpxgxhGY6IJW17IW8-eEHmvWa5FK)
 - `2022.12.14` [`커뮤니티`](#커뮤니티) > AWSKRUG 데이터사이언스 소모임 > [ECS로 Airflow 홀로서기](https://youtu.be/s6NMpOA8TUU?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w)
 - `2022.12.08` [`인공지능`](#인공지능) > LG AI Research > [Talk Concert 2022](https://youtu.be/pmvJK6ZNkHY?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ&t=586)
 - `2022.12.07~09` [`IT기업`](#it기업) > 카카오 > [if(kakao)dev2022](https://if.kakao.com/session?t.bab36uRci8=0)
@@ -133,7 +134,7 @@
 ## 클라우드
 
 - 네이버 클라우드 플랫폼 [NCP](https://www.ncloud.com)
-  - [NAVER Cloud Summit 2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhFb9wCdCuiiU6WcWzGFR6c5) - 2021.12.16~17
+  - [NAVER Cloud SUMMIT](https://www.ncloud-online.com) - [2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhFb9wCdCuiiU6WcWzGFR6c5) | ✨ [2022](https://www.youtube.com/playlist?list=PLpywxIpxgxhGY6IJW17IW8-eEHmvWa5FK) - 2022.12.14
   - [2021 GAME X CONFERENCE](https://www.youtube.com/playlist?list=PLpywxIpxgxhHK1dGhSMCeebkNshm_Pvkz) - 2021.10.15
   - [Manufacturing on NAVER Cloud Platform (제조세미나)](https://www.youtube.com/playlist?list=PLpywxIpxgxhHkyuYUHEU2gTVbw1_hjxgd) - 2021.09.16
   - [테크밋업](https://www.youtube.com/playlist?list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK) - 2022.04.20
