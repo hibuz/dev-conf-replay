@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.12.15` [`클라우드`](#클라우드) > 지티플러스 > [Get Tech Day 2022](https://www.youtube.com/playlist?list=PLM48rFX5FOnYZVXnxF49sBtCJCLkDCDo3)
 - `2022.12.15` [`IT기업`](#it기업) > 데보션 12월 Tech 세미나 > [지식그래프 알아보기](https://youtu.be/Y8AJ3cTALh4?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2022.12.15` [`클라우드`](#클라우드) > 오라클 25th Developer Meetup > [한 단계 진화한 GraalVM, Spring Native 활용해 보기](https://youtu.be/54rxc2dEv10?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2022.12.15` [`블록체인`](#블록체인) > 까페24 > [NFT 활용 이커머스 성공전략 웨비나](https://youtu.be/KM1-kqSAw3c)
@@ -169,7 +170,7 @@
   - 쉐어드IT - [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
   - 과학기술정보통신부 - [Open Cloud Platform Summit 2022](https://youtu.be/hATj64Stzq0?t=2804) - 2022.07.20
   - 스마트클라우드쇼2021 - [1일차](https://youtu.be/Y335QzGRz1U) | [2일차](https://youtu.be/Itk2Wy3oiKE) - 2021.09.28~29
-
+  - ✨ 지티플러스 - Get Tech Day [2021](https://www.youtube.com/playlist?list=PLM48rFX5FOnbMQyAZZIGItYhax_B9REC8) | [2022](https://www.youtube.com/playlist?list=PLM48rFX5FOnYZVXnxF49sBtCJCLkDCDo3) - 2022.12.15
 
 ## 인프라 & 데브옵스
 
