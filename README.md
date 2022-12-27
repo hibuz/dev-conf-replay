@@ -218,7 +218,8 @@
   - [NDC](https://ndc.nexon.com) - [2021](http://ndcreplay.nexon.com/#c=NDC2021) | [22](https://ndc.nexon.com/session/sessionDay1) - 2022.06.08~10
 
 - 유니티 코리아
-  - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [Unity Wave 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uskscz6NE7X7KjihUic7YtU) - 2022.05.09~13
+  - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [UNITE 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uudM6ziOyy2Eb8KsARTZsmi) - 2022.11.03
+  - [Unity Wave 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uskscz6NE7X7KjihUic7YtU) - 2022.05.09~13
 
 
 ## 보안
