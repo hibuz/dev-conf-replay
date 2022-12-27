@@ -17,10 +17,8 @@
 - `2022.12.07` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [프론트엔드 아키텍쳐 변천사: 좋은 개발 경험을 찾아서](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2022.12.06` [`오픈소스`](#오픈소스) > 오픈업 > [2022공개SW페스티벌](https://youtu.be/RfgJuWulpJA?list=PL8MaVgZDhGk_vU676STGndIbFREkItGuF&t=1769)
 - `2022.12.06` [`인공지능`](#인공지능) > 모두팝 > [개발자의 강화학습](https://youtu.be/N83T8B7LB-Q?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2022.11.30` [`프로그래밍 언어`](#프로그래밍-언어) > 코드스쿼드 > [Let'Swift 2022](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J)
 - `2022.11.29~12.02` [`클라우드`](#클라우드) > AWS Korea > [AWS re:Invent 2022 Korean Daily Recap Live](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO)
-- `2022.11.26` [`교육`](#교육) > 프로그래머스 > [온라인 컨퍼런스 1st](https://www.youtube.com/playlist?list=PLz4XWo74AOafAHPTyd4ikJwRkXmptWXwI)
-- `2022.11.24` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [iOS Web 환경의 비디오 렌더링 최적화 사례](https://youtu.be/p_C7e3sTZkI)
-- `2022.11.22~25` [`교육`](#교육) > 네이버 커넥트재단 > [SOFTWARE EDU FEST(SEF) 2022](https://youtu.be/7ijFcFl9lII?list=PLzUx59pIXJDzmg3SaJCjsJee9eNuTucXd)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -299,7 +297,7 @@
   - Clojure [2022 meetup+](https://youtu.be/BdSoNmWksuk) - 2022.06.10
 
 - 코드스쿼드
-  - [레츠스위프트](https://letswift.kr) - [2020 테크토크 Day](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER) - 2020.11.30~12.04
+  - [레츠스위프트](https://letswift.kr) - [2020 테크토크 Day](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER) | ✨ [2022](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J) - 2022.11.30
 
 - [한국 R 컨퍼런스](https://use-r.kr)
   - [한국 R 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLhTWL0svc2zy4FB-Dy1yrAaYLmrUjXrPg) - 2021.11.19
@@ -320,13 +318,13 @@
 ## 교육
 
 - 네이버 커넥트재단
-  - [SEF](https://sef.connect.or.kr) - [2019](https://www.edwith.org/sef-2019/joinLectures/24506) | [2020](https://www.edwith.org/sef2020/joinLectures/46274) | [2021](https://www.edwith.org/sef2021/joinLectures/345759) | ✨ [2022](https://youtu.be/7ijFcFl9lII?list=PLzUx59pIXJDzmg3SaJCjsJee9eNuTucXd) - 2022.11.22~25
+  - [SEF](https://sef.connect.or.kr) - [2019](https://www.edwith.org/sef-2019/joinLectures/24506) | [2020](https://www.edwith.org/sef2020/joinLectures/46274) | [2021](https://www.edwith.org/sef2021/joinLectures/345759) | [2022](https://youtu.be/7ijFcFl9lII?list=PLzUx59pIXJDzmg3SaJCjsJee9eNuTucXd) - 2022.11.22~25
 
 - 인프런
   - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) - 2022.08.26
 
 - 프로그래머스
-  - ✨ [프로그래머스 온라인 컨퍼런스 1st](https://www.youtube.com/playlist?list=PLz4XWo74AOafAHPTyd4ikJwRkXmptWXwI) - 2022.11.26
+  - [프로그래머스 온라인 컨퍼런스 1st](https://www.youtube.com/playlist?list=PLz4XWo74AOafAHPTyd4ikJwRkXmptWXwI) - 2022.11.26
 
 - 이노베이션 아카데미
   - [INNO-CON](https://innocon.co.kr) - [CHANGE THE WORLD WITH SOFTWARE](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4) - 2021.12.03
