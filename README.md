@@ -252,6 +252,7 @@
   - [2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy) | [2021](https://www.youtube.com/playlist?list=PLu8dnNjU2FmsROfv5pNAvhRiOFVN_EmnV) - 2021.09.25
 
 - Async Swift Korea
+  - [SyncSwift 2022](https://www.youtube.com/playlist?list=PLu5z3LShQlQXuZKlehlTfGZFc753dkgOs) - 2022.11.12
   - AsyncSwift Seminar [001](https://www.youtube.com/playlist?list=PLu5z3LShQlQURqEqfYc-IfedIq8afW-mc), [002](https://youtu.be/46l90qYNHCc?t=1215) - 2022.09.22
 
 - adiOS Korea
