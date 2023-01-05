@@ -17,8 +17,6 @@
 - `2022.12.07` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [프론트엔드 아키텍쳐 변천사: 좋은 개발 경험을 찾아서](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2022.12.06` [`오픈소스`](#오픈소스) > 오픈업 > [2022공개SW페스티벌](https://youtu.be/RfgJuWulpJA?list=PL8MaVgZDhGk_vU676STGndIbFREkItGuF&t=1769)
 - `2022.12.06` [`인공지능`](#인공지능) > 모두팝 > [개발자의 강화학습](https://youtu.be/N83T8B7LB-Q?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2022.11.30` [`프로그래밍 언어`](#프로그래밍-언어) > 코드스쿼드 > [Let'Swift 2022](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J)
-- `2022.11.29~12.02` [`클라우드`](#클라우드) > AWS Korea > [AWS re:Invent 2022 Korean Daily Recap Live](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -50,11 +48,6 @@
 - 토스
   - [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
   - Simplicity(토스 디자인 컨퍼런스) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR)
-
-- NHN 
-  - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) - 2021.12.14
-  - NHN [Cloud make IT 2022](https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0) - 2022.06.28
-  - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.08.30
 
 - 삼성
   - [SSDC](https://www.ssdc.kr) - [2020](https://soscon2020.ssdc.kr/Session.html) | [2021](https://ssdc2021.ssdc.kr/session) | [2022](https://www.ssdc.kr/stream) - 2022.11.15~17
@@ -138,11 +131,16 @@
   - [테크밋업](https://www.youtube.com/playlist?list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK) - 2022.04.20
   - [온라인 교육](https://www.youtube.com/playlist?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr) - 2022.09.08
 
+- NHN 
+  - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) | [2022](https://www.youtube.com/playlist?list=PL42XJKPNDepYXyKefvicxlA2fz1aThVs5) - 2022.11.24
+  - NHN [Cloud make IT 2022](https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0) - 2022.06.28
+  - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2022.08.30
+
 - 메가존
   -  [디지털 다카포](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208) - [2022](https://www.youtube.com/playlist?list=PLxTkO33QtxTICeek2PbVPW_zbwZXV0hCe) - 2022.02.08
 
 - AWS [리소스 허브](https://kr-resources.awscloud.com)
-  - AWS re:Invent [2021 한국어 트랙](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | re:Cap [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUXzLlNAXGA1HUG2HFgR5T_Q) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUX9IHNx3Zhzfq-cSF-F2H8I) | ✨ [2022 Daily Recap](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO) - 2022.11.29~12.02
+  - AWS re:Invent [2021 한국어 트랙](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | re:Cap [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUXzLlNAXGA1HUG2HFgR5T_Q) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUX9IHNx3Zhzfq-cSF-F2H8I) | [2022 Daily Recap](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO) - 2022.11.29~12.02
 
   - AWS Summit Online Korea [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-) | [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX7j65Uvp9xAi1hMS6M-2P1) - 2022.05.10~11
   - AWS Innovate 2021 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUWUC-lXkou_8oobUArafWE_), [Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB), [앱현대화](https://www.youtube.com/playlist?list=PLORxAVAC5fUUFPs8yy-fvYwI6zYSD-by2) | 2022 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUVqyzPFUXdNnD8k1KYRDbwI), [Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUVlqCYPgAzccuKUcmLinrnh), [For Every App](https://www.youtube.com/playlist?list=PLORxAVAC5fUXIsBWZ4F7Vhx7RnAwszKdb) - 2022.08.25
@@ -299,7 +297,7 @@
   - Clojure [2022 meetup+](https://youtu.be/BdSoNmWksuk) - 2022.06.10
 
 - 코드스쿼드
-  - [레츠스위프트](https://letswift.kr) - [2020 테크토크 Day](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER) | ✨ [2022](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J) - 2022.11.30
+  - [레츠스위프트](https://letswift.kr) - [2020 테크토크 Day](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER) | [2022](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J) - 2022.11.30
 
 - [한국 R 컨퍼런스](https://use-r.kr)
   - [한국 R 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLhTWL0svc2zy4FB-Dy1yrAaYLmrUjXrPg) - 2021.11.19
