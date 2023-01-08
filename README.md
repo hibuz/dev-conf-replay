@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2022.12.18` [`모바일`](#모바일) > adiOS > [2022 Something](https://www.youtube.com/playlist?list=PLUsr11byBStFIg-hhapmB6nuj0dgJQjJ6)
 - `2022.12.15` [`클라우드`](#클라우드) > 지티플러스 > [Get Tech Day 2022](https://www.youtube.com/playlist?list=PLM48rFX5FOnYZVXnxF49sBtCJCLkDCDo3)
 - `2022.12.15` [`IT기업`](#it기업) > 데보션 12월 Tech 세미나 > [지식그래프 알아보기](https://youtu.be/Y8AJ3cTALh4?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2022.12.15` [`클라우드`](#클라우드) > 오라클 25th Developer Meetup > [한 단계 진화한 GraalVM, Spring Native 활용해 보기](https://youtu.be/54rxc2dEv10?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
@@ -245,7 +246,7 @@
   - AsyncSwift Seminar [001](https://www.youtube.com/playlist?list=PLu5z3LShQlQURqEqfYc-IfedIq8afW-mc), [002](https://youtu.be/46l90qYNHCc?t=1215) - 2022.09.22
 
 - adiOS Korea
-  - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9), [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7), [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH), [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei) - 2022.09.03
+  - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9), [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7), [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH), [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei), ✨ [Something](https://www.youtube.com/playlist?list=PLUsr11byBStFIg-hhapmB6nuj0dgJQjJ6) - 2022.12.18
 
 
 ## 프론트엔드 & JS
