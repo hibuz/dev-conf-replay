@@ -96,7 +96,7 @@
 ## 빅데이터
 
 - 한국데이터산업진흥원 
-  - [데이터 그랜드 컨퍼런스](https://www.dqc.or.kr/grand_conference/event_overview) - [2020](https://www.youtube.com/playlist?list=PLimZR7g-UQN_UZCckMVWe52Ei8SKimY2o) | [2021](https://www.youtube.com/playlist?list=PLimZR7g-UQN8W9IUPqPl-e0yx-Z6nLzWH) - 2021.12.15
+  - 데이터 그랜드 컨퍼런스 - [2020](https://www.youtube.com/playlist?list=PLimZR7g-UQN_UZCckMVWe52Ei8SKimY2o) | [2021](https://www.youtube.com/playlist?list=PLimZR7g-UQN8W9IUPqPl-e0yx-Z6nLzWH) | [2022](https://www.youtube.com/playlist?list=PLimZR7g-UQN_LUB4hqb1UB-RNiNWawE_W) - 2022.12.20
 
 - 데이터야놀자
   - [데이터야놀자](https://datayanolja.kr) - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) | [2022](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJrLWUDjhzoHsrZo_7qwYZT) - 2022.10.15
