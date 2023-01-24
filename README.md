@@ -5,7 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-
+- `2023.01.18` [`클라우드`](#클라우드) > 오라클 26th Developer Meetup > [스트리밍 데이터 파이프라인을 위한 OCI 관리형 카프카(Kafka) 서비스 뽀개기](https://youtu.be/mi-ieVzfmAs?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2023.01.04` [`클라우드`](#클라우드) > AWSKRUG 프론트엔드 소모임 > [혼자서 커뮤니티 귀동냥하며 만든 Next.js&Amplify&Serverless framework 서비스 구현후기](https://youtu.be/6XVGbX4Xm4Q?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 
 ⚡ 바로가기
@@ -135,7 +135,7 @@
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
-  - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2022.12.15
+  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.01.18
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
