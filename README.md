@@ -164,7 +164,8 @@
 ## 인프라 & 데브옵스
 
 - 오픈 인프라 커뮤니티
-  - OpenInfra Community Days Korea [2020](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rLLET-H1fS12OF0bBtOE-p) | [2021](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3o6FZNJiB10vReh_iXve6LS) - 2021.12.07~09
+  - [OpenInfra Community Days](https://2022.openinfradays.kr) Korea [2020](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rLLET-H1fS12OF0bBtOE-p) | [2021](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3o6FZNJiB10vReh_iXve6LS) - 2021.12.07~09
+  - [OpenInfra & Cloud Native Days Korea 2022](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rnn_p6QV-GVdgqL-ZgZnZo) - 2022.11.01
 
 - KAFKA 한국 사용자 모임 [KRU](https://www.facebook.com/groups/kafka.kru)
   - Virtual Meetup [2020](https://www.youtube.com/playlist?list=PLUc8G1CJwNG2nJgOqRESbI64C0cWU9-nx) | [2021](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3E3_q6nY2_xM9jjHx0t7bw) | [2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g) - 2022.04.14
