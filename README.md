@@ -65,7 +65,7 @@
   - LG AI Talk Concert - [2021](https://www.youtube.com/playlist?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) | [2022](https://youtu.be/pmvJK6ZNkHY?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ&t=586) - 2022.12.08
 
 - 모두의 연구소
-  - [모두콘](https://moducon.kr) - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) - 2021.12.04
+  - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
   - [모두팝](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2022.12.06
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
