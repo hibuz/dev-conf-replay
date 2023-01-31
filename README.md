@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2023.01.18` [`클라우드`](#클라우드) > 오라클 26th Developer Meetup > [스트리밍 데이터 파이프라인을 위한 OCI 관리형 카프카(Kafka) 서비스 뽀개기](https://youtu.be/mi-ieVzfmAs?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
+- `2023.01.17` [`인공지능`](#인공지능) > 모두팝 > [2023년의 AI 트렌드](https://youtu.be/-g0sNkp9Bhk?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.01.04` [`클라우드`](#클라우드) > AWSKRUG 프론트엔드 소모임 > [혼자서 커뮤니티 귀동냥하며 만든 Next.js&Amplify&Serverless framework 서비스 구현후기](https://youtu.be/6XVGbX4Xm4Q?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 
 ⚡ 바로가기
@@ -66,7 +67,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
-  - [모두팝](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2022.12.06
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.01.17
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
