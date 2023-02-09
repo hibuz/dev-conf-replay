@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2023.02.07` [`인공지능`](#인공지능) > 모두팝 > [구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax](https://youtu.be/R8o581JwhT4?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim&t=711)
 - `2023.01.31` [`인공지능`](#인공지능) > 모두팝 > [커뮤니티로 AI 필드 스며들기](https://youtu.be/qnrtQ8Ofk0Y?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2023.01.28` [`빅데이터`](#빅데이터) > 보아즈 > [제 17회 BOAZ 빅데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS)
 - `2023.01.18` [`클라우드`](#클라우드) > 오라클 26th Developer Meetup > [스트리밍 데이터 파이프라인을 위한 OCI 관리형 카프카(Kafka) 서비스 뽀개기](https://youtu.be/mi-ieVzfmAs?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2023.01.17` [`인공지능`](#인공지능) > 모두팝 > [2023년의 AI 트렌드](https://youtu.be/-g0sNkp9Bhk?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 
@@ -106,7 +107,7 @@
   - [데이터야놀자](https://datayanolja.kr) - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) | [2022](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJrLWUDjhzoHsrZo_7qwYZT) - 2022.10.15
 
 - 빅데이터 연합동아리
-  - [보아즈(BOAZ)](https://www.facebook.com/BOAZbigdata) 빅데이터 컨퍼런스 - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) - 2022.07.23
+  - [보아즈(BOAZ)](https://www.facebook.com/BOAZbigdata) 빅데이터 컨퍼런스 - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) | ✨ [제 17회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS) - 2023.01.28
 
 - MLOps Korea
   - [2021 MLOps KR 1st community](https://www.youtube.com/playlist?list=PLIuC6QlQQF0Pf-aM0tioYTjrnLzaJaGez) - 2021.06.05
