@@ -9,9 +9,7 @@
 - `2023.02.07` [`인공지능`](#인공지능) > 모두팝 > [구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax](https://youtu.be/wN7JxvHz2i4?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.01.31` [`인공지능`](#인공지능) > 모두팝 > [커뮤니티로 AI 필드 스며들기](https://youtu.be/qnrtQ8Ofk0Y?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.01.28` [`빅데이터`](#빅데이터) > 보아즈 > [제 17회 BOAZ 빅데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS)
-- `2023.01.18` [`클라우드`](#클라우드) > 오라클 26th Developer Meetup > [스트리밍 데이터 파이프라인을 위한 OCI 관리형 카프카(Kafka) 서비스 뽀개기](https://youtu.be/mi-ieVzfmAs?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
-- `2023.01.17` [`인공지능`](#인공지능) > 모두팝 > [2023년의 AI 트렌드](https://youtu.be/-g0sNkp9Bhk?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-
+- `2023.01.26` [`IT기업`](#it기업) > 우아한테크세미나 > [배민송년회 퀴즈 서비스, 한 달 안에 만들기](https://youtu.be/nbVF9LzIQMo?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -38,7 +36,7 @@
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) - 2022.10.19~21
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
-  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2022.09.29
+  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.01.26
 
 - 토스
   - [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
@@ -140,7 +138,7 @@
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
-  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.01.18
+  - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.01.18
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
