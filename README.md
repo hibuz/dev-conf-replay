@@ -89,6 +89,7 @@
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
 
 - 대덕특구 SPACE-S
+  - 대전러닝데이 - [DLD 2022](https://www.youtube.com/playlist?list=PLudxIRsX4I3Sj6R-4INhtyNXqC0U5mFuU) - 2022.10.25
   - [INNOPOLIS AI SPACE-S 인공지능 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2022.10.18
 
 - Deeplearning Playground 커뮤니티
