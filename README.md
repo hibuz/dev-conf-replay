@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.02.17` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog > [Datadog APM으로 앱 최적화와 동시에 신속하게 이슈 파악하기](https://youtu.be/2jWPT8uPm7Q)
 - `2023.02.07` [`인공지능`](#인공지능) > 모두팝 > [구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax](https://youtu.be/wN7JxvHz2i4?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.01.31` [`인공지능`](#인공지능) > 모두팝 > [커뮤니티로 AI 필드 스며들기](https://youtu.be/qnrtQ8Ofk0Y?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.01.28` [`빅데이터`](#빅데이터) > 보아즈 > [제 17회 BOAZ 빅데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS)
@@ -168,6 +169,10 @@
 
 - KAFKA 한국 사용자 모임 [KRU](https://www.facebook.com/groups/kafka.kru)
   - Virtual Meetup [2020](https://www.youtube.com/playlist?list=PLUc8G1CJwNG2nJgOqRESbI64C0cWU9-nx) | [2021](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3E3_q6nY2_xM9jjHx0t7bw) | [2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g) - 2022.04.14
+
+- Datadog Korea
+  - Datadog Korea Virtual Summit - [2020](https://www.youtube.com/playlist?list=PLtoDdE_CaqrQVY5iuha4xGMK6smnLfgi4) - 2020.10.30
+  - ✨ [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2022.02.17
 
 - 당근마켓
   - [SRE, SERVER 밋업](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg/playlists)
