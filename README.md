@@ -20,7 +20,7 @@
 
 - 네이버
   - [DEVIEW](https://deview.kr) - [2020](https://tv.naver.com/v/16968202/list/657024) | [2021](https://tv.naver.com/v/23700321/list/753227) - 2021.11.24~26
-  - [TECH CONCERT](https://techcon.naver.com) - [2020](https://tv.naver.com/v/15353556/list/629240) - 2020.08.19~20
+  - TECH CONCERT - [2020](https://tv.naver.com/v/15353556/list/629240) - 2020.08.19~20
   - [NAVER Search Colloquium](https://searchcolloquium.naver.com) - [2021](https://tv.naver.com/v/20307278/list/709884) | [2022](https://tv.naver.com/v/26581332/list/785512) - 2022.05.03
 
 - 카카오
