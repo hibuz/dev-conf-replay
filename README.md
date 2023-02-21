@@ -387,6 +387,12 @@
   - [데브그라운드 2019](https://www.youtube.com/playlist?list=PLVsNizTWUw7HxXDshrgEr5eeHf2cqjtqA) | [데브그라운드 주니어 2019](https://www.youtube.com/playlist?list=PLVsNizTWUw7EOvb0_pJ94NZRnScD0jpzI) - 2019.12.13
 
 
+## 추가리소스
+- [무료 프로그래밍 Ebook](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ko.md)
+- [프로그래밍 언어별 데이터 구조 및 알고리즘 학습](https://github.com/TheAlgorithms)
+
+
 ## 참고링크
 - https://github.com/brave-people/Dev-Event
 - https://gent.tistory.com/category/IT%EC%A0%95%EB%B3%B4/IT%EC%84%B8%EB%AF%B8%EB%82%98
+
