@@ -117,7 +117,7 @@
 
 ## 클라우드
 
-- 네이버 클라우드 플랫폼 [NCP](https://www.ncloud.com)
+- 네이버 클라우드 플랫폼(NCP)
   - [NAVER Cloud SUMMIT](https://www.ncloud-online.com) - [2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhFb9wCdCuiiU6WcWzGFR6c5) | [2022](https://www.youtube.com/playlist?list=PLpywxIpxgxhGY6IJW17IW8-eEHmvWa5FK) - 2022.12.14
   - [2021 GAME X CONFERENCE](https://www.youtube.com/playlist?list=PLpywxIpxgxhHK1dGhSMCeebkNshm_Pvkz) - 2021.10.15
   - [Manufacturing on NAVER Cloud Platform (제조세미나)](https://www.youtube.com/playlist?list=PLpywxIpxgxhHkyuYUHEU2gTVbw1_hjxgd) - 2021.09.16
