@@ -5,10 +5,10 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-
 - `2023.02.23` [`IT기업`](#it기업) > LINE DEV Meetup #13 > [NGINX, 기술 부채가 되지 않으려면?](https://youtu.be/h0LMEVDXCxE?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC)
 - `2023.02.23` [`IT기업`](#it기업) > 데보션 2월 Tech 세미나 > [성능 테스트와 K6 도구 소개](https://youtu.be/MqdQc4vd_ws?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.02.21` [`인공지능`](#인공지능) > 모두팝 > [빨리 뛰어서 딥러닝 속으로](https://youtu.be/W4DY1-KOo0g?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2023.02.20~21` [`모바일`](#모바일) > IMQA > [IMDEV 2023](https://www.youtube.com/playlist?list=PLmTSJ8F4eG5EUbh2Y4zcaiXZoNgLQoRyK)
 - `2023.02.17` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog > [Datadog APM으로 앱 최적화와 동시에 신속하게 이슈 파악하기](https://youtu.be/2jWPT8uPm7Q)
 - `2023.02.07` [`인공지능`](#인공지능) > 모두팝 > [구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax](https://youtu.be/wN7JxvHz2i4?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.02.01` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [AWS Amplify Hosting 으로 SPA 프론트엔드 프로젝트 운영 후기](https://youtu.be/qnrtQ8Ofk0Y?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
@@ -257,6 +257,8 @@
 - adiOS Korea
   - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9), [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7), [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH), [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei), [Something](https://www.youtube.com/playlist?list=PLUsr11byBStFIg-hhapmB6nuj0dgJQjJ6) - 2022.12.18
 
+- 기타
+  - ✨ IMQA > [IMDEV 2023](https://www.youtube.com/playlist?list=PLmTSJ8F4eG5EUbh2Y4zcaiXZoNgLQoRyK) - 2023.02.20~21
 
 ## 프론트엔드 & JS
 
