@@ -5,6 +5,8 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+
+- `2023.02.23` [`IT기업`](#it기업) > LINE DEV Meetup #13 > [NGINX, 기술 부채가 되지 않으려면?](https://youtu.be/h0LMEVDXCxE?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC)
 - `2023.02.23` [`IT기업`](#it기업) > 데보션 2월 Tech 세미나 > [성능 테스트와 K6 도구 소개](https://youtu.be/MqdQc4vd_ws?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.02.21` [`인공지능`](#인공지능) > 모두팝 > [빨리 뛰어서 딥러닝 속으로](https://youtu.be/W4DY1-KOo0g?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.02.17` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog > [Datadog APM으로 앱 최적화와 동시에 신속하게 이슈 파악하기](https://youtu.be/2jWPT8uPm7Q)
@@ -30,7 +32,7 @@
 
 - 라인
   - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) - 2022.11.17~18
-  - [개발자 밋업](https://www.youtube.com/playlist?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC) - 2022.04.15
+  - ✨ [개발자 밋업](https://www.youtube.com/playlist?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC) - 2023.02.23
 
 - 쿠팡
   - [Reveal](https://event.coupangcorp.com) - [2020](https://www.youtube.com/playlist?list=PLPEWOJIs9P6gZJU6aXPilU-kXHVXOPiNz) | [2021](https://www.youtube.com/playlist?list=PLPEWOJIs9P6jjpZqjLMt4GrwxjZ4xRaNp) - 2021.12.09
