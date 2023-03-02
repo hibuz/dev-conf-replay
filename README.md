@@ -12,6 +12,7 @@
 - `2023.02.20~21` [`모바일`](#모바일) > IMQA > [IMDEV 2023](https://www.youtube.com/playlist?list=PLmTSJ8F4eG5EUbh2Y4zcaiXZoNgLQoRyK)
 - `2023.02.17` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog > [Datadog APM으로 앱 최적화와 동시에 신속하게 이슈 파악하기](https://youtu.be/2jWPT8uPm7Q)
 - `2023.02.17` [`IT기업`](#it기업) > 제3회 데보션(DEVOCEAN) > [테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_)
+- `2023.02.15` [`클라우드`](#클라우드) > 오라클 27th Developer Meetup > [애플리케이션 개발 필수 서비스, DevOps 활용하기](https://youtu.be/0ogE_jxRhSE?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2023.02.07` [`인공지능`](#인공지능) > 모두팝 > [구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax](https://youtu.be/wN7JxvHz2i4?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 
 ⚡ 바로가기
@@ -142,7 +143,7 @@
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
-  - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.01.18
+  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.02.15
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
