@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.03.07` [`인공지능`](#인공지능) > 모두팝 > [StableDiffusion과 ChatGPT](https://youtu.be/qPZdD15R8sE?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim&t=601)
 - `2023.02.28` [`클라우드`](#클라우드) > NHN Cloud On 웨비나 13 > [개발자도 알아두면 유용한 데이터베이스 관리 방법은?](https://youtu.be/1XZYfSUZ5_w?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
 - `2023.02.23` [`IT기업`](#it기업) > LINE DEV Meetup #13 > [NGINX, 기술 부채가 되지 않으려면?](https://youtu.be/h0LMEVDXCxE?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC)
 - `2023.02.23` [`IT기업`](#it기업) > 데보션 2월 Tech 세미나 > [성능 테스트와 K6 도구 소개](https://youtu.be/MqdQc4vd_ws?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
@@ -13,7 +14,6 @@
 - `2023.02.17` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog > [Datadog APM으로 앱 최적화와 동시에 신속하게 이슈 파악하기](https://youtu.be/2jWPT8uPm7Q)
 - `2023.02.17` [`IT기업`](#it기업) > 제3회 데보션(DEVOCEAN) > [테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_)
 - `2023.02.15` [`클라우드`](#클라우드) > 오라클 27th Developer Meetup > [애플리케이션 개발 필수 서비스, DevOps 활용하기](https://youtu.be/0ogE_jxRhSE?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
-- `2023.02.07` [`인공지능`](#인공지능) > 모두팝 > [구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax](https://youtu.be/wN7JxvHz2i4?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -73,7 +73,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.02.21
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.03.07
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
