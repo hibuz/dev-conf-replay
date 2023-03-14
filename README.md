@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2023.03.08` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [서버리스로 만드는 테스트 커버리지 배지 서비스](https://youtu.be/xi9_uJ1no0c?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.03.07` [`인공지능`](#인공지능) > 모두팝 > [StableDiffusion과 ChatGPT](https://youtu.be/2O-ZlI8Xajg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2023.02.28` [`IT기업`](#it기업) > 우아한테크세미나 > [RDS Aurora Graviton2 성능 이슈 해결 사례와 RDS를 모니터링하는 방법](https://youtu.be/c6mak2ioTqs?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2023.02.28` [`클라우드`](#클라우드) > NHN Cloud On 웨비나 13 > [개발자도 알아두면 유용한 데이터베이스 관리 방법은?](https://youtu.be/1XZYfSUZ5_w?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
 - `2023.02.23` [`IT기업`](#it기업) > LINE DEV Meetup #13 > [NGINX, 기술 부채가 되지 않으려면?](https://youtu.be/h0LMEVDXCxE?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC)
 - `2023.02.23` [`IT기업`](#it기업) > 데보션 2월 Tech 세미나 > [성능 테스트와 K6 도구 소개](https://youtu.be/MqdQc4vd_ws?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
@@ -40,11 +41,11 @@
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) - 2022.10.19~21
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
-  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.01.26
+  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.02.28
 
 - 토스
   - [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
-  - Simplicity(토스 디자인 컨퍼런스) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR)
+  - Simplicity(토스 디자인 컨퍼런스) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) - 2021.08.30~09.02
 
 - 삼성
   - [SSDC](https://www.ssdc.kr) - [2020](https://soscon2020.ssdc.kr/Session.html) | [2021](https://ssdc2021.ssdc.kr/session) | [2022](https://www.ssdc.kr/stream) - 2022.11.15~17
@@ -60,7 +61,7 @@
 
 - LG CNS
   - [뉴 노멀시대에 필요한 Application Modernization](https://www.youtube.com/playlist?list=PLxcN3kbNdAoAYrRZjyfqp9Mv5Au2mJduT) | [CloudXper ProOps Launching Webinar](https://www.youtube.com/playlist?list=PLxcN3kbNdAoA8N1kDA9ur88spcxOAf-dg) | [Security Summit 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoBZhTTb_X_-xZfNGsss2hle) | [Entrue SMART DX 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoDeRx9vqmpJRPJsASECi8qw)
-  - [AI Day 2020](https://www.youtube.com/playlist?list=PLxcN3kbNdAoBte9-xyUhS43tWPbiBubah)
+  - [AI Day 2020](https://www.youtube.com/playlist?list=PLxcN3kbNdAoBte9-xyUhS43tWPbiBubah) - 2020.10.15
 
 
 ## 인공지능
@@ -90,7 +91,7 @@
   - [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
   - [AI·DX Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Kpjjo1SW29u0XnT7JiMNMU0) - 2022.04.22
   - AI 차세대 컨택센터 컨퍼런스 2021 [제4회](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY) | [제5회](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8) | 2022 [제6회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) - 2022.03.25
-  - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy)
+  - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy) - 2021.09.09
 
 - 대덕특구 SPACE-S
   - 대전러닝데이 - [DLD 2022](https://www.youtube.com/playlist?list=PLudxIRsX4I3Sj6R-4INhtyNXqC0U5mFuU) - 2022.10.25
@@ -156,7 +157,7 @@
 
 - [Kubernetes Korea Group](https://www.facebook.com/groups/k8skr)
   - Kubernetes Community Day [KCD Korea 2021](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Mgj7OKf1SHjgAp2UQtey_I) - 2021.09.09
-  - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN)
+  - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN) - 2020.10.29
 
 - 기타
   - 쉐어드IT - [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
@@ -178,7 +179,7 @@
   - ✨ [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2022.02.17
 
 - 당근마켓
-  - [SRE, SERVER 밋업](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg/playlists)
+  - [SRE, SERVER 밋업](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg/playlists) - 2021.12.20
 
 - 하이퍼커넥트
   - [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
@@ -311,7 +312,7 @@
 - 오픈소스 소프트웨어 통합지원센터, 오픈업(Open UP)
   - 오픈 테크넷 서밋(Open Technet Summit) - [2020 | 2021 | 2022](https://www.youtube.com/playlist?list=PL8MaVgZDhGk_E0jjMCeTyW3qz5uh86YtJ) - 2022.09.20~22
   - [2020,2021,2022 공개소프트웨어 페스티벌](https://www.youtube.com/playlist?list=PL8MaVgZDhGk_6lUMRnoGQO8Xy4d3RXTDa) - 2022.12.06
-  - [제9회 한국 커뮤니티 데이 - KCD 2020](https://www.youtube.com/watch?v=Scj3YCVPsAU&list=PL8MaVgZDhGk9CYn_IkRkgnN1R7kpE582A&index=7)
+  - [제9회 한국 커뮤니티 데이 - KCD 2020](https://www.youtube.com/watch?v=Scj3YCVPsAU&list=PL8MaVgZDhGk9CYn_IkRkgnN1R7kpE582A&index=7) - 2020.11.07
 
 - 한국전자통신연구원
   - [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2021,2020](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) | 2022 - [Track 01](https://youtu.be/jgfGWpX_Wxo?t=3596), [Track 02](https://youtu.be/phS_Q5PHGV4?t=3642) - 2022.11.08
