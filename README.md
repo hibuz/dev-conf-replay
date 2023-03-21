@@ -7,6 +7,7 @@
 ✨ 신규영상
 
 - `2023.03.21` [`인공지능`](#인공지능) > 모두팝 > [글로벌 MLOps 트렌드와 한국형 MLOps 전략](https://youtu.be/DRIEKB9smBY?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim&t=188)
+- `2023.03.16` [`블록체인`](#블록체인) > 업비트 > [DCON 2023 - 건전한 시장 조성을 위한 디지털자산 컨퍼런스](https://www.youtube.com/playlist?list=PLjziuUtwQOz1n1GLizGeUOquf5rNdZAlx)
 - `2023.03.08` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [서버리스로 만드는 테스트 커버리지 배지 서비스](https://youtu.be/xi9_uJ1no0c?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.03.07` [`인공지능`](#인공지능) > 모두팝 > [StableDiffusion과 ChatGPT](https://youtu.be/2O-ZlI8Xajg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.02.28` [`IT기업`](#it기업) > 우아한테크세미나 > [RDS Aurora Graviton2 성능 이슈 해결 사례와 RDS를 모니터링하는 방법](https://youtu.be/c6mak2ioTqs?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
@@ -192,6 +193,7 @@
 
 - 업비트 
   - [UDC](https://udc.upbit.com/) - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) | 2022 - [Day 1](https://www.youtube.com/playlist?list=PLyONEtYCZLWUc2WPlZQ2tCqImSGyjw4o5), [Day 2](https://www.youtube.com/playlist?list=PLyONEtYCZLWX7GQPXn2cMjowhbUcVmpT0) - 2022.09.22~23
+  - ✨ [DCON 2023](https://www.youtube.com/playlist?list=PLjziuUtwQOz1n1GLizGeUOquf5rNdZAlx) - 2023.03.16
 
 - 람다256 
   - [Luniverse](https://luniverse.io/blog/?lang=ko) - [2021](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn) | [2022](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
