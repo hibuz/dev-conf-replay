@@ -5,6 +5,8 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+
+- `2023.03.21` [`인공지능`](#인공지능) > 모두팝 > [글로벌 MLOps 트렌드와 한국형 MLOps 전략](https://youtu.be/DRIEKB9smBY?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim&t=188)
 - `2023.03.08` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [서버리스로 만드는 테스트 커버리지 배지 서비스](https://youtu.be/xi9_uJ1no0c?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.03.07` [`인공지능`](#인공지능) > 모두팝 > [StableDiffusion과 ChatGPT](https://youtu.be/2O-ZlI8Xajg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.02.28` [`IT기업`](#it기업) > 우아한테크세미나 > [RDS Aurora Graviton2 성능 이슈 해결 사례와 RDS를 모니터링하는 방법](https://youtu.be/c6mak2ioTqs?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
@@ -72,7 +74,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.03.07
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.03.21
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
