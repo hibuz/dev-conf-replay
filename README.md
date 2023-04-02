@@ -7,12 +7,12 @@
 ✨ 신규영상
 
 - `2023.03.28` [`클라우드`](#클라우드) > NHN Cloud On 웨비나 14 > [NHN Cloud를 여행하는 히치하이커를 위한 안내서](https://youtu.be/DZfKLCjPAPs?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
+- `2023.03.23` [`보안`](#보안) > 데일리시큐 > [G-PRIVACY 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm)
 - `2023.03.23` [`IT기업`](#it기업) > 데보션 3월 Tech 세미나 > [Datadog의 FrontEnd에서 BackEnd까지의 여정](https://youtu.be/Y_XWnw-ESeY?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.03.21` [`인공지능`](#인공지능) > 모두팝 > [글로벌 MLOps 트렌드와 한국형 MLOps 전략](https://youtu.be/DRIEKB9smBY?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim&t=188)
 - `2023.03.16` [`블록체인`](#블록체인) > 업비트 > [DCON 2023 - 건전한 시장 조성을 위한 디지털자산 컨퍼런스](https://www.youtube.com/playlist?list=PLjziuUtwQOz1n1GLizGeUOquf5rNdZAlx)
 - `2023.03.08` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [서버리스로 만드는 테스트 커버리지 배지 서비스](https://youtu.be/xi9_uJ1no0c?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.03.07` [`인공지능`](#인공지능) > 모두팝 > [StableDiffusion과 ChatGPT](https://youtu.be/2O-ZlI8Xajg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2023.02.28` [`IT기업`](#it기업) > 우아한테크세미나 > [RDS Aurora Graviton2 성능 이슈 해결 사례와 RDS를 모니터링하는 방법](https://youtu.be/c6mak2ioTqs?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -233,6 +233,7 @@
 
 - 데일리시큐
   - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) - 2022.09.28
+  - ✨ [G-PRIVACY 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) - 2023.03.23
 
 
 - 안랩(AhnLab)
