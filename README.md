@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 
+- `2023.03.29` [`IT기업`](#it기업) > 우아한테크세미나 > [테크 리더 3인이 말하는 "개발자 원칙"](https://youtu.be/DJCmvzhFVOI)
 - `2023.03.28` [`인공지능`](#인공지능) > 모두팝 > [급변하는 세상에서 커리어란?](https://youtu.be/JOv1yy2bnaU?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.03.28` [`클라우드`](#클라우드) > NHN Cloud On 웨비나 14 > [NHN Cloud를 여행하는 히치하이커를 위한 안내서](https://youtu.be/DZfKLCjPAPs?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
 - `2023.03.23` [`보안`](#보안) > 데일리시큐 > [G-PRIVACY 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm)
@@ -40,7 +41,7 @@
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) - 2022.10.19~21
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
-  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.02.28
+  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.03.29
 
 - 토스
   - [SLASH](https://toss.im/slash-22) - [21, 22](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2022.06.08~10
