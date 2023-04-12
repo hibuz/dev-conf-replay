@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 
+- `2023.04.05` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2023 블록체인 밋업 컨퍼런스](https://www.youtube.com/playlist?list=PLiagZi75rsoZ4keCGjZdvafP_WmZChvOr)
 - `2023.03.29` [`IT기업`](#it기업) > 우아한테크세미나 > [테크 리더 3인이 말하는 "개발자 원칙"](https://youtu.be/DJCmvzhFVOI)
 - `2023.03.28` [`커뮤니티`](#커뮤니티) > AWSKRUG GameTech 소모임 > [RDS online alter부터 CPU 100% 장애까지 & 데브시스터즈 사내방송 인프라 제작기](https://youtu.be/6CI-FgrWmrA?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9)
 - `2023.03.28` [`인공지능`](#인공지능) > 모두팝 > [급변하는 세상에서 커리어란?](https://youtu.be/JOv1yy2bnaU?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
@@ -15,7 +16,6 @@
 - `2023.03.21` [`인공지능`](#인공지능) > 모두팝 > [글로벌 MLOps 트렌드와 한국형 MLOps 전략](https://youtu.be/DRIEKB9smBY?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim&t=188)
 - `2023.03.16` [`블록체인`](#블록체인) > 업비트 > [DCON 2023 - 건전한 시장 조성을 위한 디지털자산 컨퍼런스](https://www.youtube.com/playlist?list=PLjziuUtwQOz1n1GLizGeUOquf5rNdZAlx)
 - `2023.03.08` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [서버리스로 만드는 테스트 커버리지 배지 서비스](https://youtu.be/xi9_uJ1no0c?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
-- `2023.03.07` [`인공지능`](#인공지능) > 모두팝 > [StableDiffusion과 ChatGPT](https://youtu.be/2O-ZlI8Xajg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -201,8 +201,10 @@
 - 람다256 
   - [Luniverse](https://luniverse.io/blog/?lang=ko) - [2021](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn) | [2022](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
 
+- 한국인터넷진흥원
+  - ✨ 블록체인 밋업 컨퍼런스 - [2022](https://www.youtube.com/playlist?list=PLiagZi75rsoZBPHOtg-ASJOkx3meCG_c-) | [2023](https://www.youtube.com/playlist?list=PLiagZi75rsoZ4keCGjZdvafP_WmZChvOr) - 2023.04.05
+
 - 기타
-  - 한국인터넷진흥원 - [2022 블록체인 밋업 컨퍼런스](https://youtu.be/IwEjUQbFb2Y?t=1383) - 2022.07.19
   - 테크M - [테크B 콘퍼런스](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2022.08.18
   - 까페24 - [NFT 활용 이커머스 성공전략 웨비나](https://youtu.be/KM1-kqSAw3c) - 2022.12.15
 
