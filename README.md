@@ -6,6 +6,8 @@
 
 ✨ 신규영상
 
+
+- `2023.04.11` [`인공지능`](#인공지능) > 모두팝 > [Flutter 2023년 전략과 로드맵](https://youtu.be/h9ydT_9X26c?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim&t=654)
 - `2023.04.05` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [UI 개발 프로세스를 간소화시키는 스토리북 전반적인 소개](https://youtu.be/M6njEpzPicE?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.04.05` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2023 블록체인 밋업 컨퍼런스](https://www.youtube.com/playlist?list=PLiagZi75rsoZ4keCGjZdvafP_WmZChvOr)
 - `2023.03.29` [`IT기업`](#it기업) > 우아한테크세미나 > [테크 리더 3인이 말하는 "개발자 원칙"](https://youtu.be/DJCmvzhFVOI)
@@ -76,7 +78,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.03.28
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.04.11
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
@@ -181,7 +183,7 @@
 
 - Datadog Korea
   - Datadog Korea Virtual Summit - [2020](https://www.youtube.com/playlist?list=PLtoDdE_CaqrQVY5iuha4xGMK6smnLfgi4) - 2020.10.30
-  - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2022.02.17
+  - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2023.02.17
 
 - 당근마켓
   - [SRE, SERVER 밋업](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg/playlists) - 2021.12.20
