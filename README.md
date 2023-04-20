@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 
+Cloud Hadoop을 활용한 데이터 분석 기초
 - `2023.04.20` [`IT기업`](#it기업) > 데보션 4월 Tech 세미나 > [ChatGPT로 인한 새로운 패러다임](https://youtu.be/Aa02UFAB9To?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.04.12` [`클라우드`](#클라우드) > 오라클 29th Developer Meetup > [비전문가도 쉽게 활용 가능한 오라클 자율운영 데이터베이스에서 머신러닝하기](https://youtu.be/EhNn6-3UbTc?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2023.04.11` [`인프라 & 데브옵스`](#인프라--데브옵스) > HashiCorp > [HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://www.youtube.com/playlist?list=PL81sUbsFNc5ZkHno0jkNtQJgWdlY_xpG7)
@@ -135,7 +136,7 @@
   - [2021 GAME X CONFERENCE](https://www.youtube.com/playlist?list=PLpywxIpxgxhHK1dGhSMCeebkNshm_Pvkz) - 2021.10.15
   - [Manufacturing on NAVER Cloud Platform (제조세미나)](https://www.youtube.com/playlist?list=PLpywxIpxgxhHkyuYUHEU2gTVbw1_hjxgd) - 2021.09.16
   - [테크밋업](https://www.youtube.com/playlist?list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK) - 2022.04.20
-  - [온라인 교육](https://www.youtube.com/playlist?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr) - 2022.12.15
+  - [온라인 교육](https://www.youtube.com/playlist?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr) - 2023.03.15
 
 - NHN 
   - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) | [2022](https://www.youtube.com/playlist?list=PL42XJKPNDepYXyKefvicxlA2fz1aThVs5) - 2022.11.24
@@ -203,7 +204,7 @@
 
 - 업비트 
   - [UDC](https://udc.upbit.com/) - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) | 2022 - [Day 1](https://www.youtube.com/playlist?list=PLyONEtYCZLWUc2WPlZQ2tCqImSGyjw4o5), [Day 2](https://www.youtube.com/playlist?list=PLyONEtYCZLWX7GQPXn2cMjowhbUcVmpT0) - 2022.09.22~23
-  - ✨ [DCON 2023](https://www.youtube.com/playlist?list=PLjziuUtwQOz1n1GLizGeUOquf5rNdZAlx) - 2023.03.16
+  - [DCON 2023](https://www.youtube.com/playlist?list=PLjziuUtwQOz1n1GLizGeUOquf5rNdZAlx) - 2023.03.16
 
 - 람다256 
   - [Luniverse](https://luniverse.io/blog/?lang=ko) - [2021](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn) | [2022](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
