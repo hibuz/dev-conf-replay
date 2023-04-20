@@ -98,7 +98,7 @@
   - 솔트룩스 인공지능 컨퍼런스(SAC) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2022](https://youtu.be/D5fOutPofgk) - 2022.06.22
 
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
-  - [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
+  - AI·DATA Summit Korea - [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) | [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kps9gFH2inwXqM2F1AASWhE) - 2023.02.24
   - [AI·DX Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Kpjjo1SW29u0XnT7JiMNMU0) - 2022.04.22
   - AI 차세대 컨택센터 컨퍼런스 2021 [제4회](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY) | [제5회](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8) | 2022 [제6회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) | ✨ [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp6LCKlJ8S2hCgxwHd-_sOM) - 2023.03.24
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy) - 2021.09.09
