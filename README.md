@@ -19,6 +19,7 @@
 - `2023.03.28` [`클라우드`](#클라우드) > NHN Cloud On 웨비나 14 > [NHN Cloud를 여행하는 히치하이커를 위한 안내서](https://youtu.be/DZfKLCjPAPs?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
 - `2023.03.23` [`보안`](#보안) > 데일리시큐 > [G-PRIVACY 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm)
 - `2023.03.23` [`IT기업`](#it기업) > 데보션 3월 Tech 세미나 > [Datadog의 FrontEnd에서 BackEnd까지의 여정](https://youtu.be/Y_XWnw-ESeY?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
+- `2023.03.23` [`인공지능`](#인공지능) > 전자신문 allshow TV > [AI 차세대 컨택센터 컨퍼런스 2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp6LCKlJ8S2hCgxwHd-_sOM)
 - `2023.03.21` [`인공지능`](#인공지능) > 모두팝 > [글로벌 MLOps 트렌드와 한국형 MLOps 전략](https://youtu.be/DRIEKB9smBY?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim&t=188)
 
 
@@ -99,7 +100,7 @@
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - [AI·DATA Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) - 2022.02.25
   - [AI·DX Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Kpjjo1SW29u0XnT7JiMNMU0) - 2022.04.22
-  - AI 차세대 컨택센터 컨퍼런스 2021 [제4회](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY) | [제5회](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8) | 2022 [제6회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) - 2022.03.25
+  - AI 차세대 컨택센터 컨퍼런스 2021 [제4회](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY) | [제5회](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8) | 2022 [제6회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) | ✨ [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp6LCKlJ8S2hCgxwHd-_sOM) - 2023.03.24
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy) - 2021.09.09
 
 - 대덕특구 SPACE-S
