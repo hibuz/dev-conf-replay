@@ -6,7 +6,6 @@
 
 ✨ 신규영상
 
-Cloud Hadoop을 활용한 데이터 분석 기초
 - `2023.04.20` [`IT기업`](#it기업) > 데보션 4월 Tech 세미나 > [ChatGPT로 인한 새로운 패러다임](https://youtu.be/Aa02UFAB9To?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.04.12` [`클라우드`](#클라우드) > 오라클 29th Developer Meetup > [비전문가도 쉽게 활용 가능한 오라클 자율운영 데이터베이스에서 머신러닝하기](https://youtu.be/EhNn6-3UbTc?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2023.04.11` [`인프라 & 데브옵스`](#인프라--데브옵스) > HashiCorp > [HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://www.youtube.com/playlist?list=PL81sUbsFNc5ZkHno0jkNtQJgWdlY_xpG7)
@@ -14,6 +13,7 @@ Cloud Hadoop을 활용한 데이터 분�
 - `2023.04.05` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [UI 개발 프로세스를 간소화시키는 스토리북 전반적인 소개](https://youtu.be/M6njEpzPicE?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.04.05` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2023 블록체인 밋업 컨퍼런스](https://www.youtube.com/playlist?list=PLiagZi75rsoZ4keCGjZdvafP_WmZChvOr)
 - `2023.03.30` [`커뮤니티`](#커뮤니티) > AWSKRUG Architecture 소모임 > [컨플루언트 클라우드로 데이터 연계하기](https://youtu.be/8-yk-kXJ2lE?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-)
+- `2023.03.29` [`기타`](#기타) > 테크잼연구소 > [클라우드 2023 : 디지털 대전환과 초거대 AI](https://youtu.be/fmUoLHOJ7tQ?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo)
 - `2023.03.29` [`IT기업`](#it기업) > 우아한테크세미나 > [테크 리더 3인이 말하는 "개발자 원칙"](https://youtu.be/DJCmvzhFVOI)
 - `2023.03.28` [`커뮤니티`](#커뮤니티) > AWSKRUG GameTech 소모임 > [RDS online alter부터 CPU 100% 장애까지 & 데브시스터즈 사내방송 인프라 제작기](https://youtu.be/6CI-FgrWmrA?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9)
 - `2023.03.28` [`인공지능`](#인공지능) > 모두팝 > [급변하는 세상에서 커리어란?](https://youtu.be/JOv1yy2bnaU?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
@@ -396,7 +396,7 @@ Cloud Hadoop을 활용한 데이터 분�
   - [Digital Today TV Live](https://www.youtube.com/playlist?list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA) - 2022.05.26
 
 - IT조선 유튜브 채널 [테크잼연구소](https://www.youtube.com/c/TechCafe2013)
-  - [데이터 드리븐 시대, 클라우드 2022 온라인 컨퍼런스](https://www.youtube.com/c/TechCafe2013/videos) - 2022.03.30
+  - 클라우드 온라인 컨퍼런스 [2022 데이터 드리븐 시대](https://youtu.be/LC6rMLgH08g?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) | ✨ [2023 디지털 대전환과 초거대 AI](https://youtu.be/fmUoLHOJ7tQ?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2023.03.29
   - [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2022.02.10
 
 - Startup Alliance Korea
