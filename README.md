@@ -389,7 +389,7 @@
   - [2022 클라우드 네이티브 & 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX) - 2022.01.21
   - [2022 스마트 디지털 워크플레이스 이노베이션 컨퍼런스](https://www.youtube.com/playlist?list=PLumdCu9Q56Koxg5-QgDjFiTJXl0YCWS-G) - 2022.04.28
   - [AI Cyber Security Summit 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KoTyvg-1UEVQo-XXHfEnHr3) - 2022.06.29
-  - [SMART WORK KOREA SUMMIT 2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KotSnS635wsz-U1dat3SkDa)
+  - SMART WORK KOREA SUMMIT - [2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KotSnS635wsz-U1dat3SkDa) | [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpC23VodBNoqdoqGXaW5tD6) - 2022.08.25
   - 코리아 RPA 그랜드 서밋 - [2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX) | [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqSqutlFHBGFfn4VlMqwAyC) - 2022.04.29
 
 - 디지털투데이 [웨비나](http://www.digitaltoday.co.kr/bbs/list.html?table=bbs_27)
