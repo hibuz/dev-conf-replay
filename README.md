@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 
+- `2023.04.20` [`IT기업`](#it기업) > 데보션 4월 Tech 세미나 > [ChatGPT로 인한 새로운 패러다임](https://youtu.be/Aa02UFAB9To?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.04.11` [`인공지능`](#인공지능) > 모두팝 > [Flutter 2023년 전략과 로드맵](https://youtu.be/h9ydT_9X26c?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim&t=654)
 - `2023.04.06` [`IT기업`](#it기업) > 데보션 > [제4회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ)
 - `2023.04.05` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [UI 개발 프로세스를 간소화시키는 스토리북 전반적인 소개](https://youtu.be/M6njEpzPicE?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
