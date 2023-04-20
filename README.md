@@ -7,6 +7,7 @@
 ✨ 신규영상
 
 - `2023.04.20` [`IT기업`](#it기업) > 데보션 4월 Tech 세미나 > [ChatGPT로 인한 새로운 패러다임](https://youtu.be/Aa02UFAB9To?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
+- `2023.04.12` [`클라우드`](#클라우드) > 오라클 29th Developer Meetup > [비전문가도 쉽게 활용 가능한 오라클 자율운영 데이터베이스에서 머신러닝하기](https://youtu.be/EhNn6-3UbTc?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2023.04.11` [`인프라 & 데브옵스`](#인프라--데브옵스) > HashiCorp > [HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://www.youtube.com/playlist?list=PL81sUbsFNc5ZkHno0jkNtQJgWdlY_xpG7)
 - `2023.04.06` [`IT기업`](#it기업) > 데보션 > [제4회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ)
 - `2023.04.05` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [UI 개발 프로세스를 간소화시키는 스토리북 전반적인 소개](https://youtu.be/M6njEpzPicE?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
@@ -151,7 +152,7 @@
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
-  - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.02.15
+  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.04.12
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
