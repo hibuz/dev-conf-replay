@@ -6,22 +6,13 @@
 
 ✨ 신규영상
 
+- `2023.04.27` [`인공지능`](#인공지능) > 모두팝 > [2023 봄 트렌드와 AI](https://youtu.be/uOd5l-jMyXE?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.04.20` [`IT기업`](#it기업) > 데보션 4월 Tech 세미나 > [ChatGPT로 인한 새로운 패러다임](https://youtu.be/Aa02UFAB9To?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.04.12` [`클라우드`](#클라우드) > 오라클 29th Developer Meetup > [비전문가도 쉽게 활용 가능한 오라클 자율운영 데이터베이스에서 머신러닝하기](https://youtu.be/EhNn6-3UbTc?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2023.04.11` [`인프라 & 데브옵스`](#인프라--데브옵스) > HashiCorp > [HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://www.youtube.com/playlist?list=PL81sUbsFNc5ZkHno0jkNtQJgWdlY_xpG7)
 - `2023.04.06` [`IT기업`](#it기업) > 데보션 > [제4회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ)
 - `2023.04.05` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [UI 개발 프로세스를 간소화시키는 스토리북 전반적인 소개](https://youtu.be/M6njEpzPicE?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.04.05` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2023 블록체인 밋업 컨퍼런스](https://www.youtube.com/playlist?list=PLiagZi75rsoZ4keCGjZdvafP_WmZChvOr)
-- `2023.03.30` [`커뮤니티`](#커뮤니티) > AWSKRUG Architecture 소모임 > [컨플루언트 클라우드로 데이터 연계하기](https://youtu.be/8-yk-kXJ2lE?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-)
-- `2023.03.29` [`기타`](#기타) > 테크잼연구소 > [클라우드 2023 : 디지털 대전환과 초거대 AI](https://youtu.be/fmUoLHOJ7tQ?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo)
-- `2023.03.29` [`IT기업`](#it기업) > 우아한테크세미나 > [테크 리더 3인이 말하는 "개발자 원칙"](https://youtu.be/DJCmvzhFVOI)
-- `2023.03.28` [`커뮤니티`](#커뮤니티) > AWSKRUG GameTech 소모임 > [RDS online alter부터 CPU 100% 장애까지 & 데브시스터즈 사내방송 인프라 제작기](https://youtu.be/6CI-FgrWmrA?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9)
-- `2023.03.28` [`인공지능`](#인공지능) > 모두팝 > [급변하는 세상에서 커리어란?](https://youtu.be/JOv1yy2bnaU?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2023.03.28` [`클라우드`](#클라우드) > NHN Cloud On 웨비나 14 > [NHN Cloud를 여행하는 히치하이커를 위한 안내서](https://youtu.be/DZfKLCjPAPs?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
-- `2023.03.23` [`보안`](#보안) > 데일리시큐 > [G-PRIVACY 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm)
-- `2023.03.23` [`IT기업`](#it기업) > 데보션 3월 Tech 세미나 > [Datadog의 FrontEnd에서 BackEnd까지의 여정](https://youtu.be/Y_XWnw-ESeY?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
-- `2023.03.23` [`인공지능`](#인공지능) > 전자신문 allshow TV > [AI 차세대 컨택센터 컨퍼런스 2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp6LCKlJ8S2hCgxwHd-_sOM)
-- `2023.03.21` [`인공지능`](#인공지능) > 모두팝 > [글로벌 MLOps 트렌드와 한국형 MLOps 전략](https://youtu.be/DRIEKB9smBY?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim&t=188)
 
 
 ⚡ 바로가기
@@ -82,7 +73,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.04.11
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.04.27
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
@@ -101,7 +92,7 @@
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - AI·DATA Summit Korea - [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) | [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kps9gFH2inwXqM2F1AASWhE) - 2023.02.24
   - [AI·DX Summit Korea 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Kpjjo1SW29u0XnT7JiMNMU0) - 2022.04.22
-  - AI 차세대 컨택센터 컨퍼런스 2021 [제4회](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY) | [제5회](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8) | 2022 [제6회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) | ✨ [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp6LCKlJ8S2hCgxwHd-_sOM) - 2023.03.24
+  - AI 차세대 컨택센터 컨퍼런스 2021 [제4회](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY) | [제5회](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8) | 2022 [제6회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) | [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp6LCKlJ8S2hCgxwHd-_sOM) - 2023.03.24
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy) - 2021.09.09
 
 - 대덕특구 SPACE-S
@@ -141,7 +132,7 @@
 - NHN 
   - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) | [2022](https://www.youtube.com/playlist?list=PL42XJKPNDepYXyKefvicxlA2fz1aThVs5) - 2022.11.24
   - NHN [Cloud make IT 2022](https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0) - 2022.06.28
-  - ✨ NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2023.03.28
+  - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2023.03.28
 
 - 메가존
   -  [디지털 다카포](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208) - [2022](https://www.youtube.com/playlist?list=PLxTkO33QtxTICeek2PbVPW_zbwZXV0hCe) - 2022.02.08
@@ -249,7 +240,7 @@
 
 - 데일리시큐
   - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) - 2022.09.28
-  - ✨ [G-PRIVACY 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) - 2023.03.23
+  - [G-PRIVACY 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) - 2023.03.23
 
 
 - 안랩(AhnLab)
@@ -361,7 +352,7 @@
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) - 2022.10.29
-  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) | ✨ [Frontend](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw) | ✨ [GameTech](https://www.youtube.com/playlist?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9) | ✨ [Architecture](https://www.youtube.com/playlist?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-) - 2023.04.05
+  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) | ✨ [Frontend](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw) | [GameTech](https://www.youtube.com/playlist?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9) | [Architecture](https://www.youtube.com/playlist?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-) - 2023.04.05
   
 - 구글 개발자 그룹(GDG KOREA)
   - I/O Extended - [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX) | 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696), [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
@@ -396,7 +387,7 @@
   - [Digital Today TV Live](https://www.youtube.com/playlist?list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA) - 2022.05.26
 
 - IT조선 유튜브 채널 [테크잼연구소](https://www.youtube.com/c/TechCafe2013)
-  - 클라우드 온라인 컨퍼런스 [2022 데이터 드리븐 시대](https://youtu.be/LC6rMLgH08g?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) | ✨ [2023 디지털 대전환과 초거대 AI](https://youtu.be/fmUoLHOJ7tQ?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2023.03.29
+  - 클라우드 온라인 컨퍼런스 [2022 데이터 드리븐 시대](https://youtu.be/LC6rMLgH08g?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) | [2023 디지털 대전환과 초거대 AI](https://youtu.be/fmUoLHOJ7tQ?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2023.03.29
   - [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2022.02.10
 
 - Startup Alliance Korea
