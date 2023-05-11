@@ -5,7 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-
+- `2023.05.03~04` [`클라우드`](#클라우드) > AWS Korea > [AWS Summit Seoul 2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUVLujXBa2aXPjaMLAM4XNr3)
 - `2023.04.27` [`클라우드`](#클라우드) > AWSKRUG [구디 x 아키텍쳐] 소모임 > [“가상의 (트x)튜위터 서비스” AWS 아키텍쳐 디자인 함께 만들어 보기](https://youtu.be/G5JvMWXldL4?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-)
 - `2023.04.27` [`IT기업`](#it기업) > 우아한테크세미나 > [우아한 테크리더 4인의 "공감 토크쇼"](https://youtu.be/vga0PZK6AvI?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2023.04.25` [`클라우드`](#클라우드) > NHN Cloud On 웨비나 15 > [개정된 금융 클라우드 가이드라인](https://youtu.be/ErSuf8-Q884?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
@@ -138,8 +138,7 @@
 
 - AWS [리소스 허브](https://kr-resources.awscloud.com)
   - AWS re:Invent [2021 한국어 트랙](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | re:Cap [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUXzLlNAXGA1HUG2HFgR5T_Q) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUX9IHNx3Zhzfq-cSF-F2H8I) | [2022 Daily Recap](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO) - 2022.11.29~12.02
-
-  - AWS Summit Online Korea [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-) | [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX7j65Uvp9xAi1hMS6M-2P1) - 2022.05.10~11
+  - AWS Summit Online Korea [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-) | [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX7j65Uvp9xAi1hMS6M-2P1) | ✨ [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUVLujXBa2aXPjaMLAM4XNr3) - 2023.05.03~04
   - AWS Innovate 2021 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUWUC-lXkou_8oobUArafWE_), [Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB), [앱현대화](https://www.youtube.com/playlist?list=PLORxAVAC5fUUFPs8yy-fvYwI6zYSD-by2) | 2022 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUVqyzPFUXdNnD8k1KYRDbwI), [Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUVlqCYPgAzccuKUcmLinrnh), [For Every App](https://www.youtube.com/playlist?list=PLORxAVAC5fUXIsBWZ4F7Vhx7RnAwszKdb) | 2023 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUWkmf6r2ZfGSC1m4rhyfJMO) - 2023.02.22
   - AWS Builders 온라인 시리즈 [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5) | [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) | [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUU7cywJX6ilucVIhxwwfxei) - 2023.01.18
 
