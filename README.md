@@ -5,14 +5,11 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.05.10` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [Next.js의 이미지 최적화는 어떻게 동작하는가? Next.js는 왜 Sharp를 추천하는가](https://youtu.be/Ino03JPppU4?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.05.03~04` [`클라우드`](#클라우드) > AWS Korea > [AWS Summit Seoul 2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUVLujXBa2aXPjaMLAM4XNr3)
 - `2023.04.27` [`클라우드`](#클라우드) > AWSKRUG [구디 x 아키텍쳐] 소모임 > [“가상의 (트x)튜위터 서비스” AWS 아키텍쳐 디자인 함께 만들어 보기](https://youtu.be/G5JvMWXldL4?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-)
 - `2023.04.27` [`IT기업`](#it기업) > 우아한테크세미나 > [우아한 테크리더 4인의 "공감 토크쇼"](https://youtu.be/vga0PZK6AvI?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2023.04.25` [`클라우드`](#클라우드) > NHN Cloud On 웨비나 15 > [개정된 금융 클라우드 가이드라인](https://youtu.be/ErSuf8-Q884?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
-- `2023.04.20` [`IT기업`](#it기업) > 데보션 4월 Tech 세미나 > [ChatGPT로 인한 새로운 패러다임](https://youtu.be/Aa02UFAB9To?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
-- `2023.04.12` [`클라우드`](#클라우드) > 오라클 29th Developer Meetup > [비전문가도 쉽게 활용 가능한 오라클 자율운영 데이터베이스에서 머신러닝하기](https://youtu.be/EhNn6-3UbTc?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
-- `2023.04.11` [`인프라 & 데브옵스`](#인프라--데브옵스) > HashiCorp > [HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://www.youtube.com/playlist?list=PL81sUbsFNc5ZkHno0jkNtQJgWdlY_xpG7)
-
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -54,7 +51,7 @@
 
 - SK
   - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) | [2022](https://www.youtube.com/@sktechsummit/playlists) - 2022.11.08~09
-  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.04.20
+  - [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.04.20
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) - 2023.04.06
 
 - LG CNS
@@ -144,7 +141,7 @@
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
-  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.04.12
+  - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.04.12
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
@@ -185,7 +182,7 @@
   - [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
 
 - HashCorp
-  - ✨ HashiCorp Strategy Day [2023](https://www.youtube.com/playlist?list=PL81sUbsFNc5ZkHno0jkNtQJgWdlY_xpG7) - 2023.04.11
+  - HashiCorp Strategy Day [2023](https://www.youtube.com/playlist?list=PL81sUbsFNc5ZkHno0jkNtQJgWdlY_xpG7) - 2023.04.11
   - HashiTalks [Korea 2022](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB) - 2022.04.28
 
 
