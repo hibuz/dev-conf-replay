@@ -7,9 +7,8 @@
 ✨ 신규영상
 - `2023.07.04` [`인공지능`](#인공지능) > 모두팝 > [어도비 디렉터가 본 Generative AI의 과거, 현재 그리고 미래](https://youtu.be/OxvnhpjZHGk?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.06.22` [`클라우드`](#클라우드) > 데보션 6월 Tech 세미나 > [웹 프론트엔드 성능 최적화 방법 및 적용 사례](https://youtu.be/BEwv4to9OWY?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
+- `2023.06.15` [`인프라 & 데브옵스`](#인프라--데브옵스) > 당근마켓 > [당근 SRE 밋업 제3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC)
 - `2023.06.08~09` [`IT기업`](#it기업) > 토스 개발자 컨퍼런스 > [SLASH 23 - The Hidden Side of Technology](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
-- `2023.05.31` [`IT기업`](#it기업) > 우아한테크세미나 > [사례별로 알아보는 안전한 S3 보안 가이드](https://youtu.be/vgYfAndrpPU?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
-- `2023.05.25` [`커뮤니티`](#커뮤니티) > OKKY 5월 세미나 > [독립개발자로 살아가는 법](https://youtu.be/kqbQu0gNBt0?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -36,7 +35,7 @@
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) - 2022.10.19~21
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
-  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.05.31
+  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.05.31
 
 - 토스
   - ✨ [SLASH](https://toss.im/slash-23) - [21, 22, 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2023.06.08~09
@@ -178,7 +177,8 @@
   - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2023.02.17
 
 - 당근마켓
-  - [SRE, SERVER 밋업](https://www.youtube.com/channel/UCwNwSGlLJNZTatOnE2t33tg/playlists) - 2021.12.20
+  - 당근 SRE 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | ✨ [3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) - 2023.06.15
+  - 당근 SERVER 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) - 2021.12.20
 
 - 하이퍼커넥트
   - [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
@@ -345,7 +345,7 @@
 
 - 오키코리아 [OKKY](https://okky.kr)
   - [OKKYCON: 2021](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne) - 2021.03.06
-  - ✨ [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2023.05.25
+  - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2023.05.25
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) - 2022.10.29
