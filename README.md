@@ -24,6 +24,7 @@
 
 - 카카오
   - [if(kakao)](https://if.kakao.com) - [2020](https://elseif.kakao.com/2020) | [2021](https://elseif.kakao.com/2021) | [2022](https://if.kakao.com/session?t.bab36uRci8=0) - 2022.12.07~09
+  - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f)
 
 - 라인
   - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) - 2022.11.17~18
