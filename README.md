@@ -5,7 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- `2023.07.04` [`인공지능`](#인공지능) > 모두팝 > [어도비 디렉터가 본 Generative AI의 과거, 현재 그리고 미래](https://youtu.be/OxvnhpjZHGk?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2023.06.27` [`인공지능`](#인공지능) > 모두팝 > [챗GPT 기반 서비스 만들기](https://youtu.be/M7L2gBh4vUI?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.06.27` [`커뮤니티`](#커뮤니티) > OKKY 6월 세미나 > [국비학원 커리큘럼 뽀개기](https://youtu.be/CB3Sx_7uk3U?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut)
 - `2023.06.22` [`클라우드`](#클라우드) > 데보션 6월 Tech 세미나 > [웹 프론트엔드 성능 최적화 방법 및 적용 사례](https://youtu.be/BEwv4to9OWY?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.06.15` [`인프라 & 데브옵스`](#인프라--데브옵스) > 당근마켓 > [당근 SRE 밋업 제3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC)
@@ -70,7 +70,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.07.04
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.06.27
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
