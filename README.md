@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2023.07.04` [`인공지능`](#인공지능) > 모두팝 > [어도비 디렉터가 본 Generative AI의 과거, 현재 그리고 미래](https://youtu.be/PknT8NhidaQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2023.07.03` [`보안`](#보안) > 코드엔진 > [2023 CodeEngn Conference 19](https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv)
 - `2023.06.29` [`IT기업`](#it기업) > 6월 우아한테크세미나 > [GenAI의 시대, 치열해진 시장의 미래 전략](https://youtu.be/29Nx3C9X8rU?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2023.06.27` [`커뮤니티`](#커뮤니티) > OKKY 6월 세미나 > [국비학원 커리큘럼 뽀개기](https://youtu.be/CB3Sx_7uk3U?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut)
 - `2023.06.22` [`클라우드`](#클라우드) > 데보션 6월 Tech 세미나 > [웹 프론트엔드 성능 최적화 방법 및 적용 사례](https://youtu.be/BEwv4to9OWY?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
@@ -247,7 +248,7 @@
   - ISF [2020](https://youtu.be/lbu_fD36ex4?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2021](https://youtu.be/rHyFZn5fMrQ?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2022](https://youtu.be/F3lt03ZBADg?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) - 2022.09.22
 
 - 코드엔진
-  - CodeEngn Conference - [2021](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) | [2022](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2) - 2022.07.04
+  - CodeEngn Conference - [2021](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) | [2022](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2) | ✨ [2023](https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv) - 2023.07.03
 
 
 ## 모바일
