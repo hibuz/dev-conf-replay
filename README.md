@@ -48,7 +48,7 @@
   - [SSDC](https://www.ssdc.kr) - [2020](https://soscon2020.ssdc.kr/Session.html) | [2021](https://ssdc2021.ssdc.kr/session) | [2022](https://www.ssdc.kr/stream) - 2022.11.15~17
 
 - 삼성SDS
-  - [Techtonic](https://www.samsungsds.com/kr/event/techtonic2021.html) - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fOXzt9mQfiH_wuRqh6JQFX) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cVhLzgXCyWRDTXsA0Zd0EF) - 2021.11.23~24
+  - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
   - REAL - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) - 2021.09.08~09
 
 - SK
