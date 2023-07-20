@@ -408,5 +408,3 @@
 
 ## 참고링크
 - https://github.com/brave-people/Dev-Event
-- https://gent.tistory.com/category/IT%EC%A0%95%EB%B3%B4/IT%EC%84%B8%EB%AF%B8%EB%82%98
-
