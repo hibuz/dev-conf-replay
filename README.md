@@ -5,13 +5,11 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- `2023.07.04` [`인공지능`](#인공지능) > 모두팝 > [어도비 디렉터가 본 Generative AI의 과거, 현재 그리고 미래](https://youtu.be/PknT8NhidaQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2023.07.11` [`인공지능`](#인공지능) > 모두팝 > [금융 특화 언어모델 기반 서비스](https://youtu.be/PknT8NhidaQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.07.03` [`보안`](#보안) > 코드엔진 > [2023 CodeEngn Conference 19](https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv)
 - `2023.06.29` [`IT기업`](#it기업) > 6월 우아한테크세미나 > [GenAI의 시대, 치열해진 시장의 미래 전략](https://youtu.be/29Nx3C9X8rU?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2023.06.27` [`커뮤니티`](#커뮤니티) > OKKY 6월 세미나 > [국비학원 커리큘럼 뽀개기](https://youtu.be/CB3Sx_7uk3U?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut)
 - `2023.06.22` [`클라우드`](#클라우드) > 데보션 6월 Tech 세미나 > [웹 프론트엔드 성능 최적화 방법 및 적용 사례](https://youtu.be/BEwv4to9OWY?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
-- `2023.06.15` [`인프라 & 데브옵스`](#인프라--데브옵스) > 당근마켓 > [당근 SRE 밋업 제3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC)
-- `2023.06.08~09` [`IT기업`](#it기업) > 토스 개발자 컨퍼런스 > [SLASH 23 - The Hidden Side of Technology](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -42,7 +40,7 @@
   - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.06.29
 
 - 토스
-  - ✨ [SLASH](https://toss.im/slash-23) - [21, 22, 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2023.06.08~09
+  - [SLASH](https://toss.im/slash-23) - [21, 22, 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2023.06.08~09
   - Simplicity(토스 디자인 컨퍼런스) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) - 2021.08.30~09.02
 
 - 삼성
@@ -72,7 +70,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.07.04
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.07.11
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
@@ -181,7 +179,7 @@
   - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2023.02.17
 
 - 당근마켓
-  - 당근 SRE 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | ✨ [3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) - 2023.06.15
+  - 당근 SRE 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) - 2023.06.15
   - 당근 SERVER 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) - 2021.12.20
 
 - 하이퍼커넥트
