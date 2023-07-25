@@ -287,6 +287,7 @@
 - 한국 스프링 사용자 모임
   - [KSUG](https://www.ksug.org) - [2021 Webinar](https://www.youtube.com/playlist?list=PLn0dGEB80JNQLm7-af9X6Yqx1oBK8YXSm) - 2021.04.30
   - [SpringCamp 2019](https://www.youtube.com/playlist?list=PLdHtZnJh1KdaM0AfxPA7qGK1UuvhpvffL)
+  - [SpringCamp 2023](https://www.youtube.com/playlist?list=PLdHtZnJh1KdbR9xXyiVJ-BClLTXCw66y3)
 
 - GDG Seoul
   - [Kotlin 'Summer' Night 2022 Seoul](https://youtu.be/3sX3Oki9PD8?t=295) - 2022.09.06
