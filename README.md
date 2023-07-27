@@ -10,7 +10,7 @@
 - `2023.07.12` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [React Native Webview를 사용해서 React로만 앱 만들기](https://youtu.be/Ecg52wAlYus?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.07.11` [`인공지능`](#인공지능) > 모두팝 > [금융 특화 언어모델 기반 서비스](https://youtu.be/PknT8NhidaQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.07.03` [`보안`](#보안) > 코드엔진 > [2023 CodeEngn Conference 19](https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv)
-- `2023.06.27` [`커뮤니티`](#커뮤니티) > OKKY 6월 세미나 > [국비학원 커리큘럼 뽀개기](https://youtu.be/CB3Sx_7uk3U?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut)
+- `2023.06.28` [`커뮤니티`](#커뮤니티) > OKKY 6월 세미나 > [How To Work In Socar](https://youtu.be/LQj9v57zuaw?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -349,7 +349,7 @@
 
 - 오키코리아 [OKKY](https://okky.kr)
   - [OKKYCON: 2021](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne) - 2021.03.06
-  - ✨ [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2023.06.27
+  - ✨ [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2023.06.28
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) - 2022.10.29
