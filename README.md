@@ -5,13 +5,12 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.07.27` [`IT기업`](#it기업) > 7월 우아한테크세미나 > [MLOps를 활용한 AI 서비스 개발 스토리](https://youtu.be/MA5A7Xqb-7U?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=603)
 - `2023.07.12` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [React Native Webview를 사용해서 React로만 앱 만들기](https://youtu.be/Ecg52wAlYus?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.07.11` [`인공지능`](#인공지능) > 모두팝 > [금융 특화 언어모델 기반 서비스](https://youtu.be/PknT8NhidaQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.07.03` [`보안`](#보안) > 코드엔진 > [2023 CodeEngn Conference 19](https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv)
-- `2023.06.29` [`IT기업`](#it기업) > 6월 우아한테크세미나 > [GenAI의 시대, 치열해진 시장의 미래 전략](https://youtu.be/29Nx3C9X8rU?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2023.06.27` [`커뮤니티`](#커뮤니티) > OKKY 6월 세미나 > [국비학원 커리큘럼 뽀개기](https://youtu.be/CB3Sx_7uk3U?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut)
 - `2023.06.22` [`클라우드`](#클라우드) > 데보션 6월 Tech 세미나 > [웹 프론트엔드 성능 최적화 방법 및 적용 사례](https://youtu.be/BEwv4to9OWY?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
-- `2023.06.22` [`클라우드`](#클라우드) > NHN Cloud > [NHN Cloud make IT 2023](https://youtu.be/BEwv4to9OWY?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -39,7 +38,7 @@
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) - 2022.10.19~21
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
-  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.06.29
+  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.07.27
 
 - 토스
   - [SLASH](https://toss.im/slash-23) - [21, 22, 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2023.06.08~09
@@ -130,7 +129,7 @@
 
 - NHN 
   - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) | [2022](https://www.youtube.com/playlist?list=PL42XJKPNDepYXyKefvicxlA2fz1aThVs5) - 2022.11.24
-  - ✨ NHN [Cloud make IT](https://makeit.nhncloud.com) - [2022](https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0) | [2023](https://www.youtube.com/playlist?list=PL42XJKPNDepbuujKpiCqYk3oF3VeBZjI8)- 2023.06.22
+  - NHN [Cloud make IT](https://makeit.nhncloud.com) - [2022](https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0) | [2023](https://www.youtube.com/playlist?list=PL42XJKPNDepbuujKpiCqYk3oF3VeBZjI8)- 2023.06.22
   - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2023.04.25
 
 - 메가존
