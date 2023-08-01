@@ -8,6 +8,7 @@
 - `2023.07.27` [`IT기업`](#it기업) > 7월 우아한테크세미나 > [MLOps를 활용한 AI 서비스 개발 스토리](https://youtu.be/MA5A7Xqb-7U?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=603)
 - `2023.07.25` [`인공지능`](#인공지능) > 모두팝 > [의사결정나무에서 부스팅까지 변천사 살펴보기](https://youtu.be/RdYsQ7HOQbI?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.07.20` [`클라우드`](#클라우드) > 데보션 7월 Tech 세미나 > [다가오는 Automated AI 시대, 그 기반 기술과 적용사례](https://youtu.be/75G1XiXHyew?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
+- `2023.07.18` [`IT기업`](#it기업) > 카카오 > [제2회 kakao tech meet](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u)
 - `2023.07.18` [`인공지능`](#인공지능) > 모두팝 > [블록체인과 AI가 만드는 스마트한 미래](https://youtu.be/UA81qJz-Gt0?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.07.12` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [React Native Webview를 사용해서 React로만 앱 만들기](https://youtu.be/Ecg52wAlYus?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.07.03` [`보안`](#보안) > 코드엔진 > [2023 CodeEngn Conference 19](https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv)
@@ -25,7 +26,7 @@
 
 - 카카오
   - [if(kakao)](https://if.kakao.com) - [2020](https://elseif.kakao.com/2020) | [2021](https://elseif.kakao.com/2021) | [2022](https://if.kakao.com/session?t.bab36uRci8=0) - 2022.12.07~09
-  - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f) - 2023.05.11
+  - ✨ [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f) | [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u) - 2023.07.18
 
 - 라인
   - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) - 2022.11.17~18
@@ -287,8 +288,7 @@
 
 - 한국 스프링 사용자 모임
   - [KSUG](https://www.ksug.org) - [2021 Webinar](https://www.youtube.com/playlist?list=PLn0dGEB80JNQLm7-af9X6Yqx1oBK8YXSm) - 2021.04.30
-  - [SpringCamp 2019](https://www.youtube.com/playlist?list=PLdHtZnJh1KdaM0AfxPA7qGK1UuvhpvffL) - 2019.04.27
-  - [SpringCamp 2023](https://www.youtube.com/playlist?list=PLdHtZnJh1KdbR9xXyiVJ-BClLTXCw66y3) - 2023.04.22
+  - SpringCamp - [2019](https://www.youtube.com/playlist?list=PLdHtZnJh1KdaM0AfxPA7qGK1UuvhpvffL) | [2023](https://www.youtube.com/playlist?list=PLdHtZnJh1KdbR9xXyiVJ-BClLTXCw66y3) - 2023.04.22
 
 - GDG Seoul
   - [Kotlin 'Summer' Night 2022 Seoul](https://youtu.be/3sX3Oki9PD8?t=295) - 2022.09.06
