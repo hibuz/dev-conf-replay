@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2023.07.27` [`IT기업`](#it기업) > 7월 우아한테크세미나 > [MLOps를 활용한 AI 서비스 개발 스토리](https://youtu.be/MA5A7Xqb-7U?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=603)
+- `2023.07.26` [`인공지능`](#인공지능) > 제21회 INNOPOLIS AI 세미나 > [Microsoft의 이미지 생성 AI, Bing Image Creator](https://youtu.be/cGkqvDfSMZo?list=PLudxIRsX4I3QHQJ41sU-jwcN7vB2_MTmW)
 - `2023.07.25` [`인공지능`](#인공지능) > 모두팝 > [의사결정나무에서 부스팅까지 변천사 살펴보기](https://youtu.be/RdYsQ7HOQbI?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.07.20` [`클라우드`](#클라우드) > 데보션 7월 Tech 세미나 > [다가오는 Automated AI 시대, 그 기반 기술과 적용사례](https://youtu.be/75G1XiXHyew?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.07.18` [`IT기업`](#it기업) > 카카오 > [제2회 kakao tech meet](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u)
@@ -96,7 +97,7 @@
 
 - 대덕특구 SPACE-S
   - 대전러닝데이 - [DLD 2022](https://www.youtube.com/playlist?list=PLudxIRsX4I3Sj6R-4INhtyNXqC0U5mFuU) - 2022.10.25
-  - [INNOPOLIS AI 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2023.01.25
+  - ✨ [INNOPOLIS AI 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2023.07.26
 
 - Deeplearning Playground 커뮤니티
   - [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
