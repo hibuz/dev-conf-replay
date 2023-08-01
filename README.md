@@ -302,7 +302,8 @@
 
 - Flutter Korea
   - [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
-  - [Flutter Engage](https://www.youtube.com/playlist?list=PL6RQwUkx6VTRUeQzsqVg-DgH38ME96w4F) | [FlutterDay 2020](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSmCR632XO0_cGVN7JjeMHg) | [Flutter I/O](https://youtu.be/2zNYDTOLkzU?list=PL6RQwUkx6VTT49sWkCaWqb__6fEcc7AkH&t=1788) Extended Korea - 2022.06.26
+  - [Flutter Engage](https://www.youtube.com/playlist?list=PL6RQwUkx6VTRUeQzsqVg-DgH38ME96w4F) | [FlutterDay 2020](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSmCR632XO0_cGVN7JjeMHg) | [Flutter I/O Extended Korea](https://youtu.be/2zNYDTOLkzU?list=PL6RQwUkx6VTT49sWkCaWqb__6fEcc7AkH&t=1788) - 2022.06.26
+  - [Flutter Forward Extended Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTRLPlCimOmv8UeLKC9FAlzf) - 2023.04.01
 
 - 그린랩스 송파 클로저
   - [Dev Dive 2022 - 함수형 개발자로 성장하기](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV) - 2022.11.08~09
