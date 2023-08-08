@@ -5,6 +5,8 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+
+- `2023.08.05~06` [`프로그래밍 언어`](#프로그래밍-언어) > Golang Korea > GopherCon Korea 2023 [Day1](https://youtu.be/WZthMW0BaNA?t=1322) [Day2](https://youtu.be/8AUVKh0qJgU?t=1333)
 - `2023.07.29` [`빅데이터`](#빅데이터) > 보아즈(BOAZ) 빅데이터 컨퍼런스 > [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6)
 - `2023.07.27` [`IT기업`](#it기업) > 7월 우아한테크세미나 > [MLOps를 활용한 AI 서비스 개발 스토리](https://youtu.be/MA5A7Xqb-7U?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=603)
 - `2023.07.26` [`인공지능`](#인공지능) > 제21회 INNOPOLIS AI 세미나 > [Microsoft의 이미지 생성 AI, Bing Image Creator](https://youtu.be/cGkqvDfSMZo?list=PLudxIRsX4I3QHQJ41sU-jwcN7vB2_MTmW)
@@ -13,7 +15,6 @@
 - `2023.07.18` [`IT기업`](#it기업) > 카카오 > [제2회 kakao tech meet](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u)
 - `2023.07.18` [`인공지능`](#인공지능) > 모두팝 > [블록체인과 AI가 만드는 스마트한 미래](https://youtu.be/UA81qJz-Gt0?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.07.12` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [React Native Webview를 사용해서 React로만 앱 만들기](https://youtu.be/Ecg52wAlYus?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
-- `2023.07.03` [`보안`](#보안) > 코드엔진 > [2023 CodeEngn Conference 19](https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -295,7 +296,8 @@
 - GDG Seoul
   - [Kotlin 'Summer' Night 2022 Seoul](https://youtu.be/3sX3Oki9PD8?t=295) - 2022.09.06
 
-- GDG Golang Korea
+- Golang Korea
+  - ✨ GopherCon Korea 2023 - [Day1](https://youtu.be/WZthMW0BaNA?t=1322) [Day2](https://youtu.be/8AUVKh0qJgU?t=1333) - 2023.08.05~06
   - [2020.05 온라인 밋업](https://www.youtube.com/playlist?list=PLxEDm5GRSh4OJPiKKv5PVKiDi6f80kyTS) | [2022.03 Go 1.18 릴리즈파티](https://www.youtube.com/playlist?list=PLxEDm5GRSh4P6aihX1DrNsV57r7bi0rZT) - 2022.03.31
 
 - 닷넷 개발자 커뮤니티 [닷넷데브](https://www.dotnetconf.kr)
