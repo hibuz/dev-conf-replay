@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.08.09` [`커뮤니티`](#커뮤니티) > OKKY 8월 세미나 > [개발자를 위한 Prompt Engineering & Code Interpreter 활용 노하우](https://youtu.be/FiSfi4cf1xI?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut)
 - `2023.08.09` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [Next.js13으로 알아보는 FE렌더링 방식(SSR vs RSC)](https://youtu.be/qqhtdTV7Kqk?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.08.05~06` [`프로그래밍 언어`](#프로그래밍-언어) > Golang Korea > GopherCon Korea 2023 [Day1](https://youtu.be/WZthMW0BaNA?t=1322) [Day2](https://youtu.be/8AUVKh0qJgU?t=1333)
 - `2023.07.29` [`빅데이터`](#빅데이터) > 보아즈(BOAZ) 빅데이터 컨퍼런스 > [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6)
@@ -353,7 +354,7 @@
 
 - 오키코리아 [OKKY](https://okky.kr)
   - [OKKYCON: 2021](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne) - 2021.03.06
-  - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2023.06.28
+  - ✨ [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2023.08.09
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) - 2022.10.29
