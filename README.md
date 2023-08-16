@@ -287,7 +287,7 @@
 ## 프로그래밍 언어
 
 - 파이콘 한국
-  - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) | [2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn5DjhDAZFTKjJCJSMqeirO) - 2022.10.01~02
+  - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) | [2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRnlqQwMj-WNlrsac7yTiVhk) - 2022.10.01~02
 
 - 한국 스프링 사용자 모임
   - [KSUG](https://www.ksug.org) - [2021 Webinar](https://www.youtube.com/playlist?list=PLn0dGEB80JNQLm7-af9X6Yqx1oBK8YXSm) - 2021.04.30
