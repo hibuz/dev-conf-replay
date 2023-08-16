@@ -5,7 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-
+- `2023.08.09` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [Next.js13으로 알아보는 FE렌더링 방식(SSR vs RSC)](https://youtu.be/qqhtdTV7Kqk?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.08.05~06` [`프로그래밍 언어`](#프로그래밍-언어) > Golang Korea > GopherCon Korea 2023 [Day1](https://youtu.be/WZthMW0BaNA?t=1322) [Day2](https://youtu.be/8AUVKh0qJgU?t=1333)
 - `2023.07.29` [`빅데이터`](#빅데이터) > 보아즈(BOAZ) 빅데이터 컨퍼런스 > [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6)
 - `2023.07.27` [`IT기업`](#it기업) > 7월 우아한테크세미나 > [MLOps를 활용한 AI 서비스 개발 스토리](https://youtu.be/MA5A7Xqb-7U?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=603)
@@ -14,7 +14,6 @@
 - `2023.07.20` [`클라우드`](#클라우드) > 데보션 7월 Tech 세미나 > [다가오는 Automated AI 시대, 그 기반 기술과 적용사례](https://youtu.be/75G1XiXHyew?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.07.18` [`IT기업`](#it기업) > 카카오 > [제2회 kakao tech meet](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u)
 - `2023.07.18` [`인공지능`](#인공지능) > 모두팝 > [블록체인과 AI가 만드는 스마트한 미래](https://youtu.be/UA81qJz-Gt0?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2023.07.12` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [React Native Webview를 사용해서 React로만 앱 만들기](https://youtu.be/Ecg52wAlYus?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -358,7 +357,7 @@
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) - 2022.10.29
-  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) | ✨ [Frontend](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw) | [GameTech](https://www.youtube.com/playlist?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9) | [Architecture](https://www.youtube.com/playlist?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-) - 2023.07.12
+  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) | ✨ [Frontend](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw) | [GameTech](https://www.youtube.com/playlist?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9) | [Architecture](https://www.youtube.com/playlist?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-) - 2023.08.09
   
 - 구글 개발자 그룹(GDG KOREA)
   - I/O Extended - [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX) | 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696), [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
