@@ -8,13 +8,11 @@
 - `2023.08.09` [`커뮤니티`](#커뮤니티) > OKKY 8월 세미나 > [개발자를 위한 Prompt Engineering & Code Interpreter 활용 노하우](https://youtu.be/FiSfi4cf1xI?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut)
 - `2023.08.09` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [Next.js13으로 알아보는 FE렌더링 방식(SSR vs RSC)](https://youtu.be/qqhtdTV7Kqk?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2023.08.05~06` [`프로그래밍 언어`](#프로그래밍-언어) > Golang Korea > GopherCon Korea 2023 [Day1](https://youtu.be/WZthMW0BaNA?t=1322) [Day2](https://youtu.be/8AUVKh0qJgU?t=1333)
+- `2023.07.31` [`IT기업`](#it기업) > 네이버 > NAVER ENGINEERING DAY 2023 [Front-end](https://www.youtube.com/playlist?list=PLsFtzQAC8dDcLQRACWIvg2XI7CuGaLTiB), [Back-end](https://www.youtube.com/playlist?list=PLsFtzQAC8dDft83FPDYTHROReiJ8wUsmk)
 - `2023.07.29` [`빅데이터`](#빅데이터) > 보아즈(BOAZ) 빅데이터 컨퍼런스 > [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6)
 - `2023.07.27` [`IT기업`](#it기업) > 7월 우아한테크세미나 > [MLOps를 활용한 AI 서비스 개발 스토리](https://youtu.be/MA5A7Xqb-7U?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=603)
 - `2023.07.26` [`인공지능`](#인공지능) > 제21회 INNOPOLIS AI 세미나 > [Microsoft의 이미지 생성 AI, Bing Image Creator](https://youtu.be/cGkqvDfSMZo?list=PLudxIRsX4I3QHQJ41sU-jwcN7vB2_MTmW)
 - `2023.07.25` [`인공지능`](#인공지능) > 모두팝 > [의사결정나무에서 부스팅까지 변천사 살펴보기](https://youtu.be/RdYsQ7HOQbI?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2023.07.20` [`클라우드`](#클라우드) > 데보션 7월 Tech 세미나 > [다가오는 Automated AI 시대, 그 기반 기술과 적용사례](https://youtu.be/75G1XiXHyew?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
-- `2023.07.18` [`IT기업`](#it기업) > 카카오 > [제2회 kakao tech meet](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u)
-- `2023.07.18` [`인공지능`](#인공지능) > 모두팝 > [블록체인과 AI가 만드는 스마트한 미래](https://youtu.be/UA81qJz-Gt0?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -26,10 +24,11 @@
   - [DEVIEW](https://deview.kr) - [2020](https://tv.naver.com/v/16968202/list/657024) | [2021](https://tv.naver.com/v/23700321/list/753227) | [2023](https://www.youtube.com/playlist?list=PLsFtzQAC8dDcQAcSG4PNrW7-0ExDZqqJA) - 2023.02.27~28
   - TECH CONCERT - [2020](https://tv.naver.com/v/15353556/list/629240) - 2020.08.19~20
   - [NAVER Search Colloquium](https://searchcolloquium.naver.com) - [2021](https://tv.naver.com/v/20307278/list/709884) | [2022](https://tv.naver.com/v/26581332/list/785512) - 2022.05.03
+  - ✨ NAVER ENGINEERING DAY 2023 [Front-end](https://www.youtube.com/playlist?list=PLsFtzQAC8dDcLQRACWIvg2XI7CuGaLTiB), [Back-end](https://www.youtube.com/playlist?list=PLsFtzQAC8dDft83FPDYTHROReiJ8wUsmk) - 2023.07.31
 
 - 카카오
   - [if(kakao)](https://if.kakao.com) - [2020](https://elseif.kakao.com/2020) | [2021](https://elseif.kakao.com/2021) | [2022](https://if.kakao.com/session?t.bab36uRci8=0) - 2022.12.07~09
-  - ✨ [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f) | [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u) - 2023.07.18
+  - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f) | [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u) - 2023.07.18
 
 - 라인
   - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) - 2022.11.17~18
@@ -57,7 +56,7 @@
 
 - SK
   - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) | [2022](https://www.youtube.com/@sktechsummit/playlists) - 2022.11.08~09
-  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.07.20
+  - [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.07.20
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) - 2023.04.06
 
 - LG CNS
