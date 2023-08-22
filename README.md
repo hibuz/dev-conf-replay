@@ -18,6 +18,20 @@
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
 
 
+## 개발관련 유튜브 채널
+
+1. `54.9만` 조코딩 JoCoding > https://www.youtube.com/@jocoding
+2. `46.8만` 노마드 코더 Nomad Coders > https://www.youtube.com/@nomadcoders
+3. `33.6만` 생활코딩 > https://www.youtube.com/@coohde
+4. `32.4만` 나도코딩 > https://www.youtube.com/@nadocoding
+5. `19.2만` 코딩애플 > https://www.youtube.com/@codingapple
+6. `17.0만` 드림코딩 > https://www.youtube.com/@dream-coding
+7. `16.7만` 동빈나 > https://www.youtube.com/@dongbinna
+8. `16.0만` 코딩하는거니 > https://www.youtube.com/@gunnycoding
+9. `15.1만` 워니코딩 > https://www.youtube.com/@WonieSong
+10. `11.5만` 개발자 라라 > https://www.youtube.com/@devlala
+
+
 ## IT기업
 
 - 네이버
