@@ -226,7 +226,8 @@
 ## 모빌리티
 
 - 현대자동차
-  - [HMG Developer Conference](https://www.hmgdevcon.com) - [2022, 2021](https://www.youtube.com/@hmgdr/videos) - 2022.11.16~17
+  - [HMG Developer Conference](https://www.hmgdevcon.com) - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) - 2022.11.16~17
+  - Softeer Tech Meet-up - [1st](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.05.24
 
 - 카카오모빌리티
   - [MEMO](https://nemo.kakaomobility.com) - [2022](https://www.youtube.com/playlist?list=PLAi6ak51pSz2O8W4VPsKsUQ_X4oVcvfz6) - 2022.02.10
