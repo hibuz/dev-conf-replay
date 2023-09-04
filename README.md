@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2023.08.31` [`IT기업`](#it기업) > 8월 우아한테크세미나 > [행정동을 법정동으로, 배민 지리 체계 프로젝트 살펴보기](https://youtu.be/2OKljT1tKA4?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
+- `2023.08.31` [`IT기업`](#it기업) > 데보션 8월 Tech 세미나 > [업무 생산성 향상을 위한 생성형 AI 사용](https://youtu.be/VSgo8v_JZCI?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.08.23` [`클라우드`](#클라우드) > 오라클 33th Developer Meetup > [차세대 고성능 자바 GraalVM의 멀티 클라우드 확장](https://youtu.be/XaCJjF1EPz0?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29)
 - `2023.08.09` [`커뮤니티`](#커뮤니티) > OKKY 8월 세미나 > [개발자를 위한 Prompt Engineering & Code Interpreter 활용 노하우](https://youtu.be/FiSfi4cf1xI?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut)
 - `2023.08.09` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [Next.js13으로 알아보는 FE렌더링 방식(SSR vs RSC)](https://youtu.be/qqhtdTV7Kqk?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
@@ -67,7 +68,7 @@
 
 - SK
   - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) | [2022](https://www.youtube.com/@sktechsummit/playlists) - 2022.11.08~09
-  - [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.07.20
+  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.08.31
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) - 2023.04.06
 
 - LG CNS
