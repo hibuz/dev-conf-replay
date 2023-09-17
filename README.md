@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 
+- `2023.09.06~08` [`교육`](#교육) > 네이버 커넥트재단 > [SEF2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg)
 - `2023.09.05` [`인공지능`](#인공지능) > 모두팝 > [애플 Vision Pro 상세 기술 설명과 SW 개발 튜토리얼](https://youtu.be/m2enx1WtKeU?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.08.31` [`IT기업`](#it기업) > 8월 우아한테크세미나 > [행정동을 법정동으로, 배민 지리 체계 프로젝트 살펴보기](https://youtu.be/2OKljT1tKA4?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2023.08.31` [`IT기업`](#it기업) > 데보션 8월 Tech 세미나 > [업무 생산성 향상을 위한 생성형 AI 사용](https://youtu.be/VSgo8v_JZCI?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
@@ -347,7 +348,7 @@
 ## 교육
 
 - 네이버 커넥트재단
-  - [SEF](https://sef.connect.or.kr) - [2019](https://www.edwith.org/sef-2019/joinLectures/24506) | [2020](https://www.edwith.org/sef2020/joinLectures/46274) | [2021](https://www.edwith.org/sef2021/joinLectures/345759) | [2022](https://youtu.be/7ijFcFl9lII?list=PLzUx59pIXJDzmg3SaJCjsJee9eNuTucXd) - 2022.11.22~25
+  - ✨ [SEF](https://sef.connect.or.kr) - [2020, 2021, 2022, 2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg) - 2023.09.06~08
 
 - 인프런
   - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) - 2022.08.26
