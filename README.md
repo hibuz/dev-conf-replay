@@ -331,7 +331,7 @@
 
 - [한국 R 컨퍼런스](https://use-r.kr)
   - [한국 R 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLhTWL0svc2zy4FB-Dy1yrAaYLmrUjXrPg) - 2021.11.19
-  - [Seoul R Meetup 2021](https://www.youtube.com/playlist?list=PLhTWL0svc2zyVdv-sgLQFs9SHtk31JMEJ)
+  - Seoul R Meetup - [2021](https://www.youtube.com/playlist?list=PLhTWL0svc2zyVdv-sgLQFs9SHtk31JMEJ) | [2023](https://www.youtube.com/playlist?list=PLhTWL0svc2zzMcB6UAOY2zklOApy33T0H) - 2023.05.11
 
 
 ## 오픈소스
