@@ -184,7 +184,7 @@
 
 - 기타
   - 쉐어드IT - [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
-  - 과학기술정보통신부 - [Open Cloud Platform Summit 2022](https://www.youtube.com/playlist?list=PL-AoIAa-OgNnym3kkTmIlko53smWH4L0p) - 2022.07.20
+  - 과학기술정보통신부 - Open Cloud Platform Summit - [2022](https://www.youtube.com/playlist?list=PL-AoIAa-OgNnym3kkTmIlko53smWH4L0p) | [2023](https://www.youtube.com/playlist?list=PL-AoIAa-OgNla-rPexcg9WpEntQ9fPKDD) - 2023.07.12
   - 스마트클라우드쇼2021 - [1일차](https://youtu.be/Y335QzGRz1U) | [2일차](https://youtu.be/Itk2Wy3oiKE) - 2021.09.28~29
   - 지티플러스 - Get Tech Day [2021](https://www.youtube.com/playlist?list=PLM48rFX5FOnbMQyAZZIGItYhax_B9REC8) | [2022](https://www.youtube.com/playlist?list=PLM48rFX5FOnYZVXnxF49sBtCJCLkDCDo3) - 2022.12.15
 
