@@ -281,6 +281,9 @@
   - [SyncSwift 2022](https://www.youtube.com/playlist?list=PLu5z3LShQlQXuZKlehlTfGZFc753dkgOs) - 2022.11.12
   - AsyncSwift Seminar [001](https://www.youtube.com/playlist?list=PLu5z3LShQlQURqEqfYc-IfedIq8afW-mc), [002](https://youtu.be/46l90qYNHCc?t=1215) - 2022.09.22
 
+- Seoul iOS Meetup
+  - Seoul iOS Meetup - 2023 - [April](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFdySPXGq8Nv37HfFcYM0ro), [May](https://www.youtube.com/playlist?list=PLAFxr8OPgeVF18jds65HTjzTQEbuVeq1A), [June](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFxT5Vp_OVKBr-bgeyyVN-V), [July](https://www.youtube.com/playlist?list=PLAFxr8OPgeVEIC_uoQc07lGbRJ-kI5DNO) - 2023.07.15
+
 - adiOS Korea
   - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9), [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7), [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH), [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei), [Something](https://www.youtube.com/playlist?list=PLUsr11byBStFIg-hhapmB6nuj0dgJQjJ6) - 2022.12.18
 
