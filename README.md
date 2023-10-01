@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2023.09.20` [`클라우드`](#클라우드) > 오라클 34th Developer Meetup > [데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://youtu.be/vXOwT1sg090)
 - `2023.09.14` [`IT기업`](#it기업) > 카카오 > [Tech Meet 제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf)
+- `2023.09.08` [`모빌리티`](#모빌리티) > 카카오모빌리티 > [NEXT MOBILITY: NEMO 2023](https://www.youtube.com/playlist?list=PLAi6ak51pSz0F7I22FkxYZfs856ZNYX97)
 - `2023.09.07` [`보안`](#보안) > AhnLab > [ISF 2023](https://www.youtube.com/playlist?list=PLcETc5mLmNrUOXF2H9BrTewvI5polNOl6)
 - `2023.09.06~08` [`교육`](#교육) > 네이버 커넥트재단 > [SEF2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg)
 - `2023.09.05` [`인공지능`](#인공지능) > 모두팝 > [애플 Vision Pro 상세 기술 설명과 SW 개발 튜토리얼](https://youtu.be/m2enx1WtKeU?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
@@ -232,7 +233,7 @@
   - Softeer Tech Meet-up - [1st](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.05.24
 
 - 카카오모빌리티
-  - [MEMO](https://nemo.kakaomobility.com) - [2022](https://www.youtube.com/playlist?list=PLAi6ak51pSz2O8W4VPsKsUQ_X4oVcvfz6) - 2022.02.10
+  - ✨ [MEMO](https://nemo.kakaomobility.com) - [2022](https://www.youtube.com/playlist?list=PLAi6ak51pSz2O8W4VPsKsUQ_X4oVcvfz6) | [2023](https://www.youtube.com/playlist?list=PLAi6ak51pSz0F7I22FkxYZfs856ZNYX97) - 2023.09.08
 
 
 ## 게임
