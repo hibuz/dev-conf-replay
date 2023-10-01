@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2023.09.14` [`IT기업`](#it기업) > 카카오 > [Tech Meet 제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf)
+- `2023.09.07` [`보안`](#보안) > AhnLab > [ISF 2023](https://www.youtube.com/playlist?list=PLcETc5mLmNrUOXF2H9BrTewvI5polNOl6)
 - `2023.09.06~08` [`교육`](#교육) > 네이버 커넥트재단 > [SEF2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg)
 - `2023.09.05` [`인공지능`](#인공지능) > 모두팝 > [애플 Vision Pro 상세 기술 설명과 SW 개발 튜토리얼](https://youtu.be/m2enx1WtKeU?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.08.31` [`IT기업`](#it기업) > 8월 우아한테크세미나 > [행정동을 법정동으로, 배민 지리 체계 프로젝트 살펴보기](https://youtu.be/2OKljT1tKA4?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
@@ -261,7 +262,7 @@
 
 
 - 안랩(AhnLab)
-  - ISF [2020](https://youtu.be/lbu_fD36ex4?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2021](https://youtu.be/rHyFZn5fMrQ?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2022](https://youtu.be/F3lt03ZBADg?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) - 2022.09.22
+  - ✨ [ISF](https://aisf.co.kr) - [2020](https://youtu.be/lbu_fD36ex4?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2021](https://youtu.be/rHyFZn5fMrQ?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2022](https://youtu.be/F3lt03ZBADg?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2023](https://www.youtube.com/playlist?list=PLcETc5mLmNrUOXF2H9BrTewvI5polNOl6) - 2023.09.07
 
 - 코드엔진
   - CodeEngn Conference - [2021](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) | [2022](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2) | [2023](https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv) - 2023.07.03
