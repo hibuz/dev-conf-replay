@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.09.21` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [In-Memory Data Grid 기반 Smart Factory 아키텍처링 연구 사례](https://youtu.be/sPgtgGZdInA?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.09.20` [`클라우드`](#클라우드) > 오라클 34th Developer Meetup > [데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://youtu.be/vXOwT1sg090)
 - `2023.09.14` [`IT기업`](#it기업) > 카카오 > [Tech Meet 제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf)
 - `2023.09.08` [`모빌리티`](#모빌리티) > 카카오모빌리티 > [NEXT MOBILITY: NEMO 2023](https://www.youtube.com/playlist?list=PLAi6ak51pSz0F7I22FkxYZfs856ZNYX97)
@@ -13,7 +14,6 @@
 - `2023.09.06~08` [`교육`](#교육) > 네이버 커넥트재단 > [SEF2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg)
 - `2023.09.05` [`인공지능`](#인공지능) > 모두팝 > [애플 Vision Pro 상세 기술 설명과 SW 개발 튜토리얼](https://youtu.be/m2enx1WtKeU?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.08.31` [`IT기업`](#it기업) > 8월 우아한테크세미나 > [행정동을 법정동으로, 배민 지리 체계 프로젝트 살펴보기](https://youtu.be/2OKljT1tKA4?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
-- `2023.08.31` [`IT기업`](#it기업) > 데보션 8월 Tech 세미나 > [업무 생산성 향상을 위한 생성형 AI 사용](https://youtu.be/VSgo8v_JZCI?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -71,7 +71,7 @@
 
 - SK
   - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) | [2022](https://www.youtube.com/@sktechsummit/playlists) - 2022.11.08~09
-  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.08.31
+  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.09.21
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) - 2023.04.06
 
 - LG CNS
