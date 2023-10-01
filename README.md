@@ -17,6 +17,7 @@
 - `2023.09.06` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [개발자가 알아야 할 API 보안 이야기](https://www.youtube.com/playlist?list=PLcETc5mLmNrUOXF2H9BrTewvI5polNOl6)
 - `2023.09.06~08` [`교육`](#교육) > 네이버 커넥트재단 > [SEF2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg)
 - `2023.09.06` [`인공지능`](#인공지능) > 전자신문 웨비나 > [제9회 AI 차세대 컨택센터 컨퍼런스 2023 온라인](https://www.youtube.com/playlist?list=PLumdCu9Q56KrqL3THdXlkNjBGN6bmsqts)
+- `2023.09.05` [`보안`](#보안) > 데일리시큐 > [PASCON 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -262,7 +263,7 @@
   - [개발자 컨퍼런스 STICK 2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) - 2022.10.21
 
 - 데일리시큐
-  - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) - 2022.09.28
+  - ✨ [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) | [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ) - 2023.09.05
   - [G-PRIVACY 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) - 2023.03.23
 
 
