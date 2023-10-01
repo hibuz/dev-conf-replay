@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.09.23` [`커뮤니티`](#커뮤니티) > GDG SongDo > [Flutter Meetup Songdo 23](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42)
 - `2023.09.22` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog 웨비나 > [애플리케이션과 DB 연계 분석을 통한 모니터링](https://youtu.be/aeTKHg5ScWY?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2)
 - `2023.09.21` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [In-Memory Data Grid 기반 Smart Factory 아키텍처링 연구 사례](https://youtu.be/sPgtgGZdInA?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.09.20` [`클라우드`](#클라우드) > 오라클 34th Developer Meetup > [데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://youtu.be/vXOwT1sg090)
@@ -384,6 +385,7 @@
   - I/O Extended - [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX) | 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696), [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
   - [Devfest](https://www.facebook.com/devfest.seoul.2019) - [Korea 2020](https://www.youtube.com/playlist?list=PLF_OUznA3RTSoRHlcIRg4KZYSFJ6rfGfm) | Seoul 2021 [호빵 트랙](https://youtu.be/t_BVZkPc650?t=609), [붕어빵 트랙](https://youtu.be/HGy-PvnJC3g?t=609) - 2021.11.03
   - [GDG Daegu](https://gdg.community.dev/gdg-daegu) - [Code Action 1st](https://youtu.be/GngEX-zVo6Y?t=292) - 2022.08.27
+  - ✨ GDG SongDo - [Flutter Meetup Songdo 23](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42) - 2023.09.23
 
 
 ## 기타
