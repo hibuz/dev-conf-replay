@@ -9,12 +9,12 @@
 - `2023.09.22` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog 웨비나 > [애플리케이션과 DB 연계 분석을 통한 모니터링](https://youtu.be/aeTKHg5ScWY?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2)
 - `2023.09.21` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [In-Memory Data Grid 기반 Smart Factory 아키텍처링 연구 사례](https://youtu.be/sPgtgGZdInA?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.09.20` [`클라우드`](#클라우드) > 오라클 34th Developer Meetup > [데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://youtu.be/vXOwT1sg090)
+- `2023.09.19` [`인공지능`](#인공지능) > 모두팝 > [LLM 모델 기반 서비스 실전 가이드](https://youtu.be/8UfK7fVPCGQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.09.14` [`IT기업`](#it기업) > 카카오 > [Tech Meet 제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf)
 - `2023.09.08` [`모빌리티`](#모빌리티) > 카카오모빌리티 > [NEXT MOBILITY: NEMO 2023](https://www.youtube.com/playlist?list=PLAi6ak51pSz0F7I22FkxYZfs856ZNYX97)
 - `2023.09.07` [`보안`](#보안) > AhnLab > [ISF 2023](https://www.youtube.com/playlist?list=PLcETc5mLmNrUOXF2H9BrTewvI5polNOl6)
 - `2023.09.06` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [개발자가 알아야 할 API 보안 이야기](https://www.youtube.com/playlist?list=PLcETc5mLmNrUOXF2H9BrTewvI5polNOl6)
 - `2023.09.06~08` [`교육`](#교육) > 네이버 커넥트재단 > [SEF2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg)
-- `2023.09.05` [`인공지능`](#인공지능) > 모두팝 > [애플 Vision Pro 상세 기술 설명과 SW 개발 튜토리얼](https://youtu.be/m2enx1WtKeU?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.08.31` [`IT기업`](#it기업) > 8월 우아한테크세미나 > [행정동을 법정동으로, 배민 지리 체계 프로젝트 살펴보기](https://youtu.be/2OKljT1tKA4?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 
 ⚡ 바로가기
@@ -91,7 +91,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.09.05
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.09.19
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
