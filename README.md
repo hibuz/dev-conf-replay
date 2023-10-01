@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.09.22` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog 웨비나 > [애플리케이션과 DB 연계 분석을 통한 모니터링](https://youtu.be/aeTKHg5ScWY?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2)
 - `2023.09.21` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [In-Memory Data Grid 기반 Smart Factory 아키텍처링 연구 사례](https://youtu.be/sPgtgGZdInA?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.09.20` [`클라우드`](#클라우드) > 오라클 34th Developer Meetup > [데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://youtu.be/vXOwT1sg090)
 - `2023.09.14` [`IT기업`](#it기업) > 카카오 > [Tech Meet 제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf)
@@ -196,7 +197,7 @@
 
 - Datadog Korea
   - Datadog Korea Virtual Summit - [2020](https://www.youtube.com/playlist?list=PLtoDdE_CaqrQVY5iuha4xGMK6smnLfgi4) - 2020.10.30
-  - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2023.02.17
+  - ✨ [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2023.09.22
 
 - 당근마켓
   - 당근 SRE 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) - 2023.06.15
