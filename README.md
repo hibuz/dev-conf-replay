@@ -5,19 +5,12 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.09.26` [`인공지능`](#인공지능) > 모두팝 > [쉽게 만드는 AI 스트리머](https://youtu.be/WuL-it-4A9o?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.09.23` [`커뮤니티`](#커뮤니티) > GDG SongDo > [Flutter Meetup Songdo 23](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42)
 - `2023.09.22` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog 웨비나 > [애플리케이션과 DB 연계 분석을 통한 모니터링](https://youtu.be/aeTKHg5ScWY?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2)
 - `2023.09.21` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [In-Memory Data Grid 기반 Smart Factory 아키텍처링 연구 사례](https://youtu.be/sPgtgGZdInA?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.09.20` [`클라우드`](#클라우드) > 오라클 34th Developer Meetup > [데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://youtu.be/vXOwT1sg090)
-- `2023.09.19` [`인공지능`](#인공지능) > 모두팝 > [LLM 모델 기반 서비스 실전 가이드](https://youtu.be/8UfK7fVPCGQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.09.14` [`IT기업`](#it기업) > 카카오 > [Tech Meet 제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf)
-- `2023.09.08` [`모빌리티`](#모빌리티) > 카카오모빌리티 > [NEXT MOBILITY: NEMO 2023](https://www.youtube.com/playlist?list=PLAi6ak51pSz0F7I22FkxYZfs856ZNYX97)
-- `2023.09.07` [`인공지능`](#인공지능) > 솔트룩스 > [SAC 2023](https://youtu.be/V_7xw0Nr5CE)
-- `2023.09.07` [`보안`](#보안) > AhnLab > [ISF 2023](https://www.youtube.com/playlist?list=PLcETc5mLmNrUOXF2H9BrTewvI5polNOl6)
-- `2023.09.06` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [개발자가 알아야 할 API 보안 이야기](https://www.youtube.com/playlist?list=PLcETc5mLmNrUOXF2H9BrTewvI5polNOl6)
-- `2023.09.06~08` [`교육`](#교육) > 네이버 커넥트재단 > [SEF2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg)
-- `2023.09.06` [`인공지능`](#인공지능) > 전자신문 웨비나 > [제9회 AI 차세대 컨택센터 컨퍼런스 2023 온라인](https://www.youtube.com/playlist?list=PLumdCu9Q56KrqL3THdXlkNjBGN6bmsqts)
-- `2023.09.05` [`보안`](#보안) > 데일리시큐 > [PASCON 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -93,7 +86,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.09.19
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.09.26
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
@@ -107,12 +100,12 @@
   - Lablup conf [1st](https://www.youtube.com/playlist?list=PLYkiFpaI5DIJEfSxXJRhiF_bQF6u9KFLb) | [2nd](https://www.youtube.com/playlist?list=PLYkiFpaI5DILsreVr61Jw2Jgjf3BoCZGV) - 2022.12.01
 
 - 솔트룩스
-  - ✨ 솔트룩스 인공지능 컨퍼런스(SAC) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2022](https://youtu.be/D5fOutPofgk) | [2023](https://youtu.be/V_7xw0Nr5CE?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) - 2023.09.07
+  - 솔트룩스 인공지능 컨퍼런스(SAC) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IsenU1Z_PSU-4HRWJ--NO_9l) | [2022](https://youtu.be/D5fOutPofgk) | [2023](https://youtu.be/V_7xw0Nr5CE?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) - 2023.09.07
 
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - AI·DATA Summit Korea - [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) | [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kps9gFH2inwXqM2F1AASWhE) - 2023.02.24
   - AI·DX Summit Korea - [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Kpjjo1SW29u0XnT7JiMNMU0) | [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56KqVnoGXp13ItTijqQq8-uCr) - 2023.05.26
-  - ✨ AI 차세대 컨택센터 컨퍼런스 2021 [제4회](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY) | [제5회](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8) | 2022 [제6회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) | [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp6LCKlJ8S2hCgxwHd-_sOM), [제9회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrqL3THdXlkNjBGN6bmsqts) - 2023.09.06
+  - AI 차세대 컨택센터 컨퍼런스 2021 [제4회](https://www.youtube.com/playlist?list=PLumdCu9Q56KqLcP6rG01k0CyR9gnbE3kY) | [제5회](https://www.youtube.com/playlist?list=PLumdCu9Q56KpsceRGouaf0hEUNmx2taQ8) | 2022 [제6회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrgyTJ8rK4JpxSlBy9cMp2Y) | [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp6LCKlJ8S2hCgxwHd-_sOM), [제9회](https://www.youtube.com/playlist?list=PLumdCu9Q56KrqL3THdXlkNjBGN6bmsqts) - 2023.09.06
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy) - 2021.09.09
 
 - 대덕특구 SPACE-S
@@ -238,7 +231,7 @@
   - Softeer Tech Meet-up - [1st](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.05.24
 
 - 카카오모빌리티
-  - ✨ [MEMO](https://nemo.kakaomobility.com) - [2022](https://www.youtube.com/playlist?list=PLAi6ak51pSz2O8W4VPsKsUQ_X4oVcvfz6) | [2023](https://www.youtube.com/playlist?list=PLAi6ak51pSz0F7I22FkxYZfs856ZNYX97) - 2023.09.08
+  - [MEMO](https://nemo.kakaomobility.com) - [2022](https://www.youtube.com/playlist?list=PLAi6ak51pSz2O8W4VPsKsUQ_X4oVcvfz6) | [2023](https://www.youtube.com/playlist?list=PLAi6ak51pSz0F7I22FkxYZfs856ZNYX97) - 2023.09.08
 
 
 ## 게임
@@ -263,12 +256,12 @@
   - [개발자 컨퍼런스 STICK 2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) - 2022.10.21
 
 - 데일리시큐
-  - ✨ [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) | [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ) - 2023.09.05
+  - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) | [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ) - 2023.09.05
   - [G-PRIVACY 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) - 2023.03.23
 
 
 - 안랩(AhnLab)
-  - ✨ [ISF](https://aisf.co.kr) - [2020](https://youtu.be/lbu_fD36ex4?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2021](https://youtu.be/rHyFZn5fMrQ?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2022](https://youtu.be/F3lt03ZBADg?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2023](https://www.youtube.com/playlist?list=PLcETc5mLmNrUOXF2H9BrTewvI5polNOl6) - 2023.09.07
+  - [ISF](https://aisf.co.kr) - [2020](https://youtu.be/lbu_fD36ex4?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2021](https://youtu.be/rHyFZn5fMrQ?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2022](https://youtu.be/F3lt03ZBADg?list=PLcETc5mLmNrXk7QFkcY5y-9OL_DoCA7Kt) | [2023](https://www.youtube.com/playlist?list=PLcETc5mLmNrUOXF2H9BrTewvI5polNOl6) - 2023.09.07
 
 - 코드엔진
   - CodeEngn Conference - [2021](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) | [2022](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2) | [2023](https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv) - 2023.07.03
@@ -358,7 +351,7 @@
 ## 교육
 
 - 네이버 커넥트재단
-  - ✨ [SEF](https://sef.connect.or.kr) - [2020, 2021, 2022, 2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg) - 2023.09.06~08
+  - [SEF](https://sef.connect.or.kr) - [2020, 2021, 2022, 2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg) - 2023.09.06~08
 
 - 인프런
   - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) - 2022.08.26
@@ -381,7 +374,7 @@
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) - 2022.10.29
-  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) | ✨ [Frontend](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw) | [GameTech](https://www.youtube.com/playlist?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9) | [Architecture](https://www.youtube.com/playlist?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-) - 2023.09.06
+  - AWSKRUG Meetup [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) | [Frontend](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw) | [GameTech](https://www.youtube.com/playlist?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9) | [Architecture](https://www.youtube.com/playlist?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-) - 2023.09.06
   
 - 구글 개발자 그룹(GDG KOREA)
   - I/O Extended - [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX) | 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696), [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
