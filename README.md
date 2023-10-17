@@ -6,7 +6,7 @@
 
 ✨ 신규영상
 - `2023.10.17` [`인공지능`](#인공지능) > 모두팝 > [SAM(Segment Anything Model)과 친해지기](https://youtu.be/9YcUAwK_-sk?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2023.10.05` [`교육`](#교육) > 이노베이션아카데미 > [2023 INNO CON](https://youtu.be/oFB2ZVuxFsI)
+- `2023.10.05` [`교육`](#교육) > 이노베이션아카데미 > [2023 INNO CON](https://youtu.be/TmVEQyRo_Bc)
 - `2023.09.23` [`커뮤니티`](#커뮤니티) > GDG SongDo > [Flutter Meetup Songdo 23](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42)
 - `2023.09.22` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog 웨비나 > [애플리케이션과 DB 연계 분석을 통한 모니터링](https://youtu.be/aeTKHg5ScWY?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2)
 - `2023.09.21` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [In-Memory Data Grid 기반 Smart Factory 아키텍처링 연구 사례](https://youtu.be/sPgtgGZdInA?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
@@ -228,7 +228,7 @@
 
 - 현대자동차
   - [HMG Developer Conference](https://www.hmgdevcon.com) - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) - 2022.11.16~17
-  - Softeer Tech Meet-up - [1st](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.05.24
+  - Softeer Tech Meet-up - [1st, 2nd](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.09.14
 
 - 카카오모빌리티
   - [MEMO](https://nemo.kakaomobility.com) - [2022](https://www.youtube.com/playlist?list=PLAi6ak51pSz2O8W4VPsKsUQ_X4oVcvfz6) | [2023](https://www.youtube.com/playlist?list=PLAi6ak51pSz0F7I22FkxYZfs856ZNYX97) - 2023.09.08
