@@ -5,13 +5,12 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.10.17` [`인공지능`](#인공지능) > 모두팝 > [SAM(Segment Anything Model)과 친해지기](https://youtu.be/9YcUAwK_-sk?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.10.05` [`교육`](#교육) > 이노베이션아카데미 > [2023 INNO CON](https://youtu.be/oFB2ZVuxFsI)
-- `2023.09.26` [`인공지능`](#인공지능) > 모두팝 > [쉽게 만드는 AI 스트리머](https://youtu.be/WuL-it-4A9o?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.09.23` [`커뮤니티`](#커뮤니티) > GDG SongDo > [Flutter Meetup Songdo 23](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42)
 - `2023.09.22` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog 웨비나 > [애플리케이션과 DB 연계 분석을 통한 모니터링](https://youtu.be/aeTKHg5ScWY?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2)
 - `2023.09.21` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [In-Memory Data Grid 기반 Smart Factory 아키텍처링 연구 사례](https://youtu.be/sPgtgGZdInA?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.09.20` [`클라우드`](#클라우드) > 오라클 34th Developer Meetup > [데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://youtu.be/vXOwT1sg090)
-- `2023.09.14` [`IT기업`](#it기업) > 카카오 > [Tech Meet 제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -41,7 +40,7 @@
 
 - 카카오
   - [if(kakao)](https://if.kakao.com) - [2020](https://elseif.kakao.com/2020) | [2021](https://elseif.kakao.com/2021) | [2022](https://if.kakao.com/session?t.bab36uRci8=0) - 2022.12.07~09
-  - ✨ [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f) | [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u) | [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf)- 2023.09.14
+  - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f) | [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u) | [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf)- 2023.09.14
 
 - 라인
   - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) - 2022.11.17~18
@@ -61,7 +60,7 @@
   - Simplicity(토스 디자인 컨퍼런스) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) - 2021.08.30~09.02
 
 - 삼성
-  - [SSDC](https://www.ssdc.kr) - [2020](https://soscon2020.ssdc.kr/Session.html) | [2021](https://ssdc2021.ssdc.kr/session) | [2022](https://www.ssdc.kr/stream) - 2022.11.15~17
+  - [SSDC](https://www.ssdc.kr) - [2020](https://soscon2020.ssdc.kr/Session.html) | [2021](https://ssdc2021.ssdc.kr) | [2022](https://www.ssdc.kr/stream) - 2022.11.15~17
 
 - 삼성SDS
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
@@ -87,7 +86,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.09.26
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2023.10.17
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
