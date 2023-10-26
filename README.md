@@ -8,6 +8,7 @@
 - `2023.10.25` [`IT기업`](#it기업) > 데보션 10월 Tech 세미나 > [2023년의 딥러닝과 LLM 생태계](https://youtu.be/7zh8Kmv6kcs?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.10.25` [`클라우드`](#클라우드) > 오라클 35th Developer Meetup > [데이터 시각화 & AI/ML 알아보기](https://youtu.be/nxrqaA9J344)
 - `2023.10.18` [`인공지능`](#인공지능) > 모두팝 > [이해관계자 커뮤니티를 위한 거버넌스와 기여 보상](https://youtu.be/iQzwpQWe6ww?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2023.10.11` [`오픈소스`](#오픈소스) > ETRI > [ETRI 오픈소스 테크데이 EOST2023](https://youtu.be/k3m1seQqkHg?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
 - `2023.10.05` [`교육`](#교육) > 이노베이션아카데미 > [2023 INNO CON](https://youtu.be/TmVEQyRo_Bc)
 
 ⚡ 바로가기
@@ -343,7 +344,7 @@
   - [제9회 한국 커뮤니티 데이 - KCD 2020](https://www.youtube.com/watch?v=Scj3YCVPsAU&list=PL8MaVgZDhGk9CYn_IkRkgnN1R7kpE582A&index=7) - 2020.11.07
 
 - 한국전자통신연구원
-  - [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2021,2020](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) | 2022 - [Track 01](https://youtu.be/jgfGWpX_Wxo?t=3596), [Track 02](https://youtu.be/phS_Q5PHGV4?t=3642) - 2022.11.08
+  - [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2020 | 2021 | 2022 | 2023](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) - 2023.10.11
 
 
 ## 교육
