@@ -9,8 +9,6 @@
 - `2023.10.25` [`클라우드`](#클라우드) > 오라클 35th Developer Meetup > [데이터 시각화 & AI/ML 알아보기](https://youtu.be/nxrqaA9J344)
 - `2023.10.18` [`인공지능`](#인공지능) > 모두팝 > [이해관계자 커뮤니티를 위한 거버넌스와 기여 보상](https://youtu.be/iQzwpQWe6ww?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.10.05` [`교육`](#교육) > 이노베이션아카데미 > [2023 INNO CON](https://youtu.be/TmVEQyRo_Bc)
-- `2023.09.23` [`커뮤니티`](#커뮤니티) > GDG SongDo > [Flutter Meetup Songdo 23](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42)
-- `2023.09.22` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog 웨비나 > [애플리케이션과 DB 연계 분석을 통한 모니터링](https://youtu.be/aeTKHg5ScWY?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -193,7 +191,7 @@
 
 - Datadog Korea
   - Datadog Korea Virtual Summit - [2020](https://www.youtube.com/playlist?list=PLtoDdE_CaqrQVY5iuha4xGMK6smnLfgi4) - 2020.10.30
-  - ✨ [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2023.09.22
+  - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2023.09.22
 
 - 당근마켓
   - 당근 SRE 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) - 2023.06.15
@@ -354,7 +352,7 @@
   - [SEF](https://sef.connect.or.kr) - [2020, 2021, 2022, 2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg) - 2023.09.06~08
 
 - 인프런
-  - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) - 2022.08.26
+  - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) | [2023](https://www.youtube.com/playlist?list=PLpkj8RKr48waFtrqvJjbNrpGCvdxyX8Nx) - 2023.08.15
 
 - 프로그래머스
   - [프로그래머스 온라인 컨퍼런스 1st](https://www.youtube.com/playlist?list=PLz4XWo74AOafAHPTyd4ikJwRkXmptWXwI) - 2022.11.26
@@ -380,7 +378,7 @@
   - I/O Extended - [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX) | 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696), [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
   - [Devfest](https://www.facebook.com/devfest.seoul.2019) - [Korea 2020](https://www.youtube.com/playlist?list=PLF_OUznA3RTSoRHlcIRg4KZYSFJ6rfGfm) | Seoul 2021 [호빵 트랙](https://youtu.be/t_BVZkPc650?t=609), [붕어빵 트랙](https://youtu.be/HGy-PvnJC3g?t=609) - 2021.11.03
   - [GDG Daegu](https://gdg.community.dev/gdg-daegu) - [Code Action 1st](https://youtu.be/GngEX-zVo6Y?t=292) - 2022.08.27
-  - ✨ GDG SongDo - [Flutter Meetup Songdo 23](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42) - 2023.09.23
+  - GDG SongDo - [Flutter Meetup Songdo 23](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42) - 2023.09.23
 
 
 ## 기타
