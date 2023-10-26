@@ -5,12 +5,12 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.10.25` [`IT기업`](#it기업) > 데보션 10월 Tech 세미나 > [2023년의 딥러닝과 LLM 생태계](https://youtu.be/7zh8Kmv6kcs?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.10.25` [`클라우드`](#클라우드) > 오라클 35th Developer Meetup > [데이터 시각화 & AI/ML 알아보기](https://youtu.be/nxrqaA9J344)
 - `2023.10.18` [`인공지능`](#인공지능) > 모두팝 > [이해관계자 커뮤니티를 위한 거버넌스와 기여 보상](https://youtu.be/iQzwpQWe6ww?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.10.05` [`교육`](#교육) > 이노베이션아카데미 > [2023 INNO CON](https://youtu.be/TmVEQyRo_Bc)
 - `2023.09.23` [`커뮤니티`](#커뮤니티) > GDG SongDo > [Flutter Meetup Songdo 23](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42)
 - `2023.09.22` [`인프라 & 데브옵스`](#인프라--데브옵스) > Datadog 웨비나 > [애플리케이션과 DB 연계 분석을 통한 모니터링](https://youtu.be/aeTKHg5ScWY?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2)
-- `2023.09.21` [`IT기업`](#it기업) > 데보션 9월 Tech 세미나 > [In-Memory Data Grid 기반 Smart Factory 아키텍처링 연구 사례](https://youtu.be/sPgtgGZdInA?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -68,7 +68,7 @@
 
 - SK
   - [SK ICT Tech Summit](https://www.skicttechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) | [2022](https://www.youtube.com/@sktechsummit/playlists) - 2022.11.08~09
-  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.09.21
+  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.10.25
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) - 2023.04.06
 
 - LG CNS
