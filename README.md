@@ -303,7 +303,7 @@
 ## 프로그래밍 언어
 
 - 파이콘 한국
-  - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) | [2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRnlqQwMj-WNlrsac7yTiVhk) | [2023](https://www.youtube.com/playlist?list=PLZPhyNeJvHRllQiXsJAryqWmqWrwFxY8I) - 2022.08.12~13
+  - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) | [2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRnlqQwMj-WNlrsac7yTiVhk) | [2023](https://www.youtube.com/playlist?list=PLZPhyNeJvHRllQiXsJAryqWmqWrwFxY8I) - 2023.08.12~13
 
 - 한국 스프링 사용자 모임
   - [KSUG](https://www.ksug.org) - [2021 Webinar](https://www.youtube.com/playlist?list=PLn0dGEB80JNQLm7-af9X6Yqx1oBK8YXSm) - 2021.04.30
@@ -392,7 +392,7 @@
   - [TECH TALK](https://techtalk.11stcorp.com) - 2022 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9EzCttLVM0uTTC26oBBRrR) [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu8hZ3_F9CU2A7HlkGRyUMUQ) - 2022.12.07~08
 
 - 티맥스
-  - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) - 2020.09.06~07
+  - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) - 2022.09.06~07
 
 - 한국전자통신연구원
   - [ETRI CONFERENCE 2022](https://youtu.be/4z1zU2CyX6M?list=PLGvb-9I0h7UiT5plM2JTLTWDNlcby6OQg) - 2022.05.24~25
