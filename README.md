@@ -18,16 +18,16 @@
 
 ## 개발관련 유튜브 채널
 
-1. `54.9만` 조코딩 JoCoding > https://www.youtube.com/@jocoding
-2. `46.8만` 노마드 코더 Nomad Coders > https://www.youtube.com/@nomadcoders
-3. `33.6만` 생활코딩 > https://www.youtube.com/@coohde
-4. `32.4만` 나도코딩 > https://www.youtube.com/@nadocoding
-5. `19.2만` 코딩애플 > https://www.youtube.com/@codingapple
-6. `17.0만` 드림코딩 > https://www.youtube.com/@dream-coding
-7. `16.7만` 동빈나 > https://www.youtube.com/@dongbinna
-8. `16.0만` 코딩하는거니 > https://www.youtube.com/@gunnycoding
-9. `15.1만` 워니코딩 > https://www.youtube.com/@WonieSong
-10. `11.5만` 개발자 라라 > https://www.youtube.com/@devlala
+1. `56.0만` 조코딩 JoCoding > https://www.youtube.com/@jocoding
+2. `48.6만` 노마드 코더 Nomad Coders > https://www.youtube.com/@nomadcoders
+3. `33.9만` 생활코딩 > https://www.youtube.com/@coohde
+4. `32.9만` 나도코딩 > https://www.youtube.com/@nadocoding
+5. `20.5만` 코딩애플 > https://www.youtube.com/@codingapple
+6. `17.1만` 드림코딩 > https://www.youtube.com/@dream-coding
+7. `16.8만` 동빈나 > https://www.youtube.com/@dongbinna
+8. `16.3만` 코딩하는거니 > https://www.youtube.com/@gunnycoding
+9. `14.9만` 워니코딩 > https://www.youtube.com/@WonieSong
+10. `11.4만` 개발자 라라 > https://www.youtube.com/@devlala
 
 
 ## IT기업
