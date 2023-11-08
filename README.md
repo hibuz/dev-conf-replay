@@ -5,13 +5,13 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.11.01` [`보안`](#보안) > 시큐레이어 > [개발자 컨퍼런스 STICK 2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq)
 - `2023.10.31` [`인공지능`](#인공지능) > 모두팝 > [초거대 AI시대 대체불가 개발자로 살아가기](https://youtu.be/2-bXSTgNEtg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.10.25` [`IT기업`](#it기업) > 10월 우아한테크세미나 > [글 쓰는 우아한 개발자](https://youtu.be/BQ5rRLwa1fg?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2023.10.25` [`클라우드`](#클라우드) > 오라클 35th Developer Meetup > [데이터 시각화 & AI/ML 알아보기](https://youtu.be/nxrqaA9J344)
 - `2023.10.25` [`IT기업`](#it기업) > 데보션 10월 Tech 세미나 > [2023년의 딥러닝과 LLM 생태계](https://youtu.be/7zh8Kmv6kcs?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.10.20` [`IT기업`](#it기업) > 데보션 > [제5회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe)
 - `2023.10.11` [`오픈소스`](#오픈소스) > ETRI > [ETRI 오픈소스 테크데이 EOST2023](https://youtu.be/k3m1seQqkHg?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
-- `2023.10.05` [`교육`](#교육) > 이노베이션아카데미 > [2023 INNO CON](https://youtu.be/TmVEQyRo_Bc)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -254,7 +254,7 @@
   - [제11회(2021), 제12회(2022) 소프트웨어 개발보안 컨퍼런스](https://www.youtube.com/playlist?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz) - 2022.11.04
 
 - 시큐레이어
-  - [개발자 컨퍼런스 STICK 2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) - 2022.10.21
+  - 개발자 컨퍼런스 STICK [2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) | [2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq) - 2022.11.01
 
 - 데일리시큐
   - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) | [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ) - 2023.09.05
