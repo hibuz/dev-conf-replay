@@ -342,7 +342,7 @@
 
 - 오픈소스 소프트웨어 통합지원센터, 오픈업(Open UP)
   - 오픈 테크넷 서밋(Open Technet Summit) - [2020 | 2021 | 2022 | 2023](https://www.youtube.com/playlist?list=PL8MaVgZDhGk_E0jjMCeTyW3qz5uh86YtJ) - 2023.09.14
-  - [2020,2021,2022 공개소프트웨어 페스티벌](https://www.youtube.com/playlist?list=PL8MaVgZDhGk_6lUMRnoGQO8Xy4d3RXTDa) - 2022.12.06
+  - [2020,2021,2022,2023 공개소프트웨어 페스티벌](https://www.youtube.com/playlist?list=PL8MaVgZDhGk_6lUMRnoGQO8Xy4d3RXTDa) - 2023.09.14
   - [제9회 한국 커뮤니티 데이 - KCD 2020](https://www.youtube.com/watch?v=Scj3YCVPsAU&list=PL8MaVgZDhGk9CYn_IkRkgnN1R7kpE582A&index=7) - 2020.11.07
 
 - 한국전자통신연구원
@@ -361,7 +361,7 @@
   - [프로그래머스 온라인 컨퍼런스 1st](https://www.youtube.com/playlist?list=PLz4XWo74AOafAHPTyd4ikJwRkXmptWXwI) - 2022.11.26
 
 - 이노베이션 아카데미
-  - ✨ [INNO-CON](https://innocon.co.kr) - [이노베이션아카데미 성과 공유 컨퍼런스 2020 ~ 2023](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4) - 2023.10.05
+  - [INNO-CON](https://innocon.co.kr) - [이노베이션아카데미 성과 공유 컨퍼런스 2020 ~ 2023](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4) - 2023.10.05
 
 - [피로그래밍](https://pirogramming.com)
   - [2022 겨울 피로컨퍼런스](https://www.youtube.com/playlist?list=PLslwDteUjPslzKLhryKb5IIaRg4fCz6Fw) - 2022.02.17~18
