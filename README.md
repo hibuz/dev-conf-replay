@@ -297,8 +297,8 @@
 - 자바스크립트 컨퍼런스 
   - [JSConf Korea](https://jsconf.kr) - [2020 Home Edition](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm) | [2022](https://www.youtube.com/playlist?list=PL37ZVnwpeshH7y4tbeYslJ5MN1JvyYEks) - 2022.09.16~17
 
-- Nest.js Korea
-  - [Shall we Nest.js?](https://youtu.be/AHSHjCVUsu8), [NestJS Assemble!](https://youtu.be/VH1GTGIMHQw) - 2022.10.20
+- 기타
+  - Nest.js Korea - [NestJS 밋업](https://www.youtube.com/@nestjskorea/videos) - 2023.06.15
 
 
 ## 프로그래밍 언어
