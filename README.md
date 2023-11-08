@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.11.13` [`모빌리티`](#모빌리티) > 현대자동차그룹 > [제3회 HMG Developers Conference](https://www.youtube.com/playlist?list=PLypFzBtJUO_iRMaQ-vEgaR_Bv4dRXxP7O)
 - `2023.11.01` [`보안`](#보안) > 시큐레이어 > [개발자 컨퍼런스 STICK 2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq)
 - `2023.10.31` [`인공지능`](#인공지능) > 모두팝 > [초거대 AI시대 대체불가 개발자로 살아가기](https://youtu.be/2-bXSTgNEtg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2023.10.25` [`IT기업`](#it기업) > 10월 우아한테크세미나 > [글 쓰는 우아한 개발자](https://youtu.be/BQ5rRLwa1fg?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
@@ -229,7 +230,7 @@
 ## 모빌리티
 
 - 현대자동차
-  - [HMG Developer Conference](https://www.hmgdevcon.com) - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) - 2022.11.16~17
+  - ✨ [HMG Developer Conference](https://www.hmgdevcon.com) - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) | [제3회](https://www.youtube.com/playlist?list=PLypFzBtJUO_iRMaQ-vEgaR_Bv4dRXxP7O) - 2022.11.13
   - Softeer Tech Meet-up - [1st, 2nd](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.09.14
 
 - 카카오모빌리티
@@ -255,7 +256,7 @@
   - [제11회(2021), 제12회(2022) 소프트웨어 개발보안 컨퍼런스](https://www.youtube.com/playlist?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz) - 2022.11.04
 
 - 시큐레이어
-  - 개발자 컨퍼런스 STICK [2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) | [2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq) - 2022.11.01
+  - ✨ 개발자 컨퍼런스 STICK [2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) | [2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq) - 2023.11.01
 
 - 데일리시큐
   - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) | [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ) - 2023.09.05
