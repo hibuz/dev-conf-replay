@@ -10,6 +10,7 @@
 - `2023.10.25` [`IT기업`](#it기업) > 10월 우아한테크세미나 > [글 쓰는 우아한 개발자](https://youtu.be/BQ5rRLwa1fg?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2023.10.25` [`클라우드`](#클라우드) > 오라클 35th Developer Meetup > [데이터 시각화 & AI/ML 알아보기](https://youtu.be/nxrqaA9J344)
 - `2023.10.25` [`IT기업`](#it기업) > 데보션 10월 Tech 세미나 > [2023년의 딥러닝과 LLM 생태계](https://youtu.be/7zh8Kmv6kcs?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
+- `2023.10.21` [`프론트엔드 & JS`](#프론트엔드--js) > FEConf Korea > FEConf 2023 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ) 
 - `2023.10.20` [`IT기업`](#it기업) > 데보션 > [제5회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe)
 - `2023.10.11` [`오픈소스`](#오픈소스) > ETRI > [ETRI 오픈소스 테크데이 EOST2023](https://youtu.be/k3m1seQqkHg?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
 
@@ -292,7 +293,7 @@
 ## 프론트엔드 & JS
 
 - 프론트엔드 개발자 컨퍼런스 
-  - FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) | 2022 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pajnfobtWKCU9XH3zNNT-v), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pl7L0FZW2XMg7fE3nZAJk3) - 2022.10.08
+  - ✨ FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) | 2022 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pajnfobtWKCU9XH3zNNT-v), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pl7L0FZW2XMg7fE3nZAJk3) | 2023 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ) - 2023.10.21
 
 - 자바스크립트 컨퍼런스 
   - [JSConf Korea](https://jsconf.kr) - [2020 Home Edition](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm) | [2022](https://www.youtube.com/playlist?list=PL37ZVnwpeshH7y4tbeYslJ5MN1JvyYEks) - 2022.09.16~17
