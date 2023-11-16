@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.11.13` [`블록체인`](#블록체인) > 업비트 > [UDC 2023 - All That Blockchain](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65)
 - `2023.11.13` [`모빌리티`](#모빌리티) > 현대자동차그룹 > [제3회 HMG Developers Conference](https://www.youtube.com/playlist?list=PLypFzBtJUO_iRMaQ-vEgaR_Bv4dRXxP7O)
 - `2023.11.01` [`보안`](#보안) > 시큐레이어 > [개발자 컨퍼런스 STICK 2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq)
 - `2023.10.31` [`인공지능`](#인공지능) > 모두팝 > [초거대 AI시대 대체불가 개발자로 살아가기](https://youtu.be/2-bXSTgNEtg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
@@ -213,7 +214,7 @@
 ## 블록체인
 
 - 업비트 
-  - [UDC](https://udc.upbit.com/) - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) | 2022 - [Day 1](https://www.youtube.com/playlist?list=PLyONEtYCZLWUc2WPlZQ2tCqImSGyjw4o5), [Day 2](https://www.youtube.com/playlist?list=PLyONEtYCZLWX7GQPXn2cMjowhbUcVmpT0) - 2022.09.22~23
+  - ✨ [UDC](https://udc.upbit.com/) - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) | [2022](https://www.youtube.com/playlist?list=PLyONEtYCZLWXqxJ3IbXz3PJ8Uc3ZHkmP6) | [2023](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65) - 2023.11.13
   - [DCON 2023](https://www.youtube.com/playlist?list=PLjziuUtwQOz1n1GLizGeUOquf5rNdZAlx) - 2023.03.16
 
 - 람다256 
