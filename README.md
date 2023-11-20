@@ -6,7 +6,7 @@
 
 ✨ 신규영상
 - `2023.11.13` [`블록체인`](#블록체인) > 업비트 > [UDC 2023 - All That Blockchain](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65)
-- `2023.11.13` [`모빌리티`](#모빌리티) > 현대자동차그룹 > [제3회 HMG Developers Conference](https://www.youtube.com/playlist?list=PLypFzBtJUO_iRMaQ-vEgaR_Bv4dRXxP7O)
+- `2023.11.13` [`모빌리티`](#모빌리티) > 현대자동차그룹 > [제3회 HMG Developers Conference](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w)
 - `2023.11.01` [`보안`](#보안) > 시큐레이어 > [개발자 컨퍼런스 STICK 2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq)
 - `2023.10.31` [`클라우드`](#클라우드) > NHN Cloud On 웨비나 21 > [쿠버네티스는 이미지 관리부터](https://youtu.be/UGpxQnxZyKw?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
 - `2023.10.31` [`인공지능`](#인공지능) > 모두팝 > [초거대 AI시대 대체불가 개발자로 살아가기](https://youtu.be/2-bXSTgNEtg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
@@ -231,7 +231,7 @@
 ## 모빌리티
 
 - 현대자동차
-  - ✨ [HMG Developer Conference](https://www.hmgdevcon.com) - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) | [제3회](https://www.youtube.com/playlist?list=PLypFzBtJUO_iRMaQ-vEgaR_Bv4dRXxP7O) - 2022.11.13
+  - ✨ [HMG Developer Conference](https://www.hmgdevcon.com) - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) | [제3회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w) - 2022.11.13
   - Softeer Tech Meet-up - [1st, 2nd](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.09.14
 
 - 카카오모빌리티
