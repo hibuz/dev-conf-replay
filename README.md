@@ -251,7 +251,7 @@
 ## 보안
 
 - Samsung Research
-  - [SSTF(Samsung Security Tech Forum)](https://research.samsung.com/sstf) - [2021](https://www.youtube.com/playlist?list=PLhpbZcOKxtO1eA3dVfatqd5bpwbGd0oXP) | [2022](https://www.youtube.com/playlist?list=PLhpbZcOKxtO0MkZ88h_y0Xs8VH2rFigWc) - 2022.8.23
+  - [SSTF(Samsung Security Tech Forum)](https://research.samsung.com/sstf) - [2021](https://www.youtube.com/playlist?list=PLhpbZcOKxtO1eA3dVfatqd5bpwbGd0oXP) | [2022](https://www.youtube.com/playlist?list=PLhpbZcOKxtO0MkZ88h_y0Xs8VH2rFigWc) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLHT5-tkJtHrz0jCCQ_300tb) - 2022.08.22
 
 - 소프트웨어 개발보안 컨퍼런스
   - [제11회(2021), 제12회(2022) 소프트웨어 개발보안 컨퍼런스](https://www.youtube.com/playlist?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz) - 2022.11.04
