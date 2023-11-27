@@ -6,13 +6,13 @@
 
 ✨ 신규영상
 - `2023.11.23` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [Generative AI와 함께하는 프롬프트 마스터 클래스](https://youtu.be/zTP3hdSnS_8?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
+- `2023.11.22` [`클라우드`](#클라우드) > 오라클 36th Developer Meetup > [데이터 시각화 & AI/ML 알아보기](https://youtu.be/xfI40ke5Vz4)
 - `2023.11.13` [`블록체인`](#블록체인) > 업비트 > [UDC 2023 - All That Blockchain](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65)
 - `2023.11.13` [`모빌리티`](#모빌리티) > 현대자동차그룹 > [제3회 HMG Developers Conference](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w)
 - `2023.11.01` [`보안`](#보안) > 시큐레이어 > [개발자 컨퍼런스 STICK 2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq)
 - `2023.10.31` [`클라우드`](#클라우드) > NHN Cloud On 웨비나 21 > [쿠버네티스는 이미지 관리부터](https://youtu.be/UGpxQnxZyKw?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa)
 - `2023.10.31` [`인공지능`](#인공지능) > 모두팝 > [초거대 AI시대 대체불가 개발자로 살아가기](https://youtu.be/2-bXSTgNEtg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2023.10.25` [`IT기업`](#it기업) > 10월 우아한테크세미나 > [글 쓰는 우아한 개발자](https://youtu.be/BQ5rRLwa1fg?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
-- `2023.10.25` [`클라우드`](#클라우드) > 오라클 35th Developer Meetup > [데이터 시각화 & AI/ML 알아보기](https://youtu.be/nxrqaA9J344)
+
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -55,7 +55,7 @@
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) - 2022.10.19~21
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
-  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.10.25
+  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.10.25
 
 - 토스
   - [SLASH](https://toss.im/slash-23) - [21, 22, 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2023.06.08~09
@@ -70,7 +70,7 @@
 
 - SK
   - [SK ICT Tech Summit](https://www.sktechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) | [2022](https://www.youtube.com/@sktechsummit/playlists) - 2022.11.08~09
-  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.10.25
+  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.11.23
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) - 2023.10.20
 
 - LG CNS
@@ -163,7 +163,7 @@
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
-  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.10.25
+  - ✨ [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.11.22
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
@@ -293,7 +293,7 @@
 ## 프론트엔드 & JS
 
 - 프론트엔드 개발자 컨퍼런스 
-  - ✨ FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) | 2022 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pajnfobtWKCU9XH3zNNT-v), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pl7L0FZW2XMg7fE3nZAJk3) | 2023 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ) - 2023.10.21
+  - FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) | 2022 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pajnfobtWKCU9XH3zNNT-v), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pl7L0FZW2XMg7fE3nZAJk3) | 2023 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ) - 2023.10.21
 
 - 자바스크립트 컨퍼런스 
   - [JSConf Korea](https://jsconf.kr) - [2020 Home Edition](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm) | [2022](https://www.youtube.com/playlist?list=PL37ZVnwpeshH7y4tbeYslJ5MN1JvyYEks) - 2022.09.16~17
