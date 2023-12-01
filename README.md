@@ -124,7 +124,7 @@
   - 데이터 그랜드 컨퍼런스 - [2020](https://www.youtube.com/playlist?list=PLimZR7g-UQN_UZCckMVWe52Ei8SKimY2o) | [2021](https://www.youtube.com/playlist?list=PLimZR7g-UQN8W9IUPqPl-e0yx-Z6nLzWH) | [2022](https://www.youtube.com/playlist?list=PLimZR7g-UQN_LUB4hqb1UB-RNiNWawE_W) - 2022.12.20
 
 - 데이터야놀자
-  - [데이터야놀자](https://datayanolja.kr) - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) | [2022](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJrLWUDjhzoHsrZo_7qwYZT) - 2022.10.15
+  - [데이터야놀자](https://datayanolja.kr) - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) | [2022](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJrLWUDjhzoHsrZo_7qwYZT) | [2023](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIIWxRwsDJ5oc1yjNFqSFzB) - 2023.10.14
 
 - 빅데이터 연합동아리
   - [보아즈(BOAZ)](https://www.facebook.com/BOAZbigdata) 빅데이터 컨퍼런스 - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) | [제 17회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS) | [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6) - 2023.07.29
