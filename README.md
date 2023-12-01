@@ -8,6 +8,7 @@
 - `2023.11.23` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [Generative AI와 함께하는 프롬프트 마스터 클래스](https://youtu.be/zTP3hdSnS_8?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.11.22` [`클라우드`](#클라우드) > 오라클 36th Developer Meetup > [데이터 시각화 & AI/ML 알아보기](https://youtu.be/xfI40ke5Vz4)
 - `2023.11.21` [`인공지능`](#인공지능) > 모두팝 > [오픈소스 기여하고 취뽀하기](https://youtu.be/PcLSahVmBlI?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2023.11.14~15` [`IT기업`](#it기업) > 삼성 > [SDC23 Korea](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7)
 - `2023.11.13` [`블록체인`](#블록체인) > 업비트 > [UDC 2023 - All That Blockchain](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65)
 - `2023.11.13` [`모빌리티`](#모빌리티) > 현대자동차그룹 > [제3회 HMG Developers Conference](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w)
 - `2023.11.01` [`보안`](#보안) > 시큐레이어 > [개발자 컨퍼런스 STICK 2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq)
@@ -60,7 +61,7 @@
   - Simplicity(토스 디자인 컨퍼런스) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) - 2021.08.30~09.02
 
 - 삼성
-  - [SDC Korea](https://www.sdc-korea.com) - [2020](https://soscon2020.sdc-korea.com/Session.html) | [2021](https://ssdc2021.sdc-korea.com/session) | [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) - 2022.11.15~17
+  - ✨ [SDC Korea](https://www.sdc-korea.com) - [2020](https://soscon2020.sdc-korea.com/Session.html) | [2021](https://ssdc2021.sdc-korea.com/session) | [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) - 2023.11.14~15
 
 - 삼성SDS
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
