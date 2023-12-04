@@ -12,6 +12,7 @@
 - `2023.11.14` [`보안`](#보안) > 소개딩TV >  [제13회 소프트웨어 개발보안 컨퍼런스](https://youtu.be/zus4zcrr8Hc?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz)
 - `2023.11.13` [`블록체인`](#블록체인) > 업비트 > [UDC 2023 - All That Blockchain](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65)
 - `2023.11.13` [`모빌리티`](#모빌리티) > 현대자동차그룹 > [제3회 HMG Developers Conference](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w)
+- `2023.11.07~08` [`기타`](#기타) > ETRI > CONFERENCE 2023 [1일차](https://youtu.be/LldtbXkn1go), [2일차](https://youtu.be/LA_VEuJPEdg)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -396,7 +397,7 @@
   - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) - 2022.09.06~07
 
 - 한국전자통신연구원
-  - [ETRI CONFERENCE 2022](https://youtu.be/4z1zU2CyX6M?list=PLGvb-9I0h7UiT5plM2JTLTWDNlcby6OQg) - 2022.05.24~25
+  - ✨ [ETRI CONFERENCE 2022](https://youtu.be/4z1zU2CyX6M?list=PLGvb-9I0h7UiT5plM2JTLTWDNlcby6OQg) | 2023 [1일차](https://youtu.be/LldtbXkn1go), [2일차](https://youtu.be/LA_VEuJPEdg) - 2023.11.07~08
 
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - [디지털 트랜스포메이션(DX) & 엔터프라이즈 테크 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpbQr_bUOe9jdHSERpA240H) - 2022.03.25
