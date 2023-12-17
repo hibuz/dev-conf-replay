@@ -8,11 +8,6 @@
 - `2023.11.23` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [Generative AI와 함께하는 프롬프트 마스터 클래스](https://youtu.be/zTP3hdSnS_8?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.11.22` [`클라우드`](#클라우드) > 오라클 36th Developer Meetup > [데이터 시각화 & AI/ML 알아보기](https://youtu.be/xfI40ke5Vz4)
 - `2023.11.21` [`인공지능`](#인공지능) > 모두팝 > [오픈소스 기여하고 취뽀하기](https://youtu.be/PcLSahVmBlI?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2023.11.14~15` [`IT기업`](#it기업) > 삼성 > [SDC23 Korea](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7)
-- `2023.11.14` [`보안`](#보안) > 소개딩TV >  [제13회 소프트웨어 개발보안 컨퍼런스](https://youtu.be/zus4zcrr8Hc?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz)
-- `2023.11.13` [`블록체인`](#블록체인) > 업비트 > [UDC 2023 - All That Blockchain](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65)
-- `2023.11.13` [`모빌리티`](#모빌리티) > 현대자동차그룹 > [제3회 HMG Developers Conference](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w)
-- `2023.11.07~08` [`기타`](#기타) > ETRI > CONFERENCE 2023 [1일차](https://youtu.be/LldtbXkn1go), [2일차](https://youtu.be/LA_VEuJPEdg)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -62,7 +57,7 @@
   - Simplicity(토스 디자인 컨퍼런스) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) - 2021.08.30~09.02
 
 - 삼성
-  - ✨ [SDC Korea](https://www.sdc-korea.com) - [2020](https://soscon2020.sdc-korea.com/Session.html) | [2021](https://ssdc2021.sdc-korea.com/session) | [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) - 2023.11.14~15
+  - [SDC Korea](https://www.sdc-korea.com) - [2020](https://soscon2020.sdc-korea.com/Session.html) | [2021](https://ssdc2021.sdc-korea.com/session) | [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) - 2023.11.14~15
 
 - 삼성SDS
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
@@ -212,7 +207,7 @@
 ## 블록체인
 
 - 업비트 
-  - ✨ [UDC](https://udc.upbit.com/) - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) | [2022](https://www.youtube.com/playlist?list=PLyONEtYCZLWXqxJ3IbXz3PJ8Uc3ZHkmP6) | [2023](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65) - 2023.11.13
+  - [UDC](https://udc.upbit.com/) - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) | [2022](https://www.youtube.com/playlist?list=PLyONEtYCZLWXqxJ3IbXz3PJ8Uc3ZHkmP6) | [2023](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65) - 2023.11.13
   - [DCON 2023](https://www.youtube.com/playlist?list=PLjziuUtwQOz1n1GLizGeUOquf5rNdZAlx) - 2023.03.16
 
 - 람다256 
@@ -229,7 +224,7 @@
 ## 모빌리티
 
 - 현대자동차
-  - ✨ [HMG Developer Conference](https://www.hmgdevcon.com) - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) | [제3회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w) - 2022.11.13
+  - [HMG Developer Conference](https://www.hmgdevcon.com) - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) | [제3회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w) - 2022.11.13
   - Softeer Tech Meet-up - [1st, 2nd](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.09.14
 
 - 카카오모빌리티
@@ -252,7 +247,7 @@
   - [SSTF(Samsung Security Tech Forum)](https://research.samsung.com/sstf) - [2021](https://www.youtube.com/playlist?list=PLhpbZcOKxtO1eA3dVfatqd5bpwbGd0oXP) | [2022](https://www.youtube.com/playlist?list=PLhpbZcOKxtO0MkZ88h_y0Xs8VH2rFigWc) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLHT5-tkJtHrz0jCCQ_300tb) - 2023.08.22
 
 - 소프트웨어 개발보안 컨퍼런스
-  - ✨ [제11회(2021), 제12회(2022), 제13회(2023) 소프트웨어 개발보안 컨퍼런스](https://www.youtube.com/playlist?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz) - 2023.11.14
+  - [제11회(2021), 제12회(2022), 제13회(2023) 소프트웨어 개발보안 컨퍼런스](https://www.youtube.com/playlist?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz) - 2023.11.14
 
 - 시큐레이어
   - 개발자 컨퍼런스 STICK [2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) | [2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq) - 2023.11.01
@@ -332,7 +327,7 @@
   - Clojure [2022 meetup+](https://youtu.be/BdSoNmWksuk) - 2022.06.10
 
 - 코드스쿼드
-  - [레츠스위프트](https://letswift.kr) - [2020 테크토크 Day](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER) | [2022](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J) - 2022.11.30
+  - [레츠스위프트](https://letswift.kr) - [2020 테크토크 Day](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER) | [2022](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J) | [2023](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH) - 2023.10.13
 
 - [한국 R 컨퍼런스](https://use-r.kr)
   - [한국 R 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLhTWL0svc2zy4FB-Dy1yrAaYLmrUjXrPg) - 2021.11.19
@@ -397,7 +392,7 @@
   - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) - 2022.09.06~07
 
 - 한국전자통신연구원
-  - ✨ [ETRI CONFERENCE 2022](https://youtu.be/4z1zU2CyX6M?list=PLGvb-9I0h7UiT5plM2JTLTWDNlcby6OQg) | 2023 [1일차](https://youtu.be/LldtbXkn1go), [2일차](https://youtu.be/LA_VEuJPEdg) - 2023.11.07~08
+  - [ETRI CONFERENCE 2022](https://youtu.be/4z1zU2CyX6M?list=PLGvb-9I0h7UiT5plM2JTLTWDNlcby6OQg) | 2023 [1일차](https://youtu.be/LldtbXkn1go), [2일차](https://youtu.be/LA_VEuJPEdg) - 2023.11.07~08
 
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - [디지털 트랜스포메이션(DX) & 엔터프라이즈 테크 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpbQr_bUOe9jdHSERpA240H) - 2022.03.25
