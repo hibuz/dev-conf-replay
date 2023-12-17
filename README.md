@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.12.12~13` [`기타`](#기타) > 11번가 > TECH TALK 2023 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9SEt-ttOVSDfucjmDUW-cy), [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu_Ex8xvgqxxMr-NuUXkKEIc)
 - `2023.11.23` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [Generative AI와 함께하는 프롬프트 마스터 클래스](https://youtu.be/zTP3hdSnS_8?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.11.22` [`클라우드`](#클라우드) > 오라클 36th Developer Meetup > [데이터 시각화 & AI/ML 알아보기](https://youtu.be/xfI40ke5Vz4)
 - `2023.11.21` [`인공지능`](#인공지능) > 모두팝 > [오픈소스 기여하고 취뽀하기](https://youtu.be/PcLSahVmBlI?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
@@ -224,7 +225,7 @@
 ## 모빌리티
 
 - 현대자동차
-  - [HMG Developer Conference](https://www.hmgdevcon.com) - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) | [제3회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w) - 2022.11.13
+  - [HMG Developer Conference](https://www.hmgdevcon.com) - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) | [제3회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w) - 2023.11.13
   - Softeer Tech Meet-up - [1st, 2nd](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.09.14
 
 - 카카오모빌리티
@@ -386,7 +387,7 @@
   - [AI 기반 물류 생태계 플랫폼 LaaS ON 2022](https://www.youtube.com/playlist?list=PLnmMQOipbsPG-Lz2JriQIsFJ60fOoG6ZB) - 2022.05.03
 
 - 11번가
-  - [TECH TALK](https://techtalk.11stcorp.com) - 2022 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9EzCttLVM0uTTC26oBBRrR) [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu8hZ3_F9CU2A7HlkGRyUMUQ) - 2022.12.07~08
+  - ✨ [TECH TALK](https://techtalk.11stcorp.com) - 2022 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9EzCttLVM0uTTC26oBBRrR), [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu8hZ3_F9CU2A7HlkGRyUMUQ) | 2023 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9SEt-ttOVSDfucjmDUW-cy), [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu_Ex8xvgqxxMr-NuUXkKEIc) - 2023.12.12~13
 
 - 티맥스
   - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) - 2022.09.06~07
