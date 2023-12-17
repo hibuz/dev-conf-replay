@@ -9,6 +9,7 @@
 - `2023.11.23` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [Generative AI와 함께하는 프롬프트 마스터 클래스](https://youtu.be/zTP3hdSnS_8?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.11.22` [`클라우드`](#클라우드) > 오라클 36th Developer Meetup > [데이터 시각화 & AI/ML 알아보기](https://youtu.be/xfI40ke5Vz4)
 - `2023.11.21` [`인공지능`](#인공지능) > 모두팝 > [오픈소스 기여하고 취뽀하기](https://youtu.be/PcLSahVmBlI?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2023.11.16~17` [`IT기업`](#it기업) > SK > [TECH SUMMIT 2023](https://www.sktechsummit.com/sessions/sessionsList.do)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -65,7 +66,7 @@
   - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) - 2023.09.12
 
 - SK
-  - [SK ICT Tech Summit](https://www.sktechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) | [2022](https://www.youtube.com/@sktechsummit/playlists) - 2022.11.08~09
+  - ✨ [SK ICT Tech Summit](https://www.sktechsummit.com) - [2020](https://www.youtube.com/watch?v=txFXvzWn2YQ&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=58) | [2021](https://www.youtube.com/watch?v=Isl8i7HbTO4&list=PL5CMydCuadQrS4AYlyWwosSLZK1GQeDIN&index=11) | [2022](https://www.youtube.com/@sktechsummit/playlists) | [2023](https://www.sktechsummit.com/sessions/sessionsList.do) - 2023.11.16~17
   - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.11.23
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) - 2023.10.20
 
