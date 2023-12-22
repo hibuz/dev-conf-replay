@@ -47,7 +47,7 @@
   - [Reveal](https://event.coupangcorp.com) - [2020](https://www.youtube.com/playlist?list=PLPEWOJIs9P6gZJU6aXPilU-kXHVXOPiNz) | [2021](https://www.youtube.com/playlist?list=PLPEWOJIs9P6jjpZqjLMt4GrwxjZ4xRaNp) - 2021.12.09
 
 - 배달의 민족
-  -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) - 2022.10.19~21
+  -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) | [2023](https://www.youtube.com/playlist?list=PLgXGHBqgT2TundZ81MAVHPzeYOTeII69j) - 2023.11.15
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
   - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.10.25
@@ -133,7 +133,7 @@
 ## 클라우드
 
 - 네이버 클라우드 플랫폼(NCP)
-  - [NAVER Cloud SUMMIT](https://www.ncloud-online.com) - [2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhFb9wCdCuiiU6WcWzGFR6c5) | [2022](https://www.youtube.com/playlist?list=PLpywxIpxgxhGY6IJW17IW8-eEHmvWa5FK) - 2022.12.14
+  - NAVER Cloud SUMMIT - [2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhFb9wCdCuiiU6WcWzGFR6c5) | [2022](https://www.youtube.com/playlist?list=PLpywxIpxgxhGY6IJW17IW8-eEHmvWa5FK) - 2022.12.14
   - [2021 GAME X CONFERENCE](https://www.youtube.com/playlist?list=PLpywxIpxgxhHK1dGhSMCeebkNshm_Pvkz) - 2021.10.15
   - [Manufacturing on NAVER Cloud Platform (제조세미나)](https://www.youtube.com/playlist?list=PLpywxIpxgxhHkyuYUHEU2gTVbw1_hjxgd) - 2021.09.16
   - [테크밋업](https://www.youtube.com/playlist?list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK) - 2022.04.20
