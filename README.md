@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2023.12.20` [`IT기업`](#it기업) > 우아한테크세미나 > [WOOWACON 2023 리캡 1,2부](https://youtu.be/WCwPSVu8mH8?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2023.12.12` [`IT기업`](#it기업) > kakao > tech meet [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn)
 - `2023.12.12~13` [`기타`](#기타) > 11번가 > TECH TALK 2023 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9SEt-ttOVSDfucjmDUW-cy), [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu_Ex8xvgqxxMr-NuUXkKEIc)
 - `2023.11.23` [`IT기업`](#it기업) > 데보션 11월 Tech 세미나 > [Generative AI와 함께하는 프롬프트 마스터 클래스](https://youtu.be/zTP3hdSnS_8?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
@@ -48,9 +49,9 @@
 
 - 배달의 민족
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) | [2023](https://www.youtube.com/playlist?list=PLgXGHBqgT2TundZ81MAVHPzeYOTeII69j) - 2023.11.15
+  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.12.20
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
-  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.10.25
 
 - 토스
   - [SLASH](https://toss.im/slash-23) - [21, 22, 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2023.06.08~09
