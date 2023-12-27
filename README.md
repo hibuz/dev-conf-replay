@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2023.12.21` [`IT기업`](#it기업) > 데보션 12월 Tech 세미나 > [Generative AI와 함께하는 프롬프트 마스터 클래스](https://youtu.be/EYmQAU6Le34?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2023.12.20` [`IT기업`](#it기업) > 우아한테크세미나 > [WOOWACON 2023 리캡 1,2부](https://youtu.be/WCwPSVu8mH8?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
+- `2023.12.14` [`빅데이터`](#빅데이터) > 한국데이터산업진흥원 > [2023 데이터 그랜드 컨퍼런스](https://www.youtube.com/playlist?list=PLimZR7g-UQN8wghJypx86DncmYzPg1Akd) 
 - `2023.12.12` [`IT기업`](#it기업) > kakao > tech meet [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn)
 - `2023.12.12~13` [`기타`](#기타) > 11번가 > TECH TALK 2023 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9SEt-ttOVSDfucjmDUW-cy), [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu_Ex8xvgqxxMr-NuUXkKEIc)
 
@@ -119,7 +120,7 @@
 ## 빅데이터
 
 - 한국데이터산업진흥원 
-  - 데이터 그랜드 컨퍼런스 - [2020](https://www.youtube.com/playlist?list=PLimZR7g-UQN_UZCckMVWe52Ei8SKimY2o) | [2021](https://www.youtube.com/playlist?list=PLimZR7g-UQN8W9IUPqPl-e0yx-Z6nLzWH) | [2022](https://www.youtube.com/playlist?list=PLimZR7g-UQN_LUB4hqb1UB-RNiNWawE_W) - 2022.12.20
+  - ✨ [데이터 그랜드 컨퍼런스](https://dataconference.or.kr) - [2020](https://www.youtube.com/playlist?list=PLimZR7g-UQN_UZCckMVWe52Ei8SKimY2o) | [2021](https://www.youtube.com/playlist?list=PLimZR7g-UQN8W9IUPqPl-e0yx-Z6nLzWH) | [2022](https://www.youtube.com/playlist?list=PLimZR7g-UQN_LUB4hqb1UB-RNiNWawE_W) | [2023](https://www.youtube.com/playlist?list=PLimZR7g-UQN8wghJypx86DncmYzPg1Akd) - 2023.12.14
 
 - 데이터야놀자
   - [데이터야놀자](https://datayanolja.kr) - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) | [2022](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJrLWUDjhzoHsrZo_7qwYZT) | [2023](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIIWxRwsDJ5oc1yjNFqSFzB) - 2023.10.14
