@@ -81,7 +81,7 @@
   - CLOVA [AI NOW](https://naver-ai-now.kr) - [2021](https://tv.naver.com/v/20386632/list/710578) - 2021.05.25
 
 - LG [AI Research](https://www.lgresearch.ai)
-  - LG AI Talk Concert - [2021](https://www.youtube.com/playlist?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) | [2022](https://youtu.be/pmvJK6ZNkHY?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ&t=586) - 2022.12.08
+  - LG AI Talk Concert - [2021](https://www.youtube.com/playlist?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) | [2022](https://youtu.be/pmvJK6ZNkHY?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ&t=586) | [2023](https://youtu.be/tbeGE19qIk4?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) - 2023.07.19
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2022, 2021](https://youtu.be/QfM5wiFDjMg?list=PLv6H9ngYdJbJ66oEGraZ1MmRmIfP8Tl-r) - 2022.12.15
