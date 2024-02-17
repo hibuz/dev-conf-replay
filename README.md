@@ -134,8 +134,7 @@
 
 - 네이버 클라우드 플랫폼(NCP)
   - NAVER Cloud SUMMIT - [2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhFb9wCdCuiiU6WcWzGFR6c5) | [2022](https://www.youtube.com/playlist?list=PLpywxIpxgxhGY6IJW17IW8-eEHmvWa5FK) - 2022.12.14
-  - [2021 GAME X CONFERENCE](https://www.youtube.com/playlist?list=PLpywxIpxgxhHK1dGhSMCeebkNshm_Pvkz) - 2021.10.15
-  - [Manufacturing on NAVER Cloud Platform (제조세미나)](https://www.youtube.com/playlist?list=PLpywxIpxgxhHkyuYUHEU2gTVbw1_hjxgd) - 2021.09.16
+  - 컨퍼런스 - [게임 2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhHK1dGhSMCeebkNshm_Pvkz) | [제조 2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhHkyuYUHEU2gTVbw1_hjxgd) | [금융2 023](https://www.youtube.com/playlist?list=PLpywxIpxgxhFe71pLAwddPMOeMI4zgnGj) - 2023.10.25
   - [테크밋업](https://www.youtube.com/playlist?list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK) - 2022.04.20
   - [온라인 교육](https://www.youtube.com/playlist?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr) - 2023.03.15
 
