@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2024.02.01` [`IT기업`](#it기업) > 모두팝 > [2024에듀테크드렌트를 읽고 전망하는 시간](https://youtu.be/NOmklIyb4g0?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2024.01.27` [`빅데이터`](#빅데이터) > 보아즈 > [제19회 보아즈 빅데이터 컨퍼런스](https://www.youtube.com/@bigdataboaz4452/videos)
+- `2024.01.18` [`모바일`](#모바일) > Seoul iOS Meetup > [January 2024](https://youtu.be/FmYf5Yz77wg?list=PLAFxr8OPgeVF_SAt2o7lOe2UVJXb7yzg-)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -276,7 +277,8 @@
   - AsyncSwift Seminar [001](https://www.youtube.com/playlist?list=PLu5z3LShQlQURqEqfYc-IfedIq8afW-mc), [002](https://youtu.be/46l90qYNHCc?t=1215) - 2022.09.22
 
 - Seoul iOS Meetup
-  - Seoul iOS Meetup - 2023 - [April](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFdySPXGq8Nv37HfFcYM0ro), [May](https://www.youtube.com/playlist?list=PLAFxr8OPgeVF18jds65HTjzTQEbuVeq1A), [June](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFxT5Vp_OVKBr-bgeyyVN-V), [July](https://www.youtube.com/playlist?list=PLAFxr8OPgeVEIC_uoQc07lGbRJ-kI5DNO), [August](https://youtu.be/22GjhyFqEcE?list=PLAFxr8OPgeVHiv1RO78GHNxvoDTjRRsNt&t=2), [October](https://youtu.be/ufI-xJ3Nn10?list=PLAFxr8OPgeVHF5i7kLXuNvJsadfPmwYU6) - 2023.10.26
+  - 2023 - [April](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFdySPXGq8Nv37HfFcYM0ro), [May](https://www.youtube.com/playlist?list=PLAFxr8OPgeVF18jds65HTjzTQEbuVeq1A), [June](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFxT5Vp_OVKBr-bgeyyVN-V), [July](https://www.youtube.com/playlist?list=PLAFxr8OPgeVEIC_uoQc07lGbRJ-kI5DNO), [August](https://youtu.be/22GjhyFqEcE?list=PLAFxr8OPgeVHiv1RO78GHNxvoDTjRRsNt&t=2), [October](https://youtu.be/1DkOCVeX26s?list=PLAFxr8OPgeVHF5i7kLXuNvJsadfPmwYU6), [December](https://youtu.be/0Q0leVjH2gM?list=PLAFxr8OPgeVGrG3efpsyWtWbnYcWJQdf1) - 2023.12.14
+  - ✨ 2024 - [January](https://youtu.be/FmYf5Yz77wg?list=PLAFxr8OPgeVF_SAt2o7lOe2UVJXb7yzg-) - 2024.01.18
 
 - adiOS Korea
   - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9), [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7), [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH), [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei), [Something](https://www.youtube.com/playlist?list=PLUsr11byBStFIg-hhapmB6nuj0dgJQjJ6) - 2022.12.18
