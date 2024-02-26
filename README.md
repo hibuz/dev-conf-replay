@@ -5,9 +5,9 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.02.22` [`IT기업`](#it기업) > 2월 우아한테크세미나 > [글로벌 개발자로 성장하는 소프트웨어 실무 영어](https://youtu.be/fBlf_vml5w4?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2024.02.01` [`IT기업`](#it기업) > 모두팝 > [2024에듀테크드렌트를 읽고 전망하는 시간](https://youtu.be/NOmklIyb4g0?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2024.01.27` [`빅데이터`](#빅데이터) > 보아즈 > [제19회 보아즈 빅데이터 컨퍼런스](https://www.youtube.com/@bigdataboaz4452/videos)
-- `2024.01.18` [`모바일`](#모바일) > Seoul iOS Meetup > [January 2024](https://youtu.be/FmYf5Yz77wg?list=PLAFxr8OPgeVF_SAt2o7lOe2UVJXb7yzg-)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -48,7 +48,7 @@
 
 - 배달의 민족
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) | [2023](https://www.youtube.com/playlist?list=PLgXGHBqgT2TundZ81MAVHPzeYOTeII69j) - 2023.11.15
-  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2023.12.20
+  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2024.02.22
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
 
