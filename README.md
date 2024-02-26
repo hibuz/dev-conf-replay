@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2024.02.22` [`IT기업`](#it기업) > 2월 우아한테크세미나 > [글로벌 개발자로 성장하는 소프트웨어 실무 영어](https://youtu.be/fBlf_vml5w4?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
+- `2024.02.21` [`클라우드`](#클라우드) > 37th Developer Meetup > [오라클 클라우드에서 Dedicated Game Server 구축하기](https://youtu.be/Gx6NqJ22lSM?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71)
 - `2024.02.01` [`IT기업`](#it기업) > 모두팝 > [2024에듀테크드렌트를 읽고 전망하는 시간](https://youtu.be/NOmklIyb4g0?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2024.01.27` [`빅데이터`](#빅데이터) > 보아즈 > [제19회 보아즈 빅데이터 컨퍼런스](https://www.youtube.com/@bigdataboaz4452/videos)
 
@@ -157,7 +158,7 @@
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
-  - [Oracle Developer Meetup - Korea](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2023.11.22
+  - ✨ [월간 Developer Meetup](https://www.youtube.com/playlist?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71) - 2024.02.21
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
@@ -277,7 +278,7 @@
 
 - Seoul iOS Meetup
   - 2023 - [April](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFdySPXGq8Nv37HfFcYM0ro), [May](https://www.youtube.com/playlist?list=PLAFxr8OPgeVF18jds65HTjzTQEbuVeq1A), [June](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFxT5Vp_OVKBr-bgeyyVN-V), [July](https://www.youtube.com/playlist?list=PLAFxr8OPgeVEIC_uoQc07lGbRJ-kI5DNO), [August](https://youtu.be/22GjhyFqEcE?list=PLAFxr8OPgeVHiv1RO78GHNxvoDTjRRsNt&t=2), [October](https://youtu.be/1DkOCVeX26s?list=PLAFxr8OPgeVHF5i7kLXuNvJsadfPmwYU6), [December](https://youtu.be/0Q0leVjH2gM?list=PLAFxr8OPgeVGrG3efpsyWtWbnYcWJQdf1) - 2023.12.14
-  - ✨ 2024 - [January](https://youtu.be/FmYf5Yz77wg?list=PLAFxr8OPgeVF_SAt2o7lOe2UVJXb7yzg-) - 2024.01.18
+  - 2024 - [January](https://youtu.be/FmYf5Yz77wg?list=PLAFxr8OPgeVF_SAt2o7lOe2UVJXb7yzg-) - 2024.01.18
 
 - adiOS Korea
   - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9), [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7), [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH), [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei), [Something](https://www.youtube.com/playlist?list=PLUsr11byBStFIg-hhapmB6nuj0dgJQjJ6) - 2022.12.18
