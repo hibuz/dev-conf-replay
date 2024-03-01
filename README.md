@@ -188,7 +188,7 @@
   - Virtual Meetup [2020](https://www.youtube.com/playlist?list=PLUc8G1CJwNG2nJgOqRESbI64C0cWU9-nx) | [2021](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3E3_q6nY2_xM9jjHx0t7bw) | [2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g) - 2022.04.14
 
 - Datadog Korea
-  - Datadog Korea Virtual Summit - [2020](https://www.youtube.com/playlist?list=PLtoDdE_CaqrQVY5iuha4xGMK6smnLfgi4) - 2020.10.30
+  - [Virtual Summit 2020](https://www.youtube.com/playlist?list=PLtoDdE_CaqrQVY5iuha4xGMK6smnLfgi4) | [DASH 2023](https://www.youtube.com/playlist?list=PLtoDdE_CaqrT9r7VwpELbzl6acIuxzc3w) | [Observability Day 2023](https://www.youtube.com/playlist?list=PLtoDdE_CaqrS55NBKZ4ds0jbF0foKone9) - 2023.10.13
   - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2023.09.22
 
 - 당근마켓
