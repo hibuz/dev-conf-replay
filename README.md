@@ -163,6 +163,7 @@
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
 
 - 한국마이크로소프트
+  - [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq) - 2023.10.26
   - Azure [Everywhere 2021](https://www.youtube.com/playlist?list=PLGh_JNxzXsX_YkjiqSwDRbEnVOk_vNV0D) | 2022 - [Azure](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-Wu_DN4C6A8EzsI9DLiZHK), [Dev](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9va2yAFrGNBYKAfHNg463b), [Security](https://www.youtube.com/playlist?list=PLGh_JNxzXsX_eHsDpyRV5rJbWb8nrHezV), [Modern Work](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9RxStNUDma-7-cnq4q9oFm) - 2022.04.06~27
 
 - [한국 Azure 사용자 그룹](https://www.facebook.com/groups/krazure)
