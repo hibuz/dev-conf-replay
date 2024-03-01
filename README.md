@@ -123,8 +123,8 @@
 - 데이터야놀자
   - 데이터야놀자 - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) | [2022](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJrLWUDjhzoHsrZo_7qwYZT) | [2023](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIIWxRwsDJ5oc1yjNFqSFzB) - 2023.10.14
 
-- 빅데이터 연합동아리
-  - [보아즈(BOAZ)](https://www.facebook.com/BOAZbigdata) 빅데이터 컨퍼런스 - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) | [제 17회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS) | [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6) | [제 19회](https://www.youtube.com/@bigdataboaz4452/videos) - 2024.01.27
+- 빅데이터 연합동아리 [보아즈(BOAZ)](https://www.facebook.com/BOAZbigdata) 
+  - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) | [제 17회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS) | [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6) | [제 19회](https://www.youtube.com/@bigdataboaz4452/videos) - 2024.01.27
 
 - MLOps Korea
   - [2021 MLOps KR 1st community](https://www.youtube.com/playlist?list=PLIuC6QlQQF0Pf-aM0tioYTjrnLzaJaGez) - 2021.06.05
@@ -134,7 +134,7 @@
 
 - 네이버 클라우드 플랫폼(NCP)
   - NAVER Cloud SUMMIT - [2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhFb9wCdCuiiU6WcWzGFR6c5) | [2022](https://www.youtube.com/playlist?list=PLpywxIpxgxhGY6IJW17IW8-eEHmvWa5FK) - 2022.12.14
-  - 컨퍼런스 - [게임 2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhHK1dGhSMCeebkNshm_Pvkz) | [제조 2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhHkyuYUHEU2gTVbw1_hjxgd) | [금융2 023](https://www.youtube.com/playlist?list=PLpywxIpxgxhFe71pLAwddPMOeMI4zgnGj) - 2023.10.25
+  - 컨퍼런스 - [게임 2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhHK1dGhSMCeebkNshm_Pvkz) | [제조 2021](https://www.youtube.com/playlist?list=PLpywxIpxgxhHkyuYUHEU2gTVbw1_hjxgd) | [금융 2023](https://www.youtube.com/playlist?list=PLpywxIpxgxhFe71pLAwddPMOeMI4zgnGj) - 2023.10.25
   - [테크밋업](https://www.youtube.com/playlist?list=PLpywxIpxgxhGpqHTbyiUAV5ZX_xDYkRWK) - 2022.04.20
   - [온라인 교육](https://www.youtube.com/playlist?list=PLpywxIpxgxhHmVzdtULIaYwzFKjc41TVr) - 2023.03.15
 
@@ -382,9 +382,6 @@
 
 
 ## 기타
-
-- 카카오엔터프라이즈
-  - [AI 기반 물류 생태계 플랫폼 LaaS ON 2022](https://www.youtube.com/playlist?list=PLnmMQOipbsPG-Lz2JriQIsFJ60fOoG6ZB) - 2022.05.03
 
 - 11번가
   - [TECH TALK](https://techtalk.11stcorp.com) - 2022 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9EzCttLVM0uTTC26oBBRrR), [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu8hZ3_F9CU2A7HlkGRyUMUQ) | 2023 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9SEt-ttOVSDfucjmDUW-cy), [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu_Ex8xvgqxxMr-NuUXkKEIc) - 2023.12.12~13
