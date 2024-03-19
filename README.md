@@ -356,6 +356,8 @@
 
 - 프로그래머스
   - [프로그래머스 온라인 컨퍼런스 1st](https://www.youtube.com/playlist?list=PLz4XWo74AOafAHPTyd4ikJwRkXmptWXwI) - 2022.11.26
+  - [데이터 엔지니어링 컨퍼런스](https://www.youtube.com/playlist?list=PLz4XWo74AOaeXlr6zxjA_24vr8qoSzxHE) - 2023.04.01
+  - [2022 프로그래머스 SILLY TALK](https://www.youtube.com/playlist?list=PLz4XWo74AOadffWyvALUKsNSW0pFBD1Dl) - 2022.10.15
 
 - 이노베이션 아카데미
   - [INNO-CON](https://innocon.co.kr) - [이노베이션아카데미 성과 공유 컨퍼런스 2020 ~ 2023](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4) - 2023.10.05
