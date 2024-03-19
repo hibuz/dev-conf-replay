@@ -378,7 +378,7 @@
   - I/O Extended - [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX) | 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696), [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
   - [Devfest](https://www.facebook.com/devfest.seoul.2019) - [Korea 2020](https://www.youtube.com/playlist?list=PLF_OUznA3RTSoRHlcIRg4KZYSFJ6rfGfm) | Seoul 2021 [호빵 트랙](https://youtu.be/t_BVZkPc650?t=609), [붕어빵 트랙](https://youtu.be/HGy-PvnJC3g?t=609) - 2021.11.03
   - GDG Daegu - [Code Action 1st](https://youtu.be/GngEX-zVo6Y?t=292) - 2022.08.27
-  - GDG SongDo - [Flutter Meetup Songdo 23](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42) - 2023.09.23
+  - GDG SongDo - [Flutter](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42) | [Machine Learning](https://www.youtube.com/playlist?list=PLSCuU2a9seuMJ6Ee-KTBDgokc9nfjwahJ) Meetup Songdo 23 - 2023.10.20
 
 
 ## 기타
