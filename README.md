@@ -5,9 +5,9 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.03.20` [`클라우드`](#클라우드) > 38th Developer Meetup > [애플리케이션 성능을 향상시키는 OCI Cache with Redis 서비스](https://youtu.be/WkROGNxqJmc?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71)
 - `2024.03.12` [`IT기업`](#it기업) > 모두팝 > [기업의 AI 윤리 실천 전략](https://youtu.be/Gl_N7N8Kk84?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2024.02.22` [`IT기업`](#it기업) > 2월 우아한테크세미나 > [글로벌 개발자로 성장하는 소프트웨어 실무 영어](https://youtu.be/fBlf_vml5w4?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
-- `2024.02.21` [`클라우드`](#클라우드) > 37th Developer Meetup > [오라클 클라우드에서 Dedicated Game Server 구축하기](https://youtu.be/Gx6NqJ22lSM?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -157,7 +157,7 @@
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
   - [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
-  - ✨ [월간 Developer Meetup](https://www.youtube.com/playlist?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71) - 2024.02.21
+  - ✨ [월간 Developer Meetup](https://www.youtube.com/playlist?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71) - 2024.03.20
 
 - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream)
   - [Google Cloud Summit Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
