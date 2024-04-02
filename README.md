@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2024.03.27` [`커뮤니티`](#커뮤니티) > AWSKRUG 성수 소모임 > [쿠버네티스 GatewayAPI 도입기](https://youtu.be/wd9gejiX1fY?list=PLX2fs3661XpMOLPMLYAyMHlCYbHqwg6Fy)
 - `2024.03.20` [`클라우드`](#클라우드) > 38th Developer Meetup > [애플리케이션 성능을 향상시키는 OCI Cache with Redis 서비스](https://youtu.be/WkROGNxqJmc?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71)
+- `2024.03.12` [`보안`](#보안) > 데일리시큐 > [G-PRIVACY 2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP17wTtDtyigcT8imLIk9hU)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -253,7 +254,7 @@
 
 - 데일리시큐
   - [PASCON](https://www.dailysecu.com/form/register.html?form_id=1639447124) - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) | [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ) - 2023.09.05
-  - [G-PRIVACY 2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) - 2023.03.23
+  - ✨ G-PRIVACY [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) | [2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP17wTtDtyigcT8imLIk9hU) - 2024.03.12
 
 
 - 안랩(AhnLab)
