@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2024.03.27` [`커뮤니티`](#커뮤니티) > AWSKRUG 성수 소모임 > [쿠버네티스 GatewayAPI 도입기](https://youtu.be/wd9gejiX1fY?list=PLX2fs3661XpMOLPMLYAyMHlCYbHqwg6Fy)
+- `2024.03.26` [[`인공지능`](#인공지능) > 모두팝 > [도둑을 집주인으로 인식한다고?: Adversarial Examples의 소개와 구현](https://youtu.be/pIb1RCRxQjQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2024.03.20` [`클라우드`](#클라우드) > 38th Developer Meetup > [애플리케이션 성능을 향상시키는 OCI Cache with Redis 서비스](https://youtu.be/WkROGNxqJmc?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71)
 - `2024.03.12` [`보안`](#보안) > 데일리시큐 > [G-PRIVACY 2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP17wTtDtyigcT8imLIk9hU)
 
@@ -83,7 +84,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) - 2023.12.09
-  - [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2024.03.26
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2024.03.26
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
