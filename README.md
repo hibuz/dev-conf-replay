@@ -5,9 +5,9 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.04.24` [`커뮤니티`](#커뮤니티) > AWSKRUG 성수 소모임 > [EKS, AWS 인프라](https://youtu.be/NdgMYdhZQcw?list=PLX2fs3661XpMOLPMLYAyMHlCYbHqwg6Fy)
 - `2024.04.24` [`클라우드`](#클라우드) > 39th Developer Meetup > [GoldenGate Stream Analytics를 이용하여 구현하는 Data Mesh](https://youtu.be/wnMLyR_rHGU?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71)
 - `2024.04.23` [`IT기업`](#it기업) > 4월 우아한테크세미나 > [Java의 미래, Virtual Thread](https://youtu.be/BZMZIM-n4C0?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=507)
-- `2024.03.27` [`커뮤니티`](#커뮤니티) > AWSKRUG 성수 소모임 > [쿠버네티스 GatewayAPI 도입기](https://youtu.be/wd9gejiX1fY?list=PLX2fs3661XpMOLPMLYAyMHlCYbHqwg6Fy)
 - `2024.03.26` [[`인공지능`](#인공지능) > 모두팝 > [도둑을 집주인으로 인식한다고?: Adversarial Examples의 소개와 구현](https://youtu.be/pIb1RCRxQjQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 
 ⚡ 바로가기
@@ -372,7 +372,7 @@
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) | [2023 Seoul](https://www.youtube.com/playlist?list=PLX2fs3661XpMrFZaU4i2y4RqylcuvfVLA) - 2023.10.28
-  - ✨ AWSKRUG Meetup [성수](https://www.youtube.com/playlist?list=PLX2fs3661XpMOLPMLYAyMHlCYbHqwg6Fy) | [구디](https://www.youtube.com/playlist?list=PLX2fs3661XpOyBd4AQ1o8i9pL4gP7jZa0) | [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) | [Frontend](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw) | [GameTech](https://www.youtube.com/playlist?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9) | [Architecture](https://www.youtube.com/playlist?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-) - 2024.03.27
+  - ✨ AWSKRUG Meetup [성수](https://www.youtube.com/playlist?list=PLX2fs3661XpMOLPMLYAyMHlCYbHqwg6Fy) | [구디](https://www.youtube.com/playlist?list=PLX2fs3661XpOyBd4AQ1o8i9pL4gP7jZa0) | [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) | [Frontend](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw) | [GameTech](https://www.youtube.com/playlist?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9) | [Architecture](https://www.youtube.com/playlist?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-) - 2024.04.24
   
 - 구글 개발자 그룹(GDG KOREA)
   - I/O Extended - [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX) | 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696), [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
