@@ -8,7 +8,7 @@
 - `2024.04.24` [`커뮤니티`](#커뮤니티) > AWSKRUG 성수 소모임 > [EKS, AWS 인프라](https://youtu.be/NdgMYdhZQcw?list=PLX2fs3661XpMOLPMLYAyMHlCYbHqwg6Fy)
 - `2024.04.24` [`클라우드`](#클라우드) > 39th Developer Meetup > [GoldenGate Stream Analytics를 이용하여 구현하는 Data Mesh](https://youtu.be/wnMLyR_rHGU?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71)
 - `2024.04.23` [`IT기업`](#it기업) > 4월 우아한테크세미나 > [Java의 미래, Virtual Thread](https://youtu.be/BZMZIM-n4C0?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew&t=507)
-- `2024.03.26` [[`인공지능`](#인공지능) > 모두팝 > [도둑을 집주인으로 인식한다고?: Adversarial Examples의 소개와 구현](https://youtu.be/pIb1RCRxQjQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2024.04.16` [`인공지능`](#인공지능) > 모두팝 > [한국어 언어모델 "잘" 평가하기](https://youtu.be/UgCXEbGANLg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -84,7 +84,7 @@
 
 - 모두의 연구소
   - [모두콘](https://moducon.kr) - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) - 2023.12.09
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2024.03.26
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2024.04.16
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
