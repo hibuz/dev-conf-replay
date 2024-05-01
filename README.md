@@ -408,7 +408,7 @@
 
 - IT조선 유튜브 채널 [테크잼연구소](https://www.youtube.com/c/TechCafe2013)
   - 클라우드 온라인 컨퍼런스 [2022 데이터 드리븐 시대](https://youtu.be/LC6rMLgH08g?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) | [2023 디지털 대전환과 초거대 AI](https://youtu.be/fmUoLHOJ7tQ?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2023.03.29
-  - [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2022.02.10
+  - [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) | [AI&COULD 2024](https://www.youtube.com/playlist?list=PL18jcdQAgye9fWSDyHdvvGdty3OMB6afU) - 2024.03.27
 
 - Startup Alliance Korea
   - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) | [2023](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGFE41jnRQc5mB56qKGgUPy) - 2023.10.11
