@@ -8,6 +8,7 @@
 - `2024.04.24` [`커뮤니티`](#커뮤니티) > AWSKRUG 성수 소모임 > [EKS, AWS 인프라](https://youtu.be/NdgMYdhZQcw?list=PLX2fs3661XpMOLPMLYAyMHlCYbHqwg6Fy)
 - `2024.04.24` [`클라우드`](#클라우드) > 39th Developer Meetup > [GoldenGate Stream Analytics를 이용하여 구현하는 Data Mesh](https://youtu.be/wnMLyR_rHGU?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71)
 - `2024.04.23` [`IT기업`](#it기업) > 4월 우아한테크세미나 > [Java의 미래, Virtual Thread](https://youtu.be/BZMZIM-n4C0?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
+- `2024.04.19` [`IT기업`](#it기업) > 삼성SDS > [Gen AI Day 2024 유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz)
 - `2024.04.16` [`인공지능`](#인공지능) > 모두팝 > [한국어 언어모델 "잘" 평가하기](https://youtu.be/UgCXEbGANLg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2024.04.11` [`IT기업`](#it기업) > Kakao Tech Meet > [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y)
 
@@ -62,6 +63,7 @@
   - SDC Korea - [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) - 2023.11.14~15
 
 - 삼성SDS
+  - ✨ Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19 
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
   - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) - 2023.09.12
 
