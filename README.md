@@ -17,17 +17,17 @@
 
 
 ## 개발관련 유튜브 채널
-- updated at `2024.01.26`
-1. `57.7만` 조코딩 JoCoding > https://www.youtube.com/@jocoding
-2. `48.8만` 노마드 코더 Nomad Coders > https://www.youtube.com/@nomadcoders
-3. `34.3만` 생활코딩 > https://www.youtube.com/@coohde
-4. `33.5만` 나도코딩 > https://www.youtube.com/@nadocoding
-5. `23.4만` 코딩애플 > https://www.youtube.com/@codingapple
+- updated at `2024.05.06`
+1. `59.7만` 조코딩 JoCoding > https://www.youtube.com/@jocoding
+2. `49.4만` 노마드 코더 Nomad Coders > https://www.youtube.com/@nomadcoders
+3. `34.6만` 생활코딩 > https://www.youtube.com/@coohde
+4. `34.1만` 나도코딩 > https://www.youtube.com/@nadocoding
+5. `26.8만` 코딩애플 > https://www.youtube.com/@codingapple
 6. `17.2만` 드림코딩 > https://www.youtube.com/@dream-coding
-7. `16.9만` 동빈나 > https://www.youtube.com/@dongbinna
+7. `17.0만` 동빈나 > https://www.youtube.com/@dongbinna
 8. `16.3만` 코딩하는거니 > https://www.youtube.com/@gunnycoding
-9. `14.8만` 워니코딩 > https://www.youtube.com/@WonieSong
-10. `11.3만` 개발자 라라 > https://www.youtube.com/@devlala
+9. `14.6만` 워니코딩 > https://www.youtube.com/@WonieSong
+10. `11.1만` 개발자 라라 > https://www.youtube.com/@devlala
 
 
 ## IT기업
