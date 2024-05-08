@@ -399,6 +399,7 @@
   - [ETRI CONFERENCE 2022](https://youtu.be/4z1zU2CyX6M?list=PLGvb-9I0h7UiT5plM2JTLTWDNlcby6OQg) | 2023 [1일차](https://youtu.be/LldtbXkn1go), [2일차](https://youtu.be/LA_VEuJPEdg) - 2023.11.07~08
 
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
+  - 노코드·로우코드(NCLC) 자동화 임팩트 - [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56KqHjfLS9iYcp2rHFCPpSutT) | [2024](https://www.youtube.com/playlist?list=PLumdCu9Q56KpO8eX5H022LmNmXoiKzYm5) - 2024.01.30
   - [디지털 트랜스포메이션(DX) & 엔터프라이즈 테크 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpbQr_bUOe9jdHSERpA240H) - 2022.03.25
   - [스마트 제조혁신 & 디지털 트윈 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Komt4Au9L6Hy3fA4K4Enlze) - 2022.03.18
   - [2022 클라우드 네이티브 & 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX) - 2022.01.21
