@@ -10,7 +10,6 @@
 - `2024.04.23` [`IT기업`](#it기업) > 4월 우아한테크세미나 > [Java의 미래, Virtual Thread](https://youtu.be/BZMZIM-n4C0?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 - `2024.04.19` [`IT기업`](#it기업) > 삼성SDS > [Gen AI Day 2024 유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz)
 - `2024.04.16` [`인공지능`](#인공지능) > 모두팝 > [한국어 언어모델 "잘" 평가하기](https://youtu.be/UgCXEbGANLg?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2024.04.11` [`IT기업`](#it기업) > Kakao Tech Meet > [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -40,7 +39,7 @@
 
 - 카카오
   - [if(kakao)](https://if.kakao.com) - [2020](https://elseif.kakao.com/2020) | [2021](https://elseif.kakao.com/2021) | [2022](https://if.kakao.com/session?t.bab36uRci8=0) - 2022.12.07~09
-  - ✨ [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f), [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u), [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf), [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn), [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y) - 2024.04.11
+  - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f), [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u), [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf), [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn), [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y) - 2024.04.11
 
 - 라인
   - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) - 2022.11.17~18
@@ -354,6 +353,7 @@
 
 - 인프런
   - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) | [2023](https://www.youtube.com/playlist?list=PLpkj8RKr48waFtrqvJjbNrpGCvdxyX8Nx) - 2023.08.15
+  - [퇴근길 밋업](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) - 2024.02.28
 
 - 프로그래머스
   - [프로그래머스 온라인 컨퍼런스 1st](https://www.youtube.com/playlist?list=PLz4XWo74AOafAHPTyd4ikJwRkXmptWXwI) - 2022.11.26
