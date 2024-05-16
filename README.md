@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.05.02` [`클라우드`](#클라우드) > kt cloud > [kt cloud : summit 2024](https://www.youtube.com/playlist?list=PLaRqSfWeygEeR4jeZjzmeiKsQ7pLU8q3G)
 - `2024.04.24` [`커뮤니티`](#커뮤니티) > AWSKRUG 성수 소모임 > [EKS, AWS 인프라](https://youtu.be/NdgMYdhZQcw?list=PLX2fs3661XpMOLPMLYAyMHlCYbHqwg6Fy)
 - `2024.04.24` [`클라우드`](#클라우드) > 39th Developer Meetup > [GoldenGate Stream Analytics를 이용하여 구현하는 Data Mesh](https://youtu.be/wnMLyR_rHGU?list=PL_lN0QYuCPSEjfhwHhpkzKnCWFF4SdL71)
 - `2024.04.23` [`IT기업`](#it기업) > 4월 우아한테크세미나 > [Java의 미래, Virtual Thread](https://youtu.be/BZMZIM-n4C0?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
@@ -145,6 +146,10 @@
   - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) | [2022](https://www.youtube.com/playlist?list=PL42XJKPNDepYXyKefvicxlA2fz1aThVs5) - 2022.11.24
   - NHN [Cloud make IT](https://makeit.nhncloud.com) - [2022](https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0) | [2023](https://www.youtube.com/playlist?list=PL42XJKPNDepbuujKpiCqYk3oF3VeBZjI8) - 2023.06.22
   - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2023.10.31
+
+- kt cloud
+  - ✨ kt cloud : summit - [2023](https://www.youtube.com/playlist?list=PLaRqSfWeygEfdb6csw41l5R2pDd4RZgOm) | [2024](https://www.youtube.com/playlist?list=PLaRqSfWeygEeR4jeZjzmeiKsQ7pLU8q3G) - 2024.05.02
+  - [Monthly Webinar](https://www.youtube.com/playlist?list=PLaRqSfWeygEd1iiAaOsfn39VlrTkNMoi1) - 2024.04.25
 
 - 메가존
   -  [디지털 다카포](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208) - [2022](https://www.youtube.com/playlist?list=PLxTkO33QtxTICeek2PbVPW_zbwZXV0hCe) | [2023](https://www.youtube.com/playlist?list=PLxTkO33QtxTJPzx9GtsJvVdfARm7Af_k7)  - 2023.01.10
