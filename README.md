@@ -5,8 +5,8 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.06.13` [`IT기업`](#it기업) > 카카오 > [Kakao Tech Meet #240613](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR)
 - `2024.06.11` [`모바일`](#모바일) > [드로이드나이츠 2024](https://www.youtube.com/playlist?list=PLu8dnNjU2FmtIUqQzv6xhnBa7wnZ3A0e0)
-- `2024.06.03` [`IT기업`](#it기업) > 6월 우아한테크세미나 > [글로벌 개발자로 성장하는 법](https://youtu.be/Nb2RnQzxu4I?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -36,7 +36,7 @@
 
 - 카카오
   - [if(kakao)](https://if.kakao.com) - [2020](https://elseif.kakao.com/2020) | [2021](https://elseif.kakao.com/2021) | [2022](https://if.kakao.com/session?t.bab36uRci8=0) - 2022.12.07~09
-  - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f), [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u), [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf), [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn), [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y) - 2024.06.13
+  - ✨ [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f), [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u), [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf), [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn), [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y), [제6회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR) - 2024.06.13
 
 - 라인
   - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) - 2022.11.17~18
@@ -47,7 +47,7 @@
 
 - 배달의 민족
   -  [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) | [2023](https://www.youtube.com/playlist?list=PLgXGHBqgT2TundZ81MAVHPzeYOTeII69j) - 2023.11.15
-  - ✨ [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2024.06.03
+  - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2024.06.03
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
 
