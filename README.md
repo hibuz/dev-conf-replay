@@ -5,8 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- `2024.06.13` [`IT기업`](#it기업) > 카카오 > [Kakao Tech Meet #240613](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR)
-- `2024.06.11` [`모바일`](#모바일) > [드로이드나이츠 2024](https://www.youtube.com/playlist?list=PLu8dnNjU2FmtIUqQzv6xhnBa7wnZ3A0e0)
+- `2024.07.27` [`빅데이터`](#빅데이터) > 보아즈 > [제 20회 보아즈(BOAZ) 빅데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -36,7 +35,7 @@
 
 - 카카오
   - [if(kakao)](https://if.kakao.com) - [2020](https://elseif.kakao.com/2020) | [2021](https://elseif.kakao.com/2021) | [2022](https://if.kakao.com/session?t.bab36uRci8=0) - 2022.12.07~09
-  - ✨ [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f), [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u), [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf), [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn), [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y), [제6회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR) - 2024.06.13
+  - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f), [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u), [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf), [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn), [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y), [제6회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR) - 2024.06.13
 
 - 라인
   - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) - 2022.11.17~18
@@ -121,7 +120,7 @@
   - 데이터야놀자 - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) | [2022](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJrLWUDjhzoHsrZo_7qwYZT) | [2023](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIIWxRwsDJ5oc1yjNFqSFzB) | [2024](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJBI6LOmkgP3Hm5t7NTuTZF) - 2024.06.01
 
 - 빅데이터 연합동아리 [보아즈(BOAZ)](https://www.facebook.com/BOAZbigdata) 
-  - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) | [제 17회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS) | [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6) | [제 19회](https://www.youtube.com/@bigdataboaz4452/videos) - 2024.01.27
+  - [제 11회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DodqJiUNa8LgjT1B6vt4NC) | [제 12회](https://www.youtube.com/playlist?list=PLThNmt_l7b6CqH3cDSJQjMVBKQRuORwTW) | [제 13회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bd_5lMozoy8e10XZb7DaKl) | [제 14회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Aa1t7GBv7xotMv1btzq-2U) | [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) | [제 17회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS) | [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6) | [제 19회](https://www.youtube.com/@bigdataboaz4452/videos) | [제 20회](https://www.youtube.com/@bigdataboaz4452/videos) - 2024.07.27
 
 - MLOps Korea
   - [2021 MLOps KR 1st community](https://www.youtube.com/playlist?list=PLIuC6QlQQF0Pf-aM0tioYTjrnLzaJaGez) - 2021.06.05
@@ -274,7 +273,7 @@
   - I/O Extended Korea Android [2021](https://youtu.be/NIGV-NUf1pQ) | [2022](https://youtu.be/1TsQ0buZUas) - 2022.06.11
 
 - 드로이드나이츠
-  - ✨ [2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy) | [2021](https://www.youtube.com/playlist?list=PLu8dnNjU2FmsROfv5pNAvhRiOFVN_EmnV) | [2023](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmv55B8y6Mw78pZFflIoxDo8) | [2024](https://www.youtube.com/playlist?list=PLu8dnNjU2FmtIUqQzv6xhnBa7wnZ3A0e0) - 2024.06.11
+  - [2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy) | [2021](https://www.youtube.com/playlist?list=PLu8dnNjU2FmsROfv5pNAvhRiOFVN_EmnV) | [2023](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmv55B8y6Mw78pZFflIoxDo8) | [2024](https://www.youtube.com/playlist?list=PLu8dnNjU2FmtIUqQzv6xhnBa7wnZ3A0e0) - 2024.06.11
 
 - Async Swift Korea
   - [SyncSwift 2022](https://www.youtube.com/playlist?list=PLu5z3LShQlQXuZKlehlTfGZFc753dkgOs) - 2022.11.12
