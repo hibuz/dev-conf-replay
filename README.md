@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2024.08.24` [`프론트엔드 & JS`](#프론트엔드--js) > FEconf > 2024 [TRACK A](https://youtu.be/DCE8Pe6h320?t=927), [TRACK B](https://youtu.be/UReEqujXwqU?t=2355)
 - `2024.08.14` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [About Tanstack Query](https://youtu.be/H-r_ao646eQ?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
+- `2024.08.08` [`IT기업`](#it기업) > SK > [제6회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnprE1pHCMhs6diWZwvp_zQ)
 - `2024.07.27` [`빅데이터`](#빅데이터) > 보아즈 > [제 20회 보아즈(BOAZ) 빅데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR)
 
 ⚡ 바로가기
@@ -64,7 +65,7 @@
 - SK
   - [SK ICT Tech Summit](https://www.sktechsummit.com) - [2022](https://www.youtube.com/@sktechsummit/playlists) | [2023](https://www.sktechsummit.com/sessions/sessionsList.do) - 2023.11.16~17
   - [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.12.21
-  - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) - 2023.10.20
+  - ✨ 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) | [제6회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnprE1pHCMhs6diWZwvp_zQ) - 2024.08.08
 
 - LG CNS
   - [뉴 노멀시대에 필요한 Application Modernization](https://www.youtube.com/playlist?list=PLxcN3kbNdAoAYrRZjyfqp9Mv5Au2mJduT) | [CloudXper ProOps Launching Webinar](https://www.youtube.com/playlist?list=PLxcN3kbNdAoA8N1kDA9ur88spcxOAf-dg) | [Security Summit 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoBZhTTb_X_-xZfNGsss2hle) | [Entrue SMART DX 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoDeRx9vqmpJRPJsASECi8qw) - 2021.09.14
