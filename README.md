@@ -115,7 +115,7 @@
 ## 빅데이터
 
 - 한국데이터산업진흥원 
-  - [데이터 그랜드 컨퍼런스](https://dataconference.or.kr) - [2020](https://www.youtube.com/playlist?list=PLimZR7g-UQN_UZCckMVWe52Ei8SKimY2o) | [2021](https://www.youtube.com/playlist?list=PLimZR7g-UQN8W9IUPqPl-e0yx-Z6nLzWH) | [2022](https://www.youtube.com/playlist?list=PLimZR7g-UQN_LUB4hqb1UB-RNiNWawE_W) | [2023](https://www.youtube.com/playlist?list=PLimZR7g-UQN8wghJypx86DncmYzPg1Akd) - 2023.12.14
+  - 데이터 그랜드 컨퍼런스 - [2020](https://www.youtube.com/playlist?list=PLimZR7g-UQN_UZCckMVWe52Ei8SKimY2o) | [2021](https://www.youtube.com/playlist?list=PLimZR7g-UQN8W9IUPqPl-e0yx-Z6nLzWH) | [2022](https://www.youtube.com/playlist?list=PLimZR7g-UQN_LUB4hqb1UB-RNiNWawE_W) | [2023](https://www.youtube.com/playlist?list=PLimZR7g-UQN8wghJypx86DncmYzPg1Akd) - 2023.12.14
 
 - 데이터야놀자
   - 데이터야놀자 - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) | [2022](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJrLWUDjhzoHsrZo_7qwYZT) | [2023](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIIWxRwsDJ5oc1yjNFqSFzB) | [2024](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJBI6LOmkgP3Hm5t7NTuTZF) - 2024.06.01
