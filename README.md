@@ -311,7 +311,7 @@
 
 - 한국 스프링 사용자 모임
   - [KSUG](https://www.ksug.org) - [2021 Webinar](https://www.youtube.com/playlist?list=PLn0dGEB80JNQLm7-af9X6Yqx1oBK8YXSm) - 2021.04.30
-  - SpringCamp - [2019](https://www.youtube.com/playlist?list=PLdHtZnJh1KdaM0AfxPA7qGK1UuvhpvffL) | [2023](https://www.youtube.com/playlist?list=PLdHtZnJh1KdbR9xXyiVJ-BClLTXCw66y3) - 2023.04.22
+  - SpringCamp - [2019](https://www.youtube.com/playlist?list=PLdHtZnJh1KdaM0AfxPA7qGK1UuvhpvffL) | [2023](https://www.youtube.com/playlist?list=PLdHtZnJh1KdbR9xXyiVJ-BClLTXCw66y3) | [2024](https://www.youtube.com/playlist?list=PLdHtZnJh1KdY3gEi7EPa2AuWn5NKRVmDf) - 2024.05.25
 
 - Golang Korea
   - GopherCon Korea - [2021](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfulCVQD6EaU8c-GM56aUU7) | [2022](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) | 2023 [Day1](https://youtu.be/WZthMW0BaNA?t=1322) [Day2](https://youtu.be/8AUVKh0qJgU?t=1333) - 2023.08.05~06
@@ -412,7 +412,7 @@
   - SMART WORK KOREA SUMMIT - [2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KotSnS635wsz-U1dat3SkDa) | [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpC23VodBNoqdoqGXaW5tD6) - 2022.08.25
   - 코리아 RPA 그랜드 서밋 - [2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX) | [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqSqutlFHBGFfn4VlMqwAyC) - 2022.04.29
 
-- 디지털투데이 [웨비나](http://www.digitaltoday.co.kr/bbs/list.html?table=bbs_27)
+- 디지털투데이 [웨비나](https://www.digitaltoday.co.kr/bbs/list.html?table=bbs_27)
   - [Digital Today TV Live](https://www.youtube.com/playlist?list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA) - 2022.05.26
 
 - IT조선 유튜브 채널 [테크잼연구소](https://www.youtube.com/c/TechCafe2013)
