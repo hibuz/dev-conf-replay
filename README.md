@@ -5,10 +5,9 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.09.03` [`IT기업`](#it기업) > 삼성SDS > [REAL Summit 2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh)
 - `2024.08.28` [`IT기업`](#it기업) > 우아한테크세미나 > [생성AI로 똑똑하게 일하는 법](https://youtu.be/v2icwh-nyl4)
 - `2024.08.24` [`프론트엔드 & JS`](#프론트엔드--js) > FEconf > 2024 [TRACK A](https://www.youtube.com/playlist?list=PLZl3coZhX98p9OOlEHtFy8Qp-1ECOH49Q), [TRACK B](https://www.youtube.com/playlist?list=PLZl3coZhX98opIA5HS7eH5w-VYAswMWvc)
-- `2024.08.14` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [About Tanstack Query](https://youtu.be/H-r_ao646eQ?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
-- `2024.08.08` [`IT기업`](#it기업) > SK > [제6회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnprE1pHCMhs6diWZwvp_zQ)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -60,12 +59,12 @@
 - 삼성SDS
   - Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19 
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
-  - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) - 2023.09.12
+  - ✨ REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) - 2024.09.03
 
 - SK
   - [SK ICT Tech Summit](https://www.sktechsummit.com) - [2022](https://www.youtube.com/@sktechsummit/playlists) | [2023](https://www.sktechsummit.com/sessions/sessionsList.do) - 2023.11.16~17
   - [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.12.21
-  - ✨ 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) | [제6회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnprE1pHCMhs6diWZwvp_zQ) - 2024.08.08
+  - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) | [제6회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnprE1pHCMhs6diWZwvp_zQ) - 2024.08.08
 
 - LG CNS
   - [뉴 노멀시대에 필요한 Application Modernization](https://www.youtube.com/playlist?list=PLxcN3kbNdAoAYrRZjyfqp9Mv5Au2mJduT) | [CloudXper ProOps Launching Webinar](https://www.youtube.com/playlist?list=PLxcN3kbNdAoA8N1kDA9ur88spcxOAf-dg) | [Security Summit 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoBZhTTb_X_-xZfNGsss2hle) | [Entrue SMART DX 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoDeRx9vqmpJRPJsASECi8qw) - 2021.09.14
@@ -374,7 +373,7 @@
 
 - AWS 한국 사용자 모임 [AWSKRUG](https://awskrug.github.io)
   - AWS Community Day [Online 2020](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu) | [2020](https://www.youtube.com/playlist?list=PLX2fs3661XpPDIQb9pyDvflxz6yDdLnro) | [2021](https://www.youtube.com/playlist?list=PLX2fs3661XpOHFIaKMfEKP1FAvYf0rvEo) | [2022 Seoul - Home Coming Day](https://www.youtube.com/playlist?list=PLX2fs3661XpN1mBctkVosU5jxkusdBRxC) | [2023 Seoul](https://www.youtube.com/playlist?list=PLX2fs3661XpMrFZaU4i2y4RqylcuvfVLA) - 2023.10.28
-  - AWSKRUG Meetup [성수](https://www.youtube.com/playlist?list=PLX2fs3661XpMOLPMLYAyMHlCYbHqwg6Fy) | [구디](https://www.youtube.com/playlist?list=PLX2fs3661XpOyBd4AQ1o8i9pL4gP7jZa0) | [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) | ✨ [Frontend](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw) | [GameTech](https://www.youtube.com/playlist?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9) | [Architecture](https://www.youtube.com/playlist?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-) - 2024.05.29
+  - AWSKRUG Meetup [성수](https://www.youtube.com/playlist?list=PLX2fs3661XpMOLPMLYAyMHlCYbHqwg6Fy) | [구디](https://www.youtube.com/playlist?list=PLX2fs3661XpOyBd4AQ1o8i9pL4gP7jZa0) | [Container](https://www.youtube.com/playlist?list=PLX2fs3661XpN2e_Gxt07jmAyp11zNGmwM) | [DataScience](https://www.youtube.com/playlist?list=PLX2fs3661XpMO995pE2jMp92jM4xkJz7w) | [Database](https://www.youtube.com/playlist?list=PLX2fs3661XpOJU6zVCP6oISzz4Pol2LJs) | [Deepracer](https://www.youtube.com/playlist?list=PLX2fs3661XpNNr_PFfV7Y0BngN_OxJfrE) | [Security](https://www.youtube.com/playlist?list=PLX2fs3661XpMRNU4vOSq-LJeDJ26LKxEx) | [Frontend](https://www.youtube.com/playlist?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw) | [GameTech](https://www.youtube.com/playlist?list=PLX2fs3661XpOKTk_J-UHHAcCn64O96ql9) | [Architecture](https://www.youtube.com/playlist?list=PLX2fs3661XpPrBgaLhrBk-OSV8EtTsAc-) - 2024.05.29
   
 - 구글 개발자 그룹(GDG KOREA)
   - I/O Extended - [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX) | 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696), [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
@@ -412,7 +411,7 @@
   - SMART WORK KOREA SUMMIT - [2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KotSnS635wsz-U1dat3SkDa) | [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpC23VodBNoqdoqGXaW5tD6) - 2022.08.25
   - 코리아 RPA 그랜드 서밋 - [2021](https://www.youtube.com/playlist?list=PLumdCu9Q56KrUlNz1Ei-UhrkU-EyMklZX) | [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqSqutlFHBGFfn4VlMqwAyC) - 2022.04.29
 
-- 디지털투데이 [웨비나](https://www.digitaltoday.co.kr/bbs/list.html?table=bbs_27)
+- 디지털투데이 웨비나
   - [Digital Today TV Live](https://www.youtube.com/playlist?list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA) - 2022.05.26
 
 - IT조선 유튜브 채널 [테크잼연구소](https://www.youtube.com/c/TechCafe2013)
