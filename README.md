@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.09.07` [`교육`](#교육) > 네이버 커넥트재단 > [SEF2024](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg)
 - `2024.09.03` [`IT기업`](#it기업) > 삼성SDS > [REAL Summit 2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh)
 - `2024.08.28` [`IT기업`](#it기업) > 우아한테크세미나 > [생성AI로 똑똑하게 일하는 법](https://youtu.be/v2icwh-nyl4)
 - `2024.08.24` [`프론트엔드 & JS`](#프론트엔드--js) > FEconf > 2024 [TRACK A](https://www.youtube.com/playlist?list=PLZl3coZhX98p9OOlEHtFy8Qp-1ECOH49Q), [TRACK B](https://www.youtube.com/playlist?list=PLZl3coZhX98opIA5HS7eH5w-VYAswMWvc)
@@ -351,7 +352,7 @@
 ## 교육
 
 - 네이버 커넥트재단
-  - [SEF](https://sef.connect.or.kr) - [2020, 2021, 2022, 2023](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg) - 2023.09.06~08
+  - ✨ [SEF](https://sef.connect.or.kr) - [2020, 2021, 2022, 2023, 2024](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg) - 2024.09.07
 
 - 인프런
   - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) | [2023](https://www.youtube.com/playlist?list=PLpkj8RKr48waFtrqvJjbNrpGCvdxyX8Nx) - 2023.08.15
