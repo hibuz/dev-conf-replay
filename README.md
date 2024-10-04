@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.09.11` [`교육`](#교육) > 인프런 > 퇴근길 밋업 > [함께하는 오픈소스 기여](https://youtu.be/wGaq8bwQEU0?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM)
 - `2024.09.07` [`교육`](#교육) > 네이버 커넥트재단 > [SEF2024](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg)
 - `2024.09.03` [`IT기업`](#it기업) > 삼성SDS > [REAL Summit 2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh)
 - `2024.08.28` [`IT기업`](#it기업) > 우아한테크세미나 > [생성AI로 똑똑하게 일하는 법](https://youtu.be/v2icwh-nyl4)
@@ -63,7 +64,7 @@
   - ✨ REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) - 2024.09.03
 
 - SK
-  - [SK ICT Tech Summit](https://www.sktechsummit.com) - [2022](https://www.youtube.com/@sktechsummit/playlists) | [2023](https://www.sktechsummit.com/sessions/sessionsList.do) - 2023.11.16~17
+  - SK ICT Tech Summit - [2022, 2023](https://www.youtube.com/@sktechsummit/playlists) - 2023.11.16~17
   - [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.12.21
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) | [제6회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnprE1pHCMhs6diWZwvp_zQ) - 2024.08.08
 
@@ -356,7 +357,7 @@
 
 - 인프런
   - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) | [2023](https://www.youtube.com/playlist?list=PLpkj8RKr48waFtrqvJjbNrpGCvdxyX8Nx) - 2023.08.15
-  - [퇴근길 밋업](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) - 2024.02.28
+  - ✨ [퇴근길 밋업](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) - 2024.09.11
 
 - 프로그래머스
   - [프로그래머스 온라인 컨퍼런스 1st](https://www.youtube.com/playlist?list=PLz4XWo74AOafAHPTyd4ikJwRkXmptWXwI) - 2022.11.26
