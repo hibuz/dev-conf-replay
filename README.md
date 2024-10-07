@@ -229,7 +229,7 @@
 ## 모빌리티
 
 - 현대자동차
-  - [HMG Developer Conference](https://www.hmgdevcon.com) - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) | [제3회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w) - 2023.11.13
+  - HMG Developer Conference - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) | [제3회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w) - 2023.11.13
   - Softeer Tech Meet-up - [1st, 2nd](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.09.14
 
 - 카카오모빌리티
@@ -354,7 +354,7 @@
   - ✨ [SEF](https://sef.connect.or.kr) - [2020, 2021, 2022, 2023, 2024](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg) - 2024.09.07
 
 - 인프런
-  - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) | [2023](https://www.youtube.com/playlist?list=PLpkj8RKr48waFtrqvJjbNrpGCvdxyX8Nx) - 2023.08.15
+  - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) | [2023](https://www.youtube.com/playlist?list=PLpkj8RKr48waFtrqvJjbNrpGCvdxyX8Nx) | [2024](https://www.youtube.com/playlist?list=PLpkj8RKr48wZQXN874PP1hJkaRm6qcvZg) - 2024.08.02
   - ✨ [퇴근길 밋업](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) - 2024.09.11
 
 - 프로그래머스
