@@ -5,9 +5,9 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.09.26` [`IT기업`](#it기업) > 데보션 Tech 세미나 > [Docker 활용](https://youtu.be/Er2FNbMZhuA?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 - `2024.09.12` [`IT기업`](#it기업) > 토스 > [SLASH24](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
-- `2024.09.11` [`교육`](#교육) > 인프런 > 퇴근길 밋업 > [함께하는 오픈소스 기여](https://youtu.be/wGaq8bwQEU0?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM)
-- `2024.09.07` [`교육`](#교육) > 네이버 커넥트재단 > [SEF2024](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg)
+- `2024.09.11` [`교육`](#교육) > 인프런 퇴근길 밋업 > [함께하는 오픈소스 기여](https://youtu.be/wGaq8bwQEU0?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -63,7 +63,7 @@
 
 - SK
   - SK ICT Tech Summit - [2022, 2023](https://www.youtube.com/@sktechsummit/playlists) - 2023.11.16~17
-  - [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2023.12.21
+  - ✨ [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2024.09.26
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) | [제6회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnprE1pHCMhs6diWZwvp_zQ) - 2024.08.08
 
 - LG CNS
@@ -351,7 +351,7 @@
 ## 교육
 
 - 네이버 커넥트재단
-  - ✨ [SEF](https://sef.connect.or.kr) - [2020, 2021, 2022, 2023, 2024](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg) - 2024.09.07
+  - [SEF](https://sef.connect.or.kr) - [2020, 2021, 2022, 2023, 2024](https://www.youtube.com/playlist?list=PLzUx59pIXJDzG0yMuVcvNFM0ErXk-W5Eg) - 2024.09.07
 
 - 인프런
   - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) | [2023](https://www.youtube.com/playlist?list=PLpkj8RKr48waFtrqvJjbNrpGCvdxyX8Nx) | [2024](https://www.youtube.com/playlist?list=PLpkj8RKr48wZQXN874PP1hJkaRm6qcvZg) - 2024.08.02
