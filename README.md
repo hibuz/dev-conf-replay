@@ -235,6 +235,10 @@
 - 카카오모빌리티
   - [MEMO](https://nemo.kakaomobility.com) - [2022](https://www.youtube.com/playlist?list=PLAi6ak51pSz2O8W4VPsKsUQ_X4oVcvfz6) | [2023](https://www.youtube.com/playlist?list=PLAi6ak51pSz0F7I22FkxYZfs856ZNYX97) - 2023.09.08
 
+- 쏘카
+  - SOCAR Tech Summit [2022](https://www.youtube.com/playlist?list=PLEZRFe2YmFou3R6vTrfFIXz-pusnBnxB8) - 2022.10.19
+  - SOCAR DATA MeetUp [2022](https://www.youtube.com/playlist?list=PLEZRFe2YmFouerg-jmQ5EMivTeSSlwP3z) - 2022.10.27
+
 
 ## 게임
 
