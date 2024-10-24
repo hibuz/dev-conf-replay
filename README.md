@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.10.12~13` [`프로그래밍 언어`](#프로그래밍-언어) > Golang Korea > [Gophercon Korea 2024](https://www.youtube.com/@golangkorea8237/streams)
 - `2024.10.15` [`오픈소스`](#오픈소스) > ETRI > [오픈소스 테크데이 2024](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
 - `2024.09.26` [`IT기업`](#it기업) > 데보션 Tech 세미나 > [Docker 활용](https://youtu.be/Er2FNbMZhuA?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
 
