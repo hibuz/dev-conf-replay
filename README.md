@@ -5,9 +5,8 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.10.15` [`오픈소스`](#오픈소스) > ETRI > [오픈소스 테크데이 2024](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
 - `2024.09.26` [`IT기업`](#it기업) > 데보션 Tech 세미나 > [Docker 활용](https://youtu.be/Er2FNbMZhuA?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS)
-- `2024.09.12` [`IT기업`](#it기업) > 토스 > [SLASH24](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL)
-- `2024.09.11` [`교육`](#교육) > 인프런 퇴근길 밋업 > [함께하는 오픈소스 기여](https://youtu.be/wGaq8bwQEU0?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -50,7 +49,7 @@
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
 
 - 토스
-  - ✨ [SLASH](https://toss.im/slash-24) - [21, 22, 23, 24](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2024.09.12
+  - [SLASH](https://toss.im/slash-24) - [21, 22, 23, 24](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2024.09.12
   - Simplicity(토스 디자인 컨퍼런스) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) - 2021.08.30~09.02
 
 - 삼성
@@ -349,7 +348,7 @@
   - [제9회 한국 커뮤니티 데이 - KCD 2020](https://www.youtube.com/watch?v=Scj3YCVPsAU&list=PL8MaVgZDhGk9CYn_IkRkgnN1R7kpE582A&index=7) - 2020.11.07
 
 - 한국전자통신연구원
-  - [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2020 | 2021 | 2022 | 2023](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) - 2023.10.11
+  - ✨ [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2020 | 2021 | 2022 | 2023 | 2024](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) - 2024.10.15
 
 
 ## 교육
@@ -359,7 +358,7 @@
 
 - 인프런
   - [INFCON](https://infcon.day) - [2022](https://www.youtube.com/playlist?list=PLpkj8RKr48wZMPKR292FOoahqxVDi6d6R) | [2023](https://www.youtube.com/playlist?list=PLpkj8RKr48waFtrqvJjbNrpGCvdxyX8Nx) | [2024](https://www.youtube.com/playlist?list=PLpkj8RKr48wZQXN874PP1hJkaRm6qcvZg) - 2024.08.02
-  - ✨ [퇴근길 밋업](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) - 2024.09.11
+  - [퇴근길 밋업](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) - 2024.09.11
 
 - 프로그래머스
   - [프로그래머스 온라인 컨퍼런스 1st](https://www.youtube.com/playlist?list=PLz4XWo74AOafAHPTyd4ikJwRkXmptWXwI) - 2022.11.26
