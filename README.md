@@ -174,7 +174,7 @@
   - [GAV2020KR](https://www.youtube.com/playlist?list=PLFbmOoKZ852WRZkFql8Gv1U-CNX_WRHen) | [Global Azure 2021 Korea](https://www.youtube.com/playlist?list=PLFbmOoKZ852XZ41ODzJqlzB-8sq7VQt0j) - 2021.04.24
 
 - [Kubernetes Korea Group](https://www.facebook.com/groups/k8skr)
-  - Kubernetes Community Day [KCD Korea 2021](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Mgj7OKf1SHjgAp2UQtey_I) | [2023](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PIWBHTlGr9UDmJTpGjU59C) - 2023.07.03
+  - Kubernetes Community Day [KCD Korea 2021](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Mgj7OKf1SHjgAp2UQtey_I) | [2023](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PIWBHTlGr9UDmJTpGjU59C) | [2024](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PAaki3sVqOEn6SfQUuubgD) - 2024.09.24
   - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN) - 2020.10.29
 
 - 기타
