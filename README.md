@@ -263,7 +263,7 @@
 
 
 - 안랩(AhnLab)
-  - ISF - [2020, 2021, 2022, 2023](https://www.youtube.com/playlist?list=PLcETc5mLmNrVRS9Vrpa0z-b8DPCK2LWSf) - 2023.09.07
+  - ISF - [2020, 2021, 2022, 2023, 2024](https://www.youtube.com/playlist?list=PLcETc5mLmNrVRS9Vrpa0z-b8DPCK2LWSf) - 2024.09.26
 
 - 코드엔진
   - CodeEngn Conference - [2021](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) | [2022](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2) | [2023](https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv) - 2023.07.03
