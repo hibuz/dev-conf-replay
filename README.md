@@ -283,7 +283,7 @@
 
 - Seoul iOS Meetup
   - 2023 - [April](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFdySPXGq8Nv37HfFcYM0ro), [May](https://www.youtube.com/playlist?list=PLAFxr8OPgeVF18jds65HTjzTQEbuVeq1A), [June](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFxT5Vp_OVKBr-bgeyyVN-V), [July](https://www.youtube.com/playlist?list=PLAFxr8OPgeVEIC_uoQc07lGbRJ-kI5DNO), [August](https://youtu.be/22GjhyFqEcE?list=PLAFxr8OPgeVHiv1RO78GHNxvoDTjRRsNt&t=2), [October](https://youtu.be/1DkOCVeX26s?list=PLAFxr8OPgeVHF5i7kLXuNvJsadfPmwYU6), [December](https://youtu.be/0Q0leVjH2gM?list=PLAFxr8OPgeVGrG3efpsyWtWbnYcWJQdf1) - 2023.12.14
-  - 2024 - [January](https://youtu.be/FmYf5Yz77wg?list=PLAFxr8OPgeVF_SAt2o7lOe2UVJXb7yzg-) - 2024.01.18
+  - 2024 - [January](https://youtu.be/FmYf5Yz77wg?list=PLAFxr8OPgeVF_SAt2o7lOe2UVJXb7yzg-), [February](https://www.youtube.com/playlist?list=PLAFxr8OPgeVE1Avj0SlCmSf5IE7LqLZOh), [March](https://www.youtube.com/playlist?list=PLAFxr8OPgeVGS1WnX3y7spIbdv99F0cQQ) - 2024.03.28
 
 - adiOS Korea
   - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9), [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7), [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH), [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei), [Something](https://www.youtube.com/playlist?list=PLUsr11byBStFIg-hhapmB6nuj0dgJQjJ6) - 2022.12.18
