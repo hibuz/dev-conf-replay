@@ -396,10 +396,7 @@
   - [TECH TALK](https://techtalk.11stcorp.com) - 2022 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9EzCttLVM0uTTC26oBBRrR), [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu8hZ3_F9CU2A7HlkGRyUMUQ) | 2023 [DAY1](https://www.youtube.com/playlist?list=PL5ew9vtXjSu9SEt-ttOVSDfucjmDUW-cy), [DAY2](https://www.youtube.com/playlist?list=PL5ew9vtXjSu_Ex8xvgqxxMr-NuUXkKEIc) - 2023.12.12~13
 
 - 티맥스
-  - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) - 2022.09.06~07
-
-- 한국전자통신연구원
-  - [ETRI CONFERENCE 2022](https://youtu.be/4z1zU2CyX6M?list=PLGvb-9I0h7UiT5plM2JTLTWDNlcby6OQg) | 2023 [1일차](https://youtu.be/LldtbXkn1go), [2일차](https://youtu.be/LA_VEuJPEdg) - 2023.11.07~08
+  - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) | [SuperApp Day 2024](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5vCsL3rvEKnkCtNx8s_Vb4v) - 2024.06.13
 
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - 노코드·로우코드(NCLC) 자동화 임팩트 - [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56KqHjfLS9iYcp2rHFCPpSutT) | [2024](https://www.youtube.com/playlist?list=PLumdCu9Q56KpO8eX5H022LmNmXoiKzYm5) - 2024.01.30
