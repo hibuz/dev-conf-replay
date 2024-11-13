@@ -387,8 +387,6 @@
   - [OKKYCON: 2021](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne) - 2021.03.06
   - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2023.12.19
 
-- 기타
-  - AWS Cloud Clubs - [EWHA 멤버 테크톡세션](https://www.youtube.com/@AWSCloudClub_KR/videos) - 2024.02.13
 
 ## 기타
 
