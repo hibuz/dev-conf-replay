@@ -205,7 +205,7 @@
   - [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
 
 - HashCorp
-  - HashiCorp Strategy Day [2023](https://www.youtube.com/playlist?list=PL81sUbsFNc5ZkHno0jkNtQJgWdlY_xpG7) - 2023.04.11
+  - HashiCorp Strategy Day [2023](https://www.youtube.com/playlist?list=PL81sUbsFNc5ZkHno0jkNtQJgWdlY_xpG7) | [2024](https://www.youtube.com/playlist?list=PL81sUbsFNc5YrFDysEhtcgP7Fa5-GZuoL) - 2024.08.27
   - HashiTalks [Korea 2022, 2023](https://www.youtube.com/playlist?list=PL81sUbsFNc5aQFJNIh74lRJtav5TfjANB) - 2023.09.07
 
 
