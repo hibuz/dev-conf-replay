@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.11.14` [`블록체인`](#블록체인) > 업비트 > [UDC 2024](https://www.youtube.com/playlist?list=PLyONEtYCZLWXMtCLxwTVvVqtyiuJOPk7f) 
 - `2024.10.22~24` [`IT기업`](#it기업) > 카카오 > if(kakaoAI)2024 [Keynote](https://www.youtube.com/playlist?list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy), [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGo3pBos0qktQcTUh_iFt7u), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEyBwc7Zz-zg6_GX3SGBcmg), [Day3](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGXZ0REjCOYosGkrDkkHZKk)
 - `2024.10.12~13` [`프로그래밍 언어`](#프로그래밍-언어) > Golang Korea > [Gophercon Korea 2024](https://www.youtube.com/@golangkorea8237/streams)
 - `2024.10.15` [`오픈소스`](#오픈소스) > ETRI > [오픈소스 테크데이 2024](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
@@ -212,7 +213,7 @@
 ## 블록체인
 
 - 업비트 
-  - [UDC](https://udc.dunamu.com) - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) | [2022](https://www.youtube.com/playlist?list=PLyONEtYCZLWXqxJ3IbXz3PJ8Uc3ZHkmP6) | [2023](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65) - 2023.11.13
+  - ✨ [UDC](https://udc.dunamu.com) - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) | [2022](https://www.youtube.com/playlist?list=PLyONEtYCZLWXqxJ3IbXz3PJ8Uc3ZHkmP6) | [2023](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65) | [2024](https://www.youtube.com/playlist?list=PLyONEtYCZLWXMtCLxwTVvVqtyiuJOPk7f) - 2024.11.14
   - [DCON 2023](https://www.youtube.com/playlist?list=PLjziuUtwQOz1n1GLizGeUOquf5rNdZAlx) - 2023.03.16
 
 - 람다256 
