@@ -315,7 +315,7 @@
   - SpringCamp - [2019](https://www.youtube.com/playlist?list=PLdHtZnJh1KdaM0AfxPA7qGK1UuvhpvffL) | [2023](https://www.youtube.com/playlist?list=PLdHtZnJh1KdbR9xXyiVJ-BClLTXCw66y3) | [2024](https://www.youtube.com/playlist?list=PLdHtZnJh1KdY3gEi7EPa2AuWn5NKRVmDf) - 2024.05.25
 
 - Golang Korea
-  - GopherCon Korea - [2021](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfulCVQD6EaU8c-GM56aUU7) | [2022](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) | 2023 [Day1](https://youtu.be/WZthMW0BaNA?t=1322) [Day2](https://youtu.be/8AUVKh0qJgU?t=1333) - 2023.08.05~06
+  - GopherCon Korea - [2021](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfulCVQD6EaU8c-GM56aUU7) | [2022](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) | 2023 [Day1](https://youtu.be/WZthMW0BaNA?t=1322), [Day2](https://youtu.be/8AUVKh0qJgU?t=1333) | 2024 [Day1](https://www.youtube.com/watch?v=zdMuLvK0pNg), [Day2](https://youtu.be/DEZsPOSzNM0) - 2024.10.12~13
   - [2020.05 온라인 밋업](https://www.youtube.com/playlist?list=PLxEDm5GRSh4OJPiKKv5PVKiDi6f80kyTS) | [2022.03 Go 1.18 릴리즈파티](https://www.youtube.com/playlist?list=PLxEDm5GRSh4P6aihX1DrNsV57r7bi0rZT) - 2022.03.31
 
 - 닷넷 개발자 커뮤니티 [닷넷데브](https://www.dotnetconf.kr)
