@@ -7,8 +7,6 @@
 ✨ 신규영상
 - `2024.11.14` [`블록체인`](#블록체인) > 업비트 > [UDC 2024](https://www.youtube.com/playlist?list=PLyONEtYCZLWXMtCLxwTVvVqtyiuJOPk7f) 
 - `2024.10.22~24` [`IT기업`](#it기업) > 카카오 > if(kakaoAI)2024 [Keynote](https://www.youtube.com/playlist?list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy), [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGo3pBos0qktQcTUh_iFt7u), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEyBwc7Zz-zg6_GX3SGBcmg), [Day3](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGXZ0REjCOYosGkrDkkHZKk)
-- `2024.10.12~13` [`프로그래밍 언어`](#프로그래밍-언어) > Golang Korea > [Gophercon Korea 2024](https://www.youtube.com/@golangkorea8237/streams)
-- `2024.10.15` [`오픈소스`](#오픈소스) > ETRI > [오픈소스 테크데이 2024](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -198,6 +196,7 @@
   - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2024.02.02
 
 - 당근마켓
+  - [당근 Tech 밋업](https://tech-meetup.daangn.com/) - [2024](https://www.youtube.com/playlist?list=PLaHcMRg2hoBryC2cZkhyEin5MrnEJhMUl) - 2024.10.07
   - 당근 SRE 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) - 2023.06.15
   - 당근 SERVER 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) - 2023.10.28
   - 당근 ML 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) - 2024.05.10
@@ -347,7 +346,7 @@
   - [제9회 한국 커뮤니티 데이 - KCD 2020](https://www.youtube.com/watch?v=Scj3YCVPsAU&list=PL8MaVgZDhGk9CYn_IkRkgnN1R7kpE582A&index=7) - 2020.11.07
 
 - 한국전자통신연구원
-  - ✨ [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2020 | 2021 | 2022 | 2023 | 2024](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) - 2024.10.15
+  - [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2020 | 2021 | 2022 | 2023 | 2024](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) - 2024.10.15
 
 
 ## 교육
