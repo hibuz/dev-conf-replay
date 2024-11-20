@@ -48,6 +48,12 @@
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
 
+- 당근마켓
+  - [당근 Tech 밋업](https://tech-meetup.daangn.com/) - [2024](https://www.youtube.com/playlist?list=PLaHcMRg2hoBryC2cZkhyEin5MrnEJhMUl) - 2024.10.07
+  - 당근 SRE 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) - 2023.06.15
+  - 당근 SERVER 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) - 2023.10.28
+  - 당근 ML 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) - 2024.05.10
+
 - 토스
   - [SLASH](https://toss.im/slash-24) - [21, 22, 23, 24](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2024.09.12
   - Simplicity(토스 디자인 컨퍼런스) - [21](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) - 2021.08.30~09.02
@@ -193,13 +199,7 @@
 
 - Datadog Korea
   - [Virtual Summit 2020](https://www.youtube.com/playlist?list=PLtoDdE_CaqrQVY5iuha4xGMK6smnLfgi4) | [DASH 2023](https://www.youtube.com/playlist?list=PLtoDdE_CaqrT9r7VwpELbzl6acIuxzc3w) | [Observability Day 2023](https://www.youtube.com/playlist?list=PLtoDdE_CaqrS55NBKZ4ds0jbF0foKone9) - 2023.10.13
-  - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2024.02.02
-
-- 당근마켓
-  - [당근 Tech 밋업](https://tech-meetup.daangn.com/) - [2024](https://www.youtube.com/playlist?list=PLaHcMRg2hoBryC2cZkhyEin5MrnEJhMUl) - 2024.10.07
-  - 당근 SRE 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) - 2023.06.15
-  - 당근 SERVER 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) - 2023.10.28
-  - 당근 ML 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) - 2024.05.10
+  - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2024.08.30
 
 - 하이퍼커넥트
   - [HyperLink DevOps & SRE Meetup](https://www.youtube.com/playlist?list=PL1DMLLaNeMxa8Rq0aGcrJ-j3nTSWP7vfE) - 2022.03.02
