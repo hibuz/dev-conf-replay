@@ -5,7 +5,8 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- `2024.11.14` [`블록체인`](#블록체인) > 업비트 > [UDC 2024](https://www.youtube.com/playlist?list=PLyONEtYCZLWXMtCLxwTVvVqtyiuJOPk7f) 
+- `2024.11.14` [`블록체인`](#블록체인) > 업비트 > [UDC 2024](https://www.youtube.com/playlist?list=PLyONEtYCZLWXMtCLxwTVvVqtyiuJOPk7f)
+- `2024.11.11~12` [`IT기업`](#it기업) > 네이버 > [팀네이버 컨퍼런스 DAN 24](https://www.youtube.com/playlist?list=PLCct9_ckBx797bYJTNL-U1CIfhu-HU4eN)
 - `2024.10.22~24` [`IT기업`](#it기업) > 카카오 > if(kakaoAI)2024 [Keynote](https://www.youtube.com/playlist?list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy), [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGo3pBos0qktQcTUh_iFt7u), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEyBwc7Zz-zg6_GX3SGBcmg), [Day3](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGXZ0REjCOYosGkrDkkHZKk)
 
 ⚡ 바로가기
@@ -30,9 +31,10 @@
 
 - 네이버
   - [DEVIEW](https://deview.kr) - [2020](https://tv.naver.com/v/16968202/list/657024) | [2021](https://tv.naver.com/v/23700321/list/753227) | [2023](https://www.youtube.com/playlist?list=PLsFtzQAC8dDcQAcSG4PNrW7-0ExDZqqJA) - 2023.02.27~28
+  - ✨ [팀네이버 컨퍼런스 DAN 24](https://www.youtube.com/playlist?list=PLCct9_ckBx797bYJTNL-U1CIfhu-HU4eN) - 2024.11.11~12
+  - [NAVER ENGINEERING DAY 2023](https://www.youtube.com/playlist?list=PLsFtzQAC8dDfk-KmvmagozbYtQ2Fmpmpi) - 2023.07.31
   - TECH CONCERT - [2020](https://tv.naver.com/v/15353556/list/629240) - 2020.08.19~20
   - [NAVER Search Colloquium](https://searchcolloquium.naver.com) - [2021](https://tv.naver.com/v/20307278/list/709884) | [2022](https://tv.naver.com/v/26581332/list/785512) - 2022.05.03
-  - [NAVER ENGINEERING DAY 2023](https://www.youtube.com/playlist?list=PLsFtzQAC8dDfk-KmvmagozbYtQ2Fmpmpi) - 2023.07.31
 
 - 카카오
   - ✨ [if(kakao)](https://if.kakao.com) - [2020](https://elseif.kakao.com/2020) | [2021](https://elseif.kakao.com/2021) | [2022](https://elseif-2022.kakao.com/session) | 2024 [Keynote](https://www.youtube.com/playlist?list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy), [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGo3pBos0qktQcTUh_iFt7u), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEyBwc7Zz-zg6_GX3SGBcmg), [Day3](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGXZ0REjCOYosGkrDkkHZKk) - 2024.10.22~24
