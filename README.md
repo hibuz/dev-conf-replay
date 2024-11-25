@@ -7,7 +7,7 @@
 ✨ 신규영상
 - `2024.11.14` [`블록체인`](#블록체인) > 업비트 > [UDC 2024](https://www.youtube.com/playlist?list=PLyONEtYCZLWXMtCLxwTVvVqtyiuJOPk7f)
 - `2024.11.11~12` [`IT기업`](#it기업) > 네이버 > [팀네이버 컨퍼런스 DAN 24](https://www.youtube.com/playlist?list=PLCct9_ckBx797bYJTNL-U1CIfhu-HU4eN)
-- `2024.10.22~24` [`IT기업`](#it기업) > 카카오 > if(kakaoAI)2024 [Keynote](https://www.youtube.com/playlist?list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy), [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGo3pBos0qktQcTUh_iFt7u), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEyBwc7Zz-zg6_GX3SGBcmg), [Day3](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGXZ0REjCOYosGkrDkkHZKk)
+- `2024.11.04~05` [`IT기업`](#it기업) > SK > [AI SUMMIT 2024](https://www.youtube.com/@skaisummit2024/playlists)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -69,7 +69,7 @@
   - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) - 2024.09.03
 
 - SK
-  - SK ICT Tech Summit - [2022, 2023](https://www.youtube.com/@skaisummit2024/playlists) - 2023.11.16~17
+  - ✨ SK ICT Tech Summit - [2022, 2023, 2024](https://www.youtube.com/@skaisummit2024/playlists) - 2024.11.04~05
   - [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2024.09.26
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) | [제6회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnprE1pHCMhs6diWZwvp_zQ) - 2024.08.08
 
