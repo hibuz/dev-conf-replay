@@ -429,7 +429,7 @@
 ## 추가리소스
 - [무료 프로그래밍 Ebook](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ko.md)
 - [프로그래밍 언어별 데이터 구조 및 알고리즘 학습](https://github.com/TheAlgorithms)
-
+- 데이터 엔지니어 - [로드맵](https://blog.dataengineer.io/p/the-2024-breaking-into-data-engineering) | [핸드북](https://github.com/DataExpert-io/data-engineer-handbook)
 
 ## 참고링크
 - https://github.com/brave-people/Dev-Event
