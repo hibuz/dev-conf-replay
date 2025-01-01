@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2024.12.12` [`인공지능`](#인공지능) > 모두팝 > [AI·데이터 취업이야기](https://youtu.be/XV6HeyVIBXE?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2024.12.06` [`IT기업`](#it기업) > SK > [제7회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkfWRiOVpj43ZCk-1624KTV)
 
 ⚡ 바로가기
@@ -86,7 +87,7 @@
 
 - 모두의 연구소
   - 모두콘 - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) - 2023.12.09
-  - [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2024.10.29
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2024.12.12
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 가짜연구소
