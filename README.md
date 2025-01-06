@@ -415,7 +415,7 @@
   - [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) | [AI&COULD 2024](https://www.youtube.com/playlist?list=PL18jcdQAgye9fWSDyHdvvGdty3OMB6afU) - 2024.03.27
 
 - Startup Alliance Korea
-  - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) | [2023](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGFE41jnRQc5mB56qKGgUPy) - 2023.10.11
+  - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) | [2023](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGFE41jnRQc5mB56qKGgUPy) | [2024](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGC40ULiWZ3kYfjrpgze-Au) - 2024.11.14
 
 - Agile Korea
   - [AKC](https://www.facebook.com/AgileKoreaConference) - [2020](https://www.youtube.com/playlist?list=PLqLyqFSqvAE5ZmYBRsAaHIwfCKRBRaYqy) | [2021](https://www.youtube.com/playlist?list=PLqLyqFSqvAE4nquOU5p5-eeoxfkdZK5Th) - 2021.12.09
