@@ -390,7 +390,7 @@
   - [OKKYCON: 2021](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne) - 2021.03.06
   - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2023.12.19
 
-- [Coding Lab](https://linktr.ee/codinglab_)
+- Coding Lab
   - ✨ LabConf [2024](https://www.youtube.com/playlist?list=PLG7ETkC2WT3QBgAffhU4robX-HXWzuYOl) | [2025](https://www.youtube.com/playlist?list=PLG7ETkC2WT3QtEWy-cWa3U2nX-QvGRDxs) - 2025.01.11
 
 
@@ -406,7 +406,7 @@
   - 노코드·로우코드(NCLC) 자동화 임팩트 - [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56KqHjfLS9iYcp2rHFCPpSutT) | [2024](https://www.youtube.com/playlist?list=PLumdCu9Q56KpO8eX5H022LmNmXoiKzYm5) - 2024.01.30
   - [디지털 트랜스포메이션(DX) & 엔터프라이즈 테크 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpbQr_bUOe9jdHSERpA240H) - 2022.03.25
   - [스마트 제조혁신 & 디지털 트윈 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Komt4Au9L6Hy3fA4K4Enlze) - 2022.03.18
-  - [2022 클라우드 네이티브 & 디지털 경험 최적화 그랜드 웨비나](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX) - 2022.01.21
+  - K-클라우드 네이티브 서밋 [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqtjXNhMwAIlKlEcMwiO0FX) | [2024](https://www.youtube.com/playlist?list=PLumdCu9Q56KoNPnYYJFs6zliUH1_AAczm) - 2024.11.27
   - [2022 스마트 디지털 워크플레이스 이노베이션 컨퍼런스](https://www.youtube.com/playlist?list=PLumdCu9Q56Koxg5-QgDjFiTJXl0YCWS-G) - 2022.04.28
   - [Data Insight & Security Summit 2024](https://www.youtube.com/playlist?list=PLumdCu9Q56KobqYkod_wlpAFAa-MsO4nh) - 2024.03.21
   - [AI Cyber Security Summit 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KoTyvg-1UEVQo-XXHfEnHr3) - 2022.06.29
