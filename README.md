@@ -6,8 +6,7 @@
 
 ✨ 신규영상
 
-- `2024.12.15` [`인공지능`](#인공지능) > 모두의 연구소 > [모두콘 2024 | AI for Next Impact](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJYYhfeFdQv9JanN_tG-F5y)
-- `2024.12.12` [`인공지능`](#인공지능) > 모두의 연구소 > 모두팝 [AI·데이터 취업이야기](https://youtu.be/XV6HeyVIBXE?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2025.01.11` [`커뮤니티`](#커뮤니티) > Coding Lab > [LabConf 2025](https://youtu.be/Lr99RuT8hQU?t=1965)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -388,6 +387,9 @@
 - 오키코리아 [OKKY](https://okky.kr)
   - [OKKYCON: 2021](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne) - 2021.03.06
   - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2023.12.19
+
+- [Coding Lab](https://linktr.ee/codinglab_)
+  - ✨ LabConf [2024](https://www.youtube.com/playlist?list=PLG7ETkC2WT3QBgAffhU4robX-HXWzuYOl) | [2025](https://www.youtube.com/playlist?list=PLG7ETkC2WT3QtEWy-cWa3U2nX-QvGRDxs) - 2025.01.11
 
 
 ## 기타
