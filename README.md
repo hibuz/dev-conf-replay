@@ -248,6 +248,7 @@
 
 - 유니티 코리아
   - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [UNITE 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uudM6ziOyy2Eb8KsARTZsmi) | [UNITE 2023](https://www.youtube.com/playlist?list=PL412Ym60h6utvkxkA2zlBIvDhtNLLUPKT) - 2023.11.30
+  - GDC - [2023](https://www.youtube.com/playlist?list=PL412Ym60h6utbCLmk3tcU1D2Y6UNij4ec) | [2024](https://youtu.be/tRagG2LGoew?list=PL412Ym60h6uv2qdzO0B9dAMctVNiYs4rT) - 2024.04.25
   - [Unity Wave 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uskscz6NE7X7KjihUic7YtU) - 2022.05.09~13
 
 
