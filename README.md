@@ -333,8 +333,8 @@
   - [Dev Dive 2022 - 함수형 개발자로 성장하기](https://www.youtube.com/playlist?list=PLOdBZFDkhfV00trSo0SEdHMTaLruDNTzV) - 2022.11.08~09
   - Clojure [2022 meetup+](https://youtu.be/BdSoNmWksuk) - 2022.06.10
 
-- 코드스쿼드
-  - [레츠스위프트](https://letswift.kr) - [2020 테크토크 Day](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER) | [2022](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J) | [2023](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH) - 2023.10.13
+- [Let'Swift](https://letswift.kr)
+  - Let'Swift - [2020 테크토크 Day](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPnvGyT0Qzt58nNfMAL8JER) | [2022](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPunFALpY6c_ml_Kmpgya0J) | [2023](https://www.youtube.com/playlist?list=PLAHa1zfLtLiPY9gDxRwhNDbYZvjFKiurH) | [2024](https://www.youtube.com/playlist?list=PLbLXHxr9x-G5MdBwE5Jo8zxTZz1U6cxfI) - 2024.11.25
 
 - [한국 R 컨퍼런스](https://use-r.kr)
   - [한국 R 컨퍼런스 2021](https://www.youtube.com/playlist?list=PLhTWL0svc2zy4FB-Dy1yrAaYLmrUjXrPg) - 2021.11.19
