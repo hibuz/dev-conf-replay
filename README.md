@@ -7,7 +7,6 @@
 ✨ 신규영상
 
 - `2025.01.22` [`클라우드`](#클라우드) > 메가존 > [re:Connect 2025](https://youtu.be/ZGc1FQz0qgY?list=PLxTkO33QtxTLsDIq-PxGyB05z6RPPGCCg)
-- `2025.01.11` [`커뮤니티`](#커뮤니티) > Coding Lab > [LabConf 2025](https://youtu.be/Lr99RuT8hQU?t=1965)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -158,7 +157,7 @@
   - AWS Summit Online Korea [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-) | [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX7j65Uvp9xAi1hMS6M-2P1) | [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUVLujXBa2aXPjaMLAM4XNr3) - 2023.05.03~04
   - AWS Summit Seoul [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUVLujXBa2aXPjaMLAM4XNr3) | [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUWSyuqOPMFw5VHFhvsXfJCA) - 2024.05.16~17
   - AWS Innovate 2021 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUWUC-lXkou_8oobUArafWE_), [Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB), [앱현대화](https://www.youtube.com/playlist?list=PLORxAVAC5fUUFPs8yy-fvYwI6zYSD-by2) | 2022 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUVqyzPFUXdNnD8k1KYRDbwI), [Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUVlqCYPgAzccuKUcmLinrnh), [앱현대화](https://www.youtube.com/playlist?list=PLORxAVAC5fUXJUUqptRtyDasuklx3SCmX), [For Every App](https://www.youtube.com/playlist?list=PLORxAVAC5fUXIsBWZ4F7Vhx7RnAwszKdb) | 2023 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUWkmf6r2ZfGSC1m4rhyfJMO)  
-2024 - [AI/ML&Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUWIgol3bPsyYQgqVo14h1lr) - 2024.02.22
+2024 - [AI/ML&Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUWIgol3bPsyYQgqVo14h1lr), [앱현대화](https://www.youtube.com/playlist?list=PLORxAVAC5fUWYURd7ug2uejf1Kh9YBQl1) - 2024.09.26
   - AWS Builders 온라인 시리즈 [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5) | [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) | [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUU7cywJX6ilucVIhxwwfxei) | [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUWw7jkwvsCloI9qU9Hs-zHA) - 2024.01.18
   - Startup Week [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUViBsvUeiG8vEPGWHmTnehN) | [Unicorn Day 2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUV6iiTsRWrk0NOIpEn8k5gE) - 2024.03.20
   - Industry Week [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUUB4TpuiUJbJHVjRiQgIhQA) - 2024.11.07
@@ -381,7 +380,7 @@
   - [OKKY 세미나](https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut) - 2023.12.19
 
 - Coding Lab
-  - ✨ LabConf [2024](https://www.youtube.com/playlist?list=PLG7ETkC2WT3QBgAffhU4robX-HXWzuYOl) | [2025](https://www.youtube.com/playlist?list=PLG7ETkC2WT3QtEWy-cWa3U2nX-QvGRDxs) - 2025.01.11
+  - LabConf [2024](https://www.youtube.com/playlist?list=PLG7ETkC2WT3QBgAffhU4robX-HXWzuYOl) | [2025](https://www.youtube.com/playlist?list=PLG7ETkC2WT3QtEWy-cWa3U2nX-QvGRDxs) - 2025.01.11
 
 
 ## 기타
