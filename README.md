@@ -5,7 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-
+- `2025.02.11` [`인공지능`](#인공지능) > 서울특별시 > [AI SEOUL 2025](https://youtu.be/CD2eB-GaU7U)
 - `2025.01.22` [`클라우드`](#클라우드) > 메가존 > [re:Connect 2025](https://youtu.be/ZGc1FQz0qgY?list=PLxTkO33QtxTLsDIq-PxGyB05z6RPPGCCg)
 
 ⚡ 바로가기
@@ -111,6 +111,7 @@
   - [💡Insight Talks](https://www.youtube.com/playlist?list=PLkeKJYdfv8RKPlYhfvsZe2_ugniN2JogS) - 2022.05.26
 
 - 기타
+  - ✨ 서울특별시 > [AI SEOUL 2025](https://youtu.be/CD2eB-GaU7U) - 2025.02.11
   - Deeplearning Playground 커뮤니티 > [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
   - 가짜연구소 > [PseudoCon 2020](https://www.youtube.com/playlist?list=PLyP9gclj-bv6Mn0XFJa1fiNppjGVaILp4) | [제 2회](https://www.youtube.com/playlist?list=PLyP9gclj-bv5ctl36Z-ysQO2U3TRzODDG) - 2021.05.21
   - [2022 Connect to Code(C2C) - 산업 환경의 디지털 전환을 위한 AI & 머신러닝](https://youtu.be/As3D_NINZ44?t=1769) - 2022.11.15
