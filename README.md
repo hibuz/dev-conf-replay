@@ -6,7 +6,6 @@
 
 ✨ 신규영상
 - `2025.02.11` [`인공지능`](#인공지능) > 서울특별시 > [AI SEOUL 2025](https://youtu.be/CD2eB-GaU7U)
-- `2025.01.22` [`클라우드`](#클라우드) > 메가존 > [re:Connect 2025](https://youtu.be/ZGc1FQz0qgY?list=PLxTkO33QtxTLsDIq-PxGyB05z6RPPGCCg)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -151,7 +150,7 @@
 
 - 메가존
   - [디지털 다카포](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208) - [2022](https://www.youtube.com/playlist?list=PLxTkO33QtxTICeek2PbVPW_zbwZXV0hCe) | [2023](https://www.youtube.com/playlist?list=PLxTkO33QtxTJPzx9GtsJvVdfARm7Af_k7)  - 2023.01.10
-  - ✨ re:Connect [2025](https://youtu.be/ZGc1FQz0qgY?list=PLxTkO33QtxTLsDIq-PxGyB05z6RPPGCCg) - 2025.01.22
+  - re:Connect [2025](https://youtu.be/ZGc1FQz0qgY?list=PLxTkO33QtxTLsDIq-PxGyB05z6RPPGCCg) - 2025.01.22
 
 - AWS
   - AWS re:Invent [2021 한국어 트랙](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | [2023 한국어 강연](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | re:Cap [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUXzLlNAXGA1HUG2HFgR5T_Q) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUX9IHNx3Zhzfq-cSF-F2H8I) | [2022 Daily Recap](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO) - 2023.11.27~12.01
@@ -406,6 +405,11 @@
 - IT조선 유튜브 채널 [테크잼연구소](https://www.youtube.com/c/TechCafe2013)
   - 클라우드 온라인 컨퍼런스 [2022 데이터 드리븐 시대](https://youtu.be/LC6rMLgH08g?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) | [2023 디지털 대전환과 초거대 AI](https://youtu.be/fmUoLHOJ7tQ?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) - 2023.03.29
   - [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) | [AI&COULD 2024](https://www.youtube.com/playlist?list=PL18jcdQAgye9fWSDyHdvvGdty3OMB6afU) - 2024.03.27
+
+- 컴퓨터월드 / IT DAILY
+  - 데이터 컨퍼런스 [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026GQWBp9W2JanK2eYIFKTCo) | [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024cTQDFZOdn-KNvTuBztQ4Z) - 2024.05.30
+  - 클라우드 컨퍼런스 [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb025CHRoyJFmFvNp88EK1UWmq) | [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb026QX8Z0fbwMeXym2-Uc4qTs) - 2024.04.16
+  - 정보보호 솔루션 컨퍼런스 [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026K4TLAI0JzFBmaEaNY9QMp) | [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024QxdAzNpCYK8QBW1QkqlMO) - 2024.06.11
 
 - Startup Alliance Korea
   - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) | [2023](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGFE41jnRQc5mB56qKGgUPy) | [2024](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGC40ULiWZ3kYfjrpgze-Au) - 2024.11.14
