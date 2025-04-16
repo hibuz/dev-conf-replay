@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2025.03.28` [`인공지능`](#인공지능) > 모두팝 > [Web3 AI 미디어 세미나 2025](https://youtu.be/nuBSVs1Ifqs)
+- `2025.03.26` [`IT기업`](#it기업) > 삼성SDS > [첼로스퀘어 컨퍼런스 2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl)
 - `2025.02.04~05` [`클라우드`](#클라우드) > AWS > [re:Invent 2024 re:Cap - Korea](https://www.youtube.com/playlist?list=PLORxAVAC5fUX870HAp-ERDSxhNq_jsrEs)
 
 ⚡ 바로가기
@@ -61,11 +62,12 @@
 
 - 삼성
   - SDC Korea - [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGnw4zvROueF35lGYabMFoe) - 2024.11.21
-
+ 
 - 삼성SDS
   - Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19 
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
   - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) - 2024.09.03
+  - ✨ 첼로스퀘어 컨퍼런스 - [2023,2024,2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl) - 2025.03.26
 
 - SK
   - SK ICT Tech Summit - [2022, 2023, 2024](https://www.youtube.com/@skaisummit2024/playlists) - 2024.11.04~05
