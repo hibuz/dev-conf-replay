@@ -6,8 +6,6 @@
 
 ✨ 신규영상
 - `2025.03.28` [`인공지능`](#인공지능) > 모두팝 > [Web3 AI 미디어 세미나 2025](https://youtu.be/nuBSVs1Ifqs)
-- `2025.03.26` [`IT기업`](#it기업) > 삼성SDS > [첼로스퀘어 컨퍼런스 2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl)
-- `2025.02.04~05` [`클라우드`](#클라우드) > AWS > [re:Invent 2024 re:Cap - Korea](https://www.youtube.com/playlist?list=PLORxAVAC5fUX870HAp-ERDSxhNq_jsrEs)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -67,7 +65,7 @@
   - Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19 
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
   - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) - 2024.09.03
-  - ✨ 첼로스퀘어 컨퍼런스 - [2023,2024,2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl) - 2025.03.26
+  - 첼로스퀘어 컨퍼런스 - [2023,2024,2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl) - 2025.03.26
 
 - SK
   - SK ICT Tech Summit - [2022, 2023, 2024](https://www.youtube.com/@skaisummit2024/playlists) - 2024.11.04~05
@@ -226,6 +224,7 @@
 ## 모빌리티
 
 - 현대자동차
+  - [Pleos 25](https://www.youtube.com/playlist?list=PLS4edoctnapv9Kn4910H8LkoION0ePxJf) - 2025.03.28
   - HMG Developer Conference - [제1회](https://www.youtube.com/playlist?list=PLypFzBtJUO_jOcX48cwJ21pFpzkkWLqWm) | [제2회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRRauzZOhH9TexiYmrYcyX) | [제3회](https://www.youtube.com/playlist?list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w) - 2023.11.13
   - Softeer Tech Meet-up - [1st, 2nd](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.09.14
 
