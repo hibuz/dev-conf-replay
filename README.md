@@ -197,7 +197,7 @@
 
 - Datadog Korea
   - [Virtual Summit 2020](https://www.youtube.com/playlist?list=PLtoDdE_CaqrQVY5iuha4xGMK6smnLfgi4) | [DASH 2023](https://www.youtube.com/playlist?list=PLtoDdE_CaqrT9r7VwpELbzl6acIuxzc3w) | [Observability Day 2023](https://www.youtube.com/playlist?list=PLtoDdE_CaqrS55NBKZ4ds0jbF0foKone9) - 2023.10.13
-  - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2024.08.30
+  - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2025.01.08
 
 - HashCorp
   - HashiCorp Strategy Day [2023](https://www.youtube.com/playlist?list=PL81sUbsFNc5ZkHno0jkNtQJgWdlY_xpG7) | [2024](https://www.youtube.com/playlist?list=PL81sUbsFNc5YrFDysEhtcgP7Fa5-GZuoL) - 2024.08.27
