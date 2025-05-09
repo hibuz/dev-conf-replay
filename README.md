@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2025.04.30` [`클라우드`](#클라우드) > KT > [kt cloud summit 2025](https://www.youtube.com/@ktcloud/videos)
+- `2025.04.15` [`게임`](#게임) > Unity Korea > [Unite Seoul 2025](https://www.youtube.com/playlist?list=PL412Ym60h6uuQDJRQLvNvi-xGTnF5LfQg)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -242,7 +243,7 @@
   - NDC - 21 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwN5eLnujfsgX56oGNZYz070), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwOp_S0nGOF1FfFchvqAx7aN), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPd5kws2Vy2Jtf3a8B8KpPv) | 22 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwNDw8FQXDQQ9yRJTI8QTflI), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwOYeU7vxRGBNFSR_taWOaA9), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPy1Se58JV_KgmNSkLrtJAd) - 2022.06.08~10
 
 - 유니티 코리아
-  - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [UNITE 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uudM6ziOyy2Eb8KsARTZsmi) | [UNITE 2023](https://www.youtube.com/playlist?list=PL412Ym60h6utvkxkA2zlBIvDhtNLLUPKT) - 2023.11.30
+  - ✨ [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [UNITE 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uudM6ziOyy2Eb8KsARTZsmi) | [UNITE 2023](https://www.youtube.com/playlist?list=PL412Ym60h6utvkxkA2zlBIvDhtNLLUPKT) | [2025](https://www.youtube.com/playlist?list=PL412Ym60h6uuQDJRQLvNvi-xGTnF5LfQg) - 2025.04.15
   - GDC - [2023](https://www.youtube.com/playlist?list=PL412Ym60h6utbCLmk3tcU1D2Y6UNij4ec) | [2024](https://youtu.be/tRagG2LGoew?list=PL412Ym60h6uv2qdzO0B9dAMctVNiYs4rT) - 2024.04.25
   - [Unity Wave 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uskscz6NE7X7KjihUic7YtU) - 2022.05.09~13
 
