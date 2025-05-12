@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2025.04.30` [`클라우드`](#클라우드) > KT > [kt cloud summit 2025](https://www.youtube.com/@ktcloud/videos)
+- `2025.04.16` [`IT기업`](#it기업) > 삼성SDS > [Industry Day](https://www.youtube.com/playlist?list=PL5CBKg4LPW2eAlFDkPx6QW75adjFvVEZG)
 - `2025.04.15` [`게임`](#게임) > Unity Korea > [Unite Seoul 2025](https://www.youtube.com/playlist?list=PL412Ym60h6uuQDJRQLvNvi-xGTnF5LfQg)
 
 ⚡ 바로가기
@@ -63,6 +64,7 @@
   - SDC Korea - [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGnw4zvROueF35lGYabMFoe) - 2024.11.21
  
 - 삼성SDS
+  - ✨ Industry Day - [2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2eAlFDkPx6QW75adjFvVEZG) - 2025.04.16
   - Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19 
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
   - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) - 2024.09.03
