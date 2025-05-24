@@ -5,9 +5,9 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2025.05.13` [`인공지능`](#인공지능) > 모두팝 > [로봇 행동 제어를 위한 모방 학습(ft.LeRobot)](https://youtu.be/P3v3NTQ5Pvo?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2025.04.30` [`클라우드`](#클라우드) > KT > [kt cloud summit 2025](https://www.youtube.com/@ktcloud/videos)
 - `2025.04.16` [`IT기업`](#it기업) > 삼성SDS > [Industry Day](https://www.youtube.com/playlist?list=PL5CBKg4LPW2eAlFDkPx6QW75adjFvVEZG)
-- `2025.04.15` [`게임`](#게임) > Unity Korea > [Unite Seoul 2025](https://www.youtube.com/playlist?list=PL412Ym60h6uuQDJRQLvNvi-xGTnF5LfQg)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -91,7 +91,7 @@
 
 - 모두의 연구소
   - 모두콘 - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) | [2024](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJYYhfeFdQv9JanN_tG-F5y) - 2024.12.15
-  - [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2025.03.28
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2025.05.13
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 래블업
@@ -246,7 +246,7 @@
   - NDC - 21 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwN5eLnujfsgX56oGNZYz070), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwOp_S0nGOF1FfFchvqAx7aN), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPd5kws2Vy2Jtf3a8B8KpPv) | 22 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwNDw8FQXDQQ9yRJTI8QTflI), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwOYeU7vxRGBNFSR_taWOaA9), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPy1Se58JV_KgmNSkLrtJAd) - 2022.06.08~10
 
 - 유니티 코리아
-  - ✨ [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [UNITE 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uudM6ziOyy2Eb8KsARTZsmi) | [UNITE 2023](https://www.youtube.com/playlist?list=PL412Ym60h6utvkxkA2zlBIvDhtNLLUPKT) | [2025](https://www.youtube.com/playlist?list=PL412Ym60h6uuQDJRQLvNvi-xGTnF5LfQg) - 2025.04.15
+  - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [UNITE 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uudM6ziOyy2Eb8KsARTZsmi) | [UNITE 2023](https://www.youtube.com/playlist?list=PL412Ym60h6utvkxkA2zlBIvDhtNLLUPKT) | [2025](https://www.youtube.com/playlist?list=PL412Ym60h6uuQDJRQLvNvi-xGTnF5LfQg) - 2025.04.15
   - GDC - [2023](https://www.youtube.com/playlist?list=PL412Ym60h6utbCLmk3tcU1D2Y6UNij4ec) | [2024](https://youtu.be/tRagG2LGoew?list=PL412Ym60h6uv2qdzO0B9dAMctVNiYs4rT) - 2024.04.25
   - [Unity Wave 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uskscz6NE7X7KjihUic7YtU) - 2022.05.09~13
 
