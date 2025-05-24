@@ -413,9 +413,9 @@
   - [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) | [AI&COULD 2024](https://www.youtube.com/playlist?list=PL18jcdQAgye9fWSDyHdvvGdty3OMB6afU) - 2024.03.27
 
 - 컴퓨터월드 / IT DAILY
-  - 데이터 컨퍼런스 [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026GQWBp9W2JanK2eYIFKTCo) | [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024cTQDFZOdn-KNvTuBztQ4Z) - 2024.05.30
-  - 클라우드 컨퍼런스 [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb025CHRoyJFmFvNp88EK1UWmq) | [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb026QX8Z0fbwMeXym2-Uc4qTs) - 2024.04.16
-  - 정보보호 솔루션 컨퍼런스 [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026K4TLAI0JzFBmaEaNY9QMp) | [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024QxdAzNpCYK8QBW1QkqlMO) - 2024.06.11
+  - 데이터 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024cTQDFZOdn-KNvTuBztQ4Z) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026GQWBp9W2JanK2eYIFKTCo) - 2024.05.30
+  - 클라우드 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb026QX8Z0fbwMeXym2-Uc4qTs) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb025CHRoyJFmFvNp88EK1UWmq) | [2025](https://www.youtube.com/playlist?list=PLBo8wlMxb024LCqE54QqNosNjV499yB4A) - 2025.04.03
+  - 정보보호 솔루션 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024QxdAzNpCYK8QBW1QkqlMO) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026K4TLAI0JzFBmaEaNY9QMp) - 2024.06.11
 
 - Startup Alliance Korea
   - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) | [2023](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGFE41jnRQc5mB56qKGgUPy) | [2024](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGC40ULiWZ3kYfjrpgze-Au) - 2024.11.14
