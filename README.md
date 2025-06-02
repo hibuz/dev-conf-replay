@@ -6,8 +6,6 @@
 
 ✨ 신규영상
 - `2025.05.13` [`인공지능`](#인공지능) > 모두팝 > [로봇 행동 제어를 위한 모방 학습(ft.LeRobot)](https://youtu.be/P3v3NTQ5Pvo?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2025.04.30` [`클라우드`](#클라우드) > KT > [kt cloud summit 2025](https://www.youtube.com/@ktcloud/videos)
-- `2025.04.16` [`IT기업`](#it기업) > 삼성SDS > [Industry Day](https://www.youtube.com/playlist?list=PL5CBKg4LPW2eAlFDkPx6QW75adjFvVEZG)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -65,7 +63,7 @@
   - SDC Korea - [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGnw4zvROueF35lGYabMFoe) - 2024.11.21
  
 - 삼성SDS
-  - ✨ Industry Day - [2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2eAlFDkPx6QW75adjFvVEZG) - 2025.04.16
+  - Industry Day - [2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2eAlFDkPx6QW75adjFvVEZG) - 2025.04.16
   - Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19 
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
   - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) - 2024.09.03
@@ -150,7 +148,7 @@
   - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2023.10.31
 
 - kt cloud
-  - ✨ kt cloud : summit - [2023](https://www.youtube.com/playlist?list=PLaRqSfWeygEfdb6csw41l5R2pDd4RZgOm) | [2024](https://www.youtube.com/playlist?list=PLaRqSfWeygEeR4jeZjzmeiKsQ7pLU8q3G) | [2025](https://www.youtube.com/@ktcloud/videos) - 2025.04.30
+  - kt cloud : summit - [2023](https://www.youtube.com/playlist?list=PLaRqSfWeygEfdb6csw41l5R2pDd4RZgOm) | [2024](https://www.youtube.com/playlist?list=PLaRqSfWeygEeR4jeZjzmeiKsQ7pLU8q3G) | [2025](https://www.youtube.com/@ktcloud/videos) - 2025.04.30
   - [Monthly Webinar](https://www.youtube.com/playlist?list=PLaRqSfWeygEd1iiAaOsfn39VlrTkNMoi1) - 2024.04.25
 
 - 메가존
@@ -194,6 +192,7 @@
 
 - 오픈 인프라 커뮤니티
   - OpenInfra Community Days Korea - [2020](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rLLET-H1fS12OF0bBtOE-p) | [2021](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3o6FZNJiB10vReh_iXve6LS) | [2023](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3pIbzuNxOix9Co5pHgAU98a) - 2023.07.03~04
+  - [OpenInfra Summit Asia 2024](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3ow4phkdA_ykLK6c4DCkD0K) - 2024.09.03~04
   - [OpenInfra & Cloud Native Days Korea 2022](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rnn_p6QV-GVdgqL-ZgZnZo) - 2022.11.01
 
 - KAFKA 한국 사용자 모임 [KRU](https://www.facebook.com/groups/kafka.kru)
