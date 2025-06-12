@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2025.05.29` [`인공지능`](#인공지능) > 솔트룩스 > [SAC 2025](https://youtu.be/GorRTrf0yjo?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb)
+- `2025.05.17` [`교육`](#교육) > 프로그래머스 > [제4회 데브코스 커리어 TALK](https://www.youtube.com/playlist?list=PLz4XWo74AOacDsEeU92VEqIBFyqs5GoK4)
 - `2025.05.14~15` [`클라우드`](#클라우드) > AWS > [AWS Summit Seoul 2025](https://www.youtube.com/playlist?list=PLORxAVAC5fUXAy48wJjVZ2Ja3AHGYOY0t)
 
 ⚡ 바로가기
@@ -363,6 +364,7 @@
   - [프로그래머스 온라인 컨퍼런스 1st](https://www.youtube.com/playlist?list=PLz4XWo74AOafAHPTyd4ikJwRkXmptWXwI) - 2022.11.26
   - [데이터 엔지니어링 컨퍼런스](https://www.youtube.com/playlist?list=PLz4XWo74AOaeXlr6zxjA_24vr8qoSzxHE) - 2023.04.01
   - [2022 프로그래머스 SILLY TALK](https://www.youtube.com/playlist?list=PLz4XWo74AOadffWyvALUKsNSW0pFBD1Dl) - 2022.10.15
+  - ✨ [데브코스 커리어 TALK](https://www.youtube.com/playlist?list=PLz4XWo74AOacDsEeU92VEqIBFyqs5GoK4) - 2025.05.17
 
 - 이노베이션 아카데미
   - [INNO-CON](https://innocon.co.kr) - [이노베이션아카데미 성과 공유 컨퍼런스 2020 ~ 2023](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4) - 2023.10.05
