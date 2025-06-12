@@ -30,7 +30,7 @@
 - 네이버
   - [DEVIEW](https://deview.kr) - [2020](https://tv.naver.com/v/16968202/list/657024) | [2021](https://tv.naver.com/v/23700321/list/753227) | [2023](https://www.youtube.com/playlist?list=PLsFtzQAC8dDcQAcSG4PNrW7-0ExDZqqJA) - 2023.02.27~28
   - [팀네이버 컨퍼런스 DAN 24](https://www.youtube.com/playlist?list=PLCct9_ckBx797bYJTNL-U1CIfhu-HU4eN) - 2024.11.11~12
-  - [NAVER ENGINEERING DAY 2023](https://www.youtube.com/playlist?list=PLsFtzQAC8dDfk-KmvmagozbYtQ2Fmpmpi) - 2023.07.31
+  - [NAVER ENGINEERING DAY](https://www.youtube.com/playlist?list=PLsFtzQAC8dDfk-KmvmagozbYtQ2Fmpmpi) - 2025.05.01
   - TECH CONCERT - [2020](https://tv.naver.com/v/15353556/list/629240) - 2020.08.19~20
   - [NAVER Search Colloquium](https://searchcolloquium.naver.com) - [2021](https://tv.naver.com/v/20307278/list/709884) | [2022](https://tv.naver.com/v/26581332/list/785512) - 2022.05.03
 
