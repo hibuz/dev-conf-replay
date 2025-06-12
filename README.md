@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2025.05.29` [`인공지능`](#인공지능) > 솔트룩스 > [SAC 2025](https://youtu.be/GorRTrf0yjo?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb)
+- `2025.05.21` [`기타`](#기타) > IT DAILY > [2025 데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLBo8wlMxb024utE5L3K8jh4LErVUP9bFS) 
 - `2025.05.17` [`교육`](#교육) > 프로그래머스 > [제4회 데브코스 커리어 TALK](https://www.youtube.com/playlist?list=PLz4XWo74AOacDsEeU92VEqIBFyqs5GoK4)
 - `2025.05.14~15` [`클라우드`](#클라우드) > AWS > [AWS Summit Seoul 2025](https://www.youtube.com/playlist?list=PLORxAVAC5fUXAy48wJjVZ2Ja3AHGYOY0t)
 
@@ -415,7 +416,7 @@
   - [AI 전망 2022웨비나](https://www.youtube.com/playlist?list=PL18jcdQAgye-x3e4TO85gowHqWCUpH6Wo) | [AI&COULD 2024](https://www.youtube.com/playlist?list=PL18jcdQAgye9fWSDyHdvvGdty3OMB6afU) - 2024.03.27
 
 - 컴퓨터월드 / IT DAILY
-  - 데이터 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024cTQDFZOdn-KNvTuBztQ4Z) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026GQWBp9W2JanK2eYIFKTCo) - 2024.05.30
+  - ✨ 데이터 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024cTQDFZOdn-KNvTuBztQ4Z) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026GQWBp9W2JanK2eYIFKTCo) | [2025](https://www.youtube.com/playlist?list=PLBo8wlMxb024utE5L3K8jh4LErVUP9bFS) - 2025.05.21
   - 클라우드 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb026QX8Z0fbwMeXym2-Uc4qTs) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb025CHRoyJFmFvNp88EK1UWmq) | [2025](https://www.youtube.com/playlist?list=PLBo8wlMxb024LCqE54QqNosNjV499yB4A) - 2025.04.03
   - 정보보호 솔루션 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024QxdAzNpCYK8QBW1QkqlMO) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026K4TLAI0JzFBmaEaNY9QMp) - 2024.06.11
 
