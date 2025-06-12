@@ -369,7 +369,7 @@
   - ✨ [데브코스 커리어 TALK](https://www.youtube.com/playlist?list=PLz4XWo74AOacDsEeU92VEqIBFyqs5GoK4) - 2025.05.17
 
 - 이노베이션 아카데미
-  - [INNO-CON](https://innocon.co.kr) - [이노베이션아카데미 성과 공유 컨퍼런스 2020 ~ 2023](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4) - 2023.10.05
+  - [INNO-CON](https://innocon.co.kr) - [이노베이션아카데미 성과 공유 컨퍼런스 2020 ~ 2023](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4) | [2024](https://youtu.be/qcIf8i1QRio) - 2024.12.04
 
 
 ## 커뮤니티
