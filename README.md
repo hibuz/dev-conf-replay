@@ -8,8 +8,6 @@
 - `2025.05.29` [`인공지능`](#인공지능) > 솔트룩스 > [SAC 2025](https://youtu.be/GorRTrf0yjo?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb)
 - `2025.05.21` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [타입스크립트로 배우는 Function calling부터 에이전트까지](https://youtu.be/hPn_Yf-07V4?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
 - `2025.05.21` [`기타`](#기타) > IT DAILY > [2025 데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLBo8wlMxb024utE5L3K8jh4LErVUP9bFS) 
-- `2025.05.17` [`교육`](#교육) > 프로그래머스 > [제4회 데브코스 커리어 TALK](https://www.youtube.com/playlist?list=PLz4XWo74AOacDsEeU92VEqIBFyqs5GoK4)
-- `2025.05.14~15` [`클라우드`](#클라우드) > AWS > [AWS Summit Seoul 2025](https://www.youtube.com/playlist?list=PLORxAVAC5fUXAy48wJjVZ2Ja3AHGYOY0t)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -158,11 +156,12 @@
 - 메가존
   - [디지털 다카포](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208) - [2022](https://www.youtube.com/playlist?list=PLxTkO33QtxTICeek2PbVPW_zbwZXV0hCe) | [2023](https://www.youtube.com/playlist?list=PLxTkO33QtxTJPzx9GtsJvVdfARm7Af_k7)  - 2023.01.10
   - re:Connect [2025](https://youtu.be/ZGc1FQz0qgY?list=PLxTkO33QtxTLsDIq-PxGyB05z6RPPGCCg) - 2025.01.22
+  - The ICONic ISV Conference [2025 I-CON](https://www.youtube.com/playlist?list=PLxTkO33QtxTL5q8YpTfDCDglAiwnJbYTt) - 2025.03.27
 
 - AWS
   - AWS re:Invent [2021 한국어 트랙](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | [2023 한국어 강연](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | re:Cap [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUXzLlNAXGA1HUG2HFgR5T_Q) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUX9IHNx3Zhzfq-cSF-F2H8I) | [2022 Daily Recap](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO) | [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUX870HAp-ERDSxhNq_jsrEs) - 2024.02.04~05
   - AWS Summit Online Korea [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-) | [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX7j65Uvp9xAi1hMS6M-2P1) | [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUVLujXBa2aXPjaMLAM4XNr3) - 2023.05.03~04
-  - ✨ AWS Summit Seoul [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUVLujXBa2aXPjaMLAM4XNr3) | [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUWSyuqOPMFw5VHFhvsXfJCA) | [2025](https://www.youtube.com/playlist?list=PLORxAVAC5fUXAy48wJjVZ2Ja3AHGYOY0t) - 2025.05.14~15
+  - AWS Summit Seoul [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUVLujXBa2aXPjaMLAM4XNr3) | [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUWSyuqOPMFw5VHFhvsXfJCA) | [2025](https://www.youtube.com/playlist?list=PLORxAVAC5fUXAy48wJjVZ2Ja3AHGYOY0t) - 2025.05.14~15
   - AWS Innovate 2021 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUWUC-lXkou_8oobUArafWE_), [Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB), [앱현대화](https://www.youtube.com/playlist?list=PLORxAVAC5fUUFPs8yy-fvYwI6zYSD-by2) | 2022 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUVqyzPFUXdNnD8k1KYRDbwI), [Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUVlqCYPgAzccuKUcmLinrnh), [앱현대화](https://www.youtube.com/playlist?list=PLORxAVAC5fUXJUUqptRtyDasuklx3SCmX), [For Every App](https://www.youtube.com/playlist?list=PLORxAVAC5fUXIsBWZ4F7Vhx7RnAwszKdb) | 2023 - [AI/ML](https://www.youtube.com/playlist?list=PLORxAVAC5fUWkmf6r2ZfGSC1m4rhyfJMO)  
 2024 - [AI/ML&Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUWIgol3bPsyYQgqVo14h1lr), [앱현대화](https://www.youtube.com/playlist?list=PLORxAVAC5fUWYURd7ug2uejf1Kh9YBQl1) - 2024.09.26
   - AWS Builders 온라인 시리즈 [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5) | [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) | [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUU7cywJX6ilucVIhxwwfxei) | [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUWw7jkwvsCloI9qU9Hs-zHA) - 2024.01.18
@@ -366,7 +365,7 @@
   - [프로그래머스 온라인 컨퍼런스 1st](https://www.youtube.com/playlist?list=PLz4XWo74AOafAHPTyd4ikJwRkXmptWXwI) - 2022.11.26
   - [데이터 엔지니어링 컨퍼런스](https://www.youtube.com/playlist?list=PLz4XWo74AOaeXlr6zxjA_24vr8qoSzxHE) - 2023.04.01
   - [2022 프로그래머스 SILLY TALK](https://www.youtube.com/playlist?list=PLz4XWo74AOadffWyvALUKsNSW0pFBD1Dl) - 2022.10.15
-  - ✨ [데브코스 커리어 TALK](https://www.youtube.com/playlist?list=PLz4XWo74AOacDsEeU92VEqIBFyqs5GoK4) - 2025.05.17
+  - [데브코스 커리어 TALK](https://www.youtube.com/playlist?list=PLz4XWo74AOacDsEeU92VEqIBFyqs5GoK4) - 2025.05.17
 
 - 이노베이션 아카데미
   - [INNO-CON](https://innocon.co.kr) - [이노베이션아카데미 성과 공유 컨퍼런스 2020 ~ 2023](https://www.youtube.com/playlist?list=PLdaJq4f37m1p-0EEXIO7JDb3xXhlluWC4) | [2024](https://youtu.be/qcIf8i1QRio) - 2024.12.04
