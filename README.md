@@ -107,8 +107,9 @@
   - [2021 AI & Big Data Smart Convergence](https://www.youtube.com/playlist?list=PLumdCu9Q56Kp_SM7qG6ILsleZJTe-zXVy) - 2021.09.09
 
 - 대덕특구 SPACE-S
+  - [INNOPOLIS AI 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2025.02.11
+  - 에이전틱 AI - [랭체인코리아 밋업 2025Q1](https://www.youtube.com/playlist?list=PLudxIRsX4I3R3x-6d9KFKCO9OsKMtnJKP) - 2025.03.04
   - 대전러닝데이 - [DLD 2022](https://www.youtube.com/playlist?list=PLudxIRsX4I3Sj6R-4INhtyNXqC0U5mFuU) - 2022.10.25
-  - [INNOPOLIS AI 세미나](https://www.youtube.com/channel/UCJwSFW3lKme5XUZF-cjSPoQ/featured) - 2023.07.26
 
 - 업스테이지
   - [🖥 Tech Talks](https://www.youtube.com/playlist?list=PLkeKJYdfv8RLyrQ5WriBcKxMwjmc0c01T) - 2022.03.04
