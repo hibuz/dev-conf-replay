@@ -183,6 +183,10 @@
   - Kubernetes Community Day [KCD Korea 2021](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Mgj7OKf1SHjgAp2UQtey_I) | [2023](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PIWBHTlGr9UDmJTpGjU59C) | [2024](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PAaki3sVqOEn6SfQUuubgD) - 2024.09.24
   - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN) - 2020.10.29
 
+- 한국클라우드산업협회
+  - Cloud Big Tech [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsxbvg9fDerqhml2vihjwpi1) - 2024.09.25
+  - K-AI PaaS Summit [2023](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsy9W9brboA6kjo0Ecv34mqO) | [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9DsyOZSs2-eYqnzC_eBrgTdJw) - 2024.06.19
+
 - 기타
   - 쉐어드IT > [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
   - 과학기술정보통신부 > Open Cloud Platform Summit - [2022](https://www.youtube.com/playlist?list=PL-AoIAa-OgNnym3kkTmIlko53smWH4L0p) | [2023](https://www.youtube.com/playlist?list=PL-AoIAa-OgNla-rPexcg9WpEntQ9fPKDD) - 2023.07.12
