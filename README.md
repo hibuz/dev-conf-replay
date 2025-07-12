@@ -180,7 +180,7 @@
   - Azure [Everywhere 2021](https://www.youtube.com/playlist?list=PLGh_JNxzXsX_YkjiqSwDRbEnVOk_vNV0D) | 2022 - [Azure](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-Wu_DN4C6A8EzsI9DLiZHK), [Dev](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9va2yAFrGNBYKAfHNg463b), [Security](https://www.youtube.com/playlist?list=PLGh_JNxzXsX_eHsDpyRV5rJbWb8nrHezV), [Modern Work](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9RxStNUDma-7-cnq4q9oFm) - 2022.04.06~27
 
 - [Kubernetes Korea Group](https://www.facebook.com/groups/k8skr)
-  - Kubernetes Community Day [KCD Korea 2021](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Mgj7OKf1SHjgAp2UQtey_I) | [2023](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PIWBHTlGr9UDmJTpGjU59C) | [2024](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PAaki3sVqOEn6SfQUuubgD) - 2024.09.24
+  - Kubernetes Community Day [KCD Korea 2021](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Mgj7OKf1SHjgAp2UQtey_I) | [2023](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PIWBHTlGr9UDmJTpGjU59C) | [2024](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PAaki3sVqOEn6SfQUuubgD) | [2025](https://www.youtube.com/playlist?list=PL1j_IgwZkt4MKF6IamyNj_aLInEvgObsN) - 2025.05.22
   - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN) - 2020.10.29
 
 - 한국클라우드산업협회
