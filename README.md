@@ -249,7 +249,7 @@
 ## 게임
 
 - 넥슨
-  - NDC - 21 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwN5eLnujfsgX56oGNZYz070), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwOp_S0nGOF1FfFchvqAx7aN), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPd5kws2Vy2Jtf3a8B8KpPv) | 22 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwNDw8FQXDQQ9yRJTI8QTflI), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwOYeU7vxRGBNFSR_taWOaA9), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPy1Se58JV_KgmNSkLrtJAd) - 2022.06.08~10
+  - NDC - 21 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwN5eLnujfsgX56oGNZYz070), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwOp_S0nGOF1FfFchvqAx7aN), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPd5kws2Vy2Jtf3a8B8KpPv) | 22 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwNDw8FQXDQQ9yRJTI8QTflI), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwOYeU7vxRGBNFSR_taWOaA9), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPy1Se58JV_KgmNSkLrtJAd) | 25 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPuJYY9YLEVPnDCdjqpeyT_), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwON8N8NdWAxmovJVkWjDww4), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPk8fRdqSbJxmCtaPIreM4Y) - 2025.06.24~26
 
 - 유니티 코리아
   - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [UNITE 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uudM6ziOyy2Eb8KsARTZsmi) | [UNITE 2023](https://www.youtube.com/playlist?list=PL412Ym60h6utvkxkA2zlBIvDhtNLLUPKT) | [2025](https://www.youtube.com/playlist?list=PL412Ym60h6uuQDJRQLvNvi-xGTnF5LfQg) - 2025.04.15
