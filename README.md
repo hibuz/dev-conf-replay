@@ -282,7 +282,7 @@
 ## 모바일
 
 - 드로이드나이츠
-  - [2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy) | [2021](https://www.youtube.com/playlist?list=PLu8dnNjU2FmsROfv5pNAvhRiOFVN_EmnV) | [2023](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmv55B8y6Mw78pZFflIoxDo8) | [2024](https://www.youtube.com/playlist?list=PLu8dnNjU2FmtIUqQzv6xhnBa7wnZ3A0e0) - 2024.06.11
+  - [2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy) | [2021](https://www.youtube.com/playlist?list=PLu8dnNjU2FmsROfv5pNAvhRiOFVN_EmnV) | [2023](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmv55B8y6Mw78pZFflIoxDo8) | [2024](https://www.youtube.com/playlist?list=PLu8dnNjU2FmtIUqQzv6xhnBa7wnZ3A0e0) | [2025](https://www.youtube.com/playlist?list=PLu8dnNjU2FmvkS9YwqDOmzGXFbDZVWqF2) - 2025.06.17
 
 - Seoul iOS Meetup
   - 2023 - [April](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFdySPXGq8Nv37HfFcYM0ro), [May](https://www.youtube.com/playlist?list=PLAFxr8OPgeVF18jds65HTjzTQEbuVeq1A), [June](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFxT5Vp_OVKBr-bgeyyVN-V), [July](https://www.youtube.com/playlist?list=PLAFxr8OPgeVEIC_uoQc07lGbRJ-kI5DNO), [August](https://youtu.be/22GjhyFqEcE?list=PLAFxr8OPgeVHiv1RO78GHNxvoDTjRRsNt&t=2), [October](https://youtu.be/1DkOCVeX26s?list=PLAFxr8OPgeVHF5i7kLXuNvJsadfPmwYU6), [December](https://youtu.be/0Q0leVjH2gM?list=PLAFxr8OPgeVGrG3efpsyWtWbnYcWJQdf1) - 2023.12.14
