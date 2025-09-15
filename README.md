@@ -321,7 +321,7 @@
 
 - 한국 스프링 사용자 모임
   - [KSUG](https://www.ksug.org) - [2021 Webinar](https://www.youtube.com/playlist?list=PLn0dGEB80JNQLm7-af9X6Yqx1oBK8YXSm) - 2021.04.30
-  - SpringCamp - [2019](https://www.youtube.com/playlist?list=PLdHtZnJh1KdaM0AfxPA7qGK1UuvhpvffL) | [2023](https://www.youtube.com/playlist?list=PLdHtZnJh1KdbR9xXyiVJ-BClLTXCw66y3) | [2024](https://www.youtube.com/playlist?list=PLdHtZnJh1KdY3gEi7EPa2AuWn5NKRVmDf) - 2024.05.25
+  - SpringCamp - [2019](https://www.youtube.com/playlist?list=PLdHtZnJh1KdaM0AfxPA7qGK1UuvhpvffL) | [2023](https://www.youtube.com/playlist?list=PLdHtZnJh1KdbR9xXyiVJ-BClLTXCw66y3) | [2024](https://www.youtube.com/playlist?list=PLdHtZnJh1KdY3gEi7EPa2AuWn5NKRVmDf) | [2025](https://www.youtube.com/playlist?list=PLdHtZnJh1KdYYFaaJCCis_swbqbYPrtYC) - 2026.06.28
 
 - Golang Korea
   - GopherCon Korea - [2021](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfulCVQD6EaU8c-GM56aUU7) | [2022](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) | 2023 [Day1](https://youtu.be/WZthMW0BaNA?t=1322), [Day2](https://youtu.be/8AUVKh0qJgU?t=1333) | 2024 [Day1](https://www.youtube.com/watch?v=zdMuLvK0pNg), [Day2](https://youtu.be/DEZsPOSzNM0) - 2024.10.12~13
