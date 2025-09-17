@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2025.08.30` [`인공지능`](#인공지능) > 모두연 > [10주년 기념 세미나](https://youtu.be/pMeJOrmYCIw?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2025.07.23` [`빅데이터`](#빅데이터) > 보아즈 > [제 22회 보아즈(BOAZ) 빅데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLThNmt_l7b6DSLXfltgnkmf-051-TsYLA)
 
 ⚡ 바로가기
@@ -89,7 +90,7 @@
 
 - 모두의 연구소
   - 모두콘 - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) | [2024](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJYYhfeFdQv9JanN_tG-F5y) - 2024.12.15
-  - [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2025.07.15
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2025.08.30
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 래블업
