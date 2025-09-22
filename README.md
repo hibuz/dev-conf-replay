@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2025.09.16` [`IT기업`](#it기업) > 삼성 > [Samsung AI Forum 2025 (제9회 삼성 AI 포럼)](https://youtu.be/yCcNLhoG1eo)
 - `2025.08.30` [`인공지능`](#인공지능) > 모두연 > [10주년 기념 세미나](https://youtu.be/pMeJOrmYCIw?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2025.07.23` [`빅데이터`](#빅데이터) > 보아즈 > [제 22회 보아즈(BOAZ) 빅데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLThNmt_l7b6DSLXfltgnkmf-051-TsYLA)
 
@@ -62,7 +63,8 @@
 
 - 삼성
   - SDC Korea - [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGnw4zvROueF35lGYabMFoe) - 2024.11.21
- 
+  - ✨ Samsung AI Forum(SAIF) - [2025 제9회 삼성 AI 포럼](https://youtu.be/yCcNLhoG1eo) - 2025.09.16
+
 - 삼성SDS
   - Industry Day - [2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2eAlFDkPx6QW75adjFvVEZG) - 2025.04.16
   - Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19 
