@@ -9,6 +9,7 @@
 - `2025.09.16` [`IT기업`](#it기업) > 삼성 > [Samsung AI Forum 2025 (제9회 삼성 AI 포럼)](https://youtu.be/yCcNLhoG1eo)
 - `2025.09.01` [`IT기업`](#it기업) > SK > [제9회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnTleL8HK6zFfe3pzCf6jHx)
 - `2025.08.30` [`인공지능`](#인공지능) > 모두연 > [10주년 기념 세미나](https://youtu.be/pMeJOrmYCIw?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2025.08.29` [`IT기업`](#it기업) > 당근 > [2025 당근 GCP 밋업](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -56,6 +57,7 @@
   - 당근 SRE 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) - 2023.06.15
   - 당근 SERVER 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) - 2023.10.28
   - 당근 ML 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) - 2024.05.10
+  - ✨ 당근 GCP 밋업 - [2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf) - 2025.08.29
 
 - 토스
   - [SLASH](https://toss.im/slash-24) - [21, 22, 23, 24](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2024.09.12
