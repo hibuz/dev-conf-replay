@@ -8,6 +8,7 @@
 - `2025.09.23~24` [`IT기업`](#it기업) > 카카오 > if(kakao)25 [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwG1H81qHrjc05sj75cGa1fi), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGaTnz0fR4Zb817vVCh6T2_)
 - `2025.09.16` [`인공지능`](#인공지능) > 모두연 > [VLA(Vision-Language-Action) 모델의 진화와 로봇 지능의 미래](https://youtu.be/YNI6c76Xu9I?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2025.09.16` [`IT기업`](#it기업) > 삼성 > [Samsung AI Forum 2025 (제9회 삼성 AI 포럼)](https://youtu.be/yCcNLhoG1eo)
+- `2025.09.11` [`IT기업`](#it기업) > 삼성SDS > [REAL Summit 2025](https://www.youtube.com/@SAMSUNGSDS/playlists)
 - `2025.09.01` [`IT기업`](#it기업) > SK > [제9회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnTleL8HK6zFfe3pzCf6jHx)
 - `2025.08.29` [`IT기업`](#it기업) > 당근 > [2025 당근 GCP 밋업](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf)
 
@@ -72,7 +73,7 @@
   - Industry Day - [2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2eAlFDkPx6QW75adjFvVEZG) - 2025.04.16
   - Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19 
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
-  - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) - 2024.09.03
+  - ✨ REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) | [2025](https://www.youtube.com/@SAMSUNGSDS/playlists)- 2025.09.11
   - 첼로스퀘어 컨퍼런스 - [2023,2024,2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl) - 2025.03.26
 
 - SK
