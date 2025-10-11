@@ -64,7 +64,7 @@
 
 - 토스
   - [SLASH](https://toss.im/slash-24) - [21, 22, 23, 24](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2024.09.12
-  - Simplicity(토스 디자인 컨퍼런스) - [21, 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) | [24](https://toss.im/simplicity-24) - 2024.11.11
+  - Simplicity(토스 디자인 컨퍼런스) - [21, 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) | [24](https://toss.im/simplicity-24) | [25](https://toss.im/simplicity) - 2025.04.28
   - [10to100 / SQUARE of TOSS](https://www.youtube.com/playlist?list=PL1DJtS1Hv1Pib-Nup1ITbL6QMVr2p_hr5) - 2025.02.26
 
 - 삼성
