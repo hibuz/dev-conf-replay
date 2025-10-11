@@ -197,7 +197,7 @@
 
 - 기타
   - 쉐어드IT > [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
-  - 과학기술정보통신부 > Open Cloud Platform Summit - [2022](https://www.youtube.com/playlist?list=PL-AoIAa-OgNnym3kkTmIlko53smWH4L0p) | [2023](https://www.youtube.com/playlist?list=PL-AoIAa-OgNla-rPexcg9WpEntQ9fPKDD) - 2023.07.12
+  - 과학기술정보통신부 > Open Cloud Platform Summit - [2022](https://www.youtube.com/playlist?list=PL-AoIAa-OgNnym3kkTmIlko53smWH4L0p) | [2023](https://www.youtube.com/playlist?list=PL-AoIAa-OgNla-rPexcg9WpEntQ9fPKDD) | [2024](https://www.youtube.com/playlist?list=PL-AoIAa-OgNl7sO80Yhk1QIv3DhIQ0vxz) - 2024.07.03
   - 스마트클라우드쇼2021 - [1일차](https://youtu.be/Y335QzGRz1U) | [2일차](https://youtu.be/Itk2Wy3oiKE) - 2021.09.28~29
   - 지티플러스 > Get Tech Day [2021](https://www.youtube.com/playlist?list=PLM48rFX5FOnbMQyAZZIGItYhax_B9REC8) | [2022](https://www.youtube.com/playlist?list=PLM48rFX5FOnYZVXnxF49sBtCJCLkDCDo3) - 2022.12.15
   - [한국 Azure 사용자 그룹](https://www.facebook.com/groups/krazure) > [GAV2020KR](https://www.youtube.com/playlist?list=PLFbmOoKZ852WRZkFql8Gv1U-CNX_WRHen) | [Global Azure 2021 Korea](https://www.youtube.com/playlist?list=PLFbmOoKZ852XZ41ODzJqlzB-8sq7VQt0j) - 2021.04.24
