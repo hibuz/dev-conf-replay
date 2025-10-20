@@ -12,6 +12,7 @@
 - `2025.09.11` [`IT기업`](#it기업) > 삼성SDS > [REAL Summit 2025](https://www.youtube.com/@SAMSUNGSDS/playlists)
 - `2025.09.01` [`IT기업`](#it기업) > SK > [제9회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnTleL8HK6zFfe3pzCf6jHx)
 - `2025.08.29` [`IT기업`](#it기업) > 당근 > [2025 당근 GCP 밋업](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf)
+- `2025.08.26` [`인프라 & 데브옵스`](#인프라--데브옵스) > OpenStack Korea Group > [OpenInfra Days Korea 2025](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3oPDnyXZDl_cXpTEz_DiXoh) 
 - `2025.08.23` [`프론트엔드 & JS`](#프론트엔드--js) > FEConf > 2025 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rPVUEkC6bm4FXV3SlX5nR_), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rzinAgczSLQAtxPpxCJaC4)
 
 ⚡ 바로가기
@@ -207,9 +208,9 @@
 ## 인프라 & 데브옵스
 
 - 오픈 인프라 커뮤니티
+  - ✨ OpenInfra Days Korea [2022](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rnn_p6QV-GVdgqL-ZgZnZo) | [2025](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3oPDnyXZDl_cXpTEz_DiXoh) - 2025.08.26
   - OpenInfra Community Days Korea - [2020](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rLLET-H1fS12OF0bBtOE-p) | [2021](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3o6FZNJiB10vReh_iXve6LS) | [2023](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3pIbzuNxOix9Co5pHgAU98a) - 2023.07.03~04
   - [OpenInfra Summit Asia 2024](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3ow4phkdA_ykLK6c4DCkD0K) - 2024.09.03~04
-  - [OpenInfra & Cloud Native Days Korea 2022](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rnn_p6QV-GVdgqL-ZgZnZo) - 2022.11.01
 
 - KAFKA 한국 사용자 모임 [KRU](https://www.facebook.com/groups/kafka.kru)
   - Virtual Meetup [2020](https://www.youtube.com/playlist?list=PLUc8G1CJwNG2nJgOqRESbI64C0cWU9-nx) | [2021](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3E3_q6nY2_xM9jjHx0t7bw) | [2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g) - 2022.04.14
