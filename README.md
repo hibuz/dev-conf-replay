@@ -7,13 +7,12 @@
 ✨ 신규영상
 - `2025.09.23~24` [`IT기업`](#it기업) > 카카오 > if(kakao)25 [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwG1H81qHrjc05sj75cGa1fi), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGaTnz0fR4Zb817vVCh6T2_)
 - `2025.09.23` [`커뮤니티`](#커뮤니티) > KRUG Serverless 소모임 > [Amazon DSQL 정리 및 활용](https://www.youtube.com/playlist?list=PLX2fs3661XpORuuIS4XG_-HEFs0iQuTw6)
+- `2025.09.16` [`보안`](#보안) > 데일리시큐 > [KCSCON 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN6ytxZDx7_L1A3hiPLF2nn)
 - `2025.09.16` [`인공지능`](#인공지능) > 모두연 > [VLA(Vision-Language-Action) 모델의 진화와 로봇 지능의 미래](https://youtu.be/YNI6c76Xu9I?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2025.09.16` [`IT기업`](#it기업) > 삼성 > [Samsung AI Forum 2025 (제9회 삼성 AI 포럼)](https://youtu.be/yCcNLhoG1eo)
 - `2025.09.11` [`IT기업`](#it기업) > 삼성SDS > [REAL Summit 2025](https://www.youtube.com/@SAMSUNGSDS/playlists)
 - `2025.09.01` [`IT기업`](#it기업) > SK > [제9회 데보션(DEVOCEAN) 테크 데이](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnTleL8HK6zFfe3pzCf6jHx)
 - `2025.08.29` [`IT기업`](#it기업) > 당근 > [2025 당근 GCP 밋업](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf)
-- `2025.08.26` [`인프라 & 데브옵스`](#인프라--데브옵스) > OpenStack Korea Group > [OpenInfra Days Korea 2025](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3oPDnyXZDl_cXpTEz_DiXoh) 
-- `2025.08.23` [`프론트엔드 & JS`](#프론트엔드--js) > FEConf > 2025 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rPVUEkC6bm4FXV3SlX5nR_), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rzinAgczSLQAtxPpxCJaC4)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -208,7 +207,7 @@
 ## 인프라 & 데브옵스
 
 - 오픈 인프라 커뮤니티
-  - ✨ OpenInfra Days Korea [2022](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rnn_p6QV-GVdgqL-ZgZnZo) | [2025](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3oPDnyXZDl_cXpTEz_DiXoh) - 2025.08.26
+  - OpenInfra Days Korea [2022](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rnn_p6QV-GVdgqL-ZgZnZo) | [2025](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3oPDnyXZDl_cXpTEz_DiXoh) - 2025.08.26
   - OpenInfra Community Days Korea - [2020](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rLLET-H1fS12OF0bBtOE-p) | [2021](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3o6FZNJiB10vReh_iXve6LS) | [2023](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3pIbzuNxOix9Co5pHgAU98a) - 2023.07.03~04
   - [OpenInfra Summit Asia 2024](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3ow4phkdA_ykLK6c4DCkD0K) - 2024.09.03~04
 
@@ -279,6 +278,7 @@
   - 개발자 컨퍼런스 STICK [2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) | [2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq) - 2023.11.01
 
 - 데일리시큐
+  - ✨ [KCSCON 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN6ytxZDx7_L1A3hiPLF2nn), [MPIS 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP6l7KjcdmvLfQSIcEKQ3bl), [KCTI 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfODj3ZlrL-6AocfCelcggK7), [ISDP 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNqClj2Qx7xqs-J109n9tUK) - 2025.09.16
   - PASCON - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) | [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ) | [2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNKhBpVchfc4vUM4-SeM88W) - 2024.09.10
   - G-PRIVACY [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) | [2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP17wTtDtyigcT8imLIk9hU) - 2024.03.12
 
@@ -315,7 +315,7 @@
 ## 프론트엔드 & JS
 
 - 프론트엔드 개발자 컨퍼런스 
-  - ✨ FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) | 2022 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pajnfobtWKCU9XH3zNNT-v), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pl7L0FZW2XMg7fE3nZAJk3) | 2023 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ) | 2024 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p9OOlEHtFy8Qp-1ECOH49Q), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98opIA5HS7eH5w-VYAswMWvc) | 2025 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rPVUEkC6bm4FXV3SlX5nR_), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rzinAgczSLQAtxPpxCJaC4) - 2025.08.23
+  - FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) | 2022 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pajnfobtWKCU9XH3zNNT-v), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pl7L0FZW2XMg7fE3nZAJk3) | 2023 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ) | 2024 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p9OOlEHtFy8Qp-1ECOH49Q), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98opIA5HS7eH5w-VYAswMWvc) | 2025 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rPVUEkC6bm4FXV3SlX5nR_), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rzinAgczSLQAtxPpxCJaC4) - 2025.08.23
 
 - 자바스크립트 컨퍼런스 
   - [JSConf Korea](https://jsconf.kr) - [2020 Home Edition](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm) | [2022](https://www.youtube.com/playlist?list=PL37ZVnwpeshH7y4tbeYslJ5MN1JvyYEks) - 2022.09.16~17
