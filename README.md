@@ -14,6 +14,7 @@
 - `2025.09.16` [`IT기업`](#it기업) > 삼성 > [Samsung AI Forum 2025 (제9회 삼성 AI 포럼)](https://youtu.be/yCcNLhoG1eo)
 - `2025.09.11` [`IT기업`](#it기업) > 삼성SDS > [REAL Summit 2025](https://www.youtube.com/@SAMSUNGSDS/playlists)
 - `2025.09.10` [`커뮤니티`](#커뮤니티) > AWSKRUG 프론트엔드 소모임 > [Next.js 생명주기 디버깅으로 눈으로 확인하기](https://youtu.be/fMwOFNNhMwo?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw)
+- `2025.09.09` [`블록체인`](#블록체인) > 업비트 > [UDC 2025](https://www.youtube.com/playlist?list=PLyONEtYCZLWXf-wtMEe6cLKOUOxRgp20S)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -233,7 +234,7 @@
 ## 블록체인
 
 - 업비트 
-  - UDC - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) | [2022](https://www.youtube.com/playlist?list=PLyONEtYCZLWXqxJ3IbXz3PJ8Uc3ZHkmP6) | [2023](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65) | [2024](https://www.youtube.com/playlist?list=PLyONEtYCZLWXMtCLxwTVvVqtyiuJOPk7f) - 2024.11.14
+  - ✨ UDC - [2020](https://www.youtube.com/playlist?list=PLyONEtYCZLWXsfYZJlp4r5doQflsIEYcZ) | [2021](https://www.youtube.com/playlist?list=PLyONEtYCZLWU7nxtYgVxNJVgtTnFFeQ77) | [2022](https://www.youtube.com/playlist?list=PLyONEtYCZLWXqxJ3IbXz3PJ8Uc3ZHkmP6) | [2023](https://www.youtube.com/playlist?list=PLyONEtYCZLWWAct203e-Dm1_fC3Ebgu65) | [2024](https://www.youtube.com/playlist?list=PLyONEtYCZLWXMtCLxwTVvVqtyiuJOPk7f) | [2025](https://www.youtube.com/playlist?list=PLyONEtYCZLWXf-wtMEe6cLKOUOxRgp20S) - 2025.09.09
   - [DCON 2023](https://www.youtube.com/playlist?list=PLjziuUtwQOz1n1GLizGeUOquf5rNdZAlx) - 2023.03.16
 
 - 람다256 
