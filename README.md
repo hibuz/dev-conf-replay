@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2025.10.21` [`오픈소스`](#오픈소스) > ETRI > [오픈소스 테크데이 2025](https://youtu.be/Yv91dmLLAJQ?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
 - `2025.09.23~25` [`IT기업`](#it기업) > LG > [LG SDC 2025](https://www.youtube.com/playlist?list=PLgqm0A83muLOH2h4bAkokMjt9ksE2Kp4d)
 - `2025.09.23~24` [`IT기업`](#it기업) > 카카오 > if(kakao)25 [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwG1H81qHrjc05sj75cGa1fi), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGaTnz0fR4Zb817vVCh6T2_)
 - `2025.09.23` [`커뮤니티`](#커뮤니티) > AWSKRUG Serverless 소모임 > [Amazon DSQL 정리 및 활용](https://www.youtube.com/playlist?list=PLX2fs3661XpORuuIS4XG_-HEFs0iQuTw6)
@@ -366,7 +367,7 @@
   - [제9회 한국 커뮤니티 데이 - KCD 2020](https://www.youtube.com/watch?v=Scj3YCVPsAU&list=PL8MaVgZDhGk9CYn_IkRkgnN1R7kpE582A&index=7) - 2020.11.07
 
 - 한국전자통신연구원
-  - [EOST(ETRI 오픈소스 테크데이)](https://eostday.kr) - [2020 | 2021 | 2022 | 2023 | 2024](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) - 2024.10.15
+  - ✨ [EOST(ETRI 오픈소스 테크데이)](https://ostday.kr) - [2020 | 2021 | 2022 | 2023 | 2024 | 2025](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) - 2025.10.21
 
 
 ## 교육
