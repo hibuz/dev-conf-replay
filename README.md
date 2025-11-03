@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2025.10.21` [`오픈소스`](#오픈소스) > ETRI > [오픈소스 테크데이 2025](https://youtu.be/Yv91dmLLAJQ?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
+- `2025.09.24` [`클라우드`](#클라우드) > 한국클라우드산업협회 > [클라우드 빅 테크 2025](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C/videos)
 - `2025.09.23~25` [`IT기업`](#it기업) > LG > [LG SDC 2025](https://www.youtube.com/playlist?list=PLgqm0A83muLOH2h4bAkokMjt9ksE2Kp4d)
 - `2025.09.23~24` [`IT기업`](#it기업) > 카카오 > if(kakao)25 [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwG1H81qHrjc05sj75cGa1fi), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGaTnz0fR4Zb817vVCh6T2_)
 - `2025.09.23` [`커뮤니티`](#커뮤니티) > AWSKRUG Serverless 소모임 > [Amazon DSQL 정리 및 활용](https://www.youtube.com/playlist?list=PLX2fs3661XpORuuIS4XG_-HEFs0iQuTw6)
@@ -197,8 +198,8 @@
   - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN) - 2020.10.29
 
 - 한국클라우드산업협회
-  - Cloud Big Tech [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsxbvg9fDerqhml2vihjwpi1) - 2024.09.25
-  - K-AI PaaS Summit [2023](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsy9W9brboA6kjo0Ecv34mqO) | [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9DsyOZSs2-eYqnzC_eBrgTdJw) - 2024.06.19
+  - ✨  Cloud Big Tech [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsxbvg9fDerqhml2vihjwpi1) | [2025](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C/videos) - 2025.09.24
+  - K-AI PaaS Summit [2023](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsy9W9brboA6kjo0Ecv34mqO) | [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9DsyOZSs2-eYqnzC_eBrgTdJw) | [2025](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C/videos)- 2025.06.19
 
 - 기타
   - 쉐어드IT > [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
