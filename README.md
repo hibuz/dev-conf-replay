@@ -417,6 +417,10 @@
 - 티맥스
   - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) | [SuperApp Day 2024](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5vCsL3rvEKnkCtNx8s_Vb4v) - 2024.06.13
 
+- 채널톡
+  - 채널콘 - [2024 하이라이트](https://www.youtube.com/playlist?list=PLqnJCqbBpji9YGwViD_r8OFPDFdwzWjKG) - 2024.04.03
+  - 채널데브톡 - [2025](https://www.youtube.com/playlist?list=PLqnJCqbBpji-wszxC656YIkTnFSx8ckjW) - 2025.06.29
+
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - 노코드·로우코드(NCLC) 자동화 임팩트 - [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56KqHjfLS9iYcp2rHFCPpSutT) | [2024](https://www.youtube.com/playlist?list=PLumdCu9Q56KpO8eX5H022LmNmXoiKzYm5) - 2024.01.30
   - [디지털 트랜스포메이션(DX) & 엔터프라이즈 테크 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpbQr_bUOe9jdHSERpA240H) - 2022.03.25
