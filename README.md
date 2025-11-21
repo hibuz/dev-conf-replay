@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2025.11.06~07` [`IT기업`](#it기업) > 네이버 > [팀네이버 컨퍼런스 DAN 25](https://www.youtube.com/playlist?list=PLCct9_ckBx7-ZsGXBneookwydQNrjO1PW) 
 - `2025.11.06` [`IT기업`](#it기업) > 삼성 > [삼성 테크 콘퍼런스(STC) 2025](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLFfWkWgGcQIUkuz0zJKDrjc)
+- `2025.11.03~04` [`IT기업`](#it기업) > SK > [SK AI Summit 2025](https://www.youtube.com/@skaisummit2025/playlists)
 - `2025.10.21` [`오픈소스`](#오픈소스) > ETRI > [오픈소스 테크데이 2025](https://youtu.be/Yv91dmLLAJQ?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
 - `2025.09.24` [`클라우드`](#클라우드) > 한국클라우드산업협회 > [클라우드 빅 테크 2025](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C/videos)
 - `2025.09.23~25` [`IT기업`](#it기업) > LG > [LG SDC 2025](https://www.youtube.com/playlist?list=PLgqm0A83muLOH2h4bAkokMjt9ksE2Kp4d)
@@ -68,7 +69,7 @@
   - [10to100 / SQUARE of TOSS](https://www.youtube.com/playlist?list=PL1DJtS1Hv1Pib-Nup1ITbL6QMVr2p_hr5) - 2025.02.26
 
 - 삼성
-  - ✨ 삼성 테크 콘퍼런스(STC) - [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGnw4zvROueF35lGYabMFoe) | [2025](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLFfWkWgGcQIUkuz0zJKDrjc) - 2024.11.21
+  - ✨ 삼성 테크 콘퍼런스(STC) - [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGnw4zvROueF35lGYabMFoe) | [2025](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLFfWkWgGcQIUkuz0zJKDrjc) - 2025.11.06
   - Samsung AI Forum(SAIF) - [2025 제9회 삼성 AI 포럼](https://youtu.be/yCcNLhoG1eo) - 2025.09.16
 
 - 삼성SDS
@@ -79,7 +80,7 @@
   - 첼로스퀘어 컨퍼런스 - [2023,2024,2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl) - 2025.03.26
 
 - SK
-  - SK ICT Tech Summit - [2022, 2023, 2024](https://www.youtube.com/@skaisummit2025/playlists) - 2024.11.04~05
+  - ✨ SK AI Summit - [2022, 2023, 2024, 2025](https://www.youtube.com/@skaisummit2025/playlists) | - 2025.11.03~04
   - [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2024.09.26
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) | [제6회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnprE1pHCMhs6diWZwvp_zQ) | [제7회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkfWRiOVpj43ZCk-1624KTV) | [제8회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkP5d_-1U0HZPFDsX1yVPP1) | [제9회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnTleL8HK6zFfe3pzCf6jHx) - 2025.09.01
 
