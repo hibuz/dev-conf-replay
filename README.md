@@ -9,6 +9,7 @@
 - `2025.11.06` [`IT기업`](#it기업) > 삼성 > [삼성 테크 콘퍼런스(STC) 2025](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLFfWkWgGcQIUkuz0zJKDrjc)
 - `2025.11.03~04` [`IT기업`](#it기업) > SK > [SK AI Summit 2025](https://www.youtube.com/@skaisummit2025/playlists)
 - `2025.10.21` [`오픈소스`](#오픈소스) > ETRI > [오픈소스 테크데이 2025](https://youtu.be/Yv91dmLLAJQ?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
+- `2025.09.24` [`인공지능`](#인공지능) > 래블업 > [Lablup Conf 5th](https://www.youtube.com/playlist?list=PLYkiFpaI5DIKFF-RBMz_8XFQyQFKOnfcX)
 - `2025.09.24` [`클라우드`](#클라우드) > 한국클라우드산업협회 > [클라우드 빅 테크 2025](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C/videos)
 - `2025.09.23~25` [`IT기업`](#it기업) > LG > [LG SDC 2025](https://www.youtube.com/playlist?list=PLgqm0A83muLOH2h4bAkokMjt9ksE2Kp4d)
 - `2025.09.23~24` [`IT기업`](#it기업) > 카카오 > if(kakao)25 [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwG1H81qHrjc05sj75cGa1fi), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGaTnz0fR4Zb817vVCh6T2_)
@@ -102,11 +103,11 @@
 
 - 모두의 연구소
   - 모두콘 - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) | [2024](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJYYhfeFdQv9JanN_tG-F5y) - 2024.12.15
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2025.09.16
+  - [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2025.09.16
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 래블업
-  - Lablup conf [1st](https://www.youtube.com/playlist?list=PLYkiFpaI5DIJEfSxXJRhiF_bQF6u9KFLb) | [2nd](https://www.youtube.com/playlist?list=PLYkiFpaI5DILsreVr61Jw2Jgjf3BoCZGV) | [3rd](https://www.youtube.com/playlist?list=PLYkiFpaI5DIKZF61XDM2ENBDyPvwVhNnB) | [4th](https://www.youtube.com/playlist?list=PLYkiFpaI5DIKplrb3L9OqBQ8awIEncO8U) - 2024.09.24
+  - ✨ Lablup conf [1st](https://www.youtube.com/playlist?list=PLYkiFpaI5DIJEfSxXJRhiF_bQF6u9KFLb) | [2nd](https://www.youtube.com/playlist?list=PLYkiFpaI5DILsreVr61Jw2Jgjf3BoCZGV) | [3rd](https://www.youtube.com/playlist?list=PLYkiFpaI5DIKZF61XDM2ENBDyPvwVhNnB) | [4th](https://www.youtube.com/playlist?list=PLYkiFpaI5DIKplrb3L9OqBQ8awIEncO8U) | [5th](https://www.youtube.com/playlist?list=PLYkiFpaI5DIKFF-RBMz_8XFQyQFKOnfcX) - 2025.09.24
 
 - 솔트룩스
   - 솔트룩스 인공지능 컨퍼런스(SAC) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2022](https://youtu.be/D5fOutPofgk?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2023](https://youtu.be/V_7xw0Nr5CE?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2024](https://youtu.be/rdiAezq8ZFA?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2025](https://youtu.be/GorRTrf0yjo?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) - 2025.05.29
