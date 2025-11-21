@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2025.11.06~07` [`IT기업`](#it기업) > 네이버 > [팀네이버 컨퍼런스 DAN 25](https://www.youtube.com/playlist?list=PLCct9_ckBx7-ZsGXBneookwydQNrjO1PW) 
+- `2025.11.06` [`IT기업`](#it기업) > 삼성 > [삼성 테크 콘퍼런스(STC) 2025](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLFfWkWgGcQIUkuz0zJKDrjc)
 - `2025.10.21` [`오픈소스`](#오픈소스) > ETRI > [오픈소스 테크데이 2025](https://youtu.be/Yv91dmLLAJQ?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
 - `2025.09.24` [`클라우드`](#클라우드) > 한국클라우드산업협회 > [클라우드 빅 테크 2025](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C/videos)
 - `2025.09.23~25` [`IT기업`](#it기업) > LG > [LG SDC 2025](https://www.youtube.com/playlist?list=PLgqm0A83muLOH2h4bAkokMjt9ksE2Kp4d)
@@ -67,7 +68,7 @@
   - [10to100 / SQUARE of TOSS](https://www.youtube.com/playlist?list=PL1DJtS1Hv1Pib-Nup1ITbL6QMVr2p_hr5) - 2025.02.26
 
 - 삼성
-  - SDC Korea - [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGnw4zvROueF35lGYabMFoe) - 2024.11.21
+  - ✨ 삼성 테크 콘퍼런스(STC) - [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGnw4zvROueF35lGYabMFoe) | [2025](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLFfWkWgGcQIUkuz0zJKDrjc) - 2024.11.21
   - Samsung AI Forum(SAIF) - [2025 제9회 삼성 AI 포럼](https://youtu.be/yCcNLhoG1eo) - 2025.09.16
 
 - 삼성SDS
