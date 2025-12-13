@@ -342,6 +342,7 @@
 - 닷넷 개발자 커뮤니티 [닷넷데브](https://www.dotnetconf.kr)
   - .NET Conf - [2021](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOtgZYZ4d77HcyjhcQ9iW4z) | [2022 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPwyL4bR0vL4pwVDf321443) | [2023 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOaTF5bMD0m_7ms9rfmndX4) | [2024 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaNapfx69uag1Z6KePIbHGfA) | [2025 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOQeXVFh9DK6pOzXRE_Wqe1) - 2025.01.09
   - .NET Conf Mini - [21.04](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMfdN1Q7rqFKa7ZWeW9O6k6), [21.08](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOZVfHgT3IPQvk5uW2nzK3e) | [22.05](https://youtu.be/W95lo-337Q8), [22.09](https://youtu.be/Z6Z3qgHYaOg) | [L!VE 2023 Fall](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPdlmQk0TjxxLyD7ND9Ws-g) - 2023.10.19
+  - .NET Universe - [CloudBro Edition](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMXZZKHwWXa0bdrEQAGZsre) - 2025.09.04
 
 - Flutter Korea
   - [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
