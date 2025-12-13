@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2025.12.05` [`기타`](#기타) > 중소벤처기업부 > [COMEUP 2025 GLOBAL STARTUP FESTIVAL](https://youtu.be/40Xde61yCUQ?list=PLsMvFa5OyB8RfV0pITV19_hlbjOa8VTfV)
 - `2025.12.04` [`인공지능`](#인공지능) > 모두팝 > [양자컴퓨터를 활용한 AI 서비스와 글로벌 사례 with 노르마](https://youtu.be/bssk7xeM9QM?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2025.11.30` [`커뮤니티`](#커뮤니티) > Python Korea > [PyAI Symposium 2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn06pGP-TB5pGFYPwgBUpRv)
 - `2025.11.30` [`IT기업`](#it기업) > 당근 > [당근 PLATFORM 밋업 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq)
@@ -448,17 +449,7 @@
   - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) | [2023](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGFE41jnRQc5mB56qKGgUPy) | [2024](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGC40ULiWZ3kYfjrpgze-Au) - 2024.11.14
   - 스타트업 생태계 컨퍼런스 - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEeeXhCP_nm12shamr3FC-N) - 2025.05.22~23
 
-- [피로그래밍](https://pirogramming.com)
-  - [2022 겨울 피로컨퍼런스](https://www.youtube.com/playlist?list=PLslwDteUjPslzKLhryKb5IIaRg4fCz6Fw) - 2022.02.17~18
-
-- 디지털투데이 웨비나
-  - [Digital Today TV Live](https://www.youtube.com/playlist?list=PL28NueUz2IV-5FCDu8X0eHRwPOXtxXPXA) - 2022.05.26
-
-- Agile Korea
-  - [AKC](https://www.facebook.com/AgileKoreaConference) - [2020](https://www.youtube.com/playlist?list=PLqLyqFSqvAE5ZmYBRsAaHIwfCKRBRaYqy) | [2021](https://www.youtube.com/playlist?list=PLqLyqFSqvAE4nquOU5p5-eeoxfkdZK5Th) - 2021.12.09
-
-- 한빛미디어
-  - [데브그라운드 2019](https://www.youtube.com/playlist?list=PLVsNizTWUw7HxXDshrgEr5eeHf2cqjtqA) | [데브그라운드 주니어 2019](https://www.youtube.com/playlist?list=PLVsNizTWUw7EOvb0_pJ94NZRnScD0jpzI) - 2019.12.13
+- ✨ [COMEUP (스타트업 페스티벌)](https://www.youtube.com/@COMEUP_org/playlists) - 2025.12.10~12
 
 
 ## 추가리소스
