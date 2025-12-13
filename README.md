@@ -284,7 +284,7 @@
   - G-PRIVACY [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) | [2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP17wTtDtyigcT8imLIk9hU) - 2024.03.12
 
 - 안랩(AhnLab)
-  - ISF - [2020, 2021, 2022, 2023, 2024](https://www.youtube.com/playlist?list=PLcETc5mLmNrVRS9Vrpa0z-b8DPCK2LWSf) - 2024.09.26
+  - ISF - [2020, 2021, 2022, 2023, 2024, 2025](https://www.youtube.com/playlist?list=PLcETc5mLmNrVRS9Vrpa0z-b8DPCK2LWSf) - 2025.09.11
 
 - 코드엔진
   - CodeEngn Conference - [2021](https://www.youtube.com/playlist?list=PLscYqoBID5Z4G_YQKUGP_ZioNF7BNCKdX) | [2022](https://www.youtube.com/playlist?list=PLscYqoBID5Z5XYI_eC_FoNOxTegKuKoR2) | [2023](https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv) | [2024](https://www.youtube.com/playlist?list=PLscYqoBID5Z5WVjsujSnEWpao4KbGA_7W) | [2025](https://www.youtube.com/playlist?list=PLscYqoBID5Z7HnxEh_aZ02K5zRtQNtHbH) - 2025.07.05
