@@ -14,6 +14,7 @@
 - `2025.11.04~05` [`오픈소스`](#오픈소스) > The Linux Foundation > [Open Source Summit Korea 2025](https://www.youtube.com/playlist?list=PLbzoR-pLrL6qlU90MjLsXfvNaG25PWEX_)
 - `2025.11.03~04` [`IT기업`](#it기업) > SK > [SK AI Summit 2025](https://www.youtube.com/@skaisummit2025/playlists)
 - `2025.10.28` [`IT기업`](#it기업) > 우아한형제들 > [우아콘 2025](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuPhUGHTe1oFkWJDu3u6-Si)
+- `2025.10.24` [`인프라 & 데브옵스`](#인프라--데브옵스) > 데이터독 > [Datadog Summit Seoul 2025](https://www.youtube.com/playlist?list=PLtoDdE_CaqrSBNBzGBxoAy2YGrr0gpaSt)
 - `2025.10.21` [`오픈소스`](#오픈소스) > ETRI > [오픈소스 테크데이 2025](https://youtu.be/Yv91dmLLAJQ?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr)
 
 ⚡ 바로가기
@@ -218,7 +219,7 @@
   - Virtual Meetup [2020](https://www.youtube.com/playlist?list=PLUc8G1CJwNG2nJgOqRESbI64C0cWU9-nx) | [2021](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3E3_q6nY2_xM9jjHx0t7bw) | [2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g) - 2022.04.14
 
 - Datadog Korea
-  - [Virtual Summit 2020](https://www.youtube.com/playlist?list=PLtoDdE_CaqrQVY5iuha4xGMK6smnLfgi4) | [DASH 2023](https://www.youtube.com/playlist?list=PLtoDdE_CaqrT9r7VwpELbzl6acIuxzc3w) | [Observability Day 2023](https://www.youtube.com/playlist?list=PLtoDdE_CaqrS55NBKZ4ds0jbF0foKone9) - 2023.10.13
+  - ✨ [Virtual Summit 2020](https://www.youtube.com/playlist?list=PLtoDdE_CaqrQVY5iuha4xGMK6smnLfgi4) | [DASH 2023](https://www.youtube.com/playlist?list=PLtoDdE_CaqrT9r7VwpELbzl6acIuxzc3w) | [Observability Day 2023](https://www.youtube.com/playlist?list=PLtoDdE_CaqrS55NBKZ4ds0jbF0foKone9) | [Summit Seoul 2025](https://www.youtube.com/playlist?list=PLtoDdE_CaqrSBNBzGBxoAy2YGrr0gpaSt) - 2025.10.24
   - [Datadog 웨비나 시리즈](https://www.youtube.com/playlist?list=PLtoDdE_CaqrR9hMYN40ms_4_k_rNz0ro2) - 2025.02.21
 
 - HashCorp
