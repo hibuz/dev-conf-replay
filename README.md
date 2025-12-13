@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2025.11.30` [`커뮤니티`](#커뮤니티) > Python Korea > [PyAI Symposium 2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn06pGP-TB5pGFYPwgBUpRv)
 - `2025.11.06~07` [`IT기업`](#it기업) > 네이버 > [팀네이버 컨퍼런스 DAN 25](https://www.youtube.com/playlist?list=PLCct9_ckBx7-ZsGXBneookwydQNrjO1PW)
 - `2025.11.06` [`IT기업`](#it기업) > 삼성 > [삼성 테크 콘퍼런스(STC) 2025](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLFfWkWgGcQIUkuz0zJKDrjc)
 - `2025.11.03~04` [`IT기업`](#it기업) > SK > [SK AI Summit 2025](https://www.youtube.com/@skaisummit2025/playlists)
@@ -328,6 +329,7 @@
 
 - 파이콘 한국
   - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) | [2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRnlqQwMj-WNlrsac7yTiVhk) | [2023](https://www.youtube.com/playlist?list=PLZPhyNeJvHRllQiXsJAryqWmqWrwFxY8I) | [2024](https://www.youtube.com/playlist?list=PLZPhyNeJvHRldfheI6KcgektEiXAIPJaY) - 2024.10.26~27
+  - ✨ PyAI Symposium - [2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn06pGP-TB5pGFYPwgBUpRv) - 2025.11.30
 
 - 한국 스프링 사용자 모임
   - [KSUG](https://www.ksug.org) - [2021 Webinar](https://www.youtube.com/playlist?list=PLn0dGEB80JNQLm7-af9X6Yqx1oBK8YXSm) - 2021.04.30
