@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2025.11.30` [`커뮤니티`](#커뮤니티) > Python Korea > [PyAI Symposium 2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn06pGP-TB5pGFYPwgBUpRv)
+- `2025.11.30` [`IT기업`](#it기업) > 당근 > [당근 PLATFORM 밋업 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq)
 - `2025.11.06~07` [`IT기업`](#it기업) > 네이버 > [팀네이버 컨퍼런스 DAN 25](https://www.youtube.com/playlist?list=PLCct9_ckBx7-ZsGXBneookwydQNrjO1PW)
 - `2025.11.06` [`IT기업`](#it기업) > 삼성 > [삼성 테크 콘퍼런스(STC) 2025](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLFfWkWgGcQIUkuz0zJKDrjc)
 - `2025.11.03~04` [`IT기업`](#it기업) > SK > [SK AI Summit 2025](https://www.youtube.com/@skaisummit2025/playlists)
@@ -59,6 +60,7 @@
   - 당근 SERVER 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) - 2023.10.28
   - 당근 ML 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) - 2024.05.10
   - 당근 GCP 밋업 - [2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf) - 2025.08.29
+  - ✨ 당근 PLATFORM 밋업 - [2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq) - 2025.11.07
 
 - 토스
   - Toss Makers Conference - TMC25 [Engineering Day](https://www.youtube.com/playlist?list=PL-245_cWUfl9K4rVaVWpXziiH9LziJuXS), [Design Day](https://www.youtube.com/playlist?list=PL-245_cWUfl97xgOorkH8J8svLolZw1Ap), [Product Day](https://www.youtube.com/playlist?list=PL-245_cWUfl98ZlF6xAZDVFc8HP33GJA5) - 2025.07.23~25
