@@ -6,7 +6,6 @@
 
 ✨ 신규영상
 - `2025.12.13` [`인공지능`](#인공지능) > 모두의연구소 > [모두콘 2025 | From AI to Infinity](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKS9QAzOD9GmGFVY8ViphRG)
-- `2025.12.05` [`기타`](#기타) > 중소벤처기업부 > [COMEUP 2025 GLOBAL STARTUP FESTIVAL](https://youtu.be/40Xde61yCUQ?list=PLsMvFa5OyB8RfV0pITV19_hlbjOa8VTfV)
 - `2025.12.04` [`인공지능`](#인공지능) > 모두의연구소 > [모두팝-양자컴퓨터를 활용한 AI 서비스와 글로벌 사례 with 노르마](https://youtu.be/bssk7xeM9QM?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2025.11.30` [`커뮤니티`](#커뮤니티) > Python Korea > [PyAI Symposium 2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn06pGP-TB5pGFYPwgBUpRv)
 - `2025.11.30` [`IT기업`](#it기업) > 당근 > [당근 PLATFORM 밋업 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq)
@@ -52,7 +51,7 @@
   - [개발자 밋업](https://www.youtube.com/playlist?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC) - 2023.02.23
 
 - 배달의 민족
-  - ✨ [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) | [2023](https://www.youtube.com/playlist?list=PLgXGHBqgT2TundZ81MAVHPzeYOTeII69j) | [2024](https://www.youtube.com/playlist?list=PLgXGHBqgT2Tu7H-ita_W0IHospr64ON_a) | [2025](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuPhUGHTe1oFkWJDu3u6-Si)- 2025.10.28
+  - ✨ [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) | [2023](https://www.youtube.com/playlist?list=PLgXGHBqgT2TundZ81MAVHPzeYOTeII69j) | [2024](https://www.youtube.com/playlist?list=PLgXGHBqgT2Tu7H-ita_W0IHospr64ON_a) | [2025](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuPhUGHTe1oFkWJDu3u6-Si) - 2025.10.28
   - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2024.12.17
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
@@ -448,7 +447,7 @@
   - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) | [2023](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGFE41jnRQc5mB56qKGgUPy) | [2024](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGC40ULiWZ3kYfjrpgze-Au) - 2024.11.14
   - 스타트업 생태계 컨퍼런스 - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEeeXhCP_nm12shamr3FC-N) - 2025.05.22~23
 
-- ✨ [COMEUP (스타트업 페스티벌)](https://www.youtube.com/@COMEUP_org/playlists) - 2025.12.10~12
+- [COMEUP (스타트업 페스티벌)](https://www.youtube.com/@COMEUP_org/playlists) - 2025.12.10~12
 
 
 ## 추가리소스
