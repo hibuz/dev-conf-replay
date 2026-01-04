@@ -20,17 +20,17 @@
 
 
 ## 개발관련 유튜브 채널
-- updated at `2025.09.15`
-1. `67.7만` 조코딩 JoCoding > https://www.youtube.com/@jocoding
-2. `50.1만` 노마드 코더 Nomad Coders > https://www.youtube.com/@nomadcoders
-3. `39.7만` 나도코딩 > https://www.youtube.com/@nadocoding
-4. `39.4만` 코딩애플 > https://www.youtube.com/@codingapple
-5. `34.8만` 생활코딩 > https://www.youtube.com/@coohde
-6. `16.8만` 드림코딩 > https://www.youtube.com/@dream-coding
-7. `16.8만` 동빈나 > https://www.youtube.com/@dongbinna
-8. `16.1만` 코딩하는거니 > https://www.youtube.com/@gunnycoding
-9. `14.0만` 워니코딩 > https://www.youtube.com/@WonieSong
-10. `11.5만` 얄팍한 코딩사전 > https://www.youtube.com/@yalco-coding
+- updated at `2026.01.04`
+1. `69.8만` 조코딩 JoCoding > https://www.youtube.com/@jocoding
+2. `50.0만` 노마드 코더 Nomad Coders > https://www.youtube.com/@nomadcoders
+3. `41.7만` 코딩애플 > https://www.youtube.com/@codingapple
+4. `40.1만` 나도코딩 > https://www.youtube.com/@nadocoding
+5. `34.7만` 생활코딩 > https://www.youtube.com/@coohde
+6. `16.7만` 동빈나 > https://www.youtube.com/@dongbinna
+7. `16.6만` 드림코딩 > https://www.youtube.com/@dream-coding
+8. `15.9만` 코딩하는거니 > https://www.youtube.com/@gunnycoding
+9. `13.8만` 워니코딩 > https://www.youtube.com/@WonieSong
+10. `12.0만` 얄팍한 코딩사전 > https://www.youtube.com/@yalco-coding
 
 
 ## IT기업
