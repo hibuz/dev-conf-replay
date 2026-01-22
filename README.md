@@ -9,11 +9,6 @@
 - `2025.12.04` [`인공지능`](#인공지능) > 모두의연구소 > [모두팝-양자컴퓨터를 활용한 AI 서비스와 글로벌 사례 with 노르마](https://youtu.be/bssk7xeM9QM?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2025.11.30` [`커뮤니티`](#커뮤니티) > Python Korea > [PyAI Symposium 2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn06pGP-TB5pGFYPwgBUpRv)
 - `2025.11.30` [`IT기업`](#it기업) > 당근 > [당근 PLATFORM 밋업 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq)
-- `2025.11.06~07` [`IT기업`](#it기업) > 네이버 > [팀네이버 컨퍼런스 DAN 25](https://www.youtube.com/playlist?list=PLCct9_ckBx7-ZsGXBneookwydQNrjO1PW)
-- `2025.11.06` [`IT기업`](#it기업) > 삼성 > [삼성 테크 콘퍼런스(STC) 2025](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLFfWkWgGcQIUkuz0zJKDrjc)
-- `2025.11.04~05` [`오픈소스`](#오픈소스) > The Linux Foundation > [Open Source Summit Korea 2025](https://www.youtube.com/playlist?list=PLbzoR-pLrL6qlU90MjLsXfvNaG25PWEX_)
-- `2025.11.03~04` [`IT기업`](#it기업) > SK > [SK AI Summit 2025](https://www.youtube.com/@skaisummit2025/playlists)
-- `2025.10.28` [`IT기업`](#it기업) > 우아한형제들 > [우아콘 2025](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuPhUGHTe1oFkWJDu3u6-Si)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -37,7 +32,7 @@
 
 - 네이버
   - [DEVIEW](https://deview.kr) - [2020](https://tv.naver.com/v/16968202/list/657024) | [2021](https://tv.naver.com/v/23700321/list/753227) | [2023](https://www.youtube.com/playlist?list=PLsFtzQAC8dDcQAcSG4PNrW7-0ExDZqqJA) - 2023.02.27~28
-  - ✨ 팀네이버 컨퍼런스 DAN - [24](https://www.youtube.com/playlist?list=PLCct9_ckBx797bYJTNL-U1CIfhu-HU4eN) | [25](https://www.youtube.com/playlist?list=PLCct9_ckBx7-ZsGXBneookwydQNrjO1PW) - 2025.11.06~07
+  - 팀네이버 컨퍼런스 DAN - [24](https://www.youtube.com/playlist?list=PLCct9_ckBx797bYJTNL-U1CIfhu-HU4eN) | [25](https://www.youtube.com/playlist?list=PLCct9_ckBx7-ZsGXBneookwydQNrjO1PW) - 2025.11.06~07
   - [NAVER ENGINEERING DAY](https://www.youtube.com/playlist?list=PLsFtzQAC8dDfk-KmvmagozbYtQ2Fmpmpi) - 2025.05.01
   - TECH CONCERT - [2020](https://tv.naver.com/v/15353556/list/629240) - 2020.08.19~20
   - [NAVER Search Colloquium](https://searchcolloquium.naver.com) - [2021](https://tv.naver.com/v/20307278/list/709884) | [2022](https://tv.naver.com/v/26581332/list/785512) - 2022.05.03
@@ -47,11 +42,11 @@
   - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f), [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u), [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf), [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn), [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y), [제6회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR) - 2024.06.13
 
 - 라인
-  - LINE [DEVELOPER DAY](https://linedevday.linecorp.com) - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) | [2025](https://www.youtube.com/@lycorptech_jp/playlists) - 2025.06.30~07.01
+  - LINE DEVELOPER DAY - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) | [2025](https://www.youtube.com/@lycorptech_jp/playlists) - 2025.06.30~07.01
   - [개발자 밋업](https://www.youtube.com/playlist?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC) - 2023.02.23
 
 - 배달의 민족
-  - ✨ [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) | [2023](https://www.youtube.com/playlist?list=PLgXGHBqgT2TundZ81MAVHPzeYOTeII69j) | [2024](https://www.youtube.com/playlist?list=PLgXGHBqgT2Tu7H-ita_W0IHospr64ON_a) | [2025](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuPhUGHTe1oFkWJDu3u6-Si) - 2025.10.28
+  - [우아콘](https://woowacon.com) - [2020](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuFNlBkBRqf57__Z5IKfo8U) | [2021](https://www.youtube.com/playlist?list=PLgXGHBqgT2Ttcttvjy5_4GacLPcs6iM-s) | [2022](https://youtu.be/dReFpG8aVwU?list=PLgXGHBqgT2TsFnKRe3_kvFXDFUWxaUvQ2) | [2023](https://www.youtube.com/playlist?list=PLgXGHBqgT2TundZ81MAVHPzeYOTeII69j) | [2024](https://www.youtube.com/playlist?list=PLgXGHBqgT2Tu7H-ita_W0IHospr64ON_a) | [2025](https://www.youtube.com/playlist?list=PLgXGHBqgT2TuPhUGHTe1oFkWJDu3u6-Si) - 2025.10.28
   - [우아한테크세미나: 매 월 만나는 기술 이야기](https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew) - 2024.12.17
   - [이게 무슨 일이야! 컨퍼런스](https://www.youtube.com/playlist?list=PLu6f31_SRNTiOEKsCAZxdBeWL2UyKk_Lg) - 2022.04.01
   - [우아한 PM의 밤🌙](https://www.youtube.com/playlist?list=PLu6f31_SRNTjfCd5y7aLypDTI_IKDxL-t) - 2022.07.07
@@ -71,7 +66,7 @@
   - [10to100 / SQUARE of TOSS](https://www.youtube.com/playlist?list=PL1DJtS1Hv1Pib-Nup1ITbL6QMVr2p_hr5) - 2025.02.26
 
 - 삼성
-  - ✨ 삼성 테크 콘퍼런스(STC) - [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGnw4zvROueF35lGYabMFoe) | [2025](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLFfWkWgGcQIUkuz0zJKDrjc) - 2025.11.06
+  - 삼성 테크 콘퍼런스(STC) - [2022](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEoOveKoz9vs6BA8eXuy_O8) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLEfUuYXsZMnBqtFcAIqbAk7) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGnw4zvROueF35lGYabMFoe) | [2025](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLFfWkWgGcQIUkuz0zJKDrjc) - 2025.11.06
   - Samsung AI Forum(SAIF) - [2025 제9회 삼성 AI 포럼](https://youtu.be/yCcNLhoG1eo) - 2025.09.16
 
 - 삼성SDS
@@ -82,7 +77,7 @@
   - 첼로스퀘어 컨퍼런스 - [2023,2024,2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl) - 2025.03.26
 
 - SK
-  - ✨ SK AI Summit - [2022, 2023, 2024, 2025](https://www.youtube.com/@skaisummit2025/playlists) | - 2025.11.03~04
+  - SK AI Summit - [2022, 2023, 2024, 2025](https://www.youtube.com/@skaisummit2025/playlists) | - 2025.11.03~04
   - [데보션(DEVOCEAN)](https://devocean.sk.com) - [테크 세미나](https://www.youtube.com/playlist?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS) - 2024.09.26
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) | [제6회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnprE1pHCMhs6diWZwvp_zQ) | [제7회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkfWRiOVpj43ZCk-1624KTV) | [제8회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkP5d_-1U0HZPFDsX1yVPP1) | [제9회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnTleL8HK6zFfe3pzCf6jHx) - 2025.09.01
 
@@ -177,7 +172,7 @@
 2024 - [AI/ML&Data](https://www.youtube.com/playlist?list=PLORxAVAC5fUWIgol3bPsyYQgqVo14h1lr), [앱현대화](https://www.youtube.com/playlist?list=PLORxAVAC5fUWYURd7ug2uejf1Kh9YBQl1) - 2024.09.26
   - AWS Builders 온라인 시리즈 [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5) | [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUX_OlbTijMFcH3iYfdCJrqc) | [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUU7cywJX6ilucVIhxwwfxei) | [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUWw7jkwvsCloI9qU9Hs-zHA) - 2024.01.18
   - Unicorn Day [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUViBsvUeiG8vEPGWHmTnehN) | [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUV6iiTsRWrk0NOIpEn8k5gE) | [2025](https://www.youtube.com/playlist?list=PLORxAVAC5fUUU10mOSw02F7jqwlsaCKY4) - 2025.03.18
-  - Industry Week [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUUB4TpuiUJbJHVjRiQgIhQA) - 2024.11.07
+  - Industry Week [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUUB4TpuiUJbJHVjRiQgIhQA) | [2025](https://www.youtube.com/playlist?list=PLORxAVAC5fUVpUtCRObJOqXI5Gc4oKKhE) - 2025.10.14
   - Games on AWS [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUXJK1tgrWEmwgWIZWSqNoGj) | [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUXTApC8pivE7UXpx-QmESLq) - 2023.10.24
 
 - 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
@@ -369,7 +364,7 @@
   - EOST(ETRI 오픈소스 테크데이) - [2020 | 2021 | 2022 | 2023 | 2024 | 2025](https://www.youtube.com/playlist?list=PLGvb-9I0h7UitqxaXbs0SFvooVGkvEvTr) - 2025.10.21
 
 - 기타
-  - ✨ The Linux Foundation - [Open Source Summit Korea 2025](https://www.youtube.com/playlist?list=PLbzoR-pLrL6qlU90MjLsXfvNaG25PWEX_) - 2025.11.04~05
+  - The Linux Foundation - [Open Source Summit Korea 2025](https://www.youtube.com/playlist?list=PLbzoR-pLrL6qlU90MjLsXfvNaG25PWEX_) - 2025.11.04~05
 
 ## 교육
 
