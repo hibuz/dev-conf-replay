@@ -6,6 +6,8 @@
 
 ✨ 신규영상
 - `2026.02.28` [`IT기업`](#it기업) > 삼성SDS > [Enterprise AI Connect 2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2f_dum-9EPIRXsB89HbN9aE)
+- `2026.01.27` [`인공지능`](#인공지능) > 모두팝 > [모두의 #RoboticsAI : 연구 기록부터 구현 인사이트까지](https://youtu.be/c7N0v-sOII8?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -97,7 +99,7 @@
 
 - 모두의 연구소
   - 모두콘 - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) | [2024](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJYYhfeFdQv9JanN_tG-F5y) | [2025](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKS9QAzOD9GmGFVY8ViphRG) - 2025.12.13
-  - [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2025.12.04
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2026.01.27
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 래블업
