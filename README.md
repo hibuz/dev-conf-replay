@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 - `2026.02.28` [`IT기업`](#it기업) > 삼성SDS > [Enterprise AI Connect 2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2f_dum-9EPIRXsB89HbN9aE)
+- `2026.02.05` [`보안`](#보안) > 데일리시큐 > [제14회 정보보호&데이터보안 컨퍼런스(ISDP 2026)](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMdZ2zKkKVT_rM_g4sVpX-A)
 - `2026.01.27` [`인공지능`](#인공지능) > 모두팝 > [모두의 #RoboticsAI : 연구 기록부터 구현 인사이트까지](https://youtu.be/c7N0v-sOII8?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 
 
@@ -275,7 +276,7 @@
   - 개발자 컨퍼런스 STICK [2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) | [2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq) - 2023.11.01
 
 - 데일리시큐
-  - [KCSCON 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN6ytxZDx7_L1A3hiPLF2nn), [MPIS 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP6l7KjcdmvLfQSIcEKQ3bl), [KCTI 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfODj3ZlrL-6AocfCelcggK7), [ISDP 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNqClj2Qx7xqs-J109n9tUK) - 2025.09.16
+  - ✨ [ISDP2026](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMdZ2zKkKVT_rM_g4sVpX-A), [AIS2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN4Byd22kxscjqWjlQEzusB), [KCSCON 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN6ytxZDx7_L1A3hiPLF2nn), [MPIS 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP6l7KjcdmvLfQSIcEKQ3bl), [KCTI 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfODj3ZlrL-6AocfCelcggK7), [ISDP 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNqClj2Qx7xqs-J109n9tUK) - 2026.02.05
   - PASCON - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) | [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ) | [2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNKhBpVchfc4vUM4-SeM88W) - 2024.09.10
   - G-PRIVACY [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) | [2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP17wTtDtyigcT8imLIk9hU) - 2024.03.12
 
