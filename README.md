@@ -5,10 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- `2025.12.13` [`인공지능`](#인공지능) > 모두의연구소 > [모두콘 2025 | From AI to Infinity](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKS9QAzOD9GmGFVY8ViphRG)
-- `2025.12.04` [`인공지능`](#인공지능) > 모두의연구소 > [모두팝-양자컴퓨터를 활용한 AI 서비스와 글로벌 사례 with 노르마](https://youtu.be/bssk7xeM9QM?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2025.11.30` [`커뮤니티`](#커뮤니티) > Python Korea > [PyAI Symposium 2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn06pGP-TB5pGFYPwgBUpRv)
-- `2025.11.30` [`IT기업`](#it기업) > 당근 > [당근 PLATFORM 밋업 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq)
+- `2026.02.28` [`IT기업`](#it기업) > 삼성SDS > [Enterprise AI Connect 2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2f_dum-9EPIRXsB89HbN9aE)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -57,7 +54,7 @@
   - 당근 SERVER 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) - 2023.10.28
   - 당근 ML 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) - 2024.05.10
   - 당근 GCP 밋업 - [2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf) - 2025.08.29
-  - ✨ 당근 PLATFORM 밋업 - [2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq) - 2025.11.07
+  - 당근 PLATFORM 밋업 - [2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq) - 2025.11.07
 
 - 토스
   - Toss Makers Conference - TMC25 [Engineering Day](https://www.youtube.com/playlist?list=PL-245_cWUfl9K4rVaVWpXziiH9LziJuXS), [Design Day](https://www.youtube.com/playlist?list=PL-245_cWUfl97xgOorkH8J8svLolZw1Ap), [Product Day](https://www.youtube.com/playlist?list=PL-245_cWUfl98ZlF6xAZDVFc8HP33GJA5) - 2025.07.23~25
@@ -71,10 +68,11 @@
 
 - 삼성SDS
   - Industry Day - [2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2eAlFDkPx6QW75adjFvVEZG) - 2025.04.16
-  - Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19 
+  - Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
-  - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) | [2025](https://www.youtube.com/@SAMSUNGSDS/playlists)- 2025.09.11
+  - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) | [2025](https://www.youtube.com/watch?v=kS8ChG2gEIE&list=PL5CBKg4LPW2c4jP980Zjc7tzz9xuvT8E_&index=2) - 2025.09.11
   - 첼로스퀘어 컨퍼런스 - [2023,2024,2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl) - 2025.03.26
+  - ✨ Enterprise AI Connect - [2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2f_dum-9EPIRXsB89HbN9aE) - 2026.01.28
 
 - SK
   - SK AI Summit - [2022, 2023, 2024, 2025](https://www.youtube.com/@skaisummit2025/playlists) | - 2025.11.03~04
@@ -98,8 +96,8 @@
   - LG AI Talk Concert - [2021](https://www.youtube.com/playlist?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) | [2022](https://youtu.be/pmvJK6ZNkHY?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ&t=586) | [2023](https://youtu.be/tbeGE19qIk4?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) | [2025](https://youtu.be/EGzIMo4AizA?list=PL8gIGFY2fYQSMXOINKgJBp0v_UP92-4UZ) - 2025.07.22
 
 - 모두의 연구소
-  - ✨ 모두콘 - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) | [2024](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJYYhfeFdQv9JanN_tG-F5y) | [2025](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKS9QAzOD9GmGFVY8ViphRG) - 2025.12.13
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2025.12.04
+  - 모두콘 - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) | [2024](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJYYhfeFdQv9JanN_tG-F5y) | [2025](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKS9QAzOD9GmGFVY8ViphRG) - 2025.12.13
+  - [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2025.12.04
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 래블업
@@ -324,7 +322,7 @@
 
 - 파이콘 한국
   - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) | [2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRnlqQwMj-WNlrsac7yTiVhk) | [2023](https://www.youtube.com/playlist?list=PLZPhyNeJvHRllQiXsJAryqWmqWrwFxY8I) | [2024](https://www.youtube.com/playlist?list=PLZPhyNeJvHRldfheI6KcgektEiXAIPJaY) | [2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRkVYFbIocUURt0XzlHs-r_J) - 2025.08.15~17
-  - ✨ PyAI Symposium - [2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn06pGP-TB5pGFYPwgBUpRv) - 2025.11.30
+  - PyAI Symposium - [2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn06pGP-TB5pGFYPwgBUpRv) - 2025.11.30
 
 - 한국 스프링 사용자 모임
   - [KSUG](https://www.ksug.org) - [2021 Webinar](https://www.youtube.com/playlist?list=PLn0dGEB80JNQLm7-af9X6Yqx1oBK8YXSm) - 2021.04.30
