@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2026.02.28` [`IT기업`](#it기업) > 삼성SDS > [Enterprise AI Connect 2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2f_dum-9EPIRXsB89HbN9aE)
 - `2026.02.05` [`보안`](#보안) > 데일리시큐 > [제14회 정보보호&데이터보안 컨퍼런스(ISDP 2026)](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMdZ2zKkKVT_rM_g4sVpX-A)
+- `2026.01.30` [`인공지능`](#인공지능) > 서울 AI 허브 > [AI SEOUL 2026](https://youtu.be/wYN8e2KQnDY?list=PLQjCfKL1Y72uX-SVcs2ArP2mTiL-nBXa5)
 - `2026.01.27` [`인공지능`](#인공지능) > 모두팝 > [모두의 #RoboticsAI : 연구 기록부터 구현 인사이트까지](https://youtu.be/c7N0v-sOII8?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 
 
@@ -121,7 +122,7 @@
   - 대전러닝데이 - [DLD 2022](https://www.youtube.com/playlist?list=PLudxIRsX4I3Sj6R-4INhtyNXqC0U5mFuU) - 2022.10.25
 
 - 기타
-  - 서울특별시 > [AI SEOUL 2025](https://youtu.be/CD2eB-GaU7U) - 2025.02.11
+  - ✨ 서울 AI 허브 > [AI SEOUL 2025](https://youtu.be/CD2eB-GaU7U) | [2026](https://youtu.be/wYN8e2KQnDY?list=PLQjCfKL1Y72uX-SVcs2ArP2mTiL-nBXa5) - 2026.01.30
   - [2022 Connect to Code(C2C) - 산업 환경의 디지털 전환을 위한 AI & 머신러닝](https://youtu.be/As3D_NINZ44?t=1769) - 2022.11.15
   - Deeplearning Playground 커뮤니티 > [안녕하세요 Korea, from W&B](https://youtu.be/sW3VxlJl46o) - 2022.03.26
   - 업스테이지 > [🖥 Tech Talks](https://www.youtube.com/playlist?list=PLkeKJYdfv8RLyrQ5WriBcKxMwjmc0c01T) - 2022.03.04
