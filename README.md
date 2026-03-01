@@ -5,10 +5,12 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-- `2026.02.28` [`IT기업`](#it기업) > 삼성SDS > [Enterprise AI Connect 2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2f_dum-9EPIRXsB89HbN9aE)
+
 - `2026.02.05` [`보안`](#보안) > 데일리시큐 > [제14회 정보보호&데이터보안 컨퍼런스(ISDP 2026)](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMdZ2zKkKVT_rM_g4sVpX-A)
 - `2026.01.30` [`인공지능`](#인공지능) > 서울 AI 허브 > [AI SEOUL 2026](https://youtu.be/wYN8e2KQnDY?list=PLQjCfKL1Y72uX-SVcs2ArP2mTiL-nBXa5)
+- `2026.01.28` [`IT기업`](#it기업) > 삼성SDS > [Enterprise AI Connect 2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2f_dum-9EPIRXsB89HbN9aE)
 - `2026.01.27` [`인공지능`](#인공지능) > 모두팝 > [모두의 #RoboticsAI : 연구 기록부터 구현 인사이트까지](https://youtu.be/c7N0v-sOII8?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2026.01.22` [`클라우드`](#클라우드) > 메가존 > [re:Connect 2026](https://www.youtube.com/playlist?list=PLxTkO33QtxTJu5zTrMcWLcu5FUHG7-w9n)
 
 
 ⚡ 바로가기
@@ -163,7 +165,7 @@
 
 - 메가존
   - 디지털 다카포 - [2022](https://www.youtube.com/playlist?list=PLxTkO33QtxTICeek2PbVPW_zbwZXV0hCe) | [2023](https://www.youtube.com/playlist?list=PLxTkO33QtxTJPzx9GtsJvVdfARm7Af_k7)  - 2023.01.10
-  - re:Connect [2025](https://youtu.be/ZGc1FQz0qgY?list=PLxTkO33QtxTLsDIq-PxGyB05z6RPPGCCg) - 2025.01.22
+  - re:Connect [2025](https://youtu.be/ZGc1FQz0qgY?list=PLxTkO33QtxTLsDIq-PxGyB05z6RPPGCCg) | [2026](https://www.youtube.com/playlist?list=PLxTkO33QtxTJu5zTrMcWLcu5FUHG7-w9n) - 2026.01.22
   - The ICONic ISV Conference [2025 I-CON](https://www.youtube.com/playlist?list=PLxTkO33QtxTL5q8YpTfDCDglAiwnJbYTt) - 2025.03.27
 
 - AWS
@@ -268,7 +270,7 @@
 ## 보안
 
 - Samsung Research
-  - [SSTF(Samsung Security Tech Forum)](https://research.samsung.com/sstf) - [2021](https://www.youtube.com/playlist?list=PLhpbZcOKxtO1eA3dVfatqd5bpwbGd0oXP) | [2022](https://www.youtube.com/playlist?list=PLhpbZcOKxtO0MkZ88h_y0Xs8VH2rFigWc) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLHT5-tkJtHrz0jCCQ_300tb) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGxT7KQHjQQgxETQu1Q170z) - 2024.09.10
+  - SSTF(Samsung Security Tech Forum) - [2021](https://www.youtube.com/playlist?list=PLhpbZcOKxtO1eA3dVfatqd5bpwbGd0oXP) | [2022](https://www.youtube.com/playlist?list=PLhpbZcOKxtO0MkZ88h_y0Xs8VH2rFigWc) | [2023](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLHT5-tkJtHrz0jCCQ_300tb) | [2024](https://www.youtube.com/playlist?list=PL7PfK8Mp1rLGxT7KQHjQQgxETQu1Q170z) - 2024.09.10
 
 - 소프트웨어 개발보안 컨퍼런스
   - [제11회(2021), 제12회, 제13회, 제14회(2024) 소프트웨어 개발보안 컨퍼런스](https://www.youtube.com/playlist?list=PLlFyHGHMXJU_p_288gCexBvV6tYtMtDBz) - 2024.11.06
@@ -277,7 +279,7 @@
   - 개발자 컨퍼런스 STICK [2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) | [2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq) - 2023.11.01
 
 - 데일리시큐
-  - ✨ [ISDP2026](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMdZ2zKkKVT_rM_g4sVpX-A), [AIS2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN4Byd22kxscjqWjlQEzusB), [KCSCON 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN6ytxZDx7_L1A3hiPLF2nn), [MPIS 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP6l7KjcdmvLfQSIcEKQ3bl), [KCTI 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfODj3ZlrL-6AocfCelcggK7), [ISDP 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNqClj2Qx7xqs-J109n9tUK) - 2026.02.05
+  - ✨ [AIS2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN4Byd22kxscjqWjlQEzusB), [KCSCON 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN6ytxZDx7_L1A3hiPLF2nn), [MPIS 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP6l7KjcdmvLfQSIcEKQ3bl), [KCTI 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfODj3ZlrL-6AocfCelcggK7), [ISDP 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNqClj2Qx7xqs-J109n9tUK), [ISDP2026](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMdZ2zKkKVT_rM_g4sVpX-A)  - 2026.02.05
   - PASCON - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) | [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ) | [2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNKhBpVchfc4vUM4-SeM88W) - 2024.09.10
   - G-PRIVACY [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) | [2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP17wTtDtyigcT8imLIk9hU) - 2024.03.12
 
