@@ -65,6 +65,7 @@
   - Toss Makers Conference - TMC25 [Engineering Day](https://www.youtube.com/playlist?list=PL-245_cWUfl9K4rVaVWpXziiH9LziJuXS), [Design Day](https://www.youtube.com/playlist?list=PL-245_cWUfl97xgOorkH8J8svLolZw1Ap), [Product Day](https://www.youtube.com/playlist?list=PL-245_cWUfl98ZlF6xAZDVFc8HP33GJA5) - 2025.07.23~25
   - [SLASH](https://toss.im/slash-24) - [21, 22, 23, 24](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2024.09.12
   - Simplicity(토스 디자인 컨퍼런스) - [21, 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) | [24](https://toss.im/simplicity-24) | [25](https://toss.im/simplicity) - 2025.04.28
+  - [GUARDIANS 25](https://www.youtube.com/playlist?list=PL-245_cWUfl-kQNdnn0bqox1f5iNSc65V) - 2025.11.20
   - [10to100 / SQUARE of TOSS](https://www.youtube.com/playlist?list=PL1DJtS1Hv1Pib-Nup1ITbL6QMVr2p_hr5) - 2025.02.26
 
 - 삼성
