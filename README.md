@@ -6,13 +6,11 @@
 
 ✨ 신규영상
 
+- `2026.03.12` [`인공지능`](#인공지능) > 한국인터넷진흥원 > [2026 블록체인 밋업 콘퍼런스](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK)
 - `2026.02.24` [`인공지능`](#인공지능) > 모두팝 > [모두의 추론 최적화: AI 효율성 최적화 - 실리콘부터 모델까지](https://youtu.be/hcWEvVxDYKU?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2026.02.05` [`보안`](#보안) > 데일리시큐 > [제14회 정보보호&데이터보안 컨퍼런스(ISDP 2026)](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMdZ2zKkKVT_rM_g4sVpX-A)
 - `2026.01.30` [`인공지능`](#인공지능) > 서울 AI 허브 > [AI SEOUL 2026](https://youtu.be/wYN8e2KQnDY?list=PLQjCfKL1Y72uX-SVcs2ArP2mTiL-nBXa5)
 - `2026.01.28` [`IT기업`](#it기업) > 삼성SDS > [Enterprise AI Connect 2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2f_dum-9EPIRXsB89HbN9aE)
-- `2026.01.24` [`빅데이터`](#빅데이터) > 보아즈(BOAZ) > [제 23회 빅데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bv8OryiuCxJ1OjUE6PJoD6)
-- `2026.01.22` [`클라우드`](#클라우드) > 메가존 > [re:Connect 2026](https://www.youtube.com/playlist?list=PLxTkO33QtxTJu5zTrMcWLcu5FUHG7-w9n)
-
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -141,7 +139,7 @@
   - 데이터야놀자 - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) | [2022](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJrLWUDjhzoHsrZo_7qwYZT) | [2023](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIIWxRwsDJ5oc1yjNFqSFzB) | [2024](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJBI6LOmkgP3Hm5t7NTuTZF) | [2025](https://www.youtube.com/playlist?list=PL7yPwpDiPFlK_l3tJrfouQF0XChBEkATC) - 2025.06.14
 
 - 빅데이터 연합동아리 [보아즈(BOAZ)](https://www.facebook.com/BOAZbigdata) 
-  - ✨ [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) | [제 17회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS) | [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6) | [제 19회](https://www.youtube.com/@bigdataboaz4452/videos) | [제 20회](https://www.youtube.com/@bigdataboaz4452/videos) | [제 21회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AMTDqdxGSahasZKnjBo-XY) | [제 22회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DSLXfltgnkmf-051-TsYLA) | [제 23회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bv8OryiuCxJ1OjUE6PJoD6) - 2026.01.24
+  - [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) | [제 17회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS) | [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6) | [제 19회](https://www.youtube.com/@bigdataboaz4452/videos) | [제 20회](https://www.youtube.com/@bigdataboaz4452/videos) | [제 21회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AMTDqdxGSahasZKnjBo-XY) | [제 22회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DSLXfltgnkmf-051-TsYLA) | [제 23회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bv8OryiuCxJ1OjUE6PJoD6) - 2026.01.24
 
 - MLOps Korea
   - [2021 MLOps KR 1st community](https://www.youtube.com/playlist?list=PLIuC6QlQQF0Pf-aM0tioYTjrnLzaJaGez) - 2021.06.05
@@ -236,6 +234,10 @@
 
 - 람다256 
   - Luniverse - [2021](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn) | [2022](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
+
+- 한국인터넷진흥원(KISA)
+  - ✨ 블록체인 밋업 콘퍼런스 [2026](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDeZkA_1ZfjhoJsOqGQavP) | [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUp4qAyuHgK9Ks-2kjFg8Qw) - 2026.03.12
+  - 블록체인 밋업데이 [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDuGxgDgRTbZDb_IMC9mxm) | [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUEazmPCh5V-iOiSkv4s-GL) - 2025.09.13
 
 - 기타
   - 테크M > [테크B 콘퍼런스](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2022.08.18
