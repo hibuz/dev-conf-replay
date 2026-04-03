@@ -7,6 +7,7 @@
 ✨ 신규영상
 
 - `2026.03.26` [`인공지능`](#인공지능) > 모두팝 > [주요국 AI for Science 투자 현황과 국가 경쟁력 전략](https://youtu.be/X4Bxe7d5uyk?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2026.03.12` [`기타`](#기타) > Startup Alliance Korea > [2026 우스컨(Women in Startup Conference)](https://youtu.be/YFB0Xs1UihU)
 - `2026.03.12` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2026 블록체인 밋업 콘퍼런스](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK)
 - `2026.02.05` [`보안`](#보안) > 데일리시큐 > [제14회 정보보호&데이터보안 컨퍼런스(ISDP 2026)](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMdZ2zKkKVT_rM_g4sVpX-A)
 
@@ -447,7 +448,7 @@
 
 - Startup Alliance Korea
   - 스타트업 생태계 컨퍼런스 - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEeeXhCP_nm12shamr3FC-N) - 2025.05.22~23
-  - [2025 우스컨(Women in Startup Conference)](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEpnvsHoP-hVKTE6R0t5jX8) - 2025.06.11
+  - ✨ 우스컨(Women in Startup Conference) - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEpnvsHoP-hVKTE6R0t5jX8) | [2026](https://youtu.be/YFB0Xs1UihU) - 2026.03.12
   - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) | [2023](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGFE41jnRQc5mB56qKGgUPy) | [2024](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGC40ULiWZ3kYfjrpgze-Au) - 2024.11.14
 
 - [COMEUP (스타트업 페스티벌)](https://www.youtube.com/@COMEUP_org/playlists) - 2025.12.10~12
