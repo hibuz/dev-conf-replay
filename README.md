@@ -6,10 +6,9 @@
 
 ✨ 신규영상
 
-- `2026.03.26` [`인공지능`](#인공지능) > 모두팝 > [주요국 AI for Science 투자 현황과 국가 경쟁력 전략](https://youtu.be/X4Bxe7d5uyk?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2026.04.13` [`인공지능`](#인공지능) > 모두팝 > [AI 시대, 나의 커리어는 어떻게 준비해야 할까?](https://youtu.be/pMtsAtSLW0Y?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2026.03.12` [`기타`](#기타) > Startup Alliance Korea > [2026 우스컨(Women in Startup Conference)](https://youtu.be/YFB0Xs1UihU)
 - `2026.03.12` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2026 블록체인 밋업 콘퍼런스](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK)
-- `2026.02.05` [`보안`](#보안) > 데일리시큐 > [제14회 정보보호&데이터보안 컨퍼런스(ISDP 2026)](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMdZ2zKkKVT_rM_g4sVpX-A)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -102,7 +101,7 @@
 
 - 모두의 연구소
   - 모두콘 - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) | [2024](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJYYhfeFdQv9JanN_tG-F5y) | [2025](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKS9QAzOD9GmGFVY8ViphRG) - 2025.12.13
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2026.02.24
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2026.04.13
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 래블업
@@ -283,7 +282,7 @@
   - 개발자 컨퍼런스 STICK [2022](https://www.youtube.com/playlist?list=PL2JstscjHCud5oW7F3PZ5UJOrqFdbBhD1) | [2023](https://www.youtube.com/playlist?list=PL2JstscjHCueZR9css8YRXB81kKIkx8Iq) - 2023.11.01
 
 - 데일리시큐
-  - ✨ [AIS2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN4Byd22kxscjqWjlQEzusB), [KCSCON 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN6ytxZDx7_L1A3hiPLF2nn), [MPIS 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP6l7KjcdmvLfQSIcEKQ3bl), [KCTI 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfODj3ZlrL-6AocfCelcggK7), [ISDP 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNqClj2Qx7xqs-J109n9tUK), [ISDP2026](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMdZ2zKkKVT_rM_g4sVpX-A)  - 2026.02.05
+  - [AIS2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN4Byd22kxscjqWjlQEzusB), [KCSCON 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfN6ytxZDx7_L1A3hiPLF2nn), [MPIS 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP6l7KjcdmvLfQSIcEKQ3bl), [KCTI 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfODj3ZlrL-6AocfCelcggK7), [ISDP 2025](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNqClj2Qx7xqs-J109n9tUK), [ISDP2026](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMdZ2zKkKVT_rM_g4sVpX-A)  - 2026.02.05
   - PASCON - [2020](https://www.youtube.com/playlist?list=PLVzhBRBZvsfMQKMRlU4eotmXgPPxPhxoJ) | [2021](https://www.youtube.com/hashtag/pascon2021) | [2022](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNceqznSO5GlkYrUkOrIrxX) | [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfPcPeMevubEODj30J_STwHJ) | [2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfNKhBpVchfc4vUM4-SeM88W) - 2024.09.10
   - G-PRIVACY [2023](https://www.youtube.com/playlist?list=PLVzhBRBZvsfOtpSy2LxIaZM7q8-o4ePMm) | [2024](https://www.youtube.com/playlist?list=PLVzhBRBZvsfP17wTtDtyigcT8imLIk9hU) - 2024.03.12
 
