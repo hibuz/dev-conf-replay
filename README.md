@@ -7,6 +7,7 @@
 ✨ 신규영상
 
 - `2026.04.13` [`인공지능`](#인공지능) > 모두팝 > [AI 시대, 나의 커리어는 어떻게 준비해야 할까?](https://youtu.be/pMtsAtSLW0Y?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2026.03.25` [`클라우드`](#클라우드) > 한국마이크로소프트 > [Microsoft Startup Connection 2026](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-HLQZEWTEUzjpv1r1s7bCI)
 - `2026.03.12` [`기타`](#기타) > Startup Alliance Korea > [2026 우스컨(Women in Startup Conference)](https://youtu.be/YFB0Xs1UihU)
 - `2026.03.12` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2026 블록체인 밋업 콘퍼런스](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK)
 
@@ -184,7 +185,7 @@
   - [Oracle Cloud Summit 2024](https://youtu.be/4nnjKMdcnyo?list=PL_lN0QYuCPSGOIK7v2r6TQ_DYdwa8j1Sp) - 2024.01.25
 
 - 한국마이크로소프트
-  - [Microsoft Startup Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq) - 2023.10.26
+  - ✨ Microsoft Startup - [Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq) | [Connection 2026](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-HLQZEWTEUzjpv1r1s7bCI) - 2026.03.25
   - Azure [Everywhere 2021](https://www.youtube.com/playlist?list=PLGh_JNxzXsX_YkjiqSwDRbEnVOk_vNV0D) | 2022 - [Azure](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-Wu_DN4C6A8EzsI9DLiZHK), [Dev](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9va2yAFrGNBYKAfHNg463b), [Security](https://www.youtube.com/playlist?list=PLGh_JNxzXsX_eHsDpyRV5rJbWb8nrHezV), [Modern Work](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9RxStNUDma-7-cnq4q9oFm) - 2022.04.06~27
 
 - [Kubernetes Korea Group](https://www.facebook.com/groups/k8skr)
@@ -236,8 +237,8 @@
   - Luniverse - [2021](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn) | [2022](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
 
 - 한국인터넷진흥원(KISA)
-  - ✨ 블록체인 밋업 콘퍼런스 [2026](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDeZkA_1ZfjhoJsOqGQavP) | [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUp4qAyuHgK9Ks-2kjFg8Qw) - 2026.03.12
-  - 블록체인 밋업데이 [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDuGxgDgRTbZDb_IMC9mxm) | [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUEazmPCh5V-iOiSkv4s-GL) - 2025.09.13
+  - ✨ 블록체인 밋업 콘퍼런스 [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUp4qAyuHgK9Ks-2kjFg8Qw) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDeZkA_1ZfjhoJsOqGQavP) | [2026](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK) - 2026.03.12
+  - 블록체인 밋업데이 [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUEazmPCh5V-iOiSkv4s-GL) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDuGxgDgRTbZDb_IMC9mxm) - 2025.09.13
 
 - 기타
   - 테크M > [테크B 콘퍼런스](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2022.08.18
