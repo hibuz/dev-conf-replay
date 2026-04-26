@@ -7,6 +7,7 @@
 ✨ 신규영상
 
 - `2026.04.13` [`인공지능`](#인공지능) > 모두팝 > [AI 시대, 나의 커리어는 어떻게 준비해야 할까?](https://youtu.be/pMtsAtSLW0Y?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2026.04.08` [`IT기업`](#it기업) > 당근페이 라이브톡 > [경험자 없이, 맨땅에서 현장 결제 7주 만에 만들기](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr9FHfGBUXgKb_kfzFbqYF_)
 - `2026.03.25` [`클라우드`](#클라우드) > 한국마이크로소프트 > [Microsoft Startup Connection 2026](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-HLQZEWTEUzjpv1r1s7bCI)
 - `2026.03.12` [`기타`](#기타) > Startup Alliance Korea > [2026 우스컨(Women in Startup Conference)](https://youtu.be/YFB0Xs1UihU)
 - `2026.03.12` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2026 블록체인 밋업 콘퍼런스](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK)
@@ -59,6 +60,7 @@
   - 당근 ML 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) - 2024.05.10
   - 당근 GCP 밋업 - [2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf) - 2025.08.29
   - 당근 PLATFORM 밋업 - [2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq) - 2025.11.07
+  - ✨ [2026 당근페이 라이브톡](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr9FHfGBUXgKb_kfzFbqYF_) - 2026.04.08
 
 - 토스
   - Toss Makers Conference - TMC25 [Engineering Day](https://www.youtube.com/playlist?list=PL-245_cWUfl9K4rVaVWpXziiH9LziJuXS), [Design Day](https://www.youtube.com/playlist?list=PL-245_cWUfl97xgOorkH8J8svLolZw1Ap), [Product Day](https://www.youtube.com/playlist?list=PL-245_cWUfl98ZlF6xAZDVFc8HP33GJA5) - 2025.07.23~25
