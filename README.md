@@ -6,6 +6,7 @@
 
 ✨ 신규영상
 
+- `2026.04.17` [`IT기업`](#it기업) > 삼성SDS > [Industry Day - AX가 만드는 제조·유통·서비스 산업 혁신](https://www.youtube.com/playlist?list=PL5CBKg4LPW2d8beFxGFvmtEWv6iaEg9zV)
 - `2026.04.13` [`인공지능`](#인공지능) > 모두팝 > [AI 시대, 나의 커리어는 어떻게 준비해야 할까?](https://youtu.be/pMtsAtSLW0Y?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2026.04.08` [`IT기업`](#it기업) > 당근페이 라이브톡 > [경험자 없이, 맨땅에서 현장 결제 7주 만에 만들기](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr9FHfGBUXgKb_kfzFbqYF_)
 - `2026.04.02` [`클라우드`](#클라우드) > 메가존 > [ICON 2026](https://www.youtube.com/playlist?list=PLxTkO33QtxTJjj4ClnFnkGFsacwVefiCN)
@@ -75,12 +76,12 @@
   - Samsung AI Forum(SAIF) - [2025 제9회 삼성 AI 포럼](https://youtu.be/yCcNLhoG1eo) - 2025.09.16
 
 - 삼성SDS
-  - Industry Day - [2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2eAlFDkPx6QW75adjFvVEZG) - 2025.04.16
+  - ✨ Industry Day - [2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2eAlFDkPx6QW75adjFvVEZG) | [2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2d8beFxGFvmtEWv6iaEg9zV) - 2026.04.17
   - Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
   - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) | [2025](https://www.youtube.com/watch?v=kS8ChG2gEIE&list=PL5CBKg4LPW2c4jP980Zjc7tzz9xuvT8E_&index=2) - 2025.09.11
   - 첼로스퀘어 컨퍼런스 - [2023,2024,2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl) - 2025.03.26
-  - Enterprise AI Connect - [2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2f_dum-9EPIRXsB89HbN9aE) - 2026.01.28
+  - Enterprise AI Connect - [2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2f_dum-9EPIRXsB89HbN9aE) - 2026.01.2
 
 - SK
   - SK AI Summit - [2022, 2023, 2024, 2025](https://www.youtube.com/@skaisummit2025/playlists) - 2025.11.03~04
