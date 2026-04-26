@@ -8,8 +8,9 @@
 
 - `2026.04.13` [`인공지능`](#인공지능) > 모두팝 > [AI 시대, 나의 커리어는 어떻게 준비해야 할까?](https://youtu.be/pMtsAtSLW0Y?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2026.04.08` [`IT기업`](#it기업) > 당근페이 라이브톡 > [경험자 없이, 맨땅에서 현장 결제 7주 만에 만들기](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr9FHfGBUXgKb_kfzFbqYF_)
+- `2026.04.02` [`클라우드`](#클라우드) > 메가존 > [ICON 2026](https://www.youtube.com/playlist?list=PLxTkO33QtxTJjj4ClnFnkGFsacwVefiCN)
 - `2026.03.25` [`클라우드`](#클라우드) > 한국마이크로소프트 > [Microsoft Startup Connection 2026](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-HLQZEWTEUzjpv1r1s7bCI)
-- `2026.03.12` [`기타`](#기타) > Startup Alliance Korea > [2026 우스컨(Women in Startup Conference)](https://youtu.be/YFB0Xs1UihU)
+- `2026.03.12` [`기타`](#기타) > Startup Alliance Korea > [2026 우스컨(Women in Startup Conference)](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFJFdTm_KCNn3oQDYKPyqro)
 - `2026.03.12` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2026 블록체인 밋업 콘퍼런스](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK)
 
 ⚡ 바로가기
@@ -168,7 +169,7 @@
 - 메가존
   - 디지털 다카포 - [2022](https://www.youtube.com/playlist?list=PLxTkO33QtxTICeek2PbVPW_zbwZXV0hCe) | [2023](https://www.youtube.com/playlist?list=PLxTkO33QtxTJPzx9GtsJvVdfARm7Af_k7)  - 2023.01.10
   - re:Connect [2025](https://youtu.be/ZGc1FQz0qgY?list=PLxTkO33QtxTLsDIq-PxGyB05z6RPPGCCg) | [2026](https://www.youtube.com/playlist?list=PLxTkO33QtxTJu5zTrMcWLcu5FUHG7-w9n) - 2026.01.22
-  - The ICONic ISV Conference [2025 I-CON](https://www.youtube.com/playlist?list=PLxTkO33QtxTL5q8YpTfDCDglAiwnJbYTt) - 2025.03.27
+  - ✨ [ICON](https://icon-megazone.com/) - [2025](https://www.youtube.com/playlist?list=PLxTkO33QtxTL5q8YpTfDCDglAiwnJbYTt) | [2026](https://www.youtube.com/playlist?list=PLxTkO33QtxTJjj4ClnFnkGFsacwVefiCN) - 2026.04.02
 
 - AWS
   - AWS re:Invent [2021 한국어 트랙](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | [2023 한국어 강연](https://www.youtube.com/playlist?list=PLORxAVAC5fUW40w3WpbSbACrHZqhoQmG6) | re:Cap [2020](https://www.youtube.com/playlist?list=PLORxAVAC5fUXzLlNAXGA1HUG2HFgR5T_Q) | [2021](https://www.youtube.com/playlist?list=PLORxAVAC5fUX9IHNx3Zhzfq-cSF-F2H8I) | [2022 Daily Recap](https://www.youtube.com/playlist?list=PLORxAVAC5fUUmumUj0Q4JaraT6WNMbfuO) | [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUX870HAp-ERDSxhNq_jsrEs) - 2024.02.04~05
@@ -450,7 +451,7 @@
 
 - Startup Alliance Korea
   - 스타트업 생태계 컨퍼런스 - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEeeXhCP_nm12shamr3FC-N) - 2025.05.22~23
-  - ✨ 우스컨(Women in Startup Conference) - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEpnvsHoP-hVKTE6R0t5jX8) | [2026](https://youtu.be/YFB0Xs1UihU) - 2026.03.12
+  - ✨ 우스컨(Women in Startup Conference) - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEpnvsHoP-hVKTE6R0t5jX8) | [2026](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFJFdTm_KCNn3oQDYKPyqro) - 2026.03.12
   - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) | [2023](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGFE41jnRQc5mB56qKGgUPy) | [2024](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGC40ULiWZ3kYfjrpgze-Au) - 2024.11.14
 
 - [COMEUP (스타트업 페스티벌)](https://www.youtube.com/@COMEUP_org/playlists) - 2025.12.10~12
