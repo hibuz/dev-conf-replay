@@ -6,9 +6,9 @@
 
 ✨ 신규영상
 
+- `2026.04.28` [`인공지능`](#인공지능) > 모두팝 > [AI 반도체와 국산 NPU](https://youtu.be/V6yNRJ3IbFk?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2026.04.24` [`IT기업`](#it기업) > 당근 > [DB 밋업 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBoFR-9MlfJP56xrcIxBInCm)
 - `2026.04.17` [`IT기업`](#it기업) > 삼성SDS > [Industry Day - AX가 만드는 제조·유통·서비스 산업 혁신](https://www.youtube.com/playlist?list=PL5CBKg4LPW2d8beFxGFvmtEWv6iaEg9zV)
-- `2026.04.13` [`인공지능`](#인공지능) > 모두팝 > [AI 시대, 나의 커리어는 어떻게 준비해야 할까?](https://youtu.be/pMtsAtSLW0Y?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2026.04.08` [`IT기업`](#it기업) > 당근페이 라이브톡 > [경험자 없이, 맨땅에서 현장 결제 7주 만에 만들기](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr9FHfGBUXgKb_kfzFbqYF_)
 - `2026.04.02` [`클라우드`](#클라우드) > 메가존 > [ICON 2026](https://www.youtube.com/playlist?list=PLxTkO33QtxTJjj4ClnFnkGFsacwVefiCN)
 
@@ -100,7 +100,7 @@
 
 - 모두의 연구소
   - 모두콘 - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) | [2024](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJYYhfeFdQv9JanN_tG-F5y) | [2025](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKS9QAzOD9GmGFVY8ViphRG) - 2025.12.13
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2026.04.13
+  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2026.04.28
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 래블업
