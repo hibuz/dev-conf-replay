@@ -6,13 +6,11 @@
 
 ✨ 신규영상
 
+- `2026.04.24` [`IT기업`](#it기업) > 당근 > [DB 밋업 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBoFR-9MlfJP56xrcIxBInCm)
 - `2026.04.17` [`IT기업`](#it기업) > 삼성SDS > [Industry Day - AX가 만드는 제조·유통·서비스 산업 혁신](https://www.youtube.com/playlist?list=PL5CBKg4LPW2d8beFxGFvmtEWv6iaEg9zV)
 - `2026.04.13` [`인공지능`](#인공지능) > 모두팝 > [AI 시대, 나의 커리어는 어떻게 준비해야 할까?](https://youtu.be/pMtsAtSLW0Y?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2026.04.08` [`IT기업`](#it기업) > 당근페이 라이브톡 > [경험자 없이, 맨땅에서 현장 결제 7주 만에 만들기](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr9FHfGBUXgKb_kfzFbqYF_)
 - `2026.04.02` [`클라우드`](#클라우드) > 메가존 > [ICON 2026](https://www.youtube.com/playlist?list=PLxTkO33QtxTJjj4ClnFnkGFsacwVefiCN)
-- `2026.03.25` [`클라우드`](#클라우드) > 한국마이크로소프트 > [Microsoft Startup Connection 2026](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-HLQZEWTEUzjpv1r1s7bCI)
-- `2026.03.12` [`기타`](#기타) > Startup Alliance Korea > [2026 우스컨(Women in Startup Conference)](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFJFdTm_KCNn3oQDYKPyqro)
-- `2026.03.12` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2026 블록체인 밋업 콘퍼런스](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -43,7 +41,7 @@
 
 - 카카오
   - [if(kakao)](https://if.kakao.com) - [2020](https://elseif.kakao.com/2020) | [2021](https://elseif.kakao.com/2021) | [2022](https://elseif-2022.kakao.com/session) | 2024 [Keynote](https://www.youtube.com/playlist?list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy), [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGo3pBos0qktQcTUh_iFt7u), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEyBwc7Zz-zg6_GX3SGBcmg), [Day3](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGXZ0REjCOYosGkrDkkHZKk) | 2025 [Day1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwG1H81qHrjc05sj75cGa1fi), [Day2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGaTnz0fR4Zb817vVCh6T2_) - 2025.09.23~24
-  - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f), [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u), [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf), [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn), [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y), [제6회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR) - 2024.06.13
+  - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f) | [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u) | [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf) | [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn) | [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y) | [제6회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR) - 2024.06.13
 
 - 라인
   - LINE DEVELOPER DAY - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) | [2025](https://www.youtube.com/@lycorptech_jp/playlists) - 2025.06.30~07.01
@@ -57,11 +55,7 @@
 
 - 당근마켓
   - [당근 Tech 밋업](https://tech-meetup.daangn.com/) - [2024](https://www.youtube.com/playlist?list=PLaHcMRg2hoBryC2cZkhyEin5MrnEJhMUl) - 2024.10.07
-  - 당근 SRE 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) - 2023.06.15
-  - 당근 SERVER 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) - 2023.10.28
-  - 당근 ML 밋업 - [1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) - 2024.05.10
-  - 당근 GCP 밋업 - [2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf) - 2025.08.29
-  - 당근 PLATFORM 밋업 - [2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq) - 2025.11.07
+  - ✨ 당근 밋업 - [SRE 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [SRE 2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [SRE 3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) | [SERVER 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [SERVER 2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) | [ML 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) | [GCP 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf) | [PLATFORM 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq) | [DB 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBoFR-9MlfJP56xrcIxBInCm) - 2026.04.24
   - ✨ [2026 당근페이 라이브톡](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr9FHfGBUXgKb_kfzFbqYF_) - 2026.04.08
 
 - 토스
@@ -189,7 +183,7 @@
   - [Oracle Cloud Summit 2024](https://youtu.be/4nnjKMdcnyo?list=PL_lN0QYuCPSGOIK7v2r6TQ_DYdwa8j1Sp) - 2024.01.25
 
 - 한국마이크로소프트
-  - ✨ Microsoft Startup - [Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq) | [Connection 2026](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-HLQZEWTEUzjpv1r1s7bCI) - 2026.03.25
+  - Microsoft Startup - [Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq) | [Connection 2026](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-HLQZEWTEUzjpv1r1s7bCI) - 2026.03.25
   - Azure [Everywhere 2021](https://www.youtube.com/playlist?list=PLGh_JNxzXsX_YkjiqSwDRbEnVOk_vNV0D) | 2022 - [Azure](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-Wu_DN4C6A8EzsI9DLiZHK), [Dev](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9va2yAFrGNBYKAfHNg463b), [Security](https://www.youtube.com/playlist?list=PLGh_JNxzXsX_eHsDpyRV5rJbWb8nrHezV), [Modern Work](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9RxStNUDma-7-cnq4q9oFm) - 2022.04.06~27
 
 - [Kubernetes Korea Group](https://www.facebook.com/groups/k8skr)
@@ -241,7 +235,7 @@
   - Luniverse - [2021](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGRS82o4fGBpXFlHANdPRmn) | [2022](https://www.youtube.com/playlist?list=PLXDdGRMRFqmGaJV8N--ofWmE_tiW7creV) - 2022.04.12
 
 - 한국인터넷진흥원(KISA)
-  - ✨ 블록체인 밋업 콘퍼런스 [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUp4qAyuHgK9Ks-2kjFg8Qw) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDeZkA_1ZfjhoJsOqGQavP) | [2026](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK) - 2026.03.12
+  - 블록체인 밋업 콘퍼런스 [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUp4qAyuHgK9Ks-2kjFg8Qw) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDeZkA_1ZfjhoJsOqGQavP) | [2026](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK) - 2026.03.12
   - 블록체인 밋업데이 [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUEazmPCh5V-iOiSkv4s-GL) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDuGxgDgRTbZDb_IMC9mxm) - 2025.09.13
 
 - 기타
@@ -257,7 +251,7 @@
   - Softeer Tech Meet-up - [1st, 2nd](https://www.youtube.com/playlist?list=PLypFzBtJUO_gRY3U3XPjutaUDskzKP_tv) - 2023.09.14
 
 - 카카오모빌리티
-  - [MEMO](https://nemo.kakaomobility.com) - [2022](https://www.youtube.com/playlist?list=PLAi6ak51pSz2O8W4VPsKsUQ_X4oVcvfz6) | [2023](https://www.youtube.com/playlist?list=PLAi6ak51pSz0F7I22FkxYZfs856ZNYX97) - 2023.09.08
+  - MEMO - [2022](https://www.youtube.com/playlist?list=PLAi6ak51pSz2O8W4VPsKsUQ_X4oVcvfz6) | [2023](https://www.youtube.com/playlist?list=PLAi6ak51pSz0F7I22FkxYZfs856ZNYX97) - 2023.09.08
 
 - 쏘카
   - SOCAR Tech Summit [2022](https://www.youtube.com/playlist?list=PLEZRFe2YmFou3R6vTrfFIXz-pusnBnxB8) - 2022.10.19
@@ -452,7 +446,7 @@
 
 - Startup Alliance Korea
   - 스타트업 생태계 컨퍼런스 - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEeeXhCP_nm12shamr3FC-N) - 2025.05.22~23
-  - ✨ 우스컨(Women in Startup Conference) - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEpnvsHoP-hVKTE6R0t5jX8) | [2026](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFJFdTm_KCNn3oQDYKPyqro) - 2026.03.12
+  - 우스컨(Women in Startup Conference) - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEpnvsHoP-hVKTE6R0t5jX8) | [2026](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFJFdTm_KCNn3oQDYKPyqro) - 2026.03.12
   - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) | [2023](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGFE41jnRQc5mB56qKGgUPy) | [2024](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGC40ULiWZ3kYfjrpgze-Au) - 2024.11.14
 
 - [COMEUP (스타트업 페스티벌)](https://www.youtube.com/@COMEUP_org/playlists) - 2025.12.10~12
