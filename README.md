@@ -62,6 +62,7 @@
   - Toss Makers Conference - TMC25 [Engineering Day](https://www.youtube.com/playlist?list=PL-245_cWUfl9K4rVaVWpXziiH9LziJuXS), [Design Day](https://www.youtube.com/playlist?list=PL-245_cWUfl97xgOorkH8J8svLolZw1Ap), [Product Day](https://www.youtube.com/playlist?list=PL-245_cWUfl98ZlF6xAZDVFc8HP33GJA5) - 2025.07.23~25
   - [SLASH](https://toss.im/slash-24) - [21, 22, 23, 24](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2024.09.12
   - Simplicity(토스 디자인 컨퍼런스) - [21, 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) | [24](https://toss.im/simplicity-24) | [25](https://toss.im/simplicity) - 2025.04.28
+  - 토스증권 Tech Talk Talk - [Frontend](https://www.youtube.com/playlist?list=PL-245_cWUfl8fOj-0eIX2T_qFWxY3zEwm) -2026.02.24
   - [GUARDIANS 25](https://www.youtube.com/playlist?list=PL-245_cWUfl-kQNdnn0bqox1f5iNSc65V) - 2025.11.20
   - [10to100 / SQUARE of TOSS](https://www.youtube.com/playlist?list=PL1DJtS1Hv1Pib-Nup1ITbL6QMVr2p_hr5) - 2025.02.26
 
@@ -320,7 +321,7 @@
   - FECONF 2020 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98q_yvsIzo0exOGSdmWeT_o6), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rqCYUOqO0Wbkas1hM1hlS2) | 2021 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD) | 2022 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pajnfobtWKCU9XH3zNNT-v), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98pl7L0FZW2XMg7fE3nZAJk3) | 2023 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p5lWeGKAdUgA93bioesqjc), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rM8yercTFaikRkBJf8rfKJ) | 2024 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p9OOlEHtFy8Qp-1ECOH49Q), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98opIA5HS7eH5w-VYAswMWvc) | 2025 - [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rPVUEkC6bm4FXV3SlX5nR_), [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98rzinAgczSLQAtxPpxCJaC4) - 2025.08.23
 
 - 자바스크립트 컨퍼런스 
-  - [JSConf Korea](https://jsconf.kr) - [2020 Home Edition](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm) | [2022](https://www.youtube.com/playlist?list=PL37ZVnwpeshH7y4tbeYslJ5MN1JvyYEks) - 2022.09.16~17
+  - JSConf Korea - [2020 Home Edition](https://www.youtube.com/playlist?list=PL37ZVnwpeshHlUonQ2pnYFd8SAiicjmlm) | [2022](https://www.youtube.com/playlist?list=PL37ZVnwpeshH7y4tbeYslJ5MN1JvyYEks) - 2022.09.16~17
 
 - 기타
   - Nest.js Korea > [NestJS 밋업](https://www.youtube.com/@nestjskorea/videos) - 2023.06.15
