@@ -8,6 +8,7 @@
 
 - `2026.06.06` [`빅데이터`](#빅데이터) > 데이터야놀자 > [2026 발표영상](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIopEaDdupVosRq3-TmHXyt)
 - `2026.06.02` [`인공지능`](#인공지능) > 모두팝 > [AI 기반 신약 개발 : 분자와 단백질 속 수학적 규칙의 학습](https://youtu.be/JlseRvvicl8?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2026.05.28` [`인공지능`](#인공지능) > 솔트룩스 > [SAC2026](https://www.youtube.com/playlist?list=PLQKhpTP94Isfw3UBanL7_FDjFoowzY435)
 - `2026.04.25` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2026 블록체인 밋업데이](https://www.youtube.com/playlist?list=PLCl4Lezj1nFVyC_hb_aBgmgRCF5LQXR6c)
 - `2026.04.24` [`IT기업`](#it기업) > 당근 > [DB 밋업 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBoFR-9MlfJP56xrcIxBInCm)
 
@@ -108,7 +109,7 @@
   - [Lablup SC25 Theater Sessions](https://www.youtube.com/playlist?list=PLYkiFpaI5DIIg4MtXf5Oyrhk5ott2BWVe) - 2025.11.18
 
 - 솔트룩스
-  - 솔트룩스 인공지능 컨퍼런스(SAC) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2022](https://youtu.be/D5fOutPofgk?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2023](https://youtu.be/V_7xw0Nr5CE?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2024](https://youtu.be/rdiAezq8ZFA?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2025](https://youtu.be/GorRTrf0yjo?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) - 2025.05.29
+  - ✨ 솔트룩스 인공지능 컨퍼런스(SAC) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2022](https://youtu.be/D5fOutPofgk?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2023](https://youtu.be/V_7xw0Nr5CE?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2024](https://youtu.be/rdiAezq8ZFA?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2025](https://youtu.be/GorRTrf0yjo?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2026](https://www.youtube.com/playlist?list=PLQKhpTP94Isfw3UBanL7_FDjFoowzY435) - 2026.05.28
 
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - AI·DATA Summit Korea - [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) | [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kps9gFH2inwXqM2F1AASWhE) - 2023.02.24
@@ -401,7 +402,7 @@
 - 구글 개발자 그룹(GDG KOREA)
   - I/O Extended - [2021 with doubleS](https://www.youtube.com/playlist?list=PLF_OUznA3RTTadLaKE9gVJY5MR6ncdmiX) | 2022 Seoul - [Part1](https://youtu.be/GfbJp3CHWBk?t=1696), [Part2](https://youtu.be/bU7F_Ca6xQ8?t=395) - 2022.06.20
   - [Kotlin 'Summer' Night 2022 Seoul](https://youtu.be/3sX3Oki9PD8?t=295) - 2022.09.06
-  - [Devfest](https://www.facebook.com/devfest.seoul.2019) - [Korea 2020](https://www.youtube.com/playlist?list=PLF_OUznA3RTSoRHlcIRg4KZYSFJ6rfGfm) | Seoul 2021 [호빵 트랙](https://youtu.be/t_BVZkPc650?t=609), [붕어빵 트랙](https://youtu.be/HGy-PvnJC3g?t=609) - 2021.11.03
+  - Devfest - [Korea 2020](https://www.youtube.com/playlist?list=PLF_OUznA3RTSoRHlcIRg4KZYSFJ6rfGfm) | Seoul 2021 [호빵 트랙](https://youtu.be/t_BVZkPc650?t=609), [붕어빵 트랙](https://youtu.be/HGy-PvnJC3g?t=609) - 2021.11.03
   - GDG Daegu - [Code Action 1st](https://youtu.be/GngEX-zVo6Y?t=292) - 2022.08.27
   - GDG SongDo - [Flutter](https://www.youtube.com/playlist?list=PLSCuU2a9seuO4xpzlC7dRjrVMhV6idD42) | [Machine Learning](https://www.youtube.com/playlist?list=PLSCuU2a9seuMJ6Ee-KTBDgokc9nfjwahJ) Meetup Songdo 23 - 2023.10.20
 
