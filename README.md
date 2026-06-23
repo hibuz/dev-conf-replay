@@ -7,6 +7,7 @@
 ✨ 신규영상
 
 - `2026.06.02` [`인공지능`](#인공지능) > 모두팝 > [AI 기반 신약 개발 : 분자와 단백질 속 수학적 규칙의 학습](https://youtu.be/JlseRvvicl8?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
+- `2026.04.25` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2026 블록체인 밋업데이](https://www.youtube.com/playlist?list=PLCl4Lezj1nFVyC_hb_aBgmgRCF5LQXR6c)
 - `2026.04.24` [`IT기업`](#it기업) > 당근 > [DB 밋업 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBoFR-9MlfJP56xrcIxBInCm)
 
 ⚡ 바로가기
@@ -235,7 +236,7 @@
 
 - 한국인터넷진흥원(KISA)
   - 블록체인 밋업 콘퍼런스 [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUp4qAyuHgK9Ks-2kjFg8Qw) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDeZkA_1ZfjhoJsOqGQavP) | [2026](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK) - 2026.03.12
-  - 블록체인 밋업데이 [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUEazmPCh5V-iOiSkv4s-GL) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDuGxgDgRTbZDb_IMC9mxm) - 2025.09.13
+  - ✨ 블록체인 밋업데이 [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUEazmPCh5V-iOiSkv4s-GL) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDuGxgDgRTbZDb_IMC9mxm) | [2026](https://www.youtube.com/playlist?list=PLCl4Lezj1nFVyC_hb_aBgmgRCF5LQXR6c)- 2026.04.25
 
 - 기타
   - 테크M > [테크B 콘퍼런스](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2022.08.18
@@ -328,7 +329,7 @@
 ## 프로그래밍 언어
 
 - 파이콘 한국
-  - [PyCon.KR](https://pycon.kr) - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) | [2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRnlqQwMj-WNlrsac7yTiVhk) | [2023](https://www.youtube.com/playlist?list=PLZPhyNeJvHRllQiXsJAryqWmqWrwFxY8I) | [2024](https://www.youtube.com/playlist?list=PLZPhyNeJvHRldfheI6KcgektEiXAIPJaY) | [2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRkVYFbIocUURt0XzlHs-r_J) - 2025.08.15~17
+  - PyCon.KR - [2020](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7) | [2021](https://www.youtube.com/c/PyConKRtube/videos?view=0&sort=dd&shelf_id=0) | [2022](https://www.youtube.com/playlist?list=PLZPhyNeJvHRnlqQwMj-WNlrsac7yTiVhk) | [2023](https://www.youtube.com/playlist?list=PLZPhyNeJvHRllQiXsJAryqWmqWrwFxY8I) | [2024](https://www.youtube.com/playlist?list=PLZPhyNeJvHRldfheI6KcgektEiXAIPJaY) | [2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRkVYFbIocUURt0XzlHs-r_J) - 2025.08.15~17
   - PyAI Symposium - [2025](https://www.youtube.com/playlist?list=PLZPhyNeJvHRn06pGP-TB5pGFYPwgBUpRv) - 2025.11.30
 
 - 한국 스프링 사용자 모임
