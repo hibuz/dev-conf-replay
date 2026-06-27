@@ -5,12 +5,10 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
-
+- `2026.06.11` [`기타`](#기타) > 카페24 > [2026 K-제조 이커머스 혁신 컨퍼런스](https://www.youtube.com/@cafe24_official/videos)
 - `2026.06.06` [`빅데이터`](#빅데이터) > 데이터야놀자 > [2026 발표영상](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIopEaDdupVosRq3-TmHXyt)
 - `2026.06.02` [`인공지능`](#인공지능) > 모두팝 > [AI 기반 신약 개발 : 분자와 단백질 속 수학적 규칙의 학습](https://youtu.be/JlseRvvicl8?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 - `2026.05.28` [`인공지능`](#인공지능) > 솔트룩스 > [SAC2026](https://www.youtube.com/playlist?list=PLQKhpTP94Isfw3UBanL7_FDjFoowzY435)
-- `2026.04.25` [`블록체인`](#블록체인) > 한국인터넷진흥원 > [2026 블록체인 밋업데이](https://www.youtube.com/playlist?list=PLCl4Lezj1nFVyC_hb_aBgmgRCF5LQXR6c)
-- `2026.04.24` [`IT기업`](#it기업) > 당근 > [DB 밋업 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBoFR-9MlfJP56xrcIxBInCm)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -55,7 +53,7 @@
 
 - 당근마켓
   - [당근 Tech 밋업](https://tech-meetup.daangn.com/) - [2024](https://www.youtube.com/playlist?list=PLaHcMRg2hoBryC2cZkhyEin5MrnEJhMUl) - 2024.10.07
-  - ✨ 당근 밋업 - [SRE 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [SRE 2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [SRE 3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) | [SERVER 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [SERVER 2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) | [ML 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) | [GCP 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf) | [PLATFORM 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq) | [DB 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBoFR-9MlfJP56xrcIxBInCm) - 2026.04.24
+  - 당근 밋업 - [SRE 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [SRE 2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [SRE 3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) | [SERVER 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [SERVER 2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) | [ML 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) | [GCP 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf) | [PLATFORM 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq) | [DB 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBoFR-9MlfJP56xrcIxBInCm) - 2026.04.24
   - [2026 당근페이 라이브톡](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr9FHfGBUXgKb_kfzFbqYF_) - 2026.04.08
 
 - 토스
@@ -188,7 +186,7 @@
   - Microsoft Startup - [Summit 2023](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9NSm-iyAdS4Ioco0vp4jtq) | [Connection 2026](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-HLQZEWTEUzjpv1r1s7bCI) - 2026.03.25
   - Azure [Everywhere 2021](https://www.youtube.com/playlist?list=PLGh_JNxzXsX_YkjiqSwDRbEnVOk_vNV0D) | 2022 - [Azure](https://www.youtube.com/playlist?list=PLGh_JNxzXsX-Wu_DN4C6A8EzsI9DLiZHK), [Dev](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9va2yAFrGNBYKAfHNg463b), [Security](https://www.youtube.com/playlist?list=PLGh_JNxzXsX_eHsDpyRV5rJbWb8nrHezV), [Modern Work](https://www.youtube.com/playlist?list=PLGh_JNxzXsX9RxStNUDma-7-cnq4q9oFm) - 2022.04.06~27
 
-- [Kubernetes Korea Group](https://www.facebook.com/groups/k8skr)
+- Kubernetes Korea Group
   - Kubernetes Community Day [KCD Korea 2021](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Mgj7OKf1SHjgAp2UQtey_I) | [2023](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PIWBHTlGr9UDmJTpGjU59C) | [2024](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PAaki3sVqOEn6SfQUuubgD) | [2025](https://www.youtube.com/playlist?list=PL1j_IgwZkt4MKF6IamyNj_aLInEvgObsN) - 2025.05.22
   - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN) - 2020.10.29
 
@@ -238,11 +236,10 @@
 
 - 한국인터넷진흥원(KISA)
   - 블록체인 밋업 콘퍼런스 [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUp4qAyuHgK9Ks-2kjFg8Qw) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDeZkA_1ZfjhoJsOqGQavP) | [2026](https://www.youtube.com/playlist?list=PLCl4Lezj1nFXlu9iGB06xpjDXsFdsFHaK) - 2026.03.12
-  - ✨ 블록체인 밋업데이 [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUEazmPCh5V-iOiSkv4s-GL) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDuGxgDgRTbZDb_IMC9mxm) | [2026](https://www.youtube.com/playlist?list=PLCl4Lezj1nFVyC_hb_aBgmgRCF5LQXR6c)- 2026.04.25
+  - 블록체인 밋업데이 [2024](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUEazmPCh5V-iOiSkv4s-GL) | [2025](https://www.youtube.com/playlist?list=PLCl4Lezj1nFUDuGxgDgRTbZDb_IMC9mxm) | [2026](https://www.youtube.com/playlist?list=PLCl4Lezj1nFVyC_hb_aBgmgRCF5LQXR6c) - 2026.04.25
 
 - 기타
   - 테크M > [테크B 콘퍼런스](https://www.youtube.com/playlist?list=PLpCs8R7ZoTIDp8zRwOzk3gKRQIueOSeDc) - 2022.08.18
-  - 까페24 > [NFT 활용 이커머스 성공전략 웨비나](https://youtu.be/KM1-kqSAw3c) - 2022.12.15
 
 
 ## 모빌리티
@@ -421,6 +418,11 @@
 
 - 티맥스
   - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) | [SuperApp Day 2024](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5vCsL3rvEKnkCtNx8s_Vb4v) - 2024.06.13
+
+- 까페24
+  - ✨ [BOOST 2026](https://www.youtube.com/playlist?list=PLl-xzleWGDrejrCfJCQ_VJAL4tUykiUik) - 2026.04.30
+  - ✨ [2026 K-제조 이커머스 혁신 컨퍼런스](https://www.youtube.com/@cafe24_official/videos) - 2026.06.11
+  - [웨비나](https://www.youtube.com/@cafe24_official/streams) - 2022.12.15
 
 - 채널톡
   - 채널콘 - [2024 하이라이트](https://www.youtube.com/playlist?list=PLqnJCqbBpji9YGwViD_r8OFPDFdwzWjKG) - 2024.04.03
