@@ -76,7 +76,7 @@
   - Gen AI Day - 2024 [유통/리테일](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cml2-MqeWDwEcu9zAsGLsz), [공공](https://www.youtube.com/playlist?list=PL5CBKg4LPW2dTQHClWbAJzD6NPfi-PDf4) - 2024.04.19
   - Techtonic - [2020](https://www.samsungsds.com/kr/event/techtonic2020.html) | [2021](https://www.samsungsds.com/kr/event/techtonic2021.html) - 2021.11.23~24
   - REAL SUMMIT - [2020](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fDDfTrui3MJdwy3NgK2ziW) | [2021](https://www.youtube.com/playlist?list=PL5CBKg4LPW2fIhDRr7ljbAv208eyHVGSN) | [2022](https://www.samsungsds.com/kr/real/real-summit-2022.html) | [2023](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cIzr4JDfR7LFl3GJcQrb5p) | [2024](https://www.youtube.com/playlist?list=PL5CBKg4LPW2cHLrtLraFvGc03A7O-QQCh) | [2025](https://www.youtube.com/watch?v=kS8ChG2gEIE&list=PL5CBKg4LPW2c4jP980Zjc7tzz9xuvT8E_&index=2) - 2025.09.11
-  - 첼로스퀘어 컨퍼런스 - [2023,2024,2025](https://www.youtube.com/playlist?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl) - 2025.03.26
+  - 첼로스퀘어 컨퍼런스 - [2023~2026](https://youtu.be/yZQbzkujEHI?list=PL5CBKg4LPW2e0rZrVIH7rCu9towinfDIl) - 2026.04.02
   - Enterprise AI Connect - [2026](https://www.youtube.com/playlist?list=PL5CBKg4LPW2f_dum-9EPIRXsB89HbN9aE) - 2026.01.2
 
 - SK
@@ -140,7 +140,7 @@
 - 데이터야놀자
   - ✨ 데이터야놀자 - [2020](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIO4tiVwCZ391JJ2KwhZzDU) | [2021](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIoiBPrX3fQk6XT-UrE-wRt) | [2022](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJrLWUDjhzoHsrZo_7qwYZT) | [2023](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIIWxRwsDJ5oc1yjNFqSFzB) | [2024](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJBI6LOmkgP3Hm5t7NTuTZF) | [2025](https://www.youtube.com/playlist?list=PL7yPwpDiPFlK_l3tJrfouQF0XChBEkATC) | [2026](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIopEaDdupVosRq3-TmHXyt) - 2026.06.06
 
-- 빅데이터 연합동아리 [보아즈(BOAZ)](https://www.facebook.com/BOAZbigdata) 
+- 빅데이터 연합동아리 보아즈(BOAZ)
   - [제 15회](https://www.youtube.com/playlist?list=PLThNmt_l7b6A1K4qS4lf9hYd-hg0svRmU) | [제 16회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor) | [제 17회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Db4-HPgTWW5JJnTrNvmoQS) | [제 18회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6) | [제 19회](https://www.youtube.com/@bigdataboaz4452/videos) | [제 20회](https://www.youtube.com/@bigdataboaz4452/videos) | [제 21회](https://www.youtube.com/playlist?list=PLThNmt_l7b6AMTDqdxGSahasZKnjBo-XY) | [제 22회](https://www.youtube.com/playlist?list=PLThNmt_l7b6DSLXfltgnkmf-051-TsYLA) | [제 23회](https://www.youtube.com/playlist?list=PLThNmt_l7b6Bv8OryiuCxJ1OjUE6PJoD6) - 2026.01.24
 
 - MLOps Korea
@@ -180,7 +180,7 @@
   - Industry Week [2024](https://www.youtube.com/playlist?list=PLORxAVAC5fUUB4TpuiUJbJHVjRiQgIhQA) | [2025](https://www.youtube.com/playlist?list=PLORxAVAC5fUVpUtCRObJOqXI5Gc4oKKhE) - 2025.10.14
   - Games on AWS [2022](https://www.youtube.com/playlist?list=PLORxAVAC5fUXJK1tgrWEmwgWIZWSqNoGj) | [2023](https://www.youtube.com/playlist?list=PLORxAVAC5fUXTApC8pivE7UXpx-QmESLq) - 2023.10.24
 
-- 오라클 [클라우드 사용자 그룹](https://www.facebook.com/groups/koreaoraclecloud)
+- 오라클 클라우드 사용자 그룹
   - [Oracle Database World - Korea](https://youtu.be/zynSuLI1Aa8?list=PL_lN0QYuCPSF5XyXrvWthJdjRtu37XTTu) - 2022.07.21
   - [디벨로퍼 (DEV)](https://www.youtube.com/playlist?list=PL_lN0QYuCPSGzA9TmINzKP61R0p40DX29) - 2024.04.24
   - [Oracle Cloud Summit 2024](https://youtu.be/4nnjKMdcnyo?list=PL_lN0QYuCPSGOIK7v2r6TQ_DYdwa8j1Sp) - 2024.01.25
@@ -202,7 +202,7 @@
   - 과학기술정보통신부 > Open Cloud Platform Summit - [2022](https://www.youtube.com/playlist?list=PL-AoIAa-OgNnym3kkTmIlko53smWH4L0p) | [2023](https://www.youtube.com/playlist?list=PL-AoIAa-OgNla-rPexcg9WpEntQ9fPKDD) | [2024](https://www.youtube.com/playlist?list=PL-AoIAa-OgNl7sO80Yhk1QIv3DhIQ0vxz) - 2024.07.03
   - 스마트클라우드쇼2021 - [1일차](https://youtu.be/Y335QzGRz1U) | [2일차](https://youtu.be/Itk2Wy3oiKE) - 2021.09.28~29
   - 지티플러스 > Get Tech Day [2021](https://www.youtube.com/playlist?list=PLM48rFX5FOnbMQyAZZIGItYhax_B9REC8) | [2022](https://www.youtube.com/playlist?list=PLM48rFX5FOnYZVXnxF49sBtCJCLkDCDo3) - 2022.12.15
-  - [한국 Azure 사용자 그룹](https://www.facebook.com/groups/krazure) > [GAV2020KR](https://www.youtube.com/playlist?list=PLFbmOoKZ852WRZkFql8Gv1U-CNX_WRHen) | [Global Azure 2021 Korea](https://www.youtube.com/playlist?list=PLFbmOoKZ852XZ41ODzJqlzB-8sq7VQt0j) - 2021.04.24
+  - 한국 Azure 사용자 그룹 > [GAV2020KR](https://www.youtube.com/playlist?list=PLFbmOoKZ852WRZkFql8Gv1U-CNX_WRHen) | [Global Azure 2021 Korea](https://www.youtube.com/playlist?list=PLFbmOoKZ852XZ41ODzJqlzB-8sq7VQt0j) - 2021.04.24
   - Google [Cloud Summit](https://cloudonair.withgoogle.com/events/summit-korea-livestream) > [Seoul '19](https://www.youtube.com/playlist?list=PLBgogxgQVM9tS7Yhzjc3Wt56jc5j-z_4C) - 2019.11.06
 
 
@@ -213,7 +213,7 @@
   - OpenInfra Community Days Korea - [2020](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3rLLET-H1fS12OF0bBtOE-p) | [2021](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3o6FZNJiB10vReh_iXve6LS) | [2023](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3pIbzuNxOix9Co5pHgAU98a) - 2023.07.03~04
   - [OpenInfra Summit Asia 2024](https://www.youtube.com/playlist?list=PLkgLtPJ7Lg3ow4phkdA_ykLK6c4DCkD0K) - 2024.09.03~04
 
-- KAFKA 한국 사용자 모임 [KRU](https://www.facebook.com/groups/kafka.kru)
+- KAFKA 한국 사용자 모임(KRU)
   - Virtual Meetup [2020](https://www.youtube.com/playlist?list=PLUc8G1CJwNG2nJgOqRESbI64C0cWU9-nx) | [2021](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3E3_q6nY2_xM9jjHx0t7bw) | [2022](https://www.youtube.com/playlist?list=PLUc8G1CJwNG3ipaXxW25_a_bTVn3yM69g) - 2022.04.14
 
 - Datadog Korea
