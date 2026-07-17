@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2026.06.29` [`IT기업`](#it기업) > 라인 > [Tech-Verse 2026](https://www.youtube.com/playlist?list=PLGIkkJsrT83Y)
 - `2026.06.11` [`기타`](#기타) > 카페24 > [2026 K-제조 이커머스 혁신 컨퍼런스](https://www.youtube.com/@cafe24_official/videos)
 - `2026.06.06` [`빅데이터`](#빅데이터) > 데이터야놀자 > [2026 발표영상](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIopEaDdupVosRq3-TmHXyt)
 - `2026.06.02` [`인공지능`](#인공지능) > 모두팝 > [AI 기반 신약 개발 : 분자와 단백질 속 수학적 규칙의 학습](https://youtu.be/JlseRvvicl8?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
@@ -42,7 +43,7 @@
   - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f) | [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u) | [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf) | [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn) | [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y) | [제6회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR) - 2024.06.13
 
 - 라인
-  - LINE DEVELOPER DAY - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) | [2025](https://www.youtube.com/@lycorptech_jp/playlists) - 2025.06.30~07.01
+  - ✨ LINE DEVELOPER DAY - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) | [2025](https://www.youtube.com/@lycorptech_jp/playlists) | [2026](https://www.youtube.com/playlist?list=PLGIkkJsrT83Y) - 2026.06.29
   - [개발자 밋업](https://www.youtube.com/playlist?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC) - 2023.02.23
 
 - 배달의 민족
@@ -82,7 +83,7 @@
   - 데보션(DEVOCEAN) - 테크 데이 [제1회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm1W2_JZFIxCeuxhDev7j7C) | [제2회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkhtvGiIsUlmPYwUJAp97IA) | [제3회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNlZTU9yUzwXy6XItgql69M_) | [제4회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkem4QIPXR24Uwdd3IyOHtJ) | [제5회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNm5BAsvXC1SItjHApQh3gPe) | [제6회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnprE1pHCMhs6diWZwvp_zQ) | [제7회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkfWRiOVpj43ZCk-1624KTV) | [제8회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNkP5d_-1U0HZPFDsX1yVPP1) | [제9회](https://www.youtube.com/playlist?list=PLxMQvxfkXLNnTleL8HK6zFfe3pzCf6jHx) - 2025.09.01
 
 - LG
-  - [LG SDC](https://www.lgsdc.com) - [2023](https://www.youtube.com/playlist?list=PLgqm0A83muLNNIl8zgwCtpn_ft2VdqdP0) | [2024](https://www.youtube.com/playlist?list=PLgqm0A83muLN8CboCQF_WLTmBDuv6ndiF) | [2025](https://www.youtube.com/playlist?list=PLgqm0A83muLOH2h4bAkokMjt9ksE2Kp4d) - 2025.09.23~25
+  - LG SDC - [2023](https://www.youtube.com/playlist?list=PLgqm0A83muLNNIl8zgwCtpn_ft2VdqdP0) | [2024](https://www.youtube.com/playlist?list=PLgqm0A83muLN8CboCQF_WLTmBDuv6ndiF) | [2025](https://www.youtube.com/playlist?list=PLgqm0A83muLOH2h4bAkokMjt9ksE2Kp4d) - 2025.09.23~25
 
 - LG CNS
   - [뉴 노멀시대에 필요한 Application Modernization](https://www.youtube.com/playlist?list=PLxcN3kbNdAoAYrRZjyfqp9Mv5Au2mJduT) | [CloudXper ProOps Launching Webinar](https://www.youtube.com/playlist?list=PLxcN3kbNdAoA8N1kDA9ur88spcxOAf-dg) | [Security Summit 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoBZhTTb_X_-xZfNGsss2hle) | [Entrue SMART DX 2021](https://www.youtube.com/playlist?list=PLxcN3kbNdAoDeRx9vqmpJRPJsASECi8qw) - 2021.09.14
