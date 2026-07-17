@@ -7,6 +7,7 @@
 ✨ 신규영상
 - `2026.07.01` [`IT기업`](#it기업) > 당근 > [2026 당근 PM 밋업 Learning Mate](https://www.youtube.com/playlist?list=PLYizDIVJVvfA)
 - `2026.06.29` [`IT기업`](#it기업) > 라인 > [Tech-Verse 2026](https://www.youtube.com/playlist?list=PLGIkkJsrT83Y)
+- `2026.06.25` [`클라우드`](#클라우드) > 한국인공지능클라우드산업협회 > [K-AI PaaS Summit 2026](https://www.youtube.com/playlist?list=PLHHYMXOFuSPQ)
 - `2026.06.11` [`기타`](#기타) > 카페24 > [2026 K-제조 이커머스 혁신 컨퍼런스](https://www.youtube.com/@cafe24_official/videos)
 - `2026.06.06` [`빅데이터`](#빅데이터) > 데이터야놀자 > [2026 발표영상](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIopEaDdupVosRq3-TmHXyt)
 - `2026.06.02` [`인공지능`](#인공지능) > 모두팝 > [AI 기반 신약 개발 : 분자와 단백질 속 수학적 규칙의 학습](https://youtu.be/JlseRvvicl8?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
@@ -193,8 +194,8 @@
   - Cloud Native Community Groups [CNCG Seoul 2020](https://www.youtube.com/playlist?list=PL1j_IgwZkt4Pug8dpF7yWT5ba-qGybUgN) - 2020.10.29
 
 - 한국클라우드산업협회
-  - Cloud Big Tech [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsxbvg9fDerqhml2vihjwpi1) | [2025](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C/videos) - 2025.09.24
-  - K-AI PaaS Summit [2023](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsy9W9brboA6kjo0Ecv34mqO) | [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9DsyOZSs2-eYqnzC_eBrgTdJw) | [2025](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C/videos)- 2025.06.19
+  - Cloud Big Tech [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsxbvg9fDerqhml2vihjwpi1) - 2024.09.25
+  - ✨ K-AI PaaS Summit [2023](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsy9W9brboA6kjo0Ecv34mqO) | [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9DsyOZSs2-eYqnzC_eBrgTdJw) | [2025](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C/videos) | [2026](https://www.youtube.com/playlist?list=PLHHYMXOFuSPQ) - 2026.06.25
 
 - 기타
   - 쉐어드IT > [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
