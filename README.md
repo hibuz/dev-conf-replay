@@ -8,10 +8,10 @@
 - `2026.07.01` [`IT기업`](#it기업) > 당근 > [2026 당근 PM 밋업 Learning Mate](https://www.youtube.com/playlist?list=PLYizDIVJVvfA)
 - `2026.06.29` [`IT기업`](#it기업) > 라인 > [Tech-Verse 2026](https://www.youtube.com/playlist?list=PLGIkkJsrT83Y)
 - `2026.06.25` [`클라우드`](#클라우드) > 한국인공지능클라우드산업협회 > [K-AI PaaS Summit 2026](https://www.youtube.com/playlist?list=PLHHYMXOFuSPQ)
+- `2026.06.24` [`기타`](#기타) > 컴퓨터월드 > [2026 AI 클라우드 컨퍼런스](https://www.youtube.com/playlist?list=PLTNG_PSJiunk)
 - `2026.06.11` [`기타`](#기타) > 카페24 > [2026 K-제조 이커머스 혁신 컨퍼런스](https://www.youtube.com/@cafe24_official/videos)
 - `2026.06.06` [`빅데이터`](#빅데이터) > 데이터야놀자 > [2026 발표영상](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIopEaDdupVosRq3-TmHXyt)
 - `2026.06.02` [`인공지능`](#인공지능) > 모두팝 > [AI 기반 신약 개발 : 분자와 단백질 속 수학적 규칙의 학습](https://youtu.be/JlseRvvicl8?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
-- `2026.05.28` [`인공지능`](#인공지능) > 솔트룩스 > [SAC2026](https://www.youtube.com/playlist?list=PLQKhpTP94Isfw3UBanL7_FDjFoowzY435)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -110,7 +110,7 @@
   - [Lablup SC25 Theater Sessions](https://www.youtube.com/playlist?list=PLYkiFpaI5DIIg4MtXf5Oyrhk5ott2BWVe) - 2025.11.18
 
 - 솔트룩스
-  - ✨ 솔트룩스 인공지능 컨퍼런스(SAC) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2022](https://youtu.be/D5fOutPofgk?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2023](https://youtu.be/V_7xw0Nr5CE?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2024](https://youtu.be/rdiAezq8ZFA?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2025](https://youtu.be/GorRTrf0yjo?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2026](https://www.youtube.com/playlist?list=PLQKhpTP94Isfw3UBanL7_FDjFoowzY435) - 2026.05.28
+  - 솔트룩스 인공지능 컨퍼런스(SAC) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2022](https://youtu.be/D5fOutPofgk?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2023](https://youtu.be/V_7xw0Nr5CE?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2024](https://youtu.be/rdiAezq8ZFA?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2025](https://youtu.be/GorRTrf0yjo?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2026](https://www.youtube.com/playlist?list=PLQKhpTP94Isfw3UBanL7_FDjFoowzY435) - 2026.05.28
 
 - 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
   - AI·DATA Summit Korea - [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) | [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kps9gFH2inwXqM2F1AASWhE) - 2023.02.24
@@ -450,6 +450,7 @@
   - 데이터 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024cTQDFZOdn-KNvTuBztQ4Z) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026GQWBp9W2JanK2eYIFKTCo) | [2025](https://www.youtube.com/playlist?list=PLBo8wlMxb024utE5L3K8jh4LErVUP9bFS) - 2025.05.21
   - 클라우드 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb026QX8Z0fbwMeXym2-Uc4qTs) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb025CHRoyJFmFvNp88EK1UWmq) | [2025](https://www.youtube.com/playlist?list=PLBo8wlMxb024LCqE54QqNosNjV499yB4A) - 2025.04.03
   - 정보보호 솔루션 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024QxdAzNpCYK8QBW1QkqlMO) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026K4TLAI0JzFBmaEaNY9QMp) | [2025](https://www.youtube.com/playlist?list=PLBo8wlMxb027B-54fP83YgfwDaoWJ9HyR) - 2025.09.04
+  - ✨ [2026 AI 솔루션 컨퍼런스](https://www.youtube.com/playlist?list=PLMt5VLC8vqPA) | [2026 AI 클라우드 컨퍼런스](https://www.youtube.com/playlist?list=PLTNG_PSJiunk) - 2026.06.24
 
 - Startup Alliance Korea
   - 스타트업 생태계 컨퍼런스 - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEeeXhCP_nm12shamr3FC-N) - 2025.05.22~23
