@@ -28,7 +28,7 @@
 7. `16.3만` 드림코딩 > https://www.youtube.com/@dream-coding
 8. `15.7만` 코딩하는거니 > https://www.youtube.com/@gunnycoding
 9. `13.6만` 워니코딩 > https://www.youtube.com/@WonieSong
-10. `13.2만` 코딩알려주는누나 > https://www.youtube.com/@%EC%BD%94%EB%94%A9%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94%EB%88%84%EB%82%98
+10. `13.2만` 코딩알려주는누나 > https://www.youtube.com/@코딩알려주는누나
 
 
 ## IT기업
@@ -195,7 +195,7 @@
 
 - 한국클라우드산업협회
   - Cloud Big Tech [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsxbvg9fDerqhml2vihjwpi1) - 2024.09.25
-  - ✨ K-AI PaaS Summit [2023](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsy9W9brboA6kjo0Ecv34mqO) | [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9DsyOZSs2-eYqnzC_eBrgTdJw) | [2025](https://www.youtube.com/@%ED%95%9C%EA%B5%AD%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%82%B0%EC%97%85%ED%98%91%ED%9A%8C/videos) | [2026](https://www.youtube.com/playlist?list=PLHHYMXOFuSPQ) - 2026.06.25
+  - ✨ K-AI PaaS Summit [2023](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsy9W9brboA6kjo0Ecv34mqO) | [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9DsyOZSs2-eYqnzC_eBrgTdJw) | [2026](https://www.youtube.com/playlist?list=PLHHYMXOFuSPQ) - 2026.06.25
 
 - 기타
   - 쉐어드IT > [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
@@ -345,7 +345,7 @@
 - 닷넷 개발자 커뮤니티 [닷넷데브](https://www.dotnetconf.kr)
   - .NET Conf - [2021](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOtgZYZ4d77HcyjhcQ9iW4z) | [2022 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPwyL4bR0vL4pwVDf321443) | [2023 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOaTF5bMD0m_7ms9rfmndX4) | [2024 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaNapfx69uag1Z6KePIbHGfA) | [2025 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOQeXVFh9DK6pOzXRE_Wqe1) - 2025.01.09
   - .NET Conf Mini - [21.04](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMfdN1Q7rqFKa7ZWeW9O6k6), [21.08](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOZVfHgT3IPQvk5uW2nzK3e) | [22.05](https://youtu.be/W95lo-337Q8), [22.09](https://youtu.be/Z6Z3qgHYaOg) | [L!VE 2023 Fall](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPdlmQk0TjxxLyD7ND9Ws-g) - 2023.10.19
-  - .NET Universe - [CloudBro Edition](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMXZZKHwWXa0bdrEQAGZsre) - 2025.09.04
+  - .NET Universe - [CloudBro Edition](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMXZZKHwWXa0bdrEQAGZsre) | [2026](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPmWEwo2-5spyum98OTFUjG) - 2026.03.12
 
 - Flutter Korea
   - [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
