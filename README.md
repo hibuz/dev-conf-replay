@@ -1,4 +1,4 @@
-[![RSS](https://img.shields.io/badge/rss-F88900?logo=rss&logoColor=white)](https://github.com/hibuz/dev-conf-replay/commits/main.atom)
+[![RSS](https://badgen.net/badge/icon/rss?icon=rss&color=orange&label)](https://github.com/hibuz/dev-conf-replay/commits/main.atom)
 ![](https://komarev.com/ghpvc/?username=hibuz-dev-conf&color=green&label=hits)
 [![Links](https://github.com/hibuz/dev-conf-replay/actions/workflows/check_links.yml/badge.svg)](https://github.com/hibuz/dev-conf-replay/actions/workflows/check_links.yml)
 
@@ -15,17 +15,17 @@
 
 
 ## 개발관련 유튜브 채널
-- updated at `2026.04.04`
-1. `72.8만` 조코딩 JoCoding > https://www.youtube.com/@jocoding
-2. `50.0만` 노마드 코더 Nomad Coders > https://www.youtube.com/@nomadcoders
-3. `43.8만` 코딩애플 > https://www.youtube.com/@codingapple
+- updated at `2026.07.17`
+1. `74.4만` 조코딩 JoCoding > https://www.youtube.com/@jocoding
+2. `49.8만` 노마드 코더 Nomad Coders > https://www.youtube.com/@nomadcoders
+3. `45.2만` 코딩애플 > https://www.youtube.com/@codingapple
 4. `40.2만` 나도코딩 > https://www.youtube.com/@nadocoding
-5. `34.5만` 생활코딩 > https://www.youtube.com/@coohde
-6. `16.6만` 동빈나 > https://www.youtube.com/@dongbinna
-7. `16.5만` 드림코딩 > https://www.youtube.com/@dream-coding
-8. `15.8만` 코딩하는거니 > https://www.youtube.com/@gunnycoding
-9. `13.7만` 워니코딩 > https://www.youtube.com/@WonieSong
-10. `12.5만` 얄팍한 코딩사전 > https://www.youtube.com/@yalco-coding
+5. `34.3만` 생활코딩 > https://www.youtube.com/@coohde
+6. `16.5만` 동빈나 > https://www.youtube.com/@dongbinna
+7. `16.3만` 드림코딩 > https://www.youtube.com/@dream-coding
+8. `15.7만` 코딩하는거니 > https://www.youtube.com/@gunnycoding
+9. `13.6만` 워니코딩 > https://www.youtube.com/@WonieSong
+10. `13.2만` 코딩알려주는누나 > https://www.youtube.com/@%EC%BD%94%EB%94%A9%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94%EB%88%84%EB%82%98
 
 
 ## IT기업
