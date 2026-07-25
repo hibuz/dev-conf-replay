@@ -301,7 +301,7 @@
   - [2020](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmtg2gML0DVXakykl3NaWLZy) | [2021](https://www.youtube.com/playlist?list=PLu8dnNjU2FmsROfv5pNAvhRiOFVN_EmnV) | [2023](https://www.youtube.com/playlist?list=PLu8dnNjU2Fmv55B8y6Mw78pZFflIoxDo8) | [2024](https://www.youtube.com/playlist?list=PLu8dnNjU2FmtIUqQzv6xhnBa7wnZ3A0e0) | [2025](https://www.youtube.com/playlist?list=PLu8dnNjU2FmvkS9YwqDOmzGXFbDZVWqF2) - 2025.06.17
 
 - Seoul iOS Meetup
-  - [2023](https://www.youtube.com/playlist?list=PLAFxr8OPgeVGynx9CapWscbuWuIcDhyFN) | [2024](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFjYc0yMAUQ0TcMQAv1OgM6) | [2025](https://www.youtube.com/playlist?list=PLAFxr8OPgeVEieAYqUChDysC7GeOqj7P7) - 2025.12.08
+  - [2023](https://www.youtube.com/playlist?list=PLAFxr8OPgeVGynx9CapWscbuWuIcDhyFN) | [2024](https://www.youtube.com/playlist?list=PLAFxr8OPgeVFjYc0yMAUQ0TcMQAv1OgM6) | [2025](https://www.youtube.com/playlist?list=PLAFxr8OPgeVEieAYqUChDysC7GeOqj7P7) | [2026](https://www.youtube.com/playlist?list=PLAFxr8OPgeVHRUPJEL64d9Jy2hhWKv9xl) - 2026.05.20
 
 - adiOS Korea
   - adiOS 2021 - [Oct](https://www.youtube.com/playlist?list=PLUsr11byBStFxL1J6wvflz_xyoiD2OeW9), [Dec](https://www.youtube.com/watch?v=hOEsIUa7-1M) | 2022 - [Blossom](https://www.youtube.com/playlist?list=PLUsr11byBStFUV0VHQEHBZA2XS0K-I9F7), [Intro](https://www.youtube.com/playlist?list=PLUsr11byBStEAiW2zHCqpGXvT6U5iMjfH), [ASAP🥄](https://www.youtube.com/playlist?list=PLUsr11byBStGovDXPQ4EcTi0Q4dst1Hei), [Something](https://www.youtube.com/playlist?list=PLUsr11byBStFIg-hhapmB6nuj0dgJQjJ6) - 2022.12.18
@@ -343,7 +343,7 @@
   - GopherCon Korea - [2021](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfulCVQD6EaU8c-GM56aUU7) | [2022](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfiSJSt-zPRbVSMDfK0EwQC) | 2023 [Day1](https://youtu.be/WZthMW0BaNA?t=1322), [Day2](https://youtu.be/8AUVKh0qJgU?t=1333) | 2024 [Day1](https://www.youtube.com/watch?v=zdMuLvK0pNg), [Day2](https://youtu.be/DEZsPOSzNM0) - 2024.10.12~13
   - [2020.05 온라인 밋업](https://www.youtube.com/playlist?list=PLxEDm5GRSh4OJPiKKv5PVKiDi6f80kyTS) | [2022.03 Go 1.18 릴리즈파티](https://www.youtube.com/playlist?list=PLxEDm5GRSh4P6aihX1DrNsV57r7bi0rZT) - 2022.03.31
 
-- 닷넷 개발자 커뮤니티 [닷넷데브](https://www.dotnetconf.kr)
+- 닷넷 개발자 커뮤니티(닷넷데브)
   - .NET Conf - [2021](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOtgZYZ4d77HcyjhcQ9iW4z) | [2022 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPwyL4bR0vL4pwVDf321443) | [2023 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOaTF5bMD0m_7ms9rfmndX4) | [2024 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaNapfx69uag1Z6KePIbHGfA) | [2025 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOQeXVFh9DK6pOzXRE_Wqe1) - 2025.01.09
   - .NET Conf Mini - [21.04](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMfdN1Q7rqFKa7ZWeW9O6k6), [21.08](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOZVfHgT3IPQvk5uW2nzK3e) | [22.05](https://youtu.be/W95lo-337Q8), [22.09](https://youtu.be/Z6Z3qgHYaOg) | [L!VE 2023 Fall](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPdlmQk0TjxxLyD7ND9Ws-g) - 2023.10.19
   - .NET Universe - [CloudBro Edition](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMXZZKHwWXa0bdrEQAGZsre) | [2026](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPmWEwo2-5spyum98OTFUjG) - 2026.03.12
