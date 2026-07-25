@@ -5,6 +5,7 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2026.07.21` [`게임`](#게임) > 유니티 코리아 > [Unite Seoul 2026](https://www.youtube.com/playlist?list=PL412Ym60h6usG4h2cRmeYnrtyUTzqoT6h)
 - `2026.07.01` [`IT기업`](#it기업) > 당근 > [2026 당근 PM 밋업 Learning Mate](https://www.youtube.com/playlist?list=PLYizDIVJVvfA)
 - `2026.06.29` [`IT기업`](#it기업) > 라인 > [Tech-Verse 2026](https://www.youtube.com/playlist?list=PLGIkkJsrT83Y)
 - `2026.06.25` [`클라우드`](#클라우드) > 한국인공지능클라우드산업협회 > [K-AI PaaS Summit 2026](https://www.youtube.com/playlist?list=PLHHYMXOFuSPQ)
@@ -63,7 +64,7 @@
   - Toss Makers Conference - TMC25 [Engineering Day](https://www.youtube.com/playlist?list=PL-245_cWUfl9K4rVaVWpXziiH9LziJuXS), [Design Day](https://www.youtube.com/playlist?list=PL-245_cWUfl97xgOorkH8J8svLolZw1Ap), [Product Day](https://www.youtube.com/playlist?list=PL-245_cWUfl98ZlF6xAZDVFc8HP33GJA5) - 2025.07.23~25
   - [SLASH](https://toss.im/slash-24) - [21, 22, 23, 24](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) - 2024.09.12
   - Simplicity(토스 디자인 컨퍼런스) - [21, 23](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PgAekdTPF0lKtfsqAis3HXR) | [24](https://toss.im/simplicity-24) | [25](https://toss.im/simplicity) - 2025.04.28
-  - 토스증권 Tech Talk Talk - [Frontend](https://www.youtube.com/playlist?list=PL-245_cWUfl8fOj-0eIX2T_qFWxY3zEwm) -2026.02.24
+  - 토스증권 Tech Talk Talk - [Frontend](https://www.youtube.com/playlist?list=PL-245_cWUfl8fOj-0eIX2T_qFWxY3zEwm) - 2026.02.24
   - [GUARDIANS 25](https://www.youtube.com/playlist?list=PL-245_cWUfl-kQNdnn0bqox1f5iNSc65V) - 2025.11.20
   - [10to100 / SQUARE of TOSS](https://www.youtube.com/playlist?list=PL1DJtS1Hv1Pib-Nup1ITbL6QMVr2p_hr5) - 2025.02.26
 
@@ -112,7 +113,7 @@
 - 솔트룩스
   - 솔트룩스 인공지능 컨퍼런스(SAC) - [2020](https://youtu.be/f_w3s18CGLg?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2021](https://youtu.be/1nEc4UVaZOU?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2022](https://youtu.be/D5fOutPofgk?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2023](https://youtu.be/V_7xw0Nr5CE?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2024](https://youtu.be/rdiAezq8ZFA?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2025](https://youtu.be/GorRTrf0yjo?list=PLQKhpTP94IscWoPTzE6DaZmCGVpup6acb) | [2026](https://www.youtube.com/playlist?list=PLQKhpTP94Isfw3UBanL7_FDjFoowzY435) - 2026.05.28
 
-- 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
+- 전자신문 웨비나 전문방송(allshow TV)
   - AI·DATA Summit Korea - [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KqdRLic5zBLPZ3ahrUdN05W) | [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56Kps9gFH2inwXqM2F1AASWhE) - 2023.02.24
   - AI·DX Summit Korea - [2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Kpjjo1SW29u0XnT7JiMNMU0) | [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56KqVnoGXp13ItTijqQq8-uCr) - 2023.05.26
   - [AX 베스트 프랙티스](https://www.youtube.com/playlist?list=PLumdCu9Q56KqrB1dwfEfn3aO53IH7_m9W) - 2026.04.23
@@ -266,7 +267,7 @@
   - NDC - 21 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwN5eLnujfsgX56oGNZYz070), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwOp_S0nGOF1FfFchvqAx7aN), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPd5kws2Vy2Jtf3a8B8KpPv) | 22 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwNDw8FQXDQQ9yRJTI8QTflI), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwOYeU7vxRGBNFSR_taWOaA9), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPy1Se58JV_KgmNSkLrtJAd) | 25 [1일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPuJYY9YLEVPnDCdjqpeyT_), [2일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwON8N8NdWAxmovJVkWjDww4), [3일차](https://www.youtube.com/playlist?list=PL-YZok6UmCwPk8fRdqSbJxmCtaPIreM4Y) - 2025.06.24~26
 
 - 유니티 코리아
-  - [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [UNITE 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uudM6ziOyy2Eb8KsARTZsmi) | [UNITE 2023](https://www.youtube.com/playlist?list=PL412Ym60h6utvkxkA2zlBIvDhtNLLUPKT) | [2025](https://www.youtube.com/playlist?list=PL412Ym60h6uuQDJRQLvNvi-xGTnF5LfQg) - 2025.04.15
+  - ✨ [유나이트 서울 2020](https://www.youtube.com/playlist?list=PL412Ym60h6ush2X5_8B8LbKXaBSjIFopd) | [UNITE 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uudM6ziOyy2Eb8KsARTZsmi) | [UNITE 2023](https://www.youtube.com/playlist?list=PL412Ym60h6utvkxkA2zlBIvDhtNLLUPKT) | [2025](https://www.youtube.com/playlist?list=PL412Ym60h6uuQDJRQLvNvi-xGTnF5LfQg) | [2026](https://www.youtube.com/playlist?list=PL412Ym60h6usG4h2cRmeYnrtyUTzqoT6h) - 2026.07.21
   - GDC - [2023](https://www.youtube.com/playlist?list=PL412Ym60h6utbCLmk3tcU1D2Y6UNij4ec) | [2024](https://youtu.be/tRagG2LGoew?list=PL412Ym60h6uv2qdzO0B9dAMctVNiYs4rT) - 2024.04.25
   - [Unity Wave 2022](https://www.youtube.com/playlist?list=PL412Ym60h6uskscz6NE7X7KjihUic7YtU) - 2022.05.09~13
 
@@ -423,7 +424,7 @@
   - [TmaxDay 2020](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sT7Lv6XUedwc-seLwy5lvJ) | [SuperWeek 2022](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5sAPz-4sUEOoPQMc9CyUJBQ) | [SuperApp Day 2024](https://www.youtube.com/playlist?list=PLAmBb6Ov-e5vCsL3rvEKnkCtNx8s_Vb4v) - 2024.06.13
 
 - 까페24
-  - ✨ [BOOST 2026](https://www.youtube.com/playlist?list=PLl-xzleWGDrejrCfJCQ_VJAL4tUykiUik) - 2026.04.30
+  - [BOOST 2026](https://www.youtube.com/playlist?list=PLl-xzleWGDrejrCfJCQ_VJAL4tUykiUik) - 2026.04.30
   - ✨ [2026 K-제조 이커머스 혁신 컨퍼런스](https://www.youtube.com/@cafe24_official/videos) - 2026.06.11
   - [웨비나](https://www.youtube.com/@cafe24_official/streams) - 2022.12.15
 
@@ -431,7 +432,7 @@
   - 채널콘 - [2024 하이라이트](https://www.youtube.com/playlist?list=PLqnJCqbBpji9YGwViD_r8OFPDFdwzWjKG) - 2024.04.03
   - 채널데브톡 - [2025](https://www.youtube.com/playlist?list=PLqnJCqbBpji-wszxC656YIkTnFSx8ckjW) - 2025.06.29
 
-- 전자신문 웨비나 전문방송 [allshow TV](https://www.allshowtv.com)
+- 전자신문 웨비나 전문방송(allshow TV)
   - 노코드·로우코드(NCLC) 자동화 임팩트 - [2023](https://www.youtube.com/playlist?list=PLumdCu9Q56KqHjfLS9iYcp2rHFCPpSutT) | [2024](https://www.youtube.com/playlist?list=PLumdCu9Q56KpO8eX5H022LmNmXoiKzYm5) - 2024.01.30
   - [디지털 트랜스포메이션(DX) & 엔터프라이즈 테크 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56KpbQr_bUOe9jdHSERpA240H) - 2022.03.25
   - [스마트 제조혁신 & 디지털 트윈 그랜드 서밋 2022](https://www.youtube.com/playlist?list=PLumdCu9Q56Komt4Au9L6Hy3fA4K4Enlze) - 2022.03.18
