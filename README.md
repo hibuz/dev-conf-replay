@@ -6,13 +6,13 @@
 
 ✨ 신규영상
 - `2026.07.21` [`게임`](#게임) > 유니티 코리아 > [Unite Seoul 2026](https://www.youtube.com/playlist?list=PL412Ym60h6usG4h2cRmeYnrtyUTzqoT6h)
+- `2026.07.01` [`인공지능`](#인공지능) > 리벨리온x모두의연구소 > [공간생물학 시대의 AI for Science](https://youtu.be/9YIZgINh804?list=PLNOhRyzpeR1U)
 - `2026.07.01` [`IT기업`](#it기업) > 당근 > [2026 당근 PM 밋업 Learning Mate](https://www.youtube.com/playlist?list=PLYizDIVJVvfA)
 - `2026.06.29` [`IT기업`](#it기업) > 라인 > [Tech-Verse 2026](https://www.youtube.com/playlist?list=PLGIkkJsrT83Y)
 - `2026.06.25` [`클라우드`](#클라우드) > 한국인공지능클라우드산업협회 > [K-AI PaaS Summit 2026](https://www.youtube.com/playlist?list=PLHHYMXOFuSPQ)
 - `2026.06.24` [`기타`](#기타) > 컴퓨터월드 > [2026 AI 클라우드 컨퍼런스](https://www.youtube.com/playlist?list=PLTNG_PSJiunk)
 - `2026.06.11` [`기타`](#기타) > 카페24 > [2026 K-제조 이커머스 혁신 컨퍼런스](https://www.youtube.com/@cafe24_official/videos)
 - `2026.06.06` [`빅데이터`](#빅데이터) > 데이터야놀자 > [2026 발표영상](https://www.youtube.com/playlist?list=PL7yPwpDiPFlIopEaDdupVosRq3-TmHXyt)
-- `2026.06.02` [`인공지능`](#인공지능) > 모두팝 > [AI 기반 신약 개발 : 분자와 단백질 속 수학적 규칙의 학습](https://youtu.be/JlseRvvicl8?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -104,6 +104,7 @@
 - 모두의 연구소
   - 모두콘 - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) | [2024](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJYYhfeFdQv9JanN_tG-F5y) | [2025](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKS9QAzOD9GmGFVY8ViphRG) - 2025.12.13
   - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2026.06.02
+  - ✨ [리벨리온x모두의연구소](https://www.youtube.com/playlist?list=PLNOhRyzpeR1U) - 2026.07.01
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 래블업
@@ -158,7 +159,7 @@
 
 - NHN 
   - NHN [FORWARD](https://forward.nhn.com) - [2020](https://www.youtube.com/playlist?list=PL42XJKPNDepZbqM9N11RxL5UY_5PbA_Wo) | [2021](https://www.youtube.com/playlist?list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa) | [2022](https://www.youtube.com/playlist?list=PL42XJKPNDepYXyKefvicxlA2fz1aThVs5) - 2022.11.24
-  - NHN [Cloud make IT](https://makeit.nhncloud.com) - [2022](https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0) | [2023](https://www.youtube.com/playlist?list=PL42XJKPNDepbuujKpiCqYk3oF3VeBZjI8) - 2023.06.22
+  - NHN Cloud make IT - [2022](https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0) | [2023](https://www.youtube.com/playlist?list=PL42XJKPNDepbuujKpiCqYk3oF3VeBZjI8) - 2023.06.22
   - NHN [Cloud On](https://www.youtube.com/playlist?list=PL42XJKPNDepbXNAIIhWrgiD7gSFCuqyRa) - 2023.10.31
 
 - kt cloud
