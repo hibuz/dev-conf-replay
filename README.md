@@ -9,10 +9,6 @@
 - `2026.07.21` [`게임`](#게임) > 유니티 코리아 > [Unite Seoul 2026](https://www.youtube.com/playlist?list=PL412Ym60h6usG4h2cRmeYnrtyUTzqoT6h)
 - `2026.07.01` [`인공지능`](#인공지능) > 리벨리온x모두의연구소 > [공간생물학 시대의 AI for Science](https://youtu.be/9YIZgINh804?list=PLNOhRyzpeR1U)
 - `2026.07.01` [`IT기업`](#it기업) > 당근 > [2026 당근 PM 밋업 Learning Mate](https://www.youtube.com/playlist?list=PLYizDIVJVvfA)
-- `2026.06.29` [`IT기업`](#it기업) > 라인 > [Tech-Verse 2026](https://www.youtube.com/playlist?list=PLGIkkJsrT83Y)
-- `2026.06.25` [`클라우드`](#클라우드) > 한국인공지능클라우드산업협회 > [K-AI PaaS Summit 2026](https://www.youtube.com/playlist?list=PLHHYMXOFuSPQ)
-- `2026.06.24` [`기타`](#기타) > 컴퓨터월드 > [2026 AI 클라우드 컨퍼런스](https://www.youtube.com/playlist?list=PLTNG_PSJiunk)
-- `2026.06.11` [`기타`](#기타) > 카페24 > [2026 K-제조 이커머스 혁신 컨퍼런스](https://www.youtube.com/@cafe24_official/videos)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -46,7 +42,7 @@
   - [kakao tech meet](https://tech.kakao.com/) - [제1회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f) | [제2회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u) | [제3회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHzbY2_YFUZs0qjGo3CnnDf) | [제4회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwHa1EDC2e2-XCpIrgHMsvtn) | [제5회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEIEMal76jXu70_L8ad-k-Y) | [제6회](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFXRet3SL_-sUEmdP8P_KLR) - 2024.06.13
 
 - 라인
-  - ✨ LINE DEVELOPER DAY - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) | [2025](https://www.youtube.com/@lycorptech_jp/playlists) | [2026](https://www.youtube.com/playlist?list=PLGIkkJsrT83Y) - 2026.06.29
+  - LINE DEVELOPER DAY - [2020](https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5) | [2021](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13) | [Tech-Verse 2022](https://www.youtube.com/playlist?list=PLMfHuI-eghZngpW8gzd6RAMlMwmwiN0Bg) | [2025](https://www.youtube.com/@lycorptech_jp/playlists) | [2026](https://www.youtube.com/playlist?list=PLGIkkJsrT83Y) - 2026.06.29
   - [개발자 밋업](https://www.youtube.com/playlist?list=PLCLlfefjD20Dxye1oiE8NBaFG9pMEg1dC) - 2023.02.23
 
 - 배달의 민족
@@ -108,7 +104,7 @@
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 래블업
-  - Lablup conf [1st](https://www.youtube.com/playlist?list=PLYkiFpaI5DIJEfSxXJRhiF_bQF6u9KFLb) | [2nd](https://www.youtube.com/playlist?list=PLYkiFpaI5DILsreVr61Jw2Jgjf3BoCZGV) | [3rd](https://www.youtube.com/playlist?list=PLYkiFpaI5DIKZF61XDM2ENBDyPvwVhNnB) | [4th](https://www.youtube.com/playlist?list=PLYkiFpaI5DIKplrb3L9OqBQ8awIEncO8U) | [5th](https://www.youtube.com/playlist?list=PLYkiFpaI5DIKFF-RBMz_8XFQyQFKOnfcX) - 2025.09.24
+  - Lablup conf [1st ~ 5th](https://www.youtube.com/playlist?list=PLYkiFpaI5DIKqbLKrFP_GSoh_TRIRrlnw) - 2025.09.24
   - [Lablup SC25 Theater Sessions](https://www.youtube.com/playlist?list=PLYkiFpaI5DIIg4MtXf5Oyrhk5ott2BWVe) - 2025.11.18
 
 - 솔트룩스
@@ -197,7 +193,7 @@
 
 - 한국클라우드산업협회
   - Cloud Big Tech [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsxbvg9fDerqhml2vihjwpi1) - 2024.09.25
-  - ✨ K-AI PaaS Summit [2023](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsy9W9brboA6kjo0Ecv34mqO) | [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9DsyOZSs2-eYqnzC_eBrgTdJw) | [2026](https://www.youtube.com/playlist?list=PLHHYMXOFuSPQ) - 2026.06.25
+  - K-AI PaaS Summit [2023](https://www.youtube.com/playlist?list=PLfjyBoBN9Dsy9W9brboA6kjo0Ecv34mqO) | [2024](https://www.youtube.com/playlist?list=PLfjyBoBN9DsyOZSs2-eYqnzC_eBrgTdJw) | [2026](https://www.youtube.com/playlist?list=PLHHYMXOFuSPQ) - 2026.06.25
 
 - 기타
   - 쉐어드IT > [클라우드 인프라 컨퍼런스](https://youtu.be/NW6oywF_pGM?list=PLyPtqY7T1lotU8fInOfnSuRYxNgLcoahO) - 2022.07.26
@@ -426,7 +422,7 @@
 
 - 까페24
   - [BOOST 2026](https://www.youtube.com/playlist?list=PLl-xzleWGDrejrCfJCQ_VJAL4tUykiUik) - 2026.04.30
-  - ✨ [2026 K-제조 이커머스 혁신 컨퍼런스](https://www.youtube.com/@cafe24_official/videos) - 2026.06.11
+  - [2026 K-제조 이커머스 혁신 컨퍼런스](https://www.youtube.com/@cafe24_official/videos) - 2026.06.11
   - [웨비나](https://www.youtube.com/@cafe24_official/streams) - 2022.12.15
 
 - 채널톡
@@ -452,10 +448,10 @@
   - 데이터 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024cTQDFZOdn-KNvTuBztQ4Z) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026GQWBp9W2JanK2eYIFKTCo) | [2025](https://www.youtube.com/playlist?list=PLBo8wlMxb024utE5L3K8jh4LErVUP9bFS) - 2025.05.21
   - 클라우드 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb026QX8Z0fbwMeXym2-Uc4qTs) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb025CHRoyJFmFvNp88EK1UWmq) | [2025](https://www.youtube.com/playlist?list=PLBo8wlMxb024LCqE54QqNosNjV499yB4A) - 2025.04.03
   - 정보보호 솔루션 컨퍼런스 [2023](https://www.youtube.com/playlist?list=PLBo8wlMxb024QxdAzNpCYK8QBW1QkqlMO) | [2024](https://www.youtube.com/playlist?list=PLBo8wlMxb026K4TLAI0JzFBmaEaNY9QMp) | [2025](https://www.youtube.com/playlist?list=PLBo8wlMxb027B-54fP83YgfwDaoWJ9HyR) - 2025.09.04
-  - ✨ [2026 AI 솔루션 컨퍼런스](https://www.youtube.com/playlist?list=PLMt5VLC8vqPA) | [2026 AI 클라우드 컨퍼런스](https://www.youtube.com/playlist?list=PLTNG_PSJiunk) - 2026.06.24
+  - [2026 AI 솔루션 컨퍼런스](https://www.youtube.com/playlist?list=PLMt5VLC8vqPA) | [2026 AI 클라우드 컨퍼런스](https://www.youtube.com/playlist?list=PLTNG_PSJiunk) - 2026.06.24
 
 - Startup Alliance Korea
-  - 스타트업 생태계 컨퍼런스 - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEeeXhCP_nm12shamr3FC-N) - 2025.05.22~23
+  - 스타트업 생태계 컨퍼런스 - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEeeXhCP_nm12shamr3FC-N) | [2026](https://www.youtube.com/playlist?list=PLOF6hcvA6PHc) - 2026.05.28~29
   - 우스컨(Women in Startup Conference) - [2025](https://www.youtube.com/playlist?list=PLy5RUqlc3TGEpnvsHoP-hVKTE6R0t5jX8) | [2026](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFJFdTm_KCNn3oQDYKPyqro) - 2026.03.12
   - 실리콘밸리의 한국인 - [2020](https://www.youtube.com/playlist?list=PLy5RUqlc3TGF_0HysuC1lWW0h0x9-jUqi) | [2021](https://www.youtube.com/playlist?list=PLy5RUqlc3TGFPLAlHx3sXz26bMoUM3LL-) | [2022](https://www.youtube.com/playlist?list=PLy5RUqlc3TGH9eHISCJ-HCOI1PNWw5fPT) | [2023](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGFE41jnRQc5mB56qKGgUPy) | [2024](https://www.youtube.com/playlist?list=PLy5RUqlc3TGGC40ULiWZ3kYfjrpgze-Au) - 2024.11.14
 
