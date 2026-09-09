@@ -5,10 +5,9 @@
 # 국내 IT 세미나 및 개발자 컨퍼런스 (다시보기) 😎
 
 ✨ 신규영상
+- `2026.08.26` [`프로그래밍 언어`](#프로그래밍-언어) > 닷넷데브 > [.NET Universe: Busan Edition](https://www.youtube.com/playlist?list=PLFVJi7gR5oaNSNllCX6xqVG3X9BTHNZcl)
 - `2026.07.24` [`빅데이터`](#빅데이터) > 보아즈(BOAZ) > [제 24회  빅데이터 컨퍼런스](https://www.youtube.com/playlist?list=PLMvfkK4rpDAU)
 - `2026.07.21` [`게임`](#게임) > 유니티 코리아 > [Unite Seoul 2026](https://www.youtube.com/playlist?list=PL412Ym60h6usG4h2cRmeYnrtyUTzqoT6h)
-- `2026.07.01` [`인공지능`](#인공지능) > 리벨리온x모두의연구소 > [공간생물학 시대의 AI for Science](https://youtu.be/9YIZgINh804?list=PLNOhRyzpeR1U)
-- `2026.07.01` [`IT기업`](#it기업) > 당근 > [2026 당근 PM 밋업 Learning Mate](https://www.youtube.com/playlist?list=PLYizDIVJVvfA)
 
 ⚡ 바로가기
 > [`IT기업`](#it기업) [`인공지능`](#인공지능) [`빅데이터`](#빅데이터) [`클라우드`](#클라우드) [`인프라 & 데브옵스`](#인프라--데브옵스) [`블록체인`](#블록체인) [`모빌리티`](#모빌리티) [`게임`](#게임) [`보안`](#보안) [`모바일`](#모바일) [`프론트엔드 & JS`](#프론트엔드--js) [`프로그래밍 언어`](#프로그래밍-언어) [`오픈소스`](#오픈소스) [`교육`](#교육) [`커뮤니티`](#커뮤니티) [`기타`](#기타)
@@ -53,7 +52,7 @@
 
 - 당근마켓
   - [당근 Tech 밋업](https://tech-meetup.daangn.com/) - [2024](https://www.youtube.com/playlist?list=PLaHcMRg2hoBryC2cZkhyEin5MrnEJhMUl) - 2024.10.07
-  - ✨ 당근 밋업 - [SRE 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [SRE 2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [SRE 3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) | [SERVER 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [SERVER 2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) | [ML 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) | [GCP 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf) | [PLATFORM 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq) | [DB 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBoFR-9MlfJP56xrcIxBInCm) | [PM 2026](https://www.youtube.com/playlist?list=PLYizDIVJVvfA) - 2026.07.01
+  - 당근 밋업 - [SRE 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqWWla-pCBSRqU-jSriiZHj) | [SRE 2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqJRSlnE7Xw_QpVkf8u6ISH) | [SRE 3회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBopbyEOW1XjP3runE93n9GC) | [SERVER 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr5s_jn5CzZrpkmHOY0N8w7) | [SERVER 2회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBp2ukW-b4yzcNzNLZ5j7nmh) | [ML 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y) | [GCP 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBpoPO_-IQ9RK2furqSm8hhf) | [PLATFORM 2025](https://www.youtube.com/playlist?list=PLaHcMRg2hoBqqmbC-63Y-2rh6u9snzDNq) | [DB 1회](https://www.youtube.com/playlist?list=PLaHcMRg2hoBoFR-9MlfJP56xrcIxBInCm) | [PM 2026](https://www.youtube.com/playlist?list=PLYizDIVJVvfA) - 2026.07.01
   - [2026 당근페이 라이브톡](https://www.youtube.com/playlist?list=PLaHcMRg2hoBr9FHfGBUXgKb_kfzFbqYF_) - 2026.04.08
 
 - 토스
@@ -99,8 +98,8 @@
 
 - 모두의 연구소
   - 모두콘 - [2021](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLS2OdGLlL0IslWlhJHgg_L) | [2022](https://www.youtube.com/playlist?list=PLv6H9ngYdJbLJFzeqS0i4ZeYeRHDaXUak) | [2023](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJbdzsU7QfXdFMHuXa95Fvj) | [2024](https://www.youtube.com/playlist?list=PLv6H9ngYdJbJYYhfeFdQv9JanN_tG-F5y) | [2025](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKS9QAzOD9GmGFVY8ViphRG) - 2025.12.13
-  - ✨ [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2026.06.02
-  - ✨ [리벨리온x모두의연구소](https://www.youtube.com/playlist?list=PLNOhRyzpeR1U) - 2026.07.01
+  - [모두팝 | Pop Pop 터지는 AI 세미나](https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim) - 2026.06.02
+  - [리벨리온x모두의연구소](https://www.youtube.com/playlist?list=PLNOhRyzpeR1U) - 2026.07.01
   - 코칭스터디 세미나 - [파이썬으로 커리어](https://youtu.be/mxuWqUzbD6c?list=PLv6H9ngYdJbIvGCrGWYFfpS0vhkgZjzXj&t=1750), [데이터로](https://youtu.be/jwnUenNGF04) 스킬 UP! - 2022.11.15
 
 - 래블업
@@ -343,7 +342,7 @@
 - 닷넷 개발자 커뮤니티(닷넷데브)
   - .NET Conf - [2021](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOtgZYZ4d77HcyjhcQ9iW4z) | [2022 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPwyL4bR0vL4pwVDf321443) | [2023 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOaTF5bMD0m_7ms9rfmndX4) | [2024 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaNapfx69uag1Z6KePIbHGfA) | [2025 x Seoul](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOQeXVFh9DK6pOzXRE_Wqe1) - 2025.01.09
   - .NET Conf Mini - [21.04](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMfdN1Q7rqFKa7ZWeW9O6k6), [21.08](https://www.youtube.com/playlist?list=PLFVJi7gR5oaOZVfHgT3IPQvk5uW2nzK3e) | [22.05](https://youtu.be/W95lo-337Q8), [22.09](https://youtu.be/Z6Z3qgHYaOg) | [L!VE 2023 Fall](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPdlmQk0TjxxLyD7ND9Ws-g) - 2023.10.19
-  - .NET Universe - [CloudBro Edition](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMXZZKHwWXa0bdrEQAGZsre) | [2026](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPmWEwo2-5spyum98OTFUjG) - 2026.03.12
+  - ✨ .NET Universe - [CloudBro Edition](https://www.youtube.com/playlist?list=PLFVJi7gR5oaMXZZKHwWXa0bdrEQAGZsre) | [2026](https://www.youtube.com/playlist?list=PLFVJi7gR5oaPmWEwo2-5spyum98OTFUjG) | [Busan Edition](https://www.youtube.com/playlist?list=PLFVJi7gR5oaNSNllCX6xqVG3X9BTHNZcl) - 2026.08.16
 
 - Flutter Korea
   - [Flutter Festival Korea](https://www.youtube.com/playlist?list=PL6RQwUkx6VTSK_jxZUIh7usPE8JLpnaoS) - 2022.03.05
